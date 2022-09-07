@@ -3,7 +3,7 @@ title: OleWordProcessingOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for import of the embedded document to Word processing via OLE.
 type: docs
-weight: 530
+weight: 440
 url: /net/groupdocs.merger.domain.options/olewordprocessingoptions/
 ---
 ## OleWordProcessingOptions class

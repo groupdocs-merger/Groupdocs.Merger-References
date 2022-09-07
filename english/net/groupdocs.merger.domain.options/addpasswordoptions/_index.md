@@ -3,7 +3,7 @@ title: AddPasswordOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for adding document password.
 type: docs
-weight: 170
+weight: 110
 url: /net/groupdocs.merger.domain.options/addpasswordoptions/
 ---
 ## AddPasswordOptions class

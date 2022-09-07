@@ -3,7 +3,7 @@ title: IRotateOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page rotating options.
 type: docs
-weight: 400
+weight: 300
 url: /net/groupdocs.merger.domain.options/irotateoptions/
 ---
 ## IRotateOptions interface

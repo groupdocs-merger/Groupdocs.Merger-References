@@ -3,7 +3,7 @@ title: ILoadOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document loading options.
 type: docs
-weight: 270
+weight: 170
 url: /net/groupdocs.merger.domain.options/iloadoptions/
 ---
 ## ILoadOptions interface
@@ -19,7 +19,6 @@ public interface ILoadOptions : IOptions
 | Name | Description |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/iloadoptions/encoding) { get; } | The encoding used when opening text-based files such as [`CSV`](../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../groupdocs.merger.domain/filetype/txt). Default value is Default. |
-| [Extension](../../groupdocs.merger.domain.options/iloadoptions/extension) { get; } | The extension of the file to open. |
 | [Password](../../groupdocs.merger.domain.options/iloadoptions/password) { get; } | The password for opening password-protected file. |
 | [Type](../../groupdocs.merger.domain.options/iloadoptions/type) { get; } | The type of the file to open. |
 

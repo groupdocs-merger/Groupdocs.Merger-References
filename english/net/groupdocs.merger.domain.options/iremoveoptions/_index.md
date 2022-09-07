@@ -3,7 +3,7 @@ title: IRemoveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page removing options.
 type: docs
-weight: 390
+weight: 290
 url: /net/groupdocs.merger.domain.options/iremoveoptions/
 ---
 ## IRemoveOptions interface

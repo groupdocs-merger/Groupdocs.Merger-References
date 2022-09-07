@@ -3,7 +3,7 @@ title: ISwapOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page swapping options.
 type: docs
-weight: 440
+weight: 340
 url: /net/groupdocs.merger.domain.options/iswapoptions/
 ---
 ## ISwapOptions interface

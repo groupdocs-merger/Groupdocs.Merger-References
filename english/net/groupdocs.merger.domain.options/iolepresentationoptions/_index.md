@@ -3,7 +3,7 @@ title: IOlePresentationOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for import options of the embedded document to Presentation via OLE.
 type: docs
-weight: 300
+weight: 200
 url: /net/groupdocs.merger.domain.options/iolepresentationoptions/
 ---
 ## IOlePresentationOptions interface

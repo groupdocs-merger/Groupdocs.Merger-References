@@ -3,7 +3,7 @@ title: RotateOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the page rotation.
 type: docs
-weight: 630
+weight: 540
 url: /net/groupdocs.merger.domain.options/rotateoptions/
 ---
 ## RotateOptions class

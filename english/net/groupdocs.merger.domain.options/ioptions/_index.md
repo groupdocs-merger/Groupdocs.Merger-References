@@ -3,7 +3,7 @@ title: IOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the base options.
 type: docs
-weight: 330
+weight: 230
 url: /net/groupdocs.merger.domain.options/ioptions/
 ---
 ## IOptions interface

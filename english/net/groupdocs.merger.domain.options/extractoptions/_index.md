@@ -3,7 +3,7 @@ title: ExtractOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options to extract the document pages.
 type: docs
-weight: 180
+weight: 120
 url: /net/groupdocs.merger.domain.options/extractoptions/
 ---
 ## ExtractOptions class
