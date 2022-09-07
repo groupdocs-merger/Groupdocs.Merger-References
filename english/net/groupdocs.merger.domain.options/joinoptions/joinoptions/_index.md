@@ -22,7 +22,7 @@ public JoinOptions()
 
 ---
 
-## JoinOptions(int[]) {#constructor_3}
+## JoinOptions(int[]) {#constructor_7}
 
 Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
 
@@ -42,7 +42,7 @@ public JoinOptions(int[] pageNumbers)
 
 ---
 
-## JoinOptions(int, int) {#constructor_1}
+## JoinOptions(int, int) {#constructor_5}
 
 Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
 
@@ -63,7 +63,7 @@ public JoinOptions(int startNumber, int endNumber)
 
 ---
 
-## JoinOptions(int, int, RangeMode) {#constructor_2}
+## JoinOptions(int, int, RangeMode) {#constructor_6}
 
 Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
 
@@ -79,6 +79,97 @@ public JoinOptions(int startNumber, int endNumber, RangeMode mode)
 
 ### See Also
 
+* enum [RangeMode](../../rangemode)
+* class [JoinOptions](../../joinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType) {#constructor_1}
+
+Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
+
+```csharp
+public JoinOptions(FileType fileType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileType | FileType | The type of the file to join. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int[]) {#constructor_4}
+
+Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
+
+```csharp
+public JoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileType | FileType | The type of the file to join. |
+| pageNumbers | Int32[] | Page numbers. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int) {#constructor_2}
+
+Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileType | FileType | The type of the file to join. |
+| startNumber | Int32 | The start page number. |
+| endNumber | Int32 | The end page number. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Initializes a new instance of the [`JoinOptions`](../../joinoptions) class.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileType | FileType | The type of the file to join. |
+| startNumber | Int32 | The start page number. |
+| endNumber | Int32 | The end page number. |
+| mode | RangeMode | The range mode. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
 * enum [RangeMode](../../rangemode)
 * class [JoinOptions](../../joinoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../joinoptions)

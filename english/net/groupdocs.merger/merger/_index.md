@@ -3,7 +3,7 @@ title: Merger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
-weight: 740
+weight: 790
 url: /net/groupdocs.merger/merger/
 ---
 ## Merger class
@@ -44,9 +44,11 @@ public class Merger : IDisposable
 | [ImportDocument](../../groupdocs.merger/merger/importdocument)(IImportDocumentOptions) | Imports the document as attachment or embedded via Ole. |
 | [IsPasswordSet](../../groupdocs.merger/merger/ispasswordset)() | Checks whether document is password protected. |
 | [Join](../../groupdocs.merger/merger/join#join)(Stream) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_2)(string) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_1)(Stream, IJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_3)(string, IJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_3)(string) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_1)(Stream, IImageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_2)(Stream, IJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_4)(string, IImageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_5)(string, IJoinOptions) | Joins the documents into one single document. |
 | [MovePage](../../groupdocs.merger/merger/movepage)(IMoveOptions) | Moves page to a new position within document of known format. |
 | [RemovePages](../../groupdocs.merger/merger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/merger/removepassword)() | Removes password from document. |

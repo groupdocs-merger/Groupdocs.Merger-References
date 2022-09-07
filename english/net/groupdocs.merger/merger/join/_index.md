@@ -38,7 +38,7 @@ public void Join(Stream document)
 
 ---
 
-## Join(Stream, IJoinOptions) {#join_1}
+## Join(Stream, IJoinOptions) {#join_2}
 
 Joins the documents into one single document.
 
@@ -73,7 +73,42 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 ---
 
-## Join(string) {#join_2}
+## Join(Stream, IImageJoinOptions) {#join_1}
+
+Joins the documents into one single document.
+
+```csharp
+public void Join(Stream document, IImageJoinOptions joinOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Stream | Joined document. |
+| joinOptions | IImageJoinOptions | The image join options. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *document* is null. |
+| ArgumentNullException | Thrown when *joinOptions* is null. |
+
+### Remarks
+
+**Learn more**
+
+* More about document merge scenarios and use cases: [How to merge PDF, Word, Excel and PowerPoint documents in 3 steps](https://docs.groupdocs.com/merger/net/merge-files/)
+
+### See Also
+
+* interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
+* class [Merger](../../merger)
+* namespace [GroupDocs.Merger](../../merger)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## Join(string) {#join_3}
 
 Joins the documents into one single document.
 
@@ -105,7 +140,7 @@ public void Join(string filePath)
 
 ---
 
-## Join(string, IJoinOptions) {#join_3}
+## Join(string, IJoinOptions) {#join_5}
 
 Joins the documents into one single document.
 
@@ -134,6 +169,41 @@ public void Join(string filePath, IJoinOptions joinOptions)
 ### See Also
 
 * interface [IJoinOptions](../../../groupdocs.merger.domain.options/ijoinoptions)
+* class [Merger](../../merger)
+* namespace [GroupDocs.Merger](../../merger)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## Join(string, IImageJoinOptions) {#join_4}
+
+Joins the documents into one single document.
+
+```csharp
+public void Join(string filePath, IImageJoinOptions joinOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | File path of the joined document. |
+| joinOptions | IImageJoinOptions | The image join options. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *filePath* is null or empty. |
+| ArgumentNullException | Thrown when *joinOptions* is null. |
+
+### Remarks
+
+**Learn more**
+
+* More about document merge scenarios and use cases: [How to merge PDF, Word, Excel and PowerPoint documents in 3 steps](https://docs.groupdocs.com/merger/net/merge-files/)
+
+### See Also
+
+* interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../merger)
 * assembly [GroupDocs.Merger](../../../)

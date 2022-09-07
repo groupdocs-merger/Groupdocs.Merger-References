@@ -31,6 +31,7 @@ public sealed class FileType : IEquatable<FileType>
 | override [GetHashCode](../../groupdocs.merger.domain/filetype/gethashcode)() | Returns the hash code for the current [`FileType`](../filetype) object. |
 | override [ToString](../../groupdocs.merger.domain/filetype/tostring)() | Returns a string that represents the current object. |
 | static [GetSupportedFileTypes](../../groupdocs.merger.domain/filetype/getsupportedfiletypes)() | Retrieves supported file types |
+| static [IsImage](../../groupdocs.merger.domain/filetype/isimage)(FileType) | Determines whether input [`FileType`](../filetype) is primitive text format. |
 | static [IsText](../../groupdocs.merger.domain/filetype/istext)(FileType) | Determines whether input [`FileType`](../filetype) is primitive text format. |
 | [operator ==](../../groupdocs.merger.domain/filetype/op_equality) | Determines whether two [`FileType`](../filetype) objects are the same. |
 | [operator !=](../../groupdocs.merger.domain/filetype/op_inequality) | Determines whether two [`FileType`](../filetype) objects are not the same. |

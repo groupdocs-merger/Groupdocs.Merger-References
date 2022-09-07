@@ -3,7 +3,7 @@ title: TextSplitOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document text splitting.
 type: docs
-weight: 600
+weight: 630
 url: /net/groupdocs.merger.domain.options/textsplitoptions/
 ---
 ## TextSplitOptions class

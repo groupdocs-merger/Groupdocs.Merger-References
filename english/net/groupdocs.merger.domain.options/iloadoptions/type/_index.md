@@ -3,7 +3,7 @@ title: Type
 second_title: GroupDocs.Merger for .NET API Reference
 description: The type of the file to open.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.merger.domain.options/iloadoptions/type/
 ---
 ## ILoadOptions.Type property

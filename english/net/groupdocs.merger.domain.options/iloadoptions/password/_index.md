@@ -3,7 +3,7 @@ title: Password
 second_title: GroupDocs.Merger for .NET API Reference
 description: The password for opening passwordprotected file.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.merger.domain.options/iloadoptions/password/
 ---
 ## ILoadOptions.Password property

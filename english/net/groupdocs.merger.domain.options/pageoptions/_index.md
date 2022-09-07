@@ -3,7 +3,7 @@ title: PageOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for specifying page or pages range.
 type: docs
-weight: 470
+weight: 500
 url: /net/groupdocs.merger.domain.options/pageoptions/
 ---
 ## PageOptions class

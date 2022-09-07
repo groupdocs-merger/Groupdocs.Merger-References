@@ -3,7 +3,7 @@ title: MergerSettings
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines settings for customizing Merger./merger behaviour.
 type: docs
-weight: 750
+weight: 800
 url: /net/groupdocs.merger/mergersettings/
 ---
 ## MergerSettings class
