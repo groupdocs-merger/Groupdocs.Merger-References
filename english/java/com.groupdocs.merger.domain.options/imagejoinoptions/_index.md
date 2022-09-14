@@ -1,7 +1,7 @@
 ---
 title: ImageJoinOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  The image join options.
+description: The image join options.
 type: docs
 weight: 13
 url: /java/com.groupdocs.merger.domain.options/imagejoinoptions/

@@ -1,7 +1,7 @@
 ---
 title: RangeMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Possible modes for the page ranging.
+description: Possible modes for the page ranging.
 type: docs
 weight: 28
 url: /java/com.groupdocs.merger.domain.options/rangemode/

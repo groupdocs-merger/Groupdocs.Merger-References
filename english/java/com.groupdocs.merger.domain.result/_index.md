@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.domain.result
 second_title: GroupDocs.Merger for Java API Reference
-description: The bcom.groupdocs.merger.domain.result/b namespace provides classes which represent document results.
+description: The com.groupdocs.merger.domain.result namespace provides classes which represent document results.
 type: docs
-weight: 17
+weight: 15
 url: /java/com.groupdocs.merger.domain.result/
 ---
 

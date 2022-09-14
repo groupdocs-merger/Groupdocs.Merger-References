@@ -1,7 +1,7 @@
 ---
 title: PreviewMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides modes for the page previewing.
+description: Provides modes for the page previewing.
 type: docs
 weight: 26
 url: /java/com.groupdocs.merger.domain.options/previewmode/

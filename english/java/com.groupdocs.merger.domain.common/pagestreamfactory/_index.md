@@ -1,7 +1,7 @@
 ---
 title: PageStreamFactory
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface that defines method to create output page preview stream.
+description: Interface that defines method to create output page preview stream.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.domain.common/pagestreamfactory/

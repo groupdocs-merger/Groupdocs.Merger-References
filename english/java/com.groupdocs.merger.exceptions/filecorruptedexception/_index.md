@@ -1,7 +1,7 @@
 ---
 title: FileCorruptedException
 second_title: GroupDocs.Merger for Java API Reference
-description:  The exception that is thrown when specified file could not be loaded because it appears to be corrupted.
+description: The exception that is thrown when specified file could not be loaded because it appears to be corrupted.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.exceptions/filecorruptedexception/

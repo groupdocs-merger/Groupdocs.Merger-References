@@ -1,7 +1,7 @@
 ---
 title: MergerSettings
 second_title: GroupDocs.Merger for Java API Reference
-description:  Defines settings for customizing  behaviour.
+description: Defines settings for customizing  behaviour.
 type: docs
 weight: 11
 url: /java/com.groupdocs.merger/mergersettings/

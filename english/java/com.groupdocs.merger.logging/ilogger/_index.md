@@ -1,7 +1,7 @@
 ---
 title: ILogger
 second_title: GroupDocs.Merger for Java API Reference
-description:  Defines the methods that are used to perform logging.
+description: Defines the methods that are used to perform logging.
 type: docs
 weight: 11
 url: /java/com.groupdocs.merger.logging/ilogger/

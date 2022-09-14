@@ -1,7 +1,7 @@
 ---
 title: ImageJoinMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Possible modes for the image joining.
+description: Possible modes for the image joining.
 type: docs
 weight: 12
 url: /java/com.groupdocs.merger.domain.options/imagejoinmode/

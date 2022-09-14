@@ -1,7 +1,7 @@
 ---
 title: ConsoleLogger
 second_title: GroupDocs.Merger for Java API Reference
-description:  Writes log messages to the console.
+description: Writes log messages to the console.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.logging/consolelogger/

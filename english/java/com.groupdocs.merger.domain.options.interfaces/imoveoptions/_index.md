@@ -1,7 +1,7 @@
 ---
 title: IMoveOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the moving page options.
+description: Interface for the moving page options.
 type: docs
 weight: 16
 url: /java/com.groupdocs.merger.domain.options.interfaces/imoveoptions/

@@ -1,7 +1,7 @@
 ---
 title: IOleDiagramOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for import options of the embedded document to Diagram via OLE.
+description: Interface for import options of the embedded document to Diagram via OLE.
 type: docs
 weight: 17
 url: /java/com.groupdocs.merger.domain.options.interfaces/iolediagramoptions/

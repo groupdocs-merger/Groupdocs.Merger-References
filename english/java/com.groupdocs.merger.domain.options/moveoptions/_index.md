@@ -1,7 +1,7 @@
 ---
 title: MoveOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for moving document page.
+description: Provides options for moving document page.
 type: docs
 weight: 17
 url: /java/com.groupdocs.merger.domain.options/moveoptions/

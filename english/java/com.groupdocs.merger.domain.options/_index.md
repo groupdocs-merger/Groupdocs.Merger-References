@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.domain.options
 second_title: GroupDocs.Merger for Java API Reference
-description: The bcom.groupdocs.merger.domain.options/b namespace provides classes to specify additional options when loading joining splitting previewing and saving documents.
+description: The com.groupdocs.merger.domain.options namespace provides classes to specify additional options when loading joining splitting previewing and saving documents.
 type: docs
-weight: 16
+weight: 13
 url: /java/com.groupdocs.merger.domain.options/
 ---
 

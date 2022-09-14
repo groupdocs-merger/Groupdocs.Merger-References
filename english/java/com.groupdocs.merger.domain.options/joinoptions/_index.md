@@ -1,7 +1,7 @@
 ---
 title: JoinOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for the document joining.
+description: Provides options for the document joining.
 type: docs
 weight: 15
 url: /java/com.groupdocs.merger.domain.options/joinoptions/

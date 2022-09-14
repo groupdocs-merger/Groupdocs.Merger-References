@@ -1,7 +1,7 @@
 ---
 title: WordJoinMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Possible modes for the Word joining.
+description: Possible modes for the Word joining.
 type: docs
 weight: 39
 url: /java/com.groupdocs.merger.domain.options/wordjoinmode/

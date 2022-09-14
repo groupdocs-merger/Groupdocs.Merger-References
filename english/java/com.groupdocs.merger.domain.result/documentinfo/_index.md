@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo
 second_title: GroupDocs.Merger for Java API Reference
-description:  Defines document description properties.
+description: Defines document description properties.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.domain.result/documentinfo/

@@ -1,7 +1,7 @@
 ---
 title: RotateMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Possible modes for the page rotation.
+description: Possible modes for the page rotation.
 type: docs
 weight: 30
 url: /java/com.groupdocs.merger.domain.options/rotatemode/

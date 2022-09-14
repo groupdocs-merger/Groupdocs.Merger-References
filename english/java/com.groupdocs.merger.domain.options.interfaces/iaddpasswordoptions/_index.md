@@ -1,7 +1,7 @@
 ---
 title: IAddPasswordOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the password adding options.
+description: Interface for the password adding options.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.domain.options.interfaces/iaddpasswordoptions/

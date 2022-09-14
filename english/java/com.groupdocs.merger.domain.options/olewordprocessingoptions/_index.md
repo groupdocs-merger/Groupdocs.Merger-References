@@ -1,7 +1,7 @@
 ---
 title: OleWordProcessingOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for import of the embedded document to Word processing via OLE.
+description: Provides options for import of the embedded document to Word processing via OLE.
 type: docs
 weight: 21
 url: /java/com.groupdocs.merger.domain.options/olewordprocessingoptions/

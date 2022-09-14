@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.domain.common
 second_title: GroupDocs.Merger for Java API Reference
-description: The bcom.groupdocs.merger.domain.common/b namespace provides common delegates.
+description: The com.groupdocs.merger.domain.common namespace provides common delegates.
 type: docs
-weight: 10
+weight: 12
 url: /java/com.groupdocs.merger.domain.common/
 ---
 

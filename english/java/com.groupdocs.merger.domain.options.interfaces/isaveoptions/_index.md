@@ -1,7 +1,7 @@
 ---
 title: ISaveOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the document saving options.
+description: Interface for the document saving options.
 type: docs
 weight: 29
 url: /java/com.groupdocs.merger.domain.options.interfaces/isaveoptions/

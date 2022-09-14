@@ -1,7 +1,7 @@
 ---
 title: WordJoinOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  The Word join options.
+description: The Word join options.
 type: docs
 weight: 40
 url: /java/com.groupdocs.merger.domain.options/wordjoinoptions/

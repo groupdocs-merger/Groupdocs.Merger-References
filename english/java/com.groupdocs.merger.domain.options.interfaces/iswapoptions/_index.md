@@ -1,7 +1,7 @@
 ---
 title: ISwapOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the page swapping options.
+description: Interface for the page swapping options.
 type: docs
 weight: 32
 url: /java/com.groupdocs.merger.domain.options.interfaces/iswapoptions/

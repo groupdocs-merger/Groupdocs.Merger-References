@@ -1,7 +1,7 @@
 ---
 title: AddPasswordOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for adding document password.
+description: Provides options for adding document password.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger.domain.options/addpasswordoptions/

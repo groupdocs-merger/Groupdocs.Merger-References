@@ -1,7 +1,7 @@
 ---
 title: IJoinOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the document joining options.
+description: Interface for the document joining options.
 type: docs
 weight: 14
 url: /java/com.groupdocs.merger.domain.options.interfaces/ijoinoptions/

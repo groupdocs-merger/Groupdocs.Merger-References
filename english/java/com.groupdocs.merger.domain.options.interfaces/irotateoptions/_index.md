@@ -1,7 +1,7 @@
 ---
 title: IRotateOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the page rotating options.
+description: Interface for the page rotating options.
 type: docs
 weight: 28
 url: /java/com.groupdocs.merger.domain.options.interfaces/irotateoptions/

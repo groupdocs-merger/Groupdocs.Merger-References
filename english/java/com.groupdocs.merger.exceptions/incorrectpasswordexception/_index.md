@@ -1,7 +1,7 @@
 ---
 title: IncorrectPasswordException
 second_title: GroupDocs.Merger for Java API Reference
-description:  The exception that is thrown when specified password is incorrect.
+description: The exception that is thrown when specified password is incorrect.
 type: docs
 weight: 13
 url: /java/com.groupdocs.merger.exceptions/incorrectpasswordexception/

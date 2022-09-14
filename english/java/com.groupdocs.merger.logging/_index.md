@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.logging
 second_title: GroupDocs.Merger for Java API Reference
-description: The bcom.groupdocs.merger.logging/b namespace provides classes for customizing logging behaviour.
+description: The com.groupdocs.merger.logging namespace provides classes for customizing logging behaviour.
 type: docs
-weight: 14
+weight: 17
 url: /java/com.groupdocs.merger.logging/
 ---
 

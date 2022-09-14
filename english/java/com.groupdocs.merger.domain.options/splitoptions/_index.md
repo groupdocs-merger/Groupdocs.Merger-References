@@ -1,7 +1,7 @@
 ---
 title: SplitOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for the document page splitting.
+description: Provides options for the document page splitting.
 type: docs
 weight: 34
 url: /java/com.groupdocs.merger.domain.options/splitoptions/
@@ -58,7 +58,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 
 ### SplitOptions(int splitMode, int startNumber, int endNumber) {#SplitOptions-int-int-int-}
 ```
@@ -71,7 +71,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -86,7 +86,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
@@ -118,7 +118,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 
 ### SplitOptions(String filePathFormat, int startNumber, int endNumber) {#SplitOptions-java.lang.String-int-int-}
 ```
@@ -147,7 +147,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -179,7 +179,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
@@ -224,7 +224,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 
 ### SplitOptions(SplitStreamFactory splitStreamFactory, int startNumber, int endNumber) {#SplitOptions-com.groupdocs.merger.domain.common.SplitStreamFactory-int-int-}
 ```
@@ -253,7 +253,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -285,7 +285,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
-| splitMode | int | The splitting mode of \`\`\` Mode \`\`\`([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |

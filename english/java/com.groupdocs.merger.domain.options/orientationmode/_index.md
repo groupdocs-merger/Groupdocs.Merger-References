@@ -1,7 +1,7 @@
 ---
 title: OrientationMode
 second_title: GroupDocs.Merger for Java API Reference
-description:  Defines page orientation.
+description: Defines page orientation.
 type: docs
 weight: 22
 url: /java/com.groupdocs.merger.domain.options/orientationmode/

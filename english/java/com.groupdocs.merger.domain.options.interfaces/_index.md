@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.domain.options.interfaces
 second_title: GroupDocs.Merger for Java API Reference
-description: The bcom.groupdocs.merger.domain.options.interfaces/b namespace provides classes for working with Interfaces.
+description: The com.groupdocs.merger.domain.options.interfaces namespace provides classes for working with Interfaces.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.merger.domain.options.interfaces/
 ---
 

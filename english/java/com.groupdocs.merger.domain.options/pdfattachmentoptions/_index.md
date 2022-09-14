@@ -1,7 +1,7 @@
 ---
 title: PdfAttachmentOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options to attach the embedded object to Pdf.
+description: Provides options to attach the embedded object to Pdf.
 type: docs
 weight: 25
 url: /java/com.groupdocs.merger.domain.options/pdfattachmentoptions/

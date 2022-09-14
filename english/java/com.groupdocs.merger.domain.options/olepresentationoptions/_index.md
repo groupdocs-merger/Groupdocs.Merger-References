@@ -1,7 +1,7 @@
 ---
 title: OlePresentationOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for import of the embedded document to Presentation via OLE.
+description: Provides options for import of the embedded document to Presentation via OLE.
 type: docs
 weight: 19
 url: /java/com.groupdocs.merger.domain.options/olepresentationoptions/

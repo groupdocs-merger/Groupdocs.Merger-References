@@ -1,7 +1,7 @@
 ---
 title: PageOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for specifying page or pages range.
+description: Provides options for specifying page or pages range.
 type: docs
 weight: 24
 url: /java/com.groupdocs.merger.domain.options/pageoptions/

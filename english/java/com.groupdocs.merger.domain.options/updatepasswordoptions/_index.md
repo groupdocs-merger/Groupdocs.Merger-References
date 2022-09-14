@@ -1,7 +1,7 @@
 ---
 title: UpdatePasswordOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for updating document password.
+description: Provides options for updating document password.
 type: docs
 weight: 38
 url: /java/com.groupdocs.merger.domain.options/updatepasswordoptions/

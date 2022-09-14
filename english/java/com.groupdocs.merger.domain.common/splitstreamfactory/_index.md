@@ -1,7 +1,7 @@
 ---
 title: SplitStreamFactory
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface that defines method to create output split stream.
+description: Interface that defines method to create output split stream.
 type: docs
 weight: 11
 url: /java/com.groupdocs.merger.domain.common/splitstreamfactory/

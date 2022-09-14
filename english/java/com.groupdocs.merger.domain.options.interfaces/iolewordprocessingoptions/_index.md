@@ -1,7 +1,7 @@
 ---
 title: IOleWordProcessingOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for import options of the embedded document to Word processing via OLE.
+description: Interface for import options of the embedded document to Word processing via OLE.
 type: docs
 weight: 20
 url: /java/com.groupdocs.merger.domain.options.interfaces/iolewordprocessingoptions/

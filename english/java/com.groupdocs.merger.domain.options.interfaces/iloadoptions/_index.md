@@ -1,7 +1,7 @@
 ---
 title: ILoadOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the document loading options.
+description: Interface for the document loading options.
 type: docs
 weight: 15
 url: /java/com.groupdocs.merger.domain.options.interfaces/iloadoptions/

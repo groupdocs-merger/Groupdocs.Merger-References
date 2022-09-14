@@ -1,7 +1,7 @@
 ---
 title: OleDiagramOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for import of the embedded document to Diagram via OLE.
+description: Provides options for import of the embedded document to Diagram via OLE.
 type: docs
 weight: 18
 url: /java/com.groupdocs.merger.domain.options/olediagramoptions/

@@ -1,7 +1,7 @@
 ---
 title: IImageJoinOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for the image joining options.
+description: Interface for the image joining options.
 type: docs
 weight: 12
 url: /java/com.groupdocs.merger.domain.options.interfaces/iimagejoinoptions/

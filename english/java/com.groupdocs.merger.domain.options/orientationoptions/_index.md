@@ -1,7 +1,7 @@
 ---
 title: OrientationOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for the page orientation.
+description: Provides options for the page orientation.
 type: docs
 weight: 23
 url: /java/com.groupdocs.merger.domain.options/orientationoptions/

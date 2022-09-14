@@ -1,7 +1,7 @@
 ---
 title: ExtractOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options to extract the document pages.
+description: Provides options to extract the document pages.
 type: docs
 weight: 11
 url: /java/com.groupdocs.merger.domain.options/extractoptions/

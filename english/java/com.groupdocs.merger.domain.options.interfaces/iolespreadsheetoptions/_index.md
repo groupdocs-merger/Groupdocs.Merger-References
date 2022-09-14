@@ -1,7 +1,7 @@
 ---
 title: IOleSpreadsheetOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Interface for import options of the embedded document to Spreadsheet via OLE.
+description: Interface for import options of the embedded document to Spreadsheet via OLE.
 type: docs
 weight: 19
 url: /java/com.groupdocs.merger.domain.options.interfaces/iolespreadsheetoptions/

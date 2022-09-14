@@ -1,7 +1,7 @@
 ---
 title: Merger
 second_title: GroupDocs.Merger for Java API Reference
-description:  Represents the main class that controls the document merging process.
+description: Represents the main class that controls the document merging process.
 type: docs
 weight: 10
 url: /java/com.groupdocs.merger/merger/
@@ -57,9 +57,9 @@ Represents the main class that controls the document merging process.
 | [rotatePages(IRotateOptions rotateOptions)](#rotatePages-com.groupdocs.merger.domain.options.interfaces.IRotateOptions-) | Rotate pages of the document. |
 | [getDocumentInfo()](#getDocumentInfo--) | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
 | [generatePreview(IPreviewOptions previewOptions)](#generatePreview-com.groupdocs.merger.domain.options.interfaces.IPreviewOptions-) | Generates document pages preview. |
-| [save(OutputStream document)](#save-java.io.OutputStream-) | Saves the result document to the stream \`\`\` document \`\`\`. |
-| [save(String filePath)](#save-java.lang.String-) | Saves the result document file to \`\`\` filePath \`\`\`. |
-| [save(String filePath, boolean useDefaultDirectory)](#save-java.lang.String-boolean-) | Saves the result document file to \`\`\` filePath \`\`\`. |
+| [save(OutputStream document)](#save-java.io.OutputStream-) | Saves the result document to the stream  document . |
+| [save(String filePath)](#save-java.lang.String-) | Saves the result document file to  filePath . |
+| [save(String filePath, boolean useDefaultDirectory)](#save-java.lang.String-boolean-) | Saves the result document file to  filePath . |
 ### Merger(InputStream document) {#Merger-java.io.InputStream-}
 ```
 public Merger(InputStream document)
@@ -336,7 +336,7 @@ Joins the documents into one single document.
 
 --------------------
 
-\`\`\` **Learn more** \`\`\`
+ **Learn more** 
 
  *   |
 
@@ -401,7 +401,7 @@ Joins the documents into one single document.
 
 --------------------
 
-\`\`\` **Learn more** \`\`\`
+ **Learn more** 
 
  *   |
 
@@ -736,7 +736,7 @@ public final void save(OutputStream document)
 ```
 
 
-Saves the result document to the stream \`\`\` document \`\`\`.
+Saves the result document to the stream  document .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -749,7 +749,7 @@ public final void save(String filePath)
 ```
 
 
-Saves the result document file to \`\`\` filePath \`\`\`.
+Saves the result document file to  filePath .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -762,7 +762,7 @@ public final void save(String filePath, boolean useDefaultDirectory)
 ```
 
 
-Saves the result document file to \`\`\` filePath \`\`\`.
+Saves the result document file to  filePath .
 
 **Parameters:**
 | Parameter | Type | Description |

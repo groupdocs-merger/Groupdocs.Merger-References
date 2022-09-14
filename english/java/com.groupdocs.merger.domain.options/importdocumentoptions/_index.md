@@ -1,7 +1,7 @@
 ---
 title: ImportDocumentOptions
 second_title: GroupDocs.Merger for Java API Reference
-description:  Provides options for the embedded document import.
+description: Provides options for the embedded document import.
 type: docs
 weight: 14
 url: /java/com.groupdocs.merger.domain.options/importdocumentoptions/
