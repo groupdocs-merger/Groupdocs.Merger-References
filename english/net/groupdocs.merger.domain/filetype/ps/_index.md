@@ -3,7 +3,7 @@ title: PS
 second_title: GroupDocs.Merger for .NET API Reference
 description: PostScript File .ps
 type: docs
-weight: 240
+weight: 250
 url: /net/groupdocs.merger.domain/filetype/ps/
 ---
 ## FileType.PS field

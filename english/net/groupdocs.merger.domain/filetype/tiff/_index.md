@@ -1,17 +1,17 @@
 ---
-title: Unknown
+title: TIFF
 second_title: GroupDocs.Merger for .NET API Reference
-description: Represents unknown file type.
+description: Tagged Image File Format .tiff
 type: docs
-weight: 320
-url: /net/groupdocs.merger.domain/filetype/unknown/
+weight: 290
+url: /net/groupdocs.merger.domain/filetype/tiff/
 ---
-## FileType.Unknown field
+## FileType.TIFF field
 
-Represents unknown file type.
+Tagged Image File Format (.tiff)
 
 ```csharp
-public static FileType Unknown;
+public static FileType TIFF;
 ```
 
 ### See Also

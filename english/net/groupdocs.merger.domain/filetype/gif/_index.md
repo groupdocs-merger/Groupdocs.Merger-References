@@ -1,17 +1,17 @@
 ---
-title: Unknown
+title: GIF
 second_title: GroupDocs.Merger for .NET API Reference
-description: Represents unknown file type.
+description: Graphical Interchange Format File .gif
 type: docs
-weight: 320
-url: /net/groupdocs.merger.domain/filetype/unknown/
+weight: 100
+url: /net/groupdocs.merger.domain/filetype/gif/
 ---
-## FileType.Unknown field
+## FileType.GIF field
 
-Represents unknown file type.
+Graphical Interchange Format File (.gif)
 
 ```csharp
-public static FileType Unknown;
+public static FileType GIF;
 ```
 
 ### See Also
