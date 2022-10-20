@@ -4,7 +4,7 @@ additionalTitle: Справочные материалы по API GroupDocs
 type: docs
 weight: 10
 description: "Создавайте кроссплатформенные приложения, выполняющие такие операции, как слияние, разделение, перемешивание, обмен, обрезка, удаление страниц, слайдов и диаграмм поддерживаемых форматов."
-url: /zh/
+url: /ru/
 ---
 
 ## GroupDocs.Merge для .NET
@@ -19,7 +19,7 @@ url: /zh/
 
 Это ссылки на некоторые полезные ресурсы:
 
-- [Справочник по API GroupDocs.Merge для .NET](/merger/zh/net/)
+- [Справочник по API GroupDocs.Merge для .NET](/merger/ru/net/)
 
 
 ## GroupDocs.Merge для Java
