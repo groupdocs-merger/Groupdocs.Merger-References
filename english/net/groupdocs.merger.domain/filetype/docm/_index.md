@@ -3,7 +3,7 @@ title: DOCM
 second_title: GroupDocs.Merger for .NET API Reference
 description: Word Open XML MacroEnabled Document .docm files are Microsoft Word 2007 or higher generated documents with the ability to run macros. Learn more about this file format herehttps//docs.fileformat.com/wordprocessing/docm.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field

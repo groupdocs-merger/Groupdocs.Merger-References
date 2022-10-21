@@ -3,7 +3,7 @@ title: IsImage
 second_title: GroupDocs.Merger for .NET API Reference
 description: Determines whether input FileTypegroupdocs.merger.domain/filetype is primitive text format.
 type: docs
-weight: 580
+weight: 620
 url: /net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
