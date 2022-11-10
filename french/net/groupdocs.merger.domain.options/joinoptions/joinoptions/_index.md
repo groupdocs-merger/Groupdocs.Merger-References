@@ -1,0 +1,178 @@
+---
+title: JoinOptions
+second_title: Référence de l'API GroupDocs.Merger pour .NET
+description: Initialise une nouvelle instance duJoinOptionsgroupdocs.merger.domain.options/joinoptions classe.
+type: docs
+weight: 10
+url: /fr/net/groupdocs.merger.domain.options/joinoptions/joinoptions/
+---
+## JoinOptions() {#constructor}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions()
+```
+
+### Voir également
+
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int[]) {#constructor_7}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(int[] pageNumbers)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| pageNumbers | Int32[] | Numéros de page. |
+
+### Voir également
+
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int, int) {#constructor_5}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(int startNumber, int endNumber)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| startNumber | Int32 | Le numéro de la page de démarrage. |
+| endNumber | Int32 | Le numéro de la page de fin. |
+
+### Voir également
+
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int, int, RangeMode) {#constructor_6}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| startNumber | Int32 | Le numéro de la page de démarrage. |
+| endNumber | Int32 | Le numéro de la page de fin. |
+| mode | RangeMode | Le mode gamme. |
+
+### Voir également
+
+* enum [RangeMode](../../rangemode)
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType) {#constructor_1}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(FileType fileType)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| fileType | FileType | Type de fichier à joindre. |
+
+### Voir également
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int[]) {#constructor_4}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| fileType | FileType | Type de fichier à joindre. |
+| pageNumbers | Int32[] | Numéros de page. |
+
+### Voir également
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int) {#constructor_2}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| fileType | FileType | Type de fichier à joindre. |
+| startNumber | Int32 | Le numéro de la page de démarrage. |
+| endNumber | Int32 | Le numéro de la page de fin. |
+
+### Voir également
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Initialise une nouvelle instance du[`JoinOptions`](../../joinoptions) classe.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| fileType | FileType | Type de fichier à joindre. |
+| startNumber | Int32 | Le numéro de la page de démarrage. |
+| endNumber | Int32 | Le numéro de la page de fin. |
+| mode | RangeMode | Le mode gamme. |
+
+### Voir également
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [JoinOptions](../../joinoptions)
+* espace de noms [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* Assemblée [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
