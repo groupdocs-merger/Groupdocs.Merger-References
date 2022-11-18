@@ -1,0 +1,80 @@
+---
+title: GroupDocs.Merger.Domain.Options
+second_title: GroupDocs.Merger لمرجع .NET API
+description: توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات والانضمام إليها وتقسيمها ومعاينتها وحفظها.
+type: docs
+weight: 40
+url: /ar/net/groupdocs.merger.domain.options/
+---
+توفر مساحة الاسم فئات لتحديد خيارات إضافية عند تحميل المستندات والانضمام إليها وتقسيمها ومعاينتها وحفظها.
+
+## الطبقات
+
+| فصل | وصف |
+| --- | --- |
+| [AddPasswordOptions](./addpasswordoptions) | يوفر خيارات لإضافة كلمة مرور المستند. |
+| [ExtractOptions](./extractoptions) | يوفر خيارات لاستخراج صفحات المستند. |
+| [ImageJoinOptions](./imagejoinoptions) | خيارات الانضمام إلى الصورة . |
+| [ImportDocumentOptions](./importdocumentoptions) | يوفر خيارات لاستيراد الوثيقة المضمنة . |
+| [JoinOptions](./joinoptions) | يوفر خيارات لضم المستند . |
+| [LoadOptions](./loadoptions) | يوفر خيارات لتحميل المستند. |
+| [MoveOptions](./moveoptions) | يوفر خيارات لنقل صفحة المستند. |
+| [OleDiagramOptions](./olediagramoptions) | يوفر خيارات لاستيراد المستند المضمن إلى الرسم التخطيطي عبر OLE. |
+| [OlePresentationOptions](./olepresentationoptions) | يوفر خيارات لاستيراد المستند المضمن إلى العرض التقديمي عبر OLE. |
+| [OleSpreadsheetOptions](./olespreadsheetoptions) | يوفر خيارات لاستيراد المستند المضمن إلى جدول البيانات عبر OLE. |
+| [OleWordProcessingOptions](./olewordprocessingoptions) | يوفر خيارات لاستيراد المستند المضمن إلى معالجة الكلمات عبر OLE. |
+| [OrientationOptions](./orientationoptions) | يوفر خيارات لاتجاه الصفحة. |
+| [PageOptions](./pageoptions) | يوفر خيارات لتحديد نطاق الصفحات أو الصفحات. |
+| [PdfAttachmentOptions](./pdfattachmentoptions) | يوفر خيارات لإرفاق الكائن المضمن بـ Pdf. |
+| [PreviewOptions](./previewoptions) | يمثل خيارات معاينة المستند. |
+| [RemoveOptions](./removeoptions) | يوفر خيارات لإزالة الصفحة. |
+| [RotateOptions](./rotateoptions) | يوفر خيارات لتدوير الصفحة . |
+| [SaveOptions](./saveoptions) | يوفر خيارات لحفظ المستندات . |
+| [SplitOptions](./splitoptions) | يوفر خيارات لتقسيم صفحة المستند. |
+| [SwapOptions](./swapoptions) | يوفر خيارات لمبادلة صفحات المستند. |
+| [TextSplitOptions](./textsplitoptions) | يوفر خيارات لتقسيم نص المستند. |
+| [UpdatePasswordOptions](./updatepasswordoptions) | يوفر خيارات لتحديث كلمة مرور المستند. |
+| [WordJoinOptions](./wordjoinoptions) | خيارات الانضمام إلى Word . |
+## واجهات
+
+| واجهه المستخدم | وصف |
+| --- | --- |
+| [IAddPasswordOptions](./iaddpasswordoptions) | واجهة خيارات إضافة كلمة المرور . |
+| [IExtractOptions](./iextractoptions) | واجهة لخيارات استخراج صفحات المستند. |
+| [IImageJoinOptions](./iimagejoinoptions) | واجهة خيارات الانضمام للصورة . |
+| [IImportDocumentOptions](./iimportdocumentoptions) | واجهة لاستيراد الوثيقة المضمنة . |
+| [IJoinOptions](./ijoinoptions) | واجهة خيارات الانضمام للمستند . |
+| [ILoadOptions](./iloadoptions) | واجهة خيارات تحميل المستند . |
+| [IMoveOptions](./imoveoptions) | واجهة لخيارات الصفحة المتحركة . |
+| [IOleDiagramOptions](./iolediagramoptions) | واجهة لخيارات استيراد المستند المضمن إلى رسم تخطيطي عبر OLE. |
+| [IOlePresentationOptions](./iolepresentationoptions) | واجهة لخيارات استيراد المستند المضمن إلى العرض التقديمي عبر OLE. |
+| [IOleSpreadsheetOptions](./iolespreadsheetoptions) | واجهة لخيارات استيراد المستند المضمن إلى جدول البيانات عبر OLE. |
+| [IOleWordProcessingOptions](./iolewordprocessingoptions) | واجهة لخيارات استيراد المستند المضمن إلى معالجة الكلمات عبر OLE. |
+| [IOptions](./ioptions) | واجهة للخيارات الأساسية . |
+| [IOrientationOptions](./iorientationoptions) | واجهة خيارات اتجاه الصفحة. |
+| [IPageOptions](./ipageoptions) | واجهة خيارات الصفحة |
+| [IPager](./ipager) | واجهة لتطبيق الخيار (الصفحات والنطاق وما إلى ذلك) |
+| [IPdfAttachmentOptions](./ipdfattachmentoptions) | واجهة لخيارات المستند المضمن إلى PDF كمرفق. |
+| [IPreviewOptions](./ipreviewoptions) | واجهة لخيارات المعاينة . |
+| [IRemoveOptions](./iremoveoptions) | واجهة خيارات إزالة الصفحة . |
+| [IRotateOptions](./irotateoptions) | واجهة خيارات تدوير الصفحة . |
+| [ISaveOptions](./isaveoptions) | واجهة لخيارات حفظ المستندات . |
+| [ISizeOptions](./isizeoptions) | واجهة لإضافة كائن مضمن . |
+| [ISplitOptions](./isplitoptions) | واجهة خيارات تقسيم الصفحة . |
+| [ISwapOptions](./iswapoptions) | واجهة خيارات تبديل الصفحة . |
+| [ITextSplitOptions](./itextsplitoptions) | واجهة لخيارات تقسيم النص. |
+| [IUpdatePasswordOptions](./iupdatepasswordoptions) | واجهة لخيارات تحديث كلمة المرور. |
+## تعداد
+
+| تعداد | وصف |
+| --- | --- |
+| [ImageJoinMode](./imagejoinmode) | الأوضاع الممكنة لربط الصورة . |
+| [OrientationMode](./orientationmode) | يحدد اتجاه الصفحة . |
+| [PreviewMode](./previewmode) | يوفر أوضاعًا لمعاينة الصفحة . |
+| [RangeMode](./rangemode) | الأوضاع الممكنة لنطاق الصفحات. |
+| [RotateMode](./rotatemode) | الأوضاع الممكنة لتدوير الصفحة . |
+| [SplitMode](./splitmode) | يحدد أوضاع تقسيم الصفحة. |
+| [TextSplitMode](./textsplitmode) | أوضاع تقسيم النص الممكنة. |
+| [WordJoinMode](./wordjoinmode) | الأوضاع الممكنة لانضمام Word . |
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
