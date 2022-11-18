@@ -1,0 +1,178 @@
+---
+title: WordJoinOptions
+second_title: .NET API Başvurusu için GroupDocs.Merger
+description: Yeni bir örneğini başlatır.WordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions sınıf.
+type: docs
+weight: 10
+url: /tr/net/groupdocs.merger.domain.options/wordjoinoptions/wordjoinoptions/
+---
+## WordJoinOptions() {#constructor}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions()
+```
+
+### Ayrıca bakınız
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int[]) {#constructor_7}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(int[] pageNumbers)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| pageNumbers | Int32[] | Sayfa numaraları. |
+
+### Ayrıca bakınız
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int) {#constructor_5}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| startNumber | Int32 | Başlangıç sayfası numarası. |
+| endNumber | Int32 | Son sayfa numarası. |
+
+### Ayrıca bakınız
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int, RangeMode) {#constructor_6}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| startNumber | Int32 | Başlangıç sayfası numarası. |
+| endNumber | Int32 | Son sayfa numarası. |
+| mode | RangeMode | Menzil modu. |
+
+### Ayrıca bakınız
+
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType) {#constructor_1}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(FileType fileType)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileType | FileType | Birleştirilecek dosyanın türü. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int[]) {#constructor_4}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileType | FileType | Birleştirilecek dosyanın türü. |
+| pageNumbers | Int32[] | Sayfa numaraları. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int) {#constructor_2}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileType | FileType | Birleştirilecek dosyanın türü. |
+| startNumber | Int32 | Başlangıç sayfası numarası. |
+| endNumber | Int32 | Son sayfa numarası. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Yeni bir örneğini başlatır.[`WordJoinOptions`](../../wordjoinoptions) sınıf.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileType | FileType | Birleştirilecek dosyanın türü. |
+| startNumber | Int32 | Başlangıç sayfası numarası. |
+| endNumber | Int32 | Son sayfa numarası. |
+| mode | RangeMode | Menzil modu. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->

@@ -1,0 +1,178 @@
+---
+title: WordJoinOptions
+second_title: GroupDocs.Merger för .NET API-referens
+description: Initierar en ny instans avWordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions class.
+type: docs
+weight: 10
+url: /sv/net/groupdocs.merger.domain.options/wordjoinoptions/wordjoinoptions/
+---
+## WordJoinOptions() {#constructor}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions()
+```
+
+### Se även
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int[]) {#constructor_7}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(int[] pageNumbers)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| pageNumbers | Int32[] | Sidnummer. |
+
+### Se även
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int) {#constructor_5}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| startNumber | Int32 | Startsidans nummer. |
+| endNumber | Int32 | Slutsidans nummer. |
+
+### Se även
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int, RangeMode) {#constructor_6}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| startNumber | Int32 | Startsidans nummer. |
+| endNumber | Int32 | Slutsidans nummer. |
+| mode | RangeMode | Räckviddsläget. |
+
+### Se även
+
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType) {#constructor_1}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(FileType fileType)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileType | FileType | Typen av fil som ska anslutas. |
+
+### Se även
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int[]) {#constructor_4}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileType | FileType | Typen av fil som ska anslutas. |
+| pageNumbers | Int32[] | Sidnummer. |
+
+### Se även
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int) {#constructor_2}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileType | FileType | Typen av fil som ska anslutas. |
+| startNumber | Int32 | Startsidans nummer. |
+| endNumber | Int32 | Slutsidans nummer. |
+
+### Se även
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Initierar en ny instans av[`WordJoinOptions`](../../wordjoinoptions) class.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileType | FileType | Typen av fil som ska anslutas. |
+| startNumber | Int32 | Startsidans nummer. |
+| endNumber | Int32 | Slutsidans nummer. |
+| mode | RangeMode | Räckviddsläget. |
+
+### Se även
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* namnutrymme [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* hopsättning [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
