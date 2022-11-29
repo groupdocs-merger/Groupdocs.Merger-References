@@ -3,7 +3,7 @@ title: MoveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for moving document page.
 type: docs
-weight: 430
+weight: 490
 url: /net/groupdocs.merger.domain.options/moveoptions/
 ---
 ## MoveOptions class

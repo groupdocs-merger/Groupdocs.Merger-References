@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Merger for .NET API Reference
 description: Delegate that defines method to release output page preview stream.
 type: docs
-weight: 80
+weight: 760
 url: /net/groupdocs.merger.domain.common/releasepagestream/
 ---
 ## ReleasePageStream delegate

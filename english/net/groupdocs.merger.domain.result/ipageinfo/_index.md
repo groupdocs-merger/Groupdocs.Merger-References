@@ -3,7 +3,7 @@ title: IPageInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page description properties.
 type: docs
-weight: 690
+weight: 150
 url: /net/groupdocs.merger.domain.result/ipageinfo/
 ---
 ## IPageInfo interface

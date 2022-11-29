@@ -3,7 +3,7 @@ title: JoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document joining.
 type: docs
-weight: 410
+weight: 470
 url: /net/groupdocs.merger.domain.options/joinoptions/
 ---
 ## JoinOptions class
