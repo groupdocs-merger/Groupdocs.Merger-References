@@ -3,7 +3,7 @@ title: IPreviewOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the preview options.
 type: docs
-weight: 380
+weight: 290
 url: /net/groupdocs.merger.domain.options/ipreviewoptions/
 ---
 ## IPreviewOptions interface

@@ -3,7 +3,7 @@ title: IOleSpreadsheetOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for import options of the embedded document to Spreadsheet via OLE.
 type: docs
-weight: 310
+weight: 220
 url: /net/groupdocs.merger.domain.options/iolespreadsheetoptions/
 ---
 ## IOleSpreadsheetOptions interface

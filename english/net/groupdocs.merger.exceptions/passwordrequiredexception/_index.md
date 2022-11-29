@@ -3,7 +3,7 @@ title: PasswordRequiredException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when password is required to load the document.
 type: docs
-weight: 110
+weight: 750
 url: /net/groupdocs.merger.exceptions/passwordrequiredexception/
 ---
 ## PasswordRequiredException class

@@ -3,7 +3,7 @@ title: IOleWordProcessingOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for import options of the embedded document to Word processing via OLE.
 type: docs
-weight: 320
+weight: 230
 url: /net/groupdocs.merger.domain.options/iolewordprocessingoptions/
 ---
 ## IOleWordProcessingOptions interface

@@ -3,7 +3,7 @@ title: OrientationOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the page orientation.
 type: docs
-weight: 550
+weight: 490
 url: /net/groupdocs.merger.domain.options/orientationoptions/
 ---
 ## OrientationOptions class

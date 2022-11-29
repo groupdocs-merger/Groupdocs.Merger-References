@@ -3,7 +3,7 @@ title: ISizeOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for adding embedded object.
 type: docs
-weight: 420
+weight: 330
 url: /net/groupdocs.merger.domain.options/isizeoptions/
 ---
 ## ISizeOptions interface

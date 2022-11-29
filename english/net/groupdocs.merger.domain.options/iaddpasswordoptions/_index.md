@@ -3,7 +3,7 @@ title: IAddPasswordOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the password adding options.
 type: docs
-weight: 220
+weight: 130
 url: /net/groupdocs.merger.domain.options/iaddpasswordoptions/
 ---
 ## IAddPasswordOptions interface
