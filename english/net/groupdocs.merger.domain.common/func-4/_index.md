@@ -3,7 +3,7 @@ title: FuncT1T2T3TResult
 second_title: GroupDocs.Merger for .NET API Reference
 description: Encapsulates a method that has three parameters and returns a value of the type specified by the TResult parameter.
 type: docs
-weight: 60
+weight: 800
 url: /net/groupdocs.merger.domain.common/func-4/
 ---
 ## Func&lt;T1,T2,T3,TResult&gt; delegate

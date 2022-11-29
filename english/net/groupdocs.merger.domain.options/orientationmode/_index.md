@@ -3,7 +3,7 @@ title: OrientationMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines page orientation.
 type: docs
-weight: 480
+weight: 540
 url: /net/groupdocs.merger.domain.options/orientationmode/
 ---
 ## OrientationMode enumeration

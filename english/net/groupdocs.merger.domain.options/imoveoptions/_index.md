@@ -3,7 +3,7 @@ title: IMoveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the moving page options.
 type: docs
-weight: 190
+weight: 280
 url: /net/groupdocs.merger.domain.options/imoveoptions/
 ---
 ## IMoveOptions interface

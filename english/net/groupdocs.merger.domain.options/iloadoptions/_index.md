@@ -3,7 +3,7 @@ title: ILoadOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document loading options.
 type: docs
-weight: 180
+weight: 270
 url: /net/groupdocs.merger.domain.options/iloadoptions/
 ---
 ## ILoadOptions interface

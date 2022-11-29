@@ -3,7 +3,7 @@ title: IImageJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the image joining options.
 type: docs
-weight: 150
+weight: 240
 url: /net/groupdocs.merger.domain.options/iimagejoinoptions/
 ---
 ## IImageJoinOptions interface

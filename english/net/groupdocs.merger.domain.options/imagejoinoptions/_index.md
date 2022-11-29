@@ -3,7 +3,7 @@ title: ImageJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: The image join options.
 type: docs
-weight: 390
+weight: 200
 url: /net/groupdocs.merger.domain.options/imagejoinoptions/
 ---
 ## ImageJoinOptions class

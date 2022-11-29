@@ -3,7 +3,7 @@ title: FuncTTResult
 second_title: GroupDocs.Merger for .NET API Reference
 description: Encapsulates a method that has one parameter and returns a value of the type specified by the TResult parameter.
 type: docs
-weight: 40
+weight: 780
 url: /net/groupdocs.merger.domain.common/func-2/
 ---
 ## Func&lt;T,TResult&gt; delegate

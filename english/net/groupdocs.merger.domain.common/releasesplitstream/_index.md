@@ -3,7 +3,7 @@ title: ReleaseSplitStream
 second_title: GroupDocs.Merger for .NET API Reference
 description: Delegate that defines method to release output split stream.
 type: docs
-weight: 90
+weight: 740
 url: /net/groupdocs.merger.domain.common/releasesplitstream/
 ---
 ## ReleaseSplitStream delegate
