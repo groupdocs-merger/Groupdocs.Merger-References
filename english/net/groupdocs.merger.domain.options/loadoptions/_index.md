@@ -19,20 +19,21 @@ public class LoadOptions : ILoadOptions
 | Name | Description |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_3)(string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_4)(string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_6)(string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_5)(string, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | The encoding used when opening text-based files such as [`CSV`](../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../groupdocs.merger.domain/filetype/txt). Default value is Default. |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | The extension of the file to open. |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | The extension of the file to init. |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | The password for opening password-protected file. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | The type of the file to open. |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | The type of the file to load. |
 
 ### See Also
 
