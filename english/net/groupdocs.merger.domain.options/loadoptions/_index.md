@@ -19,12 +19,14 @@ public class LoadOptions : ILoadOptions
 | Name | Description |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_4)(string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_6)(string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_3)(FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_5)(string, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_6)(string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | Initializes new instance of [`LoadOptions`](../loadoptions) class. |
 
 ## Properties
 
