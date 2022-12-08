@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.domain.options.interfaces
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The com.groupdocs.merger.domain.options.interfaces namespace provides classes for working with Interfaces.
 type: docs
 weight: 14
@@ -21,7 +21,6 @@ The **com.groupdocs.merger.domain.options.interfaces** namespace provides classe
 | [IJoinOptions](../com.groupdocs.merger.domain.options.interfaces/ijoinoptions) | Interface for the document joining options. |
 | [ILoadOptions](../com.groupdocs.merger.domain.options.interfaces/iloadoptions) | Interface for the document loading options. |
 | [IMoveOptions](../com.groupdocs.merger.domain.options.interfaces/imoveoptions) | Interface for the moving page options. |
-| [IOleDiagramOptions](../com.groupdocs.merger.domain.options.interfaces/iolediagramoptions) | Interface for import options of the embedded document to Diagram via OLE. |
 | [IOlePresentationOptions](../com.groupdocs.merger.domain.options.interfaces/iolepresentationoptions) | Interface for import options of the embedded document to Presentation via OLE. |
 | [IOleSpreadsheetOptions](../com.groupdocs.merger.domain.options.interfaces/iolespreadsheetoptions) | Interface for import options of the embedded document to Spreadsheet via OLE. |
 | [IOleWordProcessingOptions](../com.groupdocs.merger.domain.options.interfaces/iolewordprocessingoptions) | Interface for import options of the embedded document to Word processing via OLE. |

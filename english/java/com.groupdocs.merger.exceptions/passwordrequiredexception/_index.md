@@ -1,6 +1,6 @@
 ---
 title: PasswordRequiredException
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The exception that is thrown when password is required to load the document.
 type: docs
 weight: 14

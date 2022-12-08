@@ -1,6 +1,6 @@
 ---
 title: TextSplitMode
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Possible text splitting modes.
 type: docs
 weight: 36

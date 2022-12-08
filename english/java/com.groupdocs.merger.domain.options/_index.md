@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.domain.options
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The com.groupdocs.merger.domain.options namespace provides classes to specify additional options when loading joining splitting previewing and saving documents.
 type: docs
 weight: 13

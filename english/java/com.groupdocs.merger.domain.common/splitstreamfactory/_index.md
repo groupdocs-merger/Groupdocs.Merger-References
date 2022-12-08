@@ -1,6 +1,6 @@
 ---
 title: SplitStreamFactory
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface that defines method to create output split stream.
 type: docs
 weight: 11

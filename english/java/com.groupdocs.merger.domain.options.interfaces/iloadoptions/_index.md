@@ -1,6 +1,6 @@
 ---
 title: ILoadOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface for the document loading options.
 type: docs
 weight: 15
@@ -20,7 +20,7 @@ Interface for the document loading options.
 | [getType()](#getType--) | The type of the file to open. |
 | [getPassword()](#getPassword--) | The password for opening password-protected file. |
 | [getExtension()](#getExtension--) | The extension of the file to open. |
-| [getEncoding()](#getEncoding--) | The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
+| [getEncoding()](#getEncoding--) | The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
 ### getType() {#getType--}
 ```
 public abstract FileType getType()
@@ -57,7 +57,7 @@ public abstract Charset getEncoding()
 ```
 
 
-The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). Default value is [DefaultCharset][].
+The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). Default value is [DefaultCharset][].
 
 
 [DefaultCharset]: https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html#defaultCharset%28%29

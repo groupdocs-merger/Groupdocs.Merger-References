@@ -1,6 +1,6 @@
 ---
 title: FileTypeNotSupportedException
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The exception that is thrown when specified file type is not supported.
 type: docs
 weight: 11

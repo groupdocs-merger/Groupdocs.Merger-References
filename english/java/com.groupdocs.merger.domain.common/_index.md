@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.domain.common
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The com.groupdocs.merger.domain.common namespace provides common delegates.
 type: docs
 weight: 12

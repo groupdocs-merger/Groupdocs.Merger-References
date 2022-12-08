@@ -1,6 +1,6 @@
 ---
 title: PreviewOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents document preview options.
 type: docs
 weight: 27
@@ -20,10 +20,6 @@ Represents document preview options.
 
 | Constructor | Description |
 | --- | --- |
-| [PreviewOptions(int previewMode, int[] pageNumbers)](#PreviewOptions-int-int---) |  |
-| [PreviewOptions(int previewMode, int startNumber, int endNumber)](#PreviewOptions-int-int-int-) |  |
-| [PreviewOptions(int previewMode, int startNumber, int endNumber, int mode)](#PreviewOptions-int-int-int-int-) |  |
-| [PreviewOptions(String filePathFormat, int previewMode, int startNumber, int endNumber, int mode)](#PreviewOptions-java.lang.String-int-int-int-int-) |  |
 | [PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode)](#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-) | Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.domain.options/previewoptions) class. |
 | [PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode, int[] pageNumbers)](#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-int---) | Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.domain.options/previewoptions) class. |
 | [PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode, int startNumber, int endNumber)](#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-int-int-) | Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.domain.options/previewoptions) class. |
@@ -32,7 +28,6 @@ Represents document preview options.
 
 | Method | Description |
 | --- | --- |
-| [getFilePathInfo()](#getFilePathInfo--) |  |
 | [getWidth()](#getWidth--) | Preview width. |
 | [setWidth(int value)](#setWidth-int-) | Preview width. |
 | [getHeight()](#getHeight--) | Preview height. |
@@ -41,69 +36,6 @@ Represents document preview options.
 | [validate(FileType fileType)](#validate-com.groupdocs.merger.domain.FileType-) | Validates the preview options. |
 | [getPathByPageNumber(int pageNumber, String extension)](#getPathByPageNumber-int-java.lang.String-) | Gets the full file path of previewed document by page number with defined extension. |
 | [getPageStreamFactory()](#getPageStreamFactory--) | PageStreamFactory for create or release output page preview stream. |
-| [setPageStreamFactory(PageStreamFactory mPageStreamFactory)](#setPageStreamFactory-com.groupdocs.merger.domain.common.PageStreamFactory-) |  |
-### PreviewOptions(int previewMode, int[] pageNumbers) {#PreviewOptions-int-int---}
-```
-public PreviewOptions(int previewMode, int[] pageNumbers)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| previewMode | int |  |
-| pageNumbers | int[] |  |
-
-### PreviewOptions(int previewMode, int startNumber, int endNumber) {#PreviewOptions-int-int-int-}
-```
-public PreviewOptions(int previewMode, int startNumber, int endNumber)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| previewMode | int |  |
-| startNumber | int |  |
-| endNumber | int |  |
-
-### PreviewOptions(int previewMode, int startNumber, int endNumber, int mode) {#PreviewOptions-int-int-int-int-}
-```
-public PreviewOptions(int previewMode, int startNumber, int endNumber, int mode)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| previewMode | int |  |
-| startNumber | int |  |
-| endNumber | int |  |
-| mode | int |  |
-
-### PreviewOptions(String filePathFormat, int previewMode, int startNumber, int endNumber, int mode) {#PreviewOptions-java.lang.String-int-int-int-int-}
-```
-public PreviewOptions(String filePathFormat, int previewMode, int startNumber, int endNumber, int mode)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePathFormat | java.lang.String |  |
-| previewMode | int |  |
-| startNumber | int |  |
-| endNumber | int |  |
-| mode | int |  |
-
 ### PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode) {#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-}
 ```
 public PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode)
@@ -116,7 +48,7 @@ Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.do
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageStreamFactory | [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory) | The method that instantiates stream used to write output page data. |
-| previewMode | int | The preview mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| previewMode | int | The preview mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 
 ### PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode, int[] pageNumbers) {#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-int---}
 ```
@@ -130,7 +62,7 @@ Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.do
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageStreamFactory | [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory) | The method that instantiates stream used to write output page data. |
-| previewMode | int | The preview mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| previewMode | int | The preview mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | pageNumbers | int[] | Page numbers. |
 
 ### PreviewOptions(PageStreamFactory pageStreamFactory, int previewMode, int startNumber, int endNumber) {#PreviewOptions-com.groupdocs.merger.domain.common.PageStreamFactory-int-int-int-}
@@ -145,7 +77,7 @@ Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.do
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageStreamFactory | [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory) | The method that instantiates stream used to write output page data. |
-| previewMode | int | The preview mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| previewMode | int | The preview mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -161,21 +93,11 @@ Initializes a new instance of the [PreviewOptions](../../com.groupdocs.merger.do
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageStreamFactory | [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory) | The method that instantiates stream used to write output page data. |
-| previewMode | int | The preview mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| previewMode | int | The preview mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
 
-### getFilePathInfo() {#getFilePathInfo--}
-```
-public PreviewFilePathInfo getFilePathInfo()
-```
-
-
-
-
-**Returns:**
-[PreviewFilePathInfo](../../com.groupdocs.merger.domain.result.filepath/previewfilepathinfo)
 ### getWidth() {#getWidth--}
 ```
 public final int getWidth()
@@ -271,16 +193,3 @@ PageStreamFactory for create or release output page preview stream.
 
 **Returns:**
 [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory)
-### setPageStreamFactory(PageStreamFactory mPageStreamFactory) {#setPageStreamFactory-com.groupdocs.merger.domain.common.PageStreamFactory-}
-```
-public void setPageStreamFactory(PageStreamFactory mPageStreamFactory)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mPageStreamFactory | [PageStreamFactory](../../com.groupdocs.merger.domain.common/pagestreamfactory) |  |
-

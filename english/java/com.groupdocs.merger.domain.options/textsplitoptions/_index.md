@@ -1,6 +1,6 @@
 ---
 title: TextSplitOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides options for the document text splitting.
 type: docs
 weight: 37
@@ -30,13 +30,11 @@ Provides options for the document text splitting.
 
 | Method | Description |
 | --- | --- |
-| [getFilePathInfo()](#getFilePathInfo--) |  |
 | [getMode()](#getMode--) | Mode for text splitting. |
 | [getLineNumbers()](#getLineNumbers--) | Line numbers for text splitting. |
 | [validate(FileType fileType)](#validate-com.groupdocs.merger.domain.FileType-) | Validates the split options. |
 | [getPathByIndex(int index, String extension)](#getPathByIndex-int-java.lang.String-) | Gets the full file path of splitted document by index with defined extension. |
 | [getSplitStreamFactory()](#getSplitStreamFactory--) | SplitStreamFactory for create or release output page preview stream. |
-| [setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory)](#setSplitStreamFactory-com.groupdocs.merger.domain.common.SplitStreamFactory-) |  |
 ### TextSplitOptions(int[] lineNumbers) {#TextSplitOptions-int---}
 ```
 public TextSplitOptions(int[] lineNumbers)
@@ -122,16 +120,6 @@ Initializes a new instance of the [TextSplitOptions](../../com.groupdocs.merger.
 | mode | int | Mode for text splitting. |
 | lineNumbers | int[] | Line numbers for text splitting. |
 
-### getFilePathInfo() {#getFilePathInfo--}
-```
-public final SplitFilePathInfo getFilePathInfo()
-```
-
-
-
-
-**Returns:**
-[SplitFilePathInfo](../../com.groupdocs.merger.domain.result.filepath/splitfilepathinfo)
 ### getMode() {#getMode--}
 ```
 public final int getMode()
@@ -191,16 +179,3 @@ SplitStreamFactory for create or release output page preview stream.
 
 **Returns:**
 [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory)
-### setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory) {#setSplitStreamFactory-com.groupdocs.merger.domain.common.SplitStreamFactory-}
-```
-public void setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mSplitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) |  |
-

@@ -1,6 +1,6 @@
 ---
 title: ILogger
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines the methods that are used to perform logging.
 type: docs
 weight: 11

@@ -1,9 +1,9 @@
 ---
 title: ISplitOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface for the splitting options.
 type: docs
-weight: 31
+weight: 30
 url: /java/com.groupdocs.merger.domain.options.interfaces/isplitoptions/
 ---
 **All Implemented Interfaces:**

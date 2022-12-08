@@ -1,6 +1,6 @@
 ---
 title: UpdatePasswordOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides options for updating document password.
 type: docs
 weight: 38
@@ -26,7 +26,6 @@ Provides options for updating document password.
 | Method | Description |
 | --- | --- |
 | [getNewPassword()](#getNewPassword--) | A new password for the document protection. |
-| [setNewPassword(String value)](#setNewPassword-java.lang.String-) | First page number to exchange. |
 ### UpdatePasswordOptions(String newPassword) {#UpdatePasswordOptions-java.lang.String-}
 ```
 public UpdatePasswordOptions(String newPassword)
@@ -50,16 +49,3 @@ A new password for the document protection.
 
 **Returns:**
 java.lang.String
-### setNewPassword(String value) {#setNewPassword-java.lang.String-}
-```
-public void setNewPassword(String value)
-```
-
-
-First page number to exchange.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-

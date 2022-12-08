@@ -1,9 +1,9 @@
 ---
 title: IPdfAttachmentOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface for options of the embedded document to PDF as attachment.
 type: docs
-weight: 25
+weight: 24
 url: /java/com.groupdocs.merger.domain.options.interfaces/ipdfattachmentoptions/
 ---
 **All Implemented Interfaces:**

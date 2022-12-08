@@ -1,6 +1,6 @@
 ---
 title: IExtractOptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Interface for options to extract the document pages.
 type: docs
 weight: 11

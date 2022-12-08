@@ -1,6 +1,6 @@
 ---
 title: DocumentInfo
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines document description properties.
 type: docs
 weight: 10
@@ -26,9 +26,7 @@ Defines document description properties.
 | Method | Description |
 | --- | --- |
 | [getType()](#getType--) | Gets the file type. |
-| [setType(FileType value)](#setType-com.groupdocs.merger.domain.FileType-) |  |
 | [getPages()](#getPages--) | Defines document pages collection. |
-| [setPages(IPageInfo[] value)](#setPages-com.groupdocs.merger.domain.result.IPageInfo---) |  |
 | [getPageCount()](#getPageCount--) | The document pages count. |
 | [getSize()](#getSize--) | Document size in bytes |
 | [toString()](#toString--) | Returns a string that represents the current object. |
@@ -44,7 +42,7 @@ Initializes new instance of [DocumentInfo](../../com.groupdocs.merger.domain.res
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileType | [FileType](../../com.groupdocs.merger.domain/filetype) | The type of the file. |
-| pages | com.groupdocs.merger.domain.result.IPageInfo[] | The list of pages to view. |
+| pages | [IPageInfo\[\]](../../com.groupdocs.merger.domain.result/ipageinfo) | The list of pages to view. |
 | size | long | The size of the file. |
 
 ### getType() {#getType--}
@@ -57,19 +55,6 @@ Gets the file type.
 
 **Returns:**
 [FileType](../../com.groupdocs.merger.domain/filetype)
-### setType(FileType value) {#setType-com.groupdocs.merger.domain.FileType-}
-```
-public final void setType(FileType value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [FileType](../../com.groupdocs.merger.domain/filetype) |  |
-
 ### getPages() {#getPages--}
 ```
 public final IPageInfo[] getPages()
@@ -80,19 +65,6 @@ Defines document pages collection.
 
 **Returns:**
 com.groupdocs.merger.domain.result.IPageInfo[]
-### setPages(IPageInfo[] value) {#setPages-com.groupdocs.merger.domain.result.IPageInfo---}
-```
-public final void setPages(IPageInfo[] value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.groupdocs.merger.domain.result.IPageInfo[] |  |
-
 ### getPageCount() {#getPageCount--}
 ```
 public final int getPageCount()

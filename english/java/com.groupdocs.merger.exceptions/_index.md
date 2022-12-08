@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.exceptions
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The com.groupdocs.merger.exceptions namespace provides classes for exceptions which can occur while working with a document.
 type: docs
 weight: 16

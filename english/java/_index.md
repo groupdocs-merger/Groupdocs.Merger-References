@@ -1,9 +1,9 @@
 ---
-title: GroupDocs.Merger for Java
+title: GroupDocs.Signature for Java
 type: docs
 weight: 11
 url: /java/
-description: GroupDocs.Merger for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
+description: GroupDocs.Signature for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
 is_root: true
 ---
 
@@ -17,4 +17,6 @@ is_root: true
 | [com.groupdocs.merger.domain.options.interfaces](./com.groupdocs.merger.domain.options.interfaces) | The **com.groupdocs.merger.domain.options.interfaces** namespace provides classes for working with Interfaces. |
 | [com.groupdocs.merger.domain.result](./com.groupdocs.merger.domain.result) | The **com.groupdocs.merger.domain.result** namespace provides classes which represent document results. |
 | [com.groupdocs.merger.exceptions](./com.groupdocs.merger.exceptions) | The **com.groupdocs.merger.exceptions** namespace provides classes for exceptions which can occur while working with a document. |
+| [com.groupdocs.merger.licensing](./com.groupdocs.merger.licensing) | The **com.groupdocs.merger.licensing** namespace provides methods to license the component. |
+| [com.groupdocs.merger.licensing.metered](./com.groupdocs.merger.licensing.metered) | The **com.groupdocs.merger.licensing.metered** namespace provides methods to set metered key. |
 | [com.groupdocs.merger.logging](./com.groupdocs.merger.logging) | The **com.groupdocs.merger.logging** namespace provides classes for customizing logging behaviour. |

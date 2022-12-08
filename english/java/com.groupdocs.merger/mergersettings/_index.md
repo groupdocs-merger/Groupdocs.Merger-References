@@ -1,6 +1,6 @@
 ---
 title: MergerSettings
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines settings for customizing  behaviour.
 type: docs
 weight: 11
@@ -19,7 +19,6 @@ Defines settings for customizing [Merger](../../com.groupdocs.merger/merger) beh
 | --- | --- |
 | [MergerSettings()](#MergerSettings--) | Initializes new instance of [MergerSettings](../../com.groupdocs.merger/mergersettings) class. |
 | [MergerSettings(ILogger logger)](#MergerSettings-com.groupdocs.merger.logging.ILogger-) | Initializes new instance of [MergerSettings](../../com.groupdocs.merger/mergersettings) class. |
-| [MergerSettings(ICache cache, ILogger logger)](#MergerSettings-com.groupdocs.merger.domain.cache.ICache-com.groupdocs.merger.logging.ILogger-) |  |
 ## Methods
 
 | Method | Description |
@@ -46,20 +45,6 @@ Initializes new instance of [MergerSettings](../../com.groupdocs.merger/mergerse
 | Parameter | Type | Description |
 | --- | --- | --- |
 | logger | [ILogger](../../com.groupdocs.merger.logging/ilogger) | The logger implementation. |
-
-### MergerSettings(ICache cache, ILogger logger) {#MergerSettings-com.groupdocs.merger.domain.cache.ICache-com.groupdocs.merger.logging.ILogger-}
-```
-public MergerSettings(ICache cache, ILogger logger)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cache | [ICache](../../com.groupdocs.merger.domain.cache/icache) |  |
-| logger | [ILogger](../../com.groupdocs.merger.logging/ilogger) |  |
 
 ### getLogger() {#getLogger--}
 ```

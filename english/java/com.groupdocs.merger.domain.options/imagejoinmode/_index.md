@@ -1,6 +1,6 @@
 ---
 title: ImageJoinMode
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Possible modes for the image joining.
 type: docs
 weight: 12

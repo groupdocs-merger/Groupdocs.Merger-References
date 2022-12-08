@@ -1,9 +1,9 @@
 ---
 title: com.groupdocs.merger.logging
-second_title: GroupDocs.Merger for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The com.groupdocs.merger.logging namespace provides classes for customizing logging behaviour.
 type: docs
-weight: 17
+weight: 19
 url: /java/com.groupdocs.merger.logging/
 ---
 
