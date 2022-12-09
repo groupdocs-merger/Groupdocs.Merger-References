@@ -1,6 +1,6 @@
 ---
 title: PageOptions
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for specifying page or pages range.
 type: docs
 weight: 24

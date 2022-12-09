@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.domain.result
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.domain.result namespace provides classes which represent document results.
 type: docs
 weight: 15

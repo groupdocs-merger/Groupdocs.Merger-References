@@ -1,6 +1,6 @@
 ---
 title: License
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Provides methods to license the component.
 type: docs
 weight: 10

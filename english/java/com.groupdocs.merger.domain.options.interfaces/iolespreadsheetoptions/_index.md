@@ -1,6 +1,6 @@
 ---
 title: IOleSpreadsheetOptions
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Interface for import options of the embedded document to Spreadsheet via OLE.
 type: docs
 weight: 18

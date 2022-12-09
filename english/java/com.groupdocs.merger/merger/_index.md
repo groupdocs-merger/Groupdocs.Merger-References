@@ -1,6 +1,6 @@
 ---
 title: Merger
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
 weight: 10

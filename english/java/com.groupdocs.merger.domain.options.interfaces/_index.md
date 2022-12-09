@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.merger.domain.options.interfaces
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.domain.options.interfaces namespace provides classes for working with Interfaces.
 type: docs
 weight: 14

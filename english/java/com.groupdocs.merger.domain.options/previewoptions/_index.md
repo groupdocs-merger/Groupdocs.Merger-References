@@ -1,6 +1,6 @@
 ---
 title: PreviewOptions
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Represents document preview options.
 type: docs
 weight: 27

@@ -1,6 +1,6 @@
 ---
 title: IDocumentInfo
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the document description properties.
 type: docs
 weight: 12
