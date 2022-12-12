@@ -27,13 +27,9 @@ Defines page description properties.
 | Method | Description |
 | --- | --- |
 | [getNumber()](#getNumber--) | Gets the page number. |
-| [setNumber(int value)](#setNumber-int-) |  |
 | [getVisible()](#getVisible--) | Indicates whether page is visibile or not. |
-| [setVisible(boolean value)](#setVisible-boolean-) |  |
 | [getWidth()](#getWidth--) | Gets page width in pixels when converted to image. |
-| [setWidth(int value)](#setWidth-int-) |  |
 | [getHeight()](#getHeight--) | Gets page height in pixels when converted to image. |
-| [setHeight(int value)](#setHeight-int-) |  |
 ### PageInfo(int number, boolean visible) {#PageInfo-int-boolean-}
 ```
 public PageInfo(int number, boolean visible)
@@ -74,19 +70,6 @@ Gets the page number.
 
 **Returns:**
 int
-### setNumber(int value) {#setNumber-int-}
-```
-public final void setNumber(int value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
-
 ### getVisible() {#getVisible--}
 ```
 public final boolean getVisible()
@@ -97,19 +80,6 @@ Indicates whether page is visibile or not.
 
 **Returns:**
 boolean
-### setVisible(boolean value) {#setVisible-boolean-}
-```
-public final void setVisible(boolean value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean |  |
-
 ### getWidth() {#getWidth--}
 ```
 public final int getWidth()
@@ -120,19 +90,6 @@ Gets page width in pixels when converted to image.
 
 **Returns:**
 int
-### setWidth(int value) {#setWidth-int-}
-```
-public final void setWidth(int value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
-
 ### getHeight() {#getHeight--}
 ```
 public final int getHeight()
@@ -143,16 +100,3 @@ Gets page height in pixels when converted to image.
 
 **Returns:**
 int
-### setHeight(int value) {#setHeight-int-}
-```
-public final void setHeight(int value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
-

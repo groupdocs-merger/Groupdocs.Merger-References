@@ -33,7 +33,7 @@ Provides options for the document loading.
 | [getType()](#getType--) | The type of the file to open. |
 | [getExtension()](#getExtension--) | The extension of the file to open. |
 | [getPassword()](#getPassword--) | The password for opening password-protected file. |
-| [getEncoding()](#getEncoding--) | The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
+| [getEncoding()](#getEncoding--) | The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
 ### LoadOptions(FileType fileType) {#LoadOptions-com.groupdocs.merger.domain.FileType-}
 ```
 public LoadOptions(FileType fileType)
@@ -72,7 +72,7 @@ Initializes new instance of [LoadOptions](../../com.groupdocs.merger.domain.opti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | password | java.lang.String | The password for opening password-protected file. |
-| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
+| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
 
 ### LoadOptions(FileType fileType, String password) {#LoadOptions-com.groupdocs.merger.domain.FileType-java.lang.String-}
 ```
@@ -101,7 +101,7 @@ Initializes new instance of [LoadOptions](../../com.groupdocs.merger.domain.opti
 | --- | --- | --- |
 | fileType | [FileType](../../com.groupdocs.merger.domain/filetype) | The type of the file to open. |
 | password | java.lang.String | The password for opening password-protected file. |
-| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
+| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
 
 ### LoadOptions(String extension, FileType fileType, String password, Charset encoding) {#LoadOptions-java.lang.String-com.groupdocs.merger.domain.FileType-java.lang.String-java.nio.charset.Charset-}
 ```
@@ -117,7 +117,7 @@ Initializes new instance of [LoadOptions](../../com.groupdocs.merger.domain.opti
 | extension | java.lang.String | The extension of the file to open. |
 | fileType | [FileType](../../com.groupdocs.merger.domain/filetype) | The type of the file to open. |
 | password | java.lang.String | The password for opening password-protected file. |
-| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
+| encoding | java.nio.charset.Charset | The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT). |
 
 ### getType() {#getType--}
 ```
@@ -155,7 +155,7 @@ public final Charset getEncoding()
 ```
 
 
-The encoding used when opening text-based files such as [FileType\#CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType\#TXT](../../com.groupdocs.merger.domain/filetype\#TXT).
+The encoding used when opening text-based files such as [FileType.CSV](../../com.groupdocs.merger.domain/filetype\#CSV) or [FileType.TXT](../../com.groupdocs.merger.domain/filetype\#TXT).
 
 **Returns:**
 java.nio.charset.Charset

@@ -40,7 +40,7 @@ Initializes a new instance of the [RotateOptions](../../com.groupdocs.merger.dom
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotateMode | int | The rotating mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| rotateMode | int | The rotating mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 
 ### RotateOptions(int rotateMode, int[] pageNumbers) {#RotateOptions-int-int---}
 ```
@@ -53,7 +53,7 @@ Initializes a new instance of the [RotateOptions](../../com.groupdocs.merger.dom
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotateMode | int | The rotating mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| rotateMode | int | The rotating mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | pageNumbers | int[] | Page numbers. |
 
 ### RotateOptions(int rotateMode, int startNumber, int endNumber) {#RotateOptions-int-int-int-}
@@ -67,7 +67,7 @@ Initializes a new instance of the [RotateOptions](../../com.groupdocs.merger.dom
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotateMode | int | The rotating mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| rotateMode | int | The rotating mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -82,7 +82,7 @@ Initializes a new instance of the [RotateOptions](../../com.groupdocs.merger.dom
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotateMode | int | The rotating mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)) |
+| rotateMode | int | The rotating mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)) |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |

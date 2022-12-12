@@ -21,7 +21,6 @@ Provides options for specifying page or pages range.
 | Method | Description |
 | --- | --- |
 | [pages()](#pages--) | Get page numbers collection. |
-| [getPages()](#getPages--) |  |
 ### pages() {#pages--}
 ```
 public final int[] pages()
@@ -29,16 +28,6 @@ public final int[] pages()
 
 
 Get page numbers collection.
-
-**Returns:**
-int[]
-### getPages() {#getPages--}
-```
-public final int[] getPages()
-```
-
-
-Page numbers for the page options.
 
 **Returns:**
 int[]

@@ -3,7 +3,7 @@ title: IPager
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for apply option pages range and etc.
 type: docs
-weight: 24
+weight: 23
 url: /java/com.groupdocs.merger.domain.options.interfaces/ipager/
 ---```
 public interface IPager

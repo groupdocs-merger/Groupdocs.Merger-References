@@ -16,7 +16,6 @@ The **com.groupdocs.merger.domain.result** namespace provides classes which repr
 | --- | --- |
 | [DocumentInfo](../com.groupdocs.merger.domain.result/documentinfo) | Defines document description properties. |
 | [PageInfo](../com.groupdocs.merger.domain.result/pageinfo) | Defines page description properties. |
-| [ResultInfo](../com.groupdocs.merger.domain.result/resultinfo) | Provides info keys for the Merger method results |
 
 ## Interfaces
 

@@ -40,12 +40,10 @@ Provides options for the document page splitting.
 
 | Method | Description |
 | --- | --- |
-| [getFilePathInfo()](#getFilePathInfo--) |  |
 | [getMode()](#getMode--) | Gets the mode for page splitting. |
 | [validate(FileType fileType)](#validate-com.groupdocs.merger.domain.FileType-) | Validates the split options. |
 | [getPathByIndex(int index, String extension)](#getPathByIndex-int-java.lang.String-) | Gets the full file path of splitted document by index with pre-defined extension. |
 | [getSplitStreamFactory()](#getSplitStreamFactory--) | SplitStreamFactory for create or release output page preview stream. |
-| [setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory)](#setSplitStreamFactory-com.groupdocs.merger.domain.common.SplitStreamFactory-) |  |
 ### SplitOptions(int[] pageNumbers, int splitMode) {#SplitOptions-int---int-}
 ```
 public SplitOptions(int[] pageNumbers, int splitMode)
@@ -58,7 +56,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 
 ### SplitOptions(int splitMode, int startNumber, int endNumber) {#SplitOptions-int-int-int-}
 ```
@@ -71,7 +69,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -86,7 +84,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
@@ -118,7 +116,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 
 ### SplitOptions(String filePathFormat, int startNumber, int endNumber) {#SplitOptions-java.lang.String-int-int-}
 ```
@@ -147,7 +145,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -179,7 +177,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePathFormat | java.lang.String | The file path format e.g. 'c:/split\{0\}.doc' or 'c:/split\{0\}.\{1\}' with already pre-defined extension. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
@@ -224,7 +222,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
 | pageNumbers | int[] | Page numbers. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 
 ### SplitOptions(SplitStreamFactory splitStreamFactory, int startNumber, int endNumber) {#SplitOptions-com.groupdocs.merger.domain.common.SplitStreamFactory-int-int-}
 ```
@@ -253,7 +251,7 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 
@@ -285,21 +283,11 @@ Initializes a new instance of the [SplitOptions](../../com.groupdocs.merger.doma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | splitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) | The method that instantiates stream used to write output split data. |
-| splitMode | int | The splitting mode of  Mode ([\#getMode](../../null/\#getMode)/[\#setMode(int)](../../null/\#setMode-int-)). |
+| splitMode | int | The splitting mode of  Mode (\#getMode.getMode/\#setMode(int).setMode(int)). |
 | startNumber | int | The start page number. |
 | endNumber | int | The end page number. |
 | mode | int | The range mode. |
 
-### getFilePathInfo() {#getFilePathInfo--}
-```
-public final SplitFilePathInfo getFilePathInfo()
-```
-
-
-
-
-**Returns:**
-[SplitFilePathInfo](../../com.groupdocs.merger.domain.result.filepath/splitfilepathinfo)
 ### getMode() {#getMode--}
 ```
 public final int getMode()
@@ -349,16 +337,3 @@ SplitStreamFactory for create or release output page preview stream.
 
 **Returns:**
 [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory)
-### setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory) {#setSplitStreamFactory-com.groupdocs.merger.domain.common.SplitStreamFactory-}
-```
-public void setSplitStreamFactory(SplitStreamFactory mSplitStreamFactory)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mSplitStreamFactory | [SplitStreamFactory](../../com.groupdocs.merger.domain.common/splitstreamfactory) |  |
-

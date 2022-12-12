@@ -44,6 +44,9 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [JPEG](#JPEG) | JPEG Image (.jpeg) is a type of image format that is saved using the method of lossy compression. |
 | [PNG](#PNG) | Portable Network Graphic (.png) is a type of raster image file format that use loseless compression. |
 | [PS](#PS) | PostScript File (.ps) |
+| [TIF](#TIF) | Tagged Image File (.tif) |
+| [TIFF](#TIFF) | Tagged Image File Format (.tiff) |
+| [GIF](#GIF) | Graphical Interchange Format File (.gif) |
 | [HTML](#HTML) | Hypertext Markup Language File (.html) is the extension for web pages created for display in browsers. |
 | [MHT](#MHT) | MHTML Web Archive (.mht) is a web page archive format that can be created by a number of different applications. |
 | [MHTML](#MHTML) | MIME HTML File (.mhtml) is a web page archive format that can be created by a number of different applications. |
@@ -87,9 +90,7 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | Method | Description |
 | --- | --- |
 | [getFileFormat()](#getFileFormat--) | File type name e.g. |
-| [setFileFormat(String value)](#setFileFormat-java.lang.String-) |  |
 | [getExtension()](#getExtension--) | Filename suffix (including the period ".") e.g. |
-| [setExtension(String value)](#setExtension-java.lang.String-) |  |
 | [fromExtension(String extension)](#fromExtension-java.lang.String-) | Maps file extension to file type. |
 | [getSupportedFileTypes()](#getSupportedFileTypes--) | Retrieves supported file types |
 | [equals(FileType other)](#equals-com.groupdocs.merger.domain.FileType-) | Determines whether the current [FileType](../../com.groupdocs.merger.domain/filetype) is the same as specified [FileType](../../com.groupdocs.merger.domain/filetype) object. |
@@ -232,7 +233,7 @@ Bitmap Image File (.bmp) represent files that are used to store bitmap digital i
 
 ### JPG {#JPG}
 ```
-public static FileType JPG
+public static final FileType JPG
 ```
 
 
@@ -267,6 +268,30 @@ public static final FileType PS
 
 
 PostScript File (.ps)
+
+### TIF {#TIF}
+```
+public static FileType TIF
+```
+
+
+Tagged Image File (.tif)
+
+### TIFF {#TIFF}
+```
+public static FileType TIFF
+```
+
+
+Tagged Image File Format (.tiff)
+
+### GIF {#GIF}
+```
+public static FileType GIF
+```
+
+
+Graphical Interchange Format File (.gif)
 
 ### HTML {#HTML}
 ```
@@ -660,19 +685,6 @@ File type name e.g. "Microsoft Word Document".
 
 **Returns:**
 java.lang.String
-### setFileFormat(String value) {#setFileFormat-java.lang.String-}
-```
-public final void setFileFormat(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
 ### getExtension() {#getExtension--}
 ```
 public final String getExtension()
@@ -683,19 +695,6 @@ Filename suffix (including the period ".") e.g. ".doc".
 
 **Returns:**
 java.lang.String
-### setExtension(String value) {#setExtension-java.lang.String-}
-```
-public final void setExtension(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
 ### fromExtension(String extension) {#fromExtension-java.lang.String-}
 ```
 public static FileType fromExtension(String extension)
@@ -710,7 +709,7 @@ Maps file extension to file type.
 | extension | java.lang.String | File extension (including the period "."). |
 
 **Returns:**
-[FileType](../../com.groupdocs.merger.domain/filetype) - When file type is supported returns it, otherwise returns default [\#Unknown](../../null/\#Unknown) file type.
+[FileType](../../com.groupdocs.merger.domain/filetype) - When file type is supported returns it, otherwise returns default \#Unknown.Unknown file type.
 ### getSupportedFileTypes() {#getSupportedFileTypes--}
 ```
 public static List<FileType> getSupportedFileTypes()
@@ -741,7 +740,7 @@ true
 
 if both [FileType](../../com.groupdocs.merger.domain/filetype) objects are the same; otherwise,
 
-```java
+```
 false
 ```
 ### equals(Object obj) {#equals-java.lang.Object-}
@@ -764,13 +763,13 @@ true
 
 if
 
-```java
+```
 obj
 ```
 
 parameter is [FileType](../../com.groupdocs.merger.domain/filetype) and is the same as current [FileType](../../com.groupdocs.merger.domain/filetype) object; otherwise,
 
-```java
+```
 false
 ```
 ### hashCode() {#hashCode--}
@@ -804,7 +803,7 @@ true
 
 if both [FileType](../../com.groupdocs.merger.domain/filetype) objects are the same; otherwise,
 
-```java
+```
 false
 ```
 ### op_Inequality(FileType left, FileType right) {#op-Inequality-com.groupdocs.merger.domain.FileType-com.groupdocs.merger.domain.FileType-}
@@ -828,7 +827,7 @@ true
 
 if both [FileType](../../com.groupdocs.merger.domain/filetype) objects are not the same; otherwise,
 
-```java
+```
 false
 ```
 ### toString() {#toString--}
@@ -861,7 +860,7 @@ true
 
 if input [FileType](../../com.groupdocs.merger.domain/filetype) is primitive text format; otherwise,
 
-```java
+```
 false
 ```
 ### isImage(FileType fileType) {#isImage-com.groupdocs.merger.domain.FileType-}
@@ -884,7 +883,7 @@ true
 
 if input [FileType](../../com.groupdocs.merger.domain/filetype) is primitive image format; otherwise,
 
-```java
+```
 false
 ```
 ### getBase(FileType fileType) {#getBase-com.groupdocs.merger.domain.FileType-}

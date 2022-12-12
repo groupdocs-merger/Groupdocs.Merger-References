@@ -3,7 +3,7 @@ title: IPageInfo
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the page description properties.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.groupdocs.merger.domain.result/ipageinfo/
 ---```
 public interface IPageInfo

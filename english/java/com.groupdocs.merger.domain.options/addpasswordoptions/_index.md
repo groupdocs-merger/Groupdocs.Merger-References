@@ -26,7 +26,6 @@ Provides options for adding document password.
 | Method | Description |
 | --- | --- |
 | [getPassword()](#getPassword--) | The password for document protection. |
-| [setPassword(String value)](#setPassword-java.lang.String-) |  |
 ### AddPasswordOptions(String password) {#AddPasswordOptions-java.lang.String-}
 ```
 public AddPasswordOptions(String password)
@@ -50,16 +49,3 @@ The password for document protection.
 
 **Returns:**
 java.lang.String
-### setPassword(String value) {#setPassword-java.lang.String-}
-```
-public final void setPassword(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-

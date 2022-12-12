@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the document description properties.
 type: docs
-weight: 13
+weight: 12
 url: /java/com.groupdocs.merger.domain.result/idocumentinfo/
 ---```
 public interface IDocumentInfo

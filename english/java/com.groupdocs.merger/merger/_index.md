@@ -29,13 +29,7 @@ Represents the main class that controls the document merging process.
 
 | Method | Description |
 | --- | --- |
-| [getStream()](#getStream--) |  |
-| [getLoadOptions()](#getLoadOptions--) |  |
-| [getSettings()](#getSettings--) |  |
-| [getLogger()](#getLogger--) |  |
-| [getCache()](#getCache--) |  |
 | [dispose()](#dispose--) | Disposes resources. |
-| [getLastInfo(int info)](#getLastInfo-int-) |  |
 | [importDocument(IImportDocumentOptions importDocumentOptions)](#importDocument-com.groupdocs.merger.domain.options.interfaces.IImportDocumentOptions-) | Imports the document as attachment or embedded via Ole. |
 | [join(InputStream document)](#join-java.io.InputStream-) | Joins the documents into one single document. |
 | [join(InputStream document, IJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
@@ -172,56 +166,6 @@ Initializes new instance of [Merger](../../com.groupdocs.merger/merger) class.
 | loadOptions | [ILoadOptions](../../com.groupdocs.merger.domain.options.interfaces/iloadoptions) | The document load options. |
 | settings | [MergerSettings](../../com.groupdocs.merger/mergersettings) | The Merger settings. |
 
-### getStream() {#getStream--}
-```
-public final InputStream getStream()
-```
-
-
-
-
-**Returns:**
-java.io.InputStream
-### getLoadOptions() {#getLoadOptions--}
-```
-public final ILoadOptions getLoadOptions()
-```
-
-
-
-
-**Returns:**
-[ILoadOptions](../../com.groupdocs.merger.domain.options.interfaces/iloadoptions)
-### getSettings() {#getSettings--}
-```
-public final MergerSettings getSettings()
-```
-
-
-
-
-**Returns:**
-[MergerSettings](../../com.groupdocs.merger/mergersettings)
-### getLogger() {#getLogger--}
-```
-public final ILogger getLogger()
-```
-
-
-
-
-**Returns:**
-[ILogger](../../com.groupdocs.merger.logging/ilogger)
-### getCache() {#getCache--}
-```
-public final ICache getCache()
-```
-
-
-
-
-**Returns:**
-[ICache](../../com.groupdocs.merger.domain.cache/icache)
 ### dispose() {#dispose--}
 ```
 public final void dispose()
@@ -230,21 +174,6 @@ public final void dispose()
 
 Disposes resources.
 
-### getLastInfo(int info) {#getLastInfo-int-}
-```
-public final Object getLastInfo(int info)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| info | int |  |
-
-**Returns:**
-java.lang.Object
 ### importDocument(IImportDocumentOptions importDocumentOptions) {#importDocument-com.groupdocs.merger.domain.options.interfaces.IImportDocumentOptions-}
 ```
 public final void importDocument(IImportDocumentOptions importDocumentOptions)

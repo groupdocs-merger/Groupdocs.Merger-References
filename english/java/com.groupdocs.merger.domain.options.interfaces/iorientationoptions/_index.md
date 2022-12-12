@@ -3,7 +3,7 @@ title: IOrientationOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the page orientation options.
 type: docs
-weight: 22
+weight: 21
 url: /java/com.groupdocs.merger.domain.options.interfaces/iorientationoptions/
 ---
 **All Implemented Interfaces:**
