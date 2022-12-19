@@ -3,7 +3,7 @@ title: ILogger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines the methods that are used to perform logging.
 type: docs
-weight: 60
+weight: 780
 url: /net/groupdocs.merger.logging/ilogger/
 ---
 ## ILogger interface

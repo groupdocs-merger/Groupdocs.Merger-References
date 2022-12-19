@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileType | FileType | The type of the file to open. |
+| fileType | FileType | The type of the file to load. |
 
 ### Exceptions
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 Initializes new instance of [`LoadOptions`](../../loadoptions) class.
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 Initializes new instance of [`LoadOptions`](../../loadoptions) class.
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 Initializes new instance of [`LoadOptions`](../../loadoptions) class.
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileType | FileType | The type of the file to open. |
+| fileType | FileType | The type of the file to load. |
 | password | String | The password for opening password-protected file. |
 
 ### Exceptions
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 Initializes new instance of [`LoadOptions`](../../loadoptions) class.
 
@@ -118,7 +118,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileType | FileType | The type of the file to open. |
+| fileType | FileType | The type of the file to load. |
 | password | String | The password for opening password-protected file. |
 | encoding | Encoding | The encoding used when opening text-based files such as [`CSV`](../../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 Initializes new instance of [`LoadOptions`](../../loadoptions) class.
 
@@ -148,8 +148,8 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extension | String | The extension of the file to open. |
-| fileType | FileType | The type of the file to open. |
+| extension | String | The extension of the file to load. |
+| fileType | FileType | The type of the file to load. |
 | password | String | The password for opening password-protected file. |
 | encoding | Encoding | The encoding used when opening text-based files such as [`CSV`](../../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | Thrown when *fileType* is null. |
 | ArgumentNullException | Thrown when *encoding* is null. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+Initializes new instance of [`LoadOptions`](../../loadoptions) class.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iniFileType | FileType | The type of the file to init. |
+| fileType | FileType | The type of the file to load. |
+| password | String | The password for opening password-protected file. |
+| encoding | Encoding | The encoding used when opening text-based files such as [`CSV`](../../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *iniFileType* is null. |
+| ArgumentNullException | Thrown when *fileType* is null. |
+| ArgumentNullException | Thrown when *encoding* is null. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+Initializes new instance of [`LoadOptions`](../../loadoptions) class.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iniFileType | FileType | The type of the file to init. |
+| fileType | FileType | The type of the file to load. |
+| password | String | The password for opening password-protected file. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *iniFileType* is null. |
+| ArgumentNullException | Thrown when *fileType* is null. |
+
+### See Also
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+Initializes new instance of [`LoadOptions`](../../loadoptions) class.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| iniFileType | FileType | The type of the file to init. |
+| fileType | FileType | The type of the file to load. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *iniFileType* is null. |
+| ArgumentNullException | Thrown when *fileType* is null. |
 
 ### See Also
 
