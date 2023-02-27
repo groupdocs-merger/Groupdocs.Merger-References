@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: ZIP
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: Zipped File .zip
 type: docs
-weight: 510
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 600
+url: /net/groupdocs.merger.domain/filetype/zip/
 ---
-## FileType.XLAM field
+## FileType.ZIP field
 
-Excel Macro-Enabled Add-In (.xlam)
+Zipped File (.zip)
 
 ```csharp
-public static FileType XLAM;
+public static FileType ZIP;
 ```
 
 ### See Also

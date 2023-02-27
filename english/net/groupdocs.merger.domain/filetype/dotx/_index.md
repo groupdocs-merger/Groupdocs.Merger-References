@@ -3,7 +3,7 @@ title: DOTX
 second_title: GroupDocs.Merger for .NET API Reference
 description: Word Open XML Document Template .dotx are template files created by Microsoft Word to have preformatted settings for generation of further DOCX files. Learn more about this file format herehttps//docs.fileformat.com/wordprocessing/dotx.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field

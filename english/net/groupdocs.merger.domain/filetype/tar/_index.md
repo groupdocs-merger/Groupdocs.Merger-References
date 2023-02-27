@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: TAR
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: Consolidated Unix File Archive .tar
 type: docs
-weight: 510
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 350
+url: /net/groupdocs.merger.domain/filetype/tar/
 ---
-## FileType.XLAM field
+## FileType.TAR field
 
-Excel Macro-Enabled Add-In (.xlam)
+Consolidated Unix File Archive (.tar)
 
 ```csharp
-public static FileType XLAM;
+public static FileType TAR;
 ```
 
 ### See Also

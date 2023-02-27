@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: BZ2
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: Bzip2 Compressed File .bz2
 type: docs
-weight: 510
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 20
+url: /net/groupdocs.merger.domain/filetype/bz2/
 ---
-## FileType.XLAM field
+## FileType.BZ2 field
 
-Excel Macro-Enabled Add-In (.xlam)
+Bzip2 Compressed File (.bz2)
 
 ```csharp
-public static FileType XLAM;
+public static FileType BZ2;
 ```
 
 ### See Also

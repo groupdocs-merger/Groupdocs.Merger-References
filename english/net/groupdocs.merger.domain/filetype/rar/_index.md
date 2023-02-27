@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: RAR
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: Roshal ARchive Compressed File .rar
 type: docs
-weight: 510
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 320
+url: /net/groupdocs.merger.domain/filetype/rar/
 ---
-## FileType.XLAM field
+## FileType.RAR field
 
-Excel Macro-Enabled Add-In (.xlam)
+Roshal ARchive Compressed File (.rar)
 
 ```csharp
-public static FileType XLAM;
+public static FileType RAR;
 ```
 
 ### See Also

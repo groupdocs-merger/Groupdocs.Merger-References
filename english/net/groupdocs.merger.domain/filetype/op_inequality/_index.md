@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: GroupDocs.Merger for .NET API Reference
 description: Determines whether two FileTypegroupdocs.merger.domain/filetype objects are not the same.
 type: docs
-weight: 650
+weight: 720
 url: /net/groupdocs.merger.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator
