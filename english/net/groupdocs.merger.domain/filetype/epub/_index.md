@@ -3,7 +3,7 @@ title: EPUB
 second_title: GroupDocs.Merger for .NET API Reference
 description: Open eBook File .epub are an ebook file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many ereaders and software applications. Learn more about this file format herehttps//docs.fileformat.com/ebook/epub.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.merger.domain/filetype/epub/
 ---
 ## FileType.EPUB field

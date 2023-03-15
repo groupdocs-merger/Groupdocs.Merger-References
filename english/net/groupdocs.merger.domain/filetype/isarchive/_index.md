@@ -1,17 +1,17 @@
 ---
-title: IsText
+title: IsArchive
 second_title: GroupDocs.Merger for .NET API Reference
-description: Determines whether input FileTypegroupdocs.merger.domain/filetype is primitive text format.
+description: Determines whether input FileTypegroupdocs.merger.domain/filetype is archive format.
 type: docs
-weight: 700
-url: /net/groupdocs.merger.domain/filetype/istext/
+weight: 680
+url: /net/groupdocs.merger.domain/filetype/isarchive/
 ---
-## FileType.IsText method
+## FileType.IsArchive method
 
-Determines whether input [`FileType`](../../filetype) is primitive text format.
+Determines whether input [`FileType`](../../filetype) is archive format.
 
 ```csharp
-public static bool IsText(FileType fileType)
+public static bool IsArchive(FileType fileType)
 ```
 
 | Parameter | Type | Description |
@@ -24,7 +24,7 @@ public static bool IsText(FileType fileType)
 true
 ```
 
-if input [`FileType`](../../filetype) is primitive text format; otherwise,
+if input [`FileType`](../../filetype) is archive format; otherwise,
 
 ```csharp
 false

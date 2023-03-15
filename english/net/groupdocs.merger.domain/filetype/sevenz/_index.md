@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: SevenZ
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: 7Zip Compressed File .7z
 type: docs
-weight: 510
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 340
+url: /net/groupdocs.merger.domain/filetype/sevenz/
 ---
-## FileType.XLAM field
+## FileType.SevenZ field
 
-Excel Macro-Enabled Add-In (.xlam)
+7-Zip Compressed File (.7z)
 
 ```csharp
-public static FileType XLAM;
+public static FileType SevenZ;
 ```
 
 ### See Also
