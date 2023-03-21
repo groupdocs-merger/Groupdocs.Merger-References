@@ -1,0 +1,178 @@
+---
+title: WordJoinOptions
+second_title: .NET API संदर्भ के लिए GroupDocs.Merger
+description: क एक नय उदहरण प्ररंभ करत हैWordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions वर्ग.
+type: docs
+weight: 10
+url: /hi/net/groupdocs.merger.domain.options/wordjoinoptions/wordjoinoptions/
+---
+## WordJoinOptions() {#constructor}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions()
+```
+
+### यह सभी देखें
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int[]) {#constructor_7}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(int[] pageNumbers)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| pageNumbers | Int32[] | पेज नंबर। |
+
+### यह सभी देखें
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int) {#constructor_5}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| startNumber | Int32 | प्रारंभ पृष्ठ संख्या। |
+| endNumber | Int32 | अंतिम पृष्ठ संख्या। |
+
+### यह सभी देखें
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int, RangeMode) {#constructor_6}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| startNumber | Int32 | प्रारंभ पृष्ठ संख्या। |
+| endNumber | Int32 | अंतिम पृष्ठ संख्या। |
+| mode | RangeMode | रेंज मोड। |
+
+### यह सभी देखें
+
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType) {#constructor_1}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(FileType fileType)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| fileType | FileType | शामिल होने के लिए फ़ाइल का प्रकार। |
+
+### यह सभी देखें
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int[]) {#constructor_4}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| fileType | FileType | शामिल होने के लिए फ़ाइल का प्रकार। |
+| pageNumbers | Int32[] | पेज नंबर। |
+
+### यह सभी देखें
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int) {#constructor_2}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| fileType | FileType | शामिल होने के लिए फ़ाइल का प्रकार। |
+| startNumber | Int32 | प्रारंभ पृष्ठ संख्या। |
+| endNumber | Int32 | अंतिम पृष्ठ संख्या। |
+
+### यह सभी देखें
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+का एक नया उदाहरण प्रारंभ करता है[`WordJoinOptions`](../../wordjoinoptions) वर्ग.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| fileType | FileType | शामिल होने के लिए फ़ाइल का प्रकार। |
+| startNumber | Int32 | प्रारंभ पृष्ठ संख्या। |
+| endNumber | Int32 | अंतिम पृष्ठ संख्या। |
+| mode | RangeMode | रेंज मोड। |
+
+### यह सभी देखें
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* नाम स्थान [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* सभा [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
