@@ -1,14 +1,14 @@
 ---
 title: UpdatePasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化UpdatePasswordOptionsgroupdocs.merger.domain.options/updatepasswordoptions类.
+description: 初始化一个新的实例UpdatePasswordOptionsgroupdocs.merger.domain.options/updatepasswordoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/updatepasswordoptions/updatepasswordoptions/
 ---
 ## UpdatePasswordOptions constructor
 
-初始化[`UpdatePasswordOptions`](../../updatepasswordoptions)类.
+初始化一个新的实例[`UpdatePasswordOptions`](../../updatepasswordoptions)类.
 
 ```csharp
 public UpdatePasswordOptions(string newPassword)

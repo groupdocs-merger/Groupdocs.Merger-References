@@ -1,14 +1,14 @@
 ---
 title: FuncTTResult
 second_title: GroupDocs.Merger for .NET API 参考
-description: 封装一个方法该方法有一个参数并返回一个由TResult参数.
+description: 封装一个方法该方法只有一个参数并返回由参数指定的类型的值TResult参数.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger.domain.common/func-2/
 ---
 ## Func&lt;T,TResult&gt; delegate
 
-封装一个方法，该方法有一个参数并返回一个由*TResult*参数.
+封装一个方法，该方法只有一个参数，并返回由参数指定的类型的值*TResult*参数.
 
 ```csharp
 public delegate TResult Func<in T, out TResult>(T arg);
@@ -17,7 +17,7 @@ public delegate TResult Func<in T, out TResult>(T arg);
 | 范围 | 描述 |
 | --- | --- |
 | T | 此委托封装的方法的参数类型。 |
-| TResult | 此委托封装的方法的返回值的类型。 |
+| TResult | 此委托封装的方法的返回值类型。 |
 | arg | 此委托封装的方法的参数。 |
 
 ### 返回值

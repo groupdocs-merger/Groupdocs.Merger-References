@@ -3,7 +3,7 @@ title: DOTM
 second_title: GroupDocs.Merger for .NET API 参考
 description: Word Open XML 启用宏的文档模板 .dotm 表示使用 Microsoft Word 2007 或更高版本创建的模板文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/dotm
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/groupdocs.merger.domain/filetype/dotm/
 ---
 ## FileType.DOTM field

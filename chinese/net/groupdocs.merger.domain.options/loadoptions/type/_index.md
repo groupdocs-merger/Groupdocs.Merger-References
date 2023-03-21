@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Merger for .NET API 参考
-description: 要打开的文件类型
+description: 要加载的文件类型
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-要打开的文件类型。
+要加载的文件类型。
 
 ```csharp
 public FileType Type { get; }

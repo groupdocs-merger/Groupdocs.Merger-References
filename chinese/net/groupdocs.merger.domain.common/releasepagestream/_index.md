@@ -1,14 +1,14 @@
 ---
 title: ReleasePageStream
 second_title: GroupDocs.Merger for .NET API 参考
-description: 定义释放输出页面预览流的方法的委托
+description: 定义释放输出页面预览流方法的委托
 type: docs
 weight: 80
 url: /zh/net/groupdocs.merger.domain.common/releasepagestream/
 ---
 ## ReleasePageStream delegate
 
-定义释放输出页面预览流的方法的委托。
+定义释放输出页面预览流方法的委托。
 
 ```csharp
 public delegate void ReleasePageStream(int pageNumber, Stream createPageStream);

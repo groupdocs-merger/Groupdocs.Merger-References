@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Merger.Domain.Result
 second_title: GroupDocs.Merger for .NET API 参考
-description: 命名空间提供了代表文档结果的类
+description: 命名空间提供表示文档结果的类
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.result/
 ---
-命名空间提供了代表文档结果的类。
+命名空间提供表示文档结果的类。
 
 ## 课程
 

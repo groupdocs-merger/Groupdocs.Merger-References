@@ -18,7 +18,7 @@ public class DocumentInfo : IDocumentInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DocumentInfo](documentinfo)(FileType, IPageInfo[], long) | 初始化的新实例[`DocumentInfo`](../documentinfo)类. |
+| [DocumentInfo](documentinfo)(FileType, IPageInfo[], long) | 初始化新实例[`DocumentInfo`](../documentinfo)类. |
 
 ## 特性
 
@@ -26,14 +26,14 @@ public class DocumentInfo : IDocumentInfo
 | --- | --- |
 | [PageCount](../../groupdocs.merger.domain.result/documentinfo/pagecount) { get; } | 文档页数。 |
 | [Pages](../../groupdocs.merger.domain.result/documentinfo/pages) { get; } | 定义文档页面集合。 |
-| [Size](../../groupdocs.merger.domain.result/documentinfo/size) { get; } | 以字节为单位的文档大小 |
+| [Size](../../groupdocs.merger.domain.result/documentinfo/size) { get; } | 文档大小（以字节为单位） |
 | [Type](../../groupdocs.merger.domain.result/documentinfo/type) { get; } | 获取文件类型。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.merger.domain.result/documentinfo/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.merger.domain.result/documentinfo/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

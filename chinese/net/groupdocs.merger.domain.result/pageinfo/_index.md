@@ -18,17 +18,17 @@ public class PageInfo : IPageInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PageInfo](pageinfo#constructor)(int, bool) | 初始化的新实例[`PageInfo`](../pageinfo)类. |
-| [PageInfo](pageinfo#constructor_1)(int, bool, int, int) | 初始化的新实例[`PageInfo`](../pageinfo)类. |
+| [PageInfo](pageinfo#constructor)(int, bool) | 初始化新实例[`PageInfo`](../pageinfo)类. |
+| [PageInfo](pageinfo#constructor_1)(int, bool, int, int) | 初始化新实例[`PageInfo`](../pageinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../groupdocs.merger.domain.result/pageinfo/height) { get; } | 转换为图像时获取页面高度（以像素为单位）。 |
+| [Height](../../groupdocs.merger.domain.result/pageinfo/height) { get; } | 转换为图像时以像素为单位获取页面高度。 |
 | [Number](../../groupdocs.merger.domain.result/pageinfo/number) { get; } | 获取页码。 |
 | [Visible](../../groupdocs.merger.domain.result/pageinfo/visible) { get; } | 指示页面是否可见。 |
-| [Width](../../groupdocs.merger.domain.result/pageinfo/width) { get; } | 转换为图像时获取页面宽度（以像素为单位）。 |
+| [Width](../../groupdocs.merger.domain.result/pageinfo/width) { get; } | 转换为图像时以像素为单位获取页面宽度。 |
 
 ### 也可以看看
 

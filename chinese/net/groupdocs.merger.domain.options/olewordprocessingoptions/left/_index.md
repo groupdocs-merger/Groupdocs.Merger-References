@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: GroupDocs.Merger for .NET API 参考
-description: Ole 对象图像的左坐标
+description: Ole对象图像的左坐标
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger.domain.options/olewordprocessingoptions/left/
 ---
 ## OleWordProcessingOptions.Left property
 
-Ole 对象图像的左坐标。
+Ole对象图像的左坐标。
 
 ```csharp
 public int Left { get; set; }

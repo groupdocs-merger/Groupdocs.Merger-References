@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文件名后缀包括句点. 例如.doc.
+description: 文件名后缀包括句点.例如.doc.
 type: docs
-weight: 490
+weight: 620
 url: /zh/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property
 
-文件名后缀（包括句点“.”） 例如“.doc”.
+文件名后缀（包括句点“.”）例如“.doc”.
 
 ```csharp
 public string Extension { get; }

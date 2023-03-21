@@ -18,7 +18,7 @@ public interface ILogger
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Error](../../groupdocs.merger.logging/ilogger/error)(string, Exception) | 写入错误日志消息； 错误日志消息提供有关应用程序流中不可恢复事件的信息。 |
+| [Error](../../groupdocs.merger.logging/ilogger/error)(string, Exception) | 写入错误日志消息； 错误日志消息提供有关应用程序流程中不可恢复事件的信息。 |
 | [Trace](../../groupdocs.merger.logging/ilogger/trace)(string) | 写入跟踪日志消息； 跟踪日志消息提供有关应用程序流的一般有用信息。 |
 | [Warning](../../groupdocs.merger.logging/ilogger/warning)(string) | 写入警告日志消息； 警告日志消息提供有关应用程序流中意外和可恢复事件的信息。 |
 

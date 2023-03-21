@@ -1,14 +1,14 @@
 ---
 title: GroupDocsMergerException
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化GroupDocsMergerExceptiongroupdocs.merger.exceptions/groupdocsmergerexception类.
+description: 初始化一个新的实例GroupDocsMergerExceptiongroupdocs.merger.exceptions/groupdocsmergerexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.exceptions/groupdocsmergerexception/groupdocsmergerexception/
 ---
 ## GroupDocsMergerException(string) {#constructor}
 
-初始化[`GroupDocsMergerException`](../../groupdocsmergerexception)类.
+初始化一个新的实例[`GroupDocsMergerException`](../../groupdocsmergerexception)类.
 
 ```csharp
 public GroupDocsMergerException(string message)
@@ -28,7 +28,7 @@ public GroupDocsMergerException(string message)
 
 ## GroupDocsMergerException(string, Exception) {#constructor_1}
 
-初始化[`GroupDocsMergerException`](../../groupdocsmergerexception)类.
+初始化一个新的实例[`GroupDocsMergerException`](../../groupdocsmergerexception)类.
 
 ```csharp
 public GroupDocsMergerException(string message, Exception innerException)

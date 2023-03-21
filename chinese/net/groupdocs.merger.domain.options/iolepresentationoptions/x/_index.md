@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入对象框的X坐标
+description: 嵌入对象框的 X 坐标
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/iolepresentationoptions/x/
 ---
 ## IOlePresentationOptions.X property
 
-嵌入对象框的X坐标。
+嵌入对象框的 X 坐标。
 
 ```csharp
 public int X { get; set; }

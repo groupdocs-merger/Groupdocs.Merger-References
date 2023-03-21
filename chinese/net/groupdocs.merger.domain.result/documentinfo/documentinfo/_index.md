@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例DocumentInfogroupdocs.merger.domain.result/documentinfo类.
+description: 初始化新实例DocumentInfogroupdocs.merger.domain.result/documentinfo类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.result/documentinfo/documentinfo/
 ---
 ## DocumentInfo constructor
 
-初始化的新实例[`DocumentInfo`](../../documentinfo)类.
+初始化新实例[`DocumentInfo`](../../documentinfo)类.
 
 ```csharp
 public DocumentInfo(FileType fileType, IPageInfo[] pages, long size)
@@ -24,8 +24,8 @@ public DocumentInfo(FileType fileType, IPageInfo[] pages, long size)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*fileType*一片空白。 |
-| ArgumentNullException | 何时抛出*pages*一片空白。 |
+| ArgumentNullException | 抛出时*fileType*一片空白。 |
+| ArgumentNullException | 抛出时*pages*一片空白。 |
 
 ### 也可以看看
 

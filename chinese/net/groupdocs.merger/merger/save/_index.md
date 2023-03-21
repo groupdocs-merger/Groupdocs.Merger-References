@@ -22,7 +22,7 @@ public void Save(Stream document)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public void Save(string filePath)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
 
 ### 也可以看看
 
@@ -75,7 +75,7 @@ public void Save(string filePath, bool useDefaultDirectory)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
 
 ### 也可以看看
 

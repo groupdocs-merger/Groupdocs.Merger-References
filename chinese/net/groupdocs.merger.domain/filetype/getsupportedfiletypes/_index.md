@@ -3,7 +3,7 @@ title: GetSupportedFileTypes
 second_title: GroupDocs.Merger for .NET API 参考
 description: 检索支持的文件类型
 type: docs
-weight: 540
+weight: 670
 url: /zh/net/groupdocs.merger.domain/filetype/getsupportedfiletypes/
 ---
 ## FileType.GetSupportedFileTypes method
@@ -16,7 +16,7 @@ public static IEnumerable<FileType> GetSupportedFileTypes()
 
 ### 返回值
 
-返回支持的文件类型的序列
+返回支持的文件类型序列
 
 ### 也可以看看
 

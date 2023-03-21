@@ -1,14 +1,14 @@
 ---
 title: JoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化JoinOptionsgroupdocs.merger.domain.options/joinoptions类.
+description: 初始化一个新的实例JoinOptionsgroupdocs.merger.domain.options/joinoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/joinoptions/joinoptions/
 ---
 ## JoinOptions() {#constructor}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions()
@@ -24,7 +24,7 @@ public JoinOptions()
 
 ## JoinOptions(int[]) {#constructor_7}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(int[] pageNumbers)
@@ -44,7 +44,7 @@ public JoinOptions(int[] pageNumbers)
 
 ## JoinOptions(int, int) {#constructor_5}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(int startNumber, int endNumber)
@@ -65,7 +65,7 @@ public JoinOptions(int startNumber, int endNumber)
 
 ## JoinOptions(int, int, RangeMode) {#constructor_6}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(int startNumber, int endNumber, RangeMode mode)
@@ -88,7 +88,7 @@ public JoinOptions(int startNumber, int endNumber, RangeMode mode)
 
 ## JoinOptions(FileType) {#constructor_1}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(FileType fileType)
@@ -109,7 +109,7 @@ public JoinOptions(FileType fileType)
 
 ## JoinOptions(FileType, int[]) {#constructor_4}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(FileType fileType, int[] pageNumbers)
@@ -131,7 +131,7 @@ public JoinOptions(FileType fileType, int[] pageNumbers)
 
 ## JoinOptions(FileType, int, int) {#constructor_2}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(FileType fileType, int startNumber, int endNumber)
@@ -154,7 +154,7 @@ public JoinOptions(FileType fileType, int startNumber, int endNumber)
 
 ## JoinOptions(FileType, int, int, RangeMode) {#constructor_3}
 
-初始化[`JoinOptions`](../../joinoptions)类.
+初始化一个新的实例[`JoinOptions`](../../joinoptions)类.
 
 ```csharp
 public JoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)

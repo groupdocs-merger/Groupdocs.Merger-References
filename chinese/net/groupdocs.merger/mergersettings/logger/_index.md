@@ -1,14 +1,14 @@
 ---
 title: Logger
 second_title: GroupDocs.Merger for .NET API 参考
-description: 用于跟踪文档处理工作流的记录器实现
+description: 用于跟踪文档处理工作流程的记录器实现
 type: docs
 weight: 20
 url: /zh/net/groupdocs.merger/mergersettings/logger/
 ---
 ## MergerSettings.Logger property
 
-用于跟踪文档处理工作流的记录器实现。
+用于跟踪文档处理工作流程的记录器实现。
 
 ```csharp
 public ILogger Logger { get; set; }

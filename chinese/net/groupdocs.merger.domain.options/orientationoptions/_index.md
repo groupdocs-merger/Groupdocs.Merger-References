@@ -18,17 +18,17 @@ public class OrientationOptions : PageOptions, IOrientationOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OrientationOptions](orientationoptions#constructor)(OrientationMode) | 初始化[`OrientationOptions`](../orientationoptions)类. |
-| [OrientationOptions](orientationoptions#constructor_3)(OrientationMode, int[]) | 初始化[`OrientationOptions`](../orientationoptions)类. |
-| [OrientationOptions](orientationoptions#constructor_1)(OrientationMode, int, int) | 初始化[`OrientationOptions`](../orientationoptions)类. |
-| [OrientationOptions](orientationoptions#constructor_2)(OrientationMode, int, int, RangeMode) | 初始化[`OrientationOptions`](../orientationoptions)类. |
+| [OrientationOptions](orientationoptions#constructor)(OrientationMode) | 初始化一个新的实例[`OrientationOptions`](../orientationoptions)类. |
+| [OrientationOptions](orientationoptions#constructor_3)(OrientationMode, int[]) | 初始化一个新的实例[`OrientationOptions`](../orientationoptions)类. |
+| [OrientationOptions](orientationoptions#constructor_1)(OrientationMode, int, int) | 初始化一个新的实例[`OrientationOptions`](../orientationoptions)类. |
+| [OrientationOptions](orientationoptions#constructor_2)(OrientationMode, int, int, RangeMode) | 初始化一个新的实例[`OrientationOptions`](../orientationoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Mode](../../groupdocs.merger.domain.options/orientationoptions/mode) { get; } | 获取页面方向的模式。 |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 
 ### 也可以看看
 

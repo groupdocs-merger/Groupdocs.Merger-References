@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Merger for .NET API 参考
 description: 将文件扩展名映射到文件类型
 type: docs
-weight: 480
+weight: 610
 url: /zh/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method
@@ -20,13 +20,13 @@ public static FileType FromExtension(string extension)
 
 ### 返回值
 
-支持文件类型时返回，否则返回默认值[`Unknown`](../unknown)文件类型。
+当支持文件类型时返回它，否则返回默认值[`Unknown`](../unknown)文件类型。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 何时抛出*extension*为 null 或空字符串。 |
+| ArgumentException | 抛出时*extension*为 null 或空字符串。 |
 
 ### 也可以看看
 

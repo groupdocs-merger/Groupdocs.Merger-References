@@ -1,14 +1,14 @@
 ---
 title: OleDiagramOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化OleDiagramOptionsgroupdocs.merger.domain.options/olediagramoptions类.
+description: 初始化一个新的实例OleDiagramOptionsgroupdocs.merger.domain.options/olediagramoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/olediagramoptions/olediagramoptions/
 ---
 ## OleDiagramOptions(byte[], byte[], string, int) {#constructor}
 
-初始化[`OleDiagramOptions`](../../olediagramoptions)类.
+初始化一个新的实例[`OleDiagramOptions`](../../olediagramoptions)类.
 
 ```csharp
 public OleDiagramOptions(byte[] objectData, byte[] imageData, string extension, int pageNumber)
@@ -31,7 +31,7 @@ public OleDiagramOptions(byte[] objectData, byte[] imageData, string extension, 
 
 ## OleDiagramOptions(string, byte[], int) {#constructor_1}
 
-初始化[`OleDiagramOptions`](../../olediagramoptions)类.
+初始化一个新的实例[`OleDiagramOptions`](../../olediagramoptions)类.
 
 ```csharp
 public OleDiagramOptions(string filePath, byte[] imageData, int pageNumber)
@@ -53,7 +53,7 @@ public OleDiagramOptions(string filePath, byte[] imageData, int pageNumber)
 
 ## OleDiagramOptions(string, int) {#constructor_2}
 
-初始化[`OleDiagramOptions`](../../olediagramoptions)类.
+初始化一个新的实例[`OleDiagramOptions`](../../olediagramoptions)类.
 
 ```csharp
 public OleDiagramOptions(string filePath, int pageNumber)

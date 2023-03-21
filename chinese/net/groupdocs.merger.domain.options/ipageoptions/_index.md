@@ -1,14 +1,14 @@
 ---
 title: IPageOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 页面选项接口
+description: 页面选项的接口
 type: docs
 weight: 260
 url: /zh/net/groupdocs.merger.domain.options/ipageoptions/
 ---
 ## IPageOptions interface
 
-页面选项接口
+页面选项的接口
 
 ```csharp
 public interface IPageOptions : IOptions

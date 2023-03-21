@@ -1,14 +1,14 @@
 ---
 title: Merger
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例Mergergroupdocs.merger/merger类.
+description: 初始化新实例Mergergroupdocs.merger/merger类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger/merger/merger/
 ---
 ## Merger(Stream) {#constructor_4}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Stream document)
@@ -22,7 +22,7 @@ public Merger(Stream document)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public Merger(Stream document)
 
 ## Merger(Stream, ILoadOptions) {#constructor_5}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Stream document, ILoadOptions loadOptions)
@@ -49,8 +49,8 @@ public Merger(Stream document, ILoadOptions loadOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
 
 ### 也可以看看
 
@@ -63,7 +63,7 @@ public Merger(Stream document, ILoadOptions loadOptions)
 
 ## Merger(Stream, MergerSettings) {#constructor_7}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Stream document, MergerSettings settings)
@@ -78,8 +78,8 @@ public Merger(Stream document, MergerSettings settings)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 
@@ -92,7 +92,7 @@ public Merger(Stream document, MergerSettings settings)
 
 ## Merger(Stream, ILoadOptions, MergerSettings) {#constructor_6}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Stream document, ILoadOptions loadOptions, MergerSettings settings)
@@ -108,9 +108,9 @@ public Merger(Stream document, ILoadOptions loadOptions, MergerSettings settings
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 
@@ -124,7 +124,7 @@ public Merger(Stream document, ILoadOptions loadOptions, MergerSettings settings
 
 ## Merger(Func&lt;Stream&gt;) {#constructor}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Func<Stream> getFileStream)
@@ -138,7 +138,7 @@ public Merger(Func<Stream> getFileStream)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*getFileStream*一片空白。 |
+| ArgumentNullException | 抛出时*getFileStream*一片空白。 |
 
 ### 也可以看看
 
@@ -151,7 +151,7 @@ public Merger(Func<Stream> getFileStream)
 
 ## Merger(Func&lt;Stream&gt;, ILoadOptions) {#constructor_1}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions)
@@ -166,8 +166,8 @@ public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*getFileStream*一片空白。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*getFileStream*一片空白。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
 
 ### 也可以看看
 
@@ -181,7 +181,7 @@ public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions)
 
 ## Merger(Func&lt;Stream&gt;, MergerSettings) {#constructor_3}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Func<Stream> getFileStream, MergerSettings settings)
@@ -196,8 +196,8 @@ public Merger(Func<Stream> getFileStream, MergerSettings settings)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*getFileStream*一片空白。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*getFileStream*一片空白。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 
@@ -211,7 +211,7 @@ public Merger(Func<Stream> getFileStream, MergerSettings settings)
 
 ## Merger(Func&lt;Stream&gt;, ILoadOptions, MergerSettings) {#constructor_2}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions, MergerSettings settings)
@@ -227,9 +227,9 @@ public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions, MergerSettin
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*getFileStream*一片空白。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*getFileStream*一片空白。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 
@@ -244,7 +244,7 @@ public Merger(Func<Stream> getFileStream, ILoadOptions loadOptions, MergerSettin
 
 ## Merger(string) {#constructor_8}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(string filePath)
@@ -258,7 +258,7 @@ public Merger(string filePath)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
 
 ### 也可以看看
 
@@ -270,7 +270,7 @@ public Merger(string filePath)
 
 ## Merger(string, ILoadOptions) {#constructor_9}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(string filePath, ILoadOptions loadOptions)
@@ -285,8 +285,8 @@ public Merger(string filePath, ILoadOptions loadOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
 
 ### 也可以看看
 
@@ -299,7 +299,7 @@ public Merger(string filePath, ILoadOptions loadOptions)
 
 ## Merger(string, MergerSettings) {#constructor_11}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(string filePath, MergerSettings settings)
@@ -314,8 +314,8 @@ public Merger(string filePath, MergerSettings settings)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 
@@ -328,7 +328,7 @@ public Merger(string filePath, MergerSettings settings)
 
 ## Merger(string, ILoadOptions, MergerSettings) {#constructor_10}
 
-初始化的新实例[`Merger`](../../merger)类.
+初始化新实例[`Merger`](../../merger)类.
 
 ```csharp
 public Merger(string filePath, ILoadOptions loadOptions, MergerSettings settings)
@@ -344,9 +344,9 @@ public Merger(string filePath, ILoadOptions loadOptions, MergerSettings settings
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
-| ArgumentNullException | 何时抛出*loadOptions*一片空白。 |
-| ArgumentNullException | 何时抛出*settings*一片空白。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
+| ArgumentNullException | 抛出时*loadOptions*一片空白。 |
+| ArgumentNullException | 抛出时*settings*一片空白。 |
 
 ### 也可以看看
 

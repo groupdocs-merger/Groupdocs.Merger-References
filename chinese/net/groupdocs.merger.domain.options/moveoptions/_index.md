@@ -18,13 +18,13 @@ public class MoveOptions : IMoveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MoveOptions](moveoptions)(int, int) | 初始化[`MoveOptions`](../moveoptions)类. |
+| [MoveOptions](moveoptions)(int, int) | 初始化一个新的实例[`MoveOptions`](../moveoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NewPageNumber](../../groupdocs.merger.domain.options/moveoptions/newpagenumber) { get; } | 获取或设置新的页码。 |
+| [NewPageNumber](../../groupdocs.merger.domain.options/moveoptions/newpagenumber) { get; } | 获取或设置新页码。 |
 | [PageNumberToMove](../../groupdocs.merger.domain.options/moveoptions/pagenumbertomove) { get; } | 获取或设置要移动的页码。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: FileCorruptedException
 second_title: GroupDocs.Merger for .NET API 参考
-description: 指定文件似乎已损坏而无法加载时引发的异常
+description: 由于指定文件似乎已损坏而无法加载时引发的异常
 type: docs
 weight: 710
 url: /zh/net/groupdocs.merger.exceptions/filecorruptedexception/
 ---
 ## FileCorruptedException class
 
-指定文件似乎已损坏而无法加载时引发的异常。
+由于指定文件似乎已损坏而无法加载时引发的异常。
 
 ```csharp
 public class FileCorruptedException : GroupDocsMergerException

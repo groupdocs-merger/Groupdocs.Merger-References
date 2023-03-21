@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: GroupDocs.Merger for .NET API 参考
-description: Excel Open XML 启用宏的电子表格模板 .xltm 将 Microsoft Excel 生成的文件表示为启用宏的模板文件 XLTM 文件在结构上与 XLTX 相似只是后者不支持使用宏创建模板文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/xltm
+description: Excel Open XML 启用宏的电子表格模板 .xltm 表示由 Microsoft Excel 作为启用宏的模板文件生成的文件 XLTM 文件在结构上类似于 XLTX只是后者不支持使用宏创建模板文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/xltm
 type: docs
-weight: 450
+weight: 570
 url: /zh/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Excel Open XML 启用宏的电子表格模板 (.xltm) 将 Microsoft Excel 生成的文件表示为启用宏的模板文件。 XLTM 文件在结构上与 XLTX 相似，只是后者不支持使用宏创建模板文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/xltm)
+Excel Open XML 启用宏的电子表格模板 (.xltm) 表示由 Microsoft Excel 作为启用宏的模板文件生成的文件。 XLTM 文件在结构上类似于 XLTX，只是后者不支持使用宏创建模板文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/xltm)
 
 ```csharp
 public static FileType XLTM;

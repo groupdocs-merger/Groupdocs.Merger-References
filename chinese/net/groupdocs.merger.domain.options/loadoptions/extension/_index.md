@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger for .NET API 参考
-description: 要打开的文件的扩展名
+description: init. 文件的扩展名
 type: docs
 weight: 30
 url: /zh/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-要打开的文件的扩展名。
+init. 文件的扩展名
 
 ```csharp
 public string Extension { get; }

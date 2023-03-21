@@ -18,24 +18,24 @@ public class PreviewOptions : PageOptions, IPreviewOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor_4)(CreatePageStream, PreviewMode) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_7)(CreatePageStream, PreviewMode, int[]) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream, ReleasePageStream, PreviewMode) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_5)(CreatePageStream, PreviewMode, int, int) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_3)(CreatePageStream, ReleasePageStream, PreviewMode, int[]) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_6)(CreatePageStream, PreviewMode, int, int, RangeMode) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream, PreviewMode, int, int) | 初始化[`PreviewOptions`](../previewoptions)类. |
-| [PreviewOptions](previewoptions#constructor_2)(CreatePageStream, ReleasePageStream, PreviewMode, int, int, RangeMode) | 初始化[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_4)(CreatePageStream, PreviewMode) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_7)(CreatePageStream, PreviewMode, int[]) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream, ReleasePageStream, PreviewMode) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_5)(CreatePageStream, PreviewMode, int, int) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_3)(CreatePageStream, ReleasePageStream, PreviewMode, int[]) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_6)(CreatePageStream, PreviewMode, int, int, RangeMode) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream, PreviewMode, int, int) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
+| [PreviewOptions](previewoptions#constructor_2)(CreatePageStream, ReleasePageStream, PreviewMode, int, int, RangeMode) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CreateStream](../../groupdocs.merger.domain.options/previewoptions/createstream) { get; } | 定义创建输出页面预览流的方法的委托。 |
-| [Height](../../groupdocs.merger.domain.options/previewoptions/height) { get; set; } | 预览高度。 |
-| [Mode](../../groupdocs.merger.domain.options/previewoptions/mode) { get; } | 预览模式。 |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
-| [ReleaseStream](../../groupdocs.merger.domain.options/previewoptions/releasestream) { get; } | 定义释放输出页面预览流的方法的委托。 |
+| [Height](../../groupdocs.merger.domain.options/previewoptions/height) { get; set; } | 预览高度. |
+| [Mode](../../groupdocs.merger.domain.options/previewoptions/mode) { get; } | 预览模式. |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
+| [ReleaseStream](../../groupdocs.merger.domain.options/previewoptions/releasestream) { get; } | 定义释放输出页面预览流方法的委托。 |
 | [Width](../../groupdocs.merger.domain.options/previewoptions/width) { get; set; } | 预览宽度. |
 
 ## 方法

@@ -18,28 +18,28 @@ public class OleSpreadsheetOptions : ImportDocumentOptions, IOleSpreadsheetOptio
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OleSpreadsheetOptions](olespreadsheetoptions#constructor_2)(string, int) | 初始化[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
-| [OleSpreadsheetOptions](olespreadsheetoptions#constructor_1)(string, byte[], int) | 初始化[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
-| [OleSpreadsheetOptions](olespreadsheetoptions#constructor)(byte[], byte[], string, int) | 初始化[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
+| [OleSpreadsheetOptions](olespreadsheetoptions#constructor_2)(string, int) | 初始化一个新的实例[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
+| [OleSpreadsheetOptions](olespreadsheetoptions#constructor_1)(string, byte[], int) | 初始化一个新的实例[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
+| [OleSpreadsheetOptions](olespreadsheetoptions#constructor)(byte[], byte[], string, int) | 初始化一个新的实例[`OleSpreadsheetOptions`](../olespreadsheetoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColumnIndex](../../groupdocs.merger.domain.options/olespreadsheetoptions/columnindex) { get; set; } | 左上列索引。 |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [ColumnIndex](../../groupdocs.merger.domain.options/olespreadsheetoptions/columnindex) { get; set; } | 左上列索引. |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [Height](../../groupdocs.merger.domain.options/olespreadsheetoptions/height) { get; set; } | Ole 对象图像的高度。 |
 | [ImageData](../../groupdocs.merger.domain.options/olespreadsheetoptions/imagedata) { get; } | Ole 对象图像的数据。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
-| [RowIndex](../../groupdocs.merger.domain.options/olespreadsheetoptions/rowindex) { get; set; } | 左上行索引。 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
+| [RowIndex](../../groupdocs.merger.domain.options/olespreadsheetoptions/rowindex) { get; set; } | 左上行索引. |
 | [Width](../../groupdocs.merger.domain.options/olespreadsheetoptions/width) { get; set; } | Ole 对象图像的宽度。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 有关通过 OLE 将文档添加到电子表格的更多信息： [通过 OLE 将文档添加到电子表格。](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
+* 更多关于通过 OLE 将文档添加到电子表格的信息： [通过 OLE 将文档添加到电子表格。](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
 
 ### 也可以看看
 

@@ -18,22 +18,22 @@ public class PdfAttachmentOptions : ImportDocumentOptions, IPdfAttachmentOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfAttachmentOptions](pdfattachmentoptions#constructor_1)(string) | 初始化[`PdfAttachmentOptions`](../pdfattachmentoptions)类. |
-| [PdfAttachmentOptions](pdfattachmentoptions#constructor)(byte[], string) | 初始化[`PdfAttachmentOptions`](../pdfattachmentoptions)类. |
+| [PdfAttachmentOptions](pdfattachmentoptions#constructor_1)(string) | 初始化一个新的实例[`PdfAttachmentOptions`](../pdfattachmentoptions)类. |
+| [PdfAttachmentOptions](pdfattachmentoptions#constructor)(byte[], string) | 初始化一个新的实例[`PdfAttachmentOptions`](../pdfattachmentoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于向 PDF 文档添加附件的信息： [如何在 PDF 文档中添加附件。](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
+* 有关向 PDF 文档添加附件的更多信息： [如何将附件添加到 PDF 文档。](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 
 ### 也可以看看
 

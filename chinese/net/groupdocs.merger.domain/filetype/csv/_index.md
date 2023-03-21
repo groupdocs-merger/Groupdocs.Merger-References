@@ -1,14 +1,14 @@
 ---
 title: CSV
 second_title: GroupDocs.Merger for .NET API 参考
-description: 逗号分隔值文件 .csv 表示纯文本文件其中包含具有逗号分隔值的数据记录 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/csv
+description: 逗号分隔值文件 .csv 表示纯文本文件其中包含以逗号分隔值的数据记录 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/csv
 type: docs
-weight: 10
+weight: 30
 url: /zh/net/groupdocs.merger.domain/filetype/csv/
 ---
 ## FileType.CSV field
 
-逗号分隔值文件 (.csv) 表示纯文本文件，其中包含具有逗号分隔值的数据记录。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/csv)
+逗号分隔值文件 (.csv) 表示纯文本文件，其中包含以逗号分隔值的数据记录。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/csv)
 
 ```csharp
 public static FileType CSV;

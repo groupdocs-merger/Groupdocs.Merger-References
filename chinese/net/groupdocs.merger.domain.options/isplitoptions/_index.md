@@ -1,14 +1,14 @@
 ---
 title: ISplitOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 分页选项接口
+description: 页面拆分选项的界面
 type: docs
 weight: 340
 url: /zh/net/groupdocs.merger.domain.options/isplitoptions/
 ---
 ## ISplitOptions interface
 
-分页选项接口。
+页面拆分选项的界面。
 
 ```csharp
 public interface ISplitOptions : IPageOptions
@@ -26,7 +26,7 @@ public interface ISplitOptions : IPageOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetPathByIndex](../../groupdocs.merger.domain.options/isplitoptions/getpathbyindex)(int, string) | 获取已定义扩展名的索引拆分文档的完整文件路径。 |
+| [GetPathByIndex](../../groupdocs.merger.domain.options/isplitoptions/getpathbyindex)(int, string) | 通过定义的扩展名的索引获取拆分文档的完整文件路径。 |
 | [Validate](../../groupdocs.merger.domain.options/isplitoptions/validate)(FileType) | 验证拆分选项。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SplitOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化SplitOptionsgroupdocs.merger.domain.options/splitoptions类.
+description: 初始化一个新的实例SplitOptionsgroupdocs.merger.domain.options/splitoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/splitoptions/splitoptions/
 ---
 ## SplitOptions(string, int[]) {#constructor_12}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(string filePathFormat, int[] pageNumbers)
@@ -16,7 +16,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePathFormat | String | 文件路径格式，例如“c:/split{0}.doc”或“c:/split{0}.{1}”，已预定义扩展名。 |
+| filePathFormat | String | 文件路径格式，例如 'c:/split{0}.doc' 或 'c:/split{0}.{1}' 已预定义扩展名。 |
 | pageNumbers | Int32[] | 页码。 |
 
 ### 也可以看看
@@ -29,7 +29,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers)
 
 ## SplitOptions(string, int[], SplitMode) {#constructor_13}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(string filePathFormat, int[] pageNumbers, SplitMode splitMode)
@@ -37,7 +37,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers, SplitMode splitMod
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePathFormat | String | 文件路径格式，例如“c:/split{0}.doc”或“c:/split{0}.{1}”，已预定义扩展名。 |
+| filePathFormat | String | 文件路径格式，例如 'c:/split{0}.doc' 或 'c:/split{0}.{1}' 已预定义扩展名。 |
 | pageNumbers | Int32[] | 页码。 |
 | splitMode | SplitMode | 的分裂模式[`Mode`](../mode). |
 
@@ -52,7 +52,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers, SplitMode splitMod
 
 ## SplitOptions(string, int, int) {#constructor_10}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(string filePathFormat, int startNumber, int endNumber)
@@ -60,7 +60,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePathFormat | String | 文件路径格式，例如“c:/split{0}.doc”或“c:/split{0}.{1}”，已预定义扩展名。 |
+| filePathFormat | String | 文件路径格式，例如 'c:/split{0}.doc' 或 'c:/split{0}.{1}' 已预定义扩展名。 |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 
@@ -74,7 +74,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber)
 
 ## SplitOptions(string, int, int, RangeMode) {#constructor_11}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(string filePathFormat, int startNumber, int endNumber, RangeMode mode)
@@ -82,7 +82,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber, Range
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePathFormat | String | 文件路径格式，例如“c:/split{0}.doc”或“c:/split{0}.{1}”，已预定义扩展名。 |
+| filePathFormat | String | 文件路径格式，例如 'c:/split{0}.doc' 或 'c:/split{0}.{1}' 已预定义扩展名。 |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 | mode | RangeMode | 范围模式。 |
@@ -98,7 +98,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber, Range
 
 ## SplitOptions(CreateSplitStream) {#constructor}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream)
@@ -119,7 +119,7 @@ public SplitOptions(CreateSplitStream createSplitStream)
 
 ## SplitOptions(CreateSplitStream, int[]) {#constructor_8}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers)
@@ -141,7 +141,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers)
 
 ## SplitOptions(CreateSplitStream, int[], SplitMode) {#constructor_9}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers, SplitMode splitMode)
@@ -165,7 +165,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers, Spli
 
 ## SplitOptions(CreateSplitStream, int, int) {#constructor_6}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int endNumber)
@@ -188,7 +188,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int en
 
 ## SplitOptions(CreateSplitStream, int, int, RangeMode) {#constructor_7}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int endNumber, 
@@ -214,7 +214,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int en
 
 ## SplitOptions(CreateSplitStream, ReleaseSplitStream) {#constructor_1}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream)
@@ -223,7 +223,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createSplitStream | CreateSplitStream | 实例化用于写入输出拆分数据的流的方法。 |
-| releaseSplitStream | ReleaseSplitStream | 释放由 createPageStream 方法创建的流的方法。 |
+| releaseSplitStream | ReleaseSplitStream | 释放通过 createPageStream 方法创建的流的方法。 |
 
 ### 也可以看看
 
@@ -237,7 +237,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 
 ## SplitOptions(CreateSplitStream, ReleaseSplitStream, int[]) {#constructor_4}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
@@ -247,7 +247,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createSplitStream | CreateSplitStream | 实例化用于写入输出拆分数据的流的方法。 |
-| releaseSplitStream | ReleaseSplitStream | 释放由 createPageStream 方法创建的流的方法。 |
+| releaseSplitStream | ReleaseSplitStream | 释放通过 createPageStream 方法创建的流的方法。 |
 | pageNumbers | Int32[] | 页码。 |
 
 ### 也可以看看
@@ -262,7 +262,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 
 ## SplitOptions(CreateSplitStream, ReleaseSplitStream, int[], SplitMode) {#constructor_5}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
@@ -272,7 +272,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createSplitStream | CreateSplitStream | 实例化用于写入输出拆分数据的流的方法。 |
-| releaseSplitStream | ReleaseSplitStream | 释放由 createPageStream 方法创建的流的方法。 |
+| releaseSplitStream | ReleaseSplitStream | 释放通过 createPageStream 方法创建的流的方法。 |
 | pageNumbers | Int32[] | 页码。 |
 | splitMode | SplitMode | 的分裂模式[`Mode`](../mode). |
 
@@ -289,7 +289,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 
 ## SplitOptions(CreateSplitStream, ReleaseSplitStream, int, int) {#constructor_2}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
@@ -299,7 +299,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createSplitStream | CreateSplitStream | 实例化用于写入输出拆分数据的流的方法。 |
-| releaseSplitStream | ReleaseSplitStream | 释放由 createPageStream 方法创建的流的方法。 |
+| releaseSplitStream | ReleaseSplitStream | 释放通过 createPageStream 方法创建的流的方法。 |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 
@@ -315,7 +315,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 
 ## SplitOptions(CreateSplitStream, ReleaseSplitStream, int, int, RangeMode) {#constructor_3}
 
-初始化[`SplitOptions`](../../splitoptions)类.
+初始化一个新的实例[`SplitOptions`](../../splitoptions)类.
 
 ```csharp
 public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
@@ -325,7 +325,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createSplitStream | CreateSplitStream | 实例化用于写入输出拆分数据的流的方法。 |
-| releaseSplitStream | ReleaseSplitStream | 释放由 createPageStream 方法创建的流的方法。 |
+| releaseSplitStream | ReleaseSplitStream | 释放通过 createPageStream 方法创建的流的方法。 |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 | mode | RangeMode | 范围模式。 |

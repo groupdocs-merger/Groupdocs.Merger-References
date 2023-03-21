@@ -1,14 +1,14 @@
 ---
 title: IOleSpreadsheetOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入文档通过 OLE 导入电子表格的接口
+description: 用于通过 OLE. 将嵌入文档导入电子表格的选项的接口
 type: docs
 weight: 220
 url: /zh/net/groupdocs.merger.domain.options/iolespreadsheetoptions/
 ---
 ## IOleSpreadsheetOptions interface
 
-嵌入文档通过 OLE 导入电子表格的接口。
+用于通过 OLE. 将嵌入文档导入电子表格的选项的接口
 
 ```csharp
 public interface IOleSpreadsheetOptions : IImportDocumentOptions, ISizeOptions
@@ -18,9 +18,9 @@ public interface IOleSpreadsheetOptions : IImportDocumentOptions, ISizeOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColumnIndex](../../groupdocs.merger.domain.options/iolespreadsheetoptions/columnindex) { get; set; } | 左上列索引。 |
+| [ColumnIndex](../../groupdocs.merger.domain.options/iolespreadsheetoptions/columnindex) { get; set; } | 左上列索引. |
 | [ImageData](../../groupdocs.merger.domain.options/iolespreadsheetoptions/imagedata) { get; } | Ole 对象图像的数据。 |
-| [RowIndex](../../groupdocs.merger.domain.options/iolespreadsheetoptions/rowindex) { get; set; } | 左上行索引。 |
+| [RowIndex](../../groupdocs.merger.domain.options/iolespreadsheetoptions/rowindex) { get; set; } | 左上行索引. |
 
 ### 也可以看看
 

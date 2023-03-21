@@ -1,14 +1,14 @@
 ---
 title: RemoveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化RemoveOptionsgroupdocs.merger.domain.options/removeoptions类.
+description: 初始化一个新的实例RemoveOptionsgroupdocs.merger.domain.options/removeoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/removeoptions/removeoptions/
 ---
 ## RemoveOptions() {#constructor}
 
-初始化[`RemoveOptions`](../../removeoptions)类.
+初始化一个新的实例[`RemoveOptions`](../../removeoptions)类.
 
 ```csharp
 public RemoveOptions()
@@ -24,7 +24,7 @@ public RemoveOptions()
 
 ## RemoveOptions(int[]) {#constructor_3}
 
-初始化[`RemoveOptions`](../../removeoptions)类.
+初始化一个新的实例[`RemoveOptions`](../../removeoptions)类.
 
 ```csharp
 public RemoveOptions(int[] pageNumbers)
@@ -44,7 +44,7 @@ public RemoveOptions(int[] pageNumbers)
 
 ## RemoveOptions(int, int) {#constructor_1}
 
-初始化[`RemoveOptions`](../../removeoptions)类.
+初始化一个新的实例[`RemoveOptions`](../../removeoptions)类.
 
 ```csharp
 public RemoveOptions(int startNumber, int endNumber)
@@ -65,7 +65,7 @@ public RemoveOptions(int startNumber, int endNumber)
 
 ## RemoveOptions(int, int, RangeMode) {#constructor_2}
 
-初始化[`RemoveOptions`](../../removeoptions)类.
+初始化一个新的实例[`RemoveOptions`](../../removeoptions)类.
 
 ```csharp
 public RemoveOptions(int startNumber, int endNumber, RangeMode mode)

@@ -1,14 +1,14 @@
 ---
 title: OleWordProcessingOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化OleWordProcessingOptionsgroupdocs.merger.domain.options/olewordprocessingoptions类.
+description: 初始化一个新的实例OleWordProcessingOptionsgroupdocs.merger.domain.options/olewordprocessingoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/olewordprocessingoptions/olewordprocessingoptions/
 ---
 ## OleWordProcessingOptions(byte[], byte[], string, int) {#constructor}
 
-初始化[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
+初始化一个新的实例[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
 
 ```csharp
 public OleWordProcessingOptions(byte[] objectData, byte[] imageData, string extension, 
@@ -32,7 +32,7 @@ public OleWordProcessingOptions(byte[] objectData, byte[] imageData, string exte
 
 ## OleWordProcessingOptions(string, byte[], int) {#constructor_1}
 
-初始化[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
+初始化一个新的实例[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
 
 ```csharp
 public OleWordProcessingOptions(string filePath, byte[] imageData, int pageNumber)
@@ -54,7 +54,7 @@ public OleWordProcessingOptions(string filePath, byte[] imageData, int pageNumbe
 
 ## OleWordProcessingOptions(string, int) {#constructor_2}
 
-初始化[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
+初始化一个新的实例[`OleWordProcessingOptions`](../../olewordprocessingoptions)类.
 
 ```csharp
 public OleWordProcessingOptions(string filePath, int pageNumber)

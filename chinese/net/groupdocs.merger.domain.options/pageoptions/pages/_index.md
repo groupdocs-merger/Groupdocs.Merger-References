@@ -1,14 +1,14 @@
 ---
 title: Pages
 second_title: GroupDocs.Merger for .NET API 参考
-description: 获取页码集合
+description: 获取页码集合.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/pageoptions/pages/
 ---
 ## PageOptions.Pages property
 
-获取页码集合。
+获取页码集合.
 
 ```csharp
 public int[] Pages { get; }

@@ -1,79 +1,79 @@
 ---
 title: GroupDocs.Merger.Domain.Options
 second_title: GroupDocs.Merger for .NET API 参考
-description: 命名空间提供类来指定加载加入拆分预览和保存文档时的附加选项
+description: 命名空间提供类来指定加载合并拆分预览和保存文档时的附加选项
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger.domain.options/
 ---
-命名空间提供类来指定加载、加入、拆分、预览和保存文档时的附加选项。
+命名空间提供类来指定加载、合并、拆分、预览和保存文档时的附加选项。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [AddPasswordOptions](./addpasswordoptions) | 提供添加文档密码的选项。 |
+| [AddPasswordOptions](./addpasswordoptions) | 提供用于添加文档密码的选项。 |
 | [ExtractOptions](./extractoptions) | 提供提取文档页面的选项。 |
 | [ImageJoinOptions](./imagejoinoptions) | 图像连接选项。 |
-| [ImportDocumentOptions](./importdocumentoptions) | 提供嵌入文档导入的选项。 |
-| [JoinOptions](./joinoptions) | 提供文档加入的选项。 |
+| [ImportDocumentOptions](./importdocumentoptions) | 为嵌入文档导入提供选项。 |
+| [JoinOptions](./joinoptions) | 提供文档加入选项。 |
 | [LoadOptions](./loadoptions) | 提供文档加载选项。 |
 | [MoveOptions](./moveoptions) | 提供移动文档页面的选项。 |
 | [OleDiagramOptions](./olediagramoptions) | 提供通过 OLE 将嵌入文档导入图表的选项。 |
-| [OlePresentationOptions](./olepresentationoptions) | 提供通过 OLE 将嵌入文档导入到演示文稿的选项。 |
+| [OlePresentationOptions](./olepresentationoptions) | 提供通过 OLE 将嵌入文档导入 Presentation 的选项。 |
 | [OleSpreadsheetOptions](./olespreadsheetoptions) | 提供通过 OLE 将嵌入文档导入电子表格的选项。 |
-| [OleWordProcessingOptions](./olewordprocessingoptions) | 提供通过 OLE 将嵌入文档导入文字处理的选项。 |
+| [OleWordProcessingOptions](./olewordprocessingoptions) | 提供通过 OLE 将嵌入文档导入 Word 处理的选项。 |
 | [OrientationOptions](./orientationoptions) | 提供页面方向选项。 |
 | [PageOptions](./pageoptions) | 提供用于指定页面或页面范围的选项。 |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | 提供将嵌入对象附加到 Pdf 的选项。 |
 | [PreviewOptions](./previewoptions) | 表示文档预览选项。 |
-| [RemoveOptions](./removeoptions) | 提供页面移除选项。 |
+| [RemoveOptions](./removeoptions) | 提供用于删除页面的选项。 |
 | [RotateOptions](./rotateoptions) | 提供页面旋转选项。 |
 | [SaveOptions](./saveoptions) | 提供文档保存选项。 |
-| [SplitOptions](./splitoptions) | 提供文档页面拆分选项。 |
-| [SwapOptions](./swapoptions) | 提供用于交换文档页面的选项。 |
-| [TextSplitOptions](./textsplitoptions) | 提供文档文本拆分选项。 |
-| [UpdatePasswordOptions](./updatepasswordoptions) | 提供用于更新文档密码的选项。 |
+| [SplitOptions](./splitoptions) | 提供文档页面拆分的选项。 |
+| [SwapOptions](./swapoptions) | 提供交换文档页面的选项。 |
+| [TextSplitOptions](./textsplitoptions) | 提供文档文本拆分的选项。 |
+| [UpdatePasswordOptions](./updatepasswordoptions) | 提供更新文档密码的选项。 |
 | [WordJoinOptions](./wordjoinoptions) | Word 连接选项。 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
-| [IAddPasswordOptions](./iaddpasswordoptions) | 密码添加选项接口。 |
-| [IExtractOptions](./iextractoptions) | 提取文档页面的选项接口。 |
-| [IImageJoinOptions](./iimagejoinoptions) | 图像连接选项的接口。 |
-| [IImportDocumentOptions](./iimportdocumentoptions) | 嵌入文档的导入接口。 |
-| [IJoinOptions](./ijoinoptions) | 文档连接选项的接口。 |
-| [ILoadOptions](./iloadoptions) | 文档加载选项的接口。 |
-| [IMoveOptions](./imoveoptions) | 移动页面选项接口。 |
-| [IOleDiagramOptions](./iolediagramoptions) | 嵌入文档通过 OLE 导入图表的接口。 |
-| [IOlePresentationOptions](./iolepresentationoptions) | 通过 OLE 将嵌入文档的导入选项导入演示文稿的接口。 |
-| [IOleSpreadsheetOptions](./iolespreadsheetoptions) | 嵌入文档通过 OLE 导入电子表格的接口。 |
-| [IOleWordProcessingOptions](./iolewordprocessingoptions) | 通过 OLE 将嵌入文档的导入选项导入 Word 处理的接口。 |
+| [IAddPasswordOptions](./iaddpasswordoptions) | 密码添加选项界面. |
+| [IExtractOptions](./iextractoptions) | 用于提取文档页面的选项的接口。 |
+| [IImageJoinOptions](./iimagejoinoptions) | 图像连接选项的界面。 |
+| [IImportDocumentOptions](./iimportdocumentoptions) | 用于导入嵌入文档的接口。 |
+| [IJoinOptions](./ijoinoptions) | 文档加入选项的接口。 |
+| [ILoadOptions](./iloadoptions) | 文档加载选项的界面。 |
+| [IMoveOptions](./imoveoptions) | 移动页面选项的界面。 |
+| [IOleDiagramOptions](./iolediagramoptions) | 用于通过 OLE. 将嵌入文档的导入选项导入图表的接口 |
+| [IOlePresentationOptions](./iolepresentationoptions) | 用于通过 OLE. 将嵌入文档的导入选项导入 Presentation 的接口 |
+| [IOleSpreadsheetOptions](./iolespreadsheetoptions) | 用于通过 OLE. 将嵌入文档导入电子表格的选项的接口 |
+| [IOleWordProcessingOptions](./iolewordprocessingoptions) | 用于通过 OLE. 将嵌入文档的导入选项导入 Word 处理的接口 |
 | [IOptions](./ioptions) | 基本选项的接口。 |
 | [IOrientationOptions](./iorientationoptions) | 页面方向选项的界面。 |
-| [IPageOptions](./ipageoptions) | 页面选项接口 |
-| [IPager](./ipager) | 应用选项接口（页面、范围等） |
+| [IPageOptions](./ipageoptions) | 页面选项的接口 |
+| [IPager](./ipager) | 应用选项的接口（页面、范围等） |
 | [IPdfAttachmentOptions](./ipdfattachmentoptions) | 嵌入文档到 PDF 作为附件的选项接口。 |
-| [IPreviewOptions](./ipreviewoptions) | 预览选项界面。 |
+| [IPreviewOptions](./ipreviewoptions) | 预览选项的界面。 |
 | [IRemoveOptions](./iremoveoptions) | 页面删除选项的接口。 |
-| [IRotateOptions](./irotateoptions) | 页面旋转选项接口。 |
-| [ISaveOptions](./isaveoptions) | 文档保存选项的接口。 |
+| [IRotateOptions](./irotateoptions) | 页面旋转选项的界面。 |
+| [ISaveOptions](./isaveoptions) | 文档保存选项的界面。 |
 | [ISizeOptions](./isizeoptions) | 添加嵌入对象的接口。 |
-| [ISplitOptions](./isplitoptions) | 分页选项接口。 |
-| [ISwapOptions](./iswapoptions) | 页面交换选项接口。 |
-| [ITextSplitOptions](./itextsplitoptions) | 文本分割选项接口。 |
-| [IUpdatePasswordOptions](./iupdatepasswordoptions) | 密码更新选项接口。 |
+| [ISplitOptions](./isplitoptions) | 页面拆分选项的界面。 |
+| [ISwapOptions](./iswapoptions) | 页面交换选项的接口。 |
+| [ITextSplitOptions](./itextsplitoptions) | 文本拆分选项的界面。 |
+| [IUpdatePasswordOptions](./iupdatepasswordoptions) | 密码更新选项的接口。 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [ImageJoinMode](./imagejoinmode) | 图像加入的可能模式。 |
+| [ImageJoinMode](./imagejoinmode) | 图像连接的可能模式。 |
 | [OrientationMode](./orientationmode) | 定义页面方向。 |
 | [PreviewMode](./previewmode) | 提供页面预览模式。 |
 | [RangeMode](./rangemode) | 页面范围的可能模式。 |
 | [RotateMode](./rotatemode) | 页面旋转的可能模式。 |
-| [SplitMode](./splitmode) | 定义分页模式。 |
+| [SplitMode](./splitmode) | 定义页面拆分模式。 |
 | [TextSplitMode](./textsplitmode) | 可能的文本分割模式。 |
 | [WordJoinMode](./wordjoinmode) | Word 连接的可能模式。 |
 

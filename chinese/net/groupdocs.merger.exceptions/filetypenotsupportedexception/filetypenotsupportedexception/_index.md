@@ -1,14 +1,14 @@
 ---
 title: FileTypeNotSupportedException
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化FileTypeNotSupportedExceptiongroupdocs.merger.exceptions/filetypenotsupportedexception类.
+description: 初始化一个新的实例FileTypeNotSupportedExceptiongroupdocs.merger.exceptions/filetypenotsupportedexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.exceptions/filetypenotsupportedexception/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException constructor
 
-初始化[`FileTypeNotSupportedException`](../../filetypenotsupportedexception)类.
+初始化一个新的实例[`FileTypeNotSupportedException`](../../filetypenotsupportedexception)类.
 
 ```csharp
 public FileTypeNotSupportedException(string message)

@@ -18,10 +18,10 @@ public interface IPageInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../groupdocs.merger.domain.result/ipageinfo/height) { get; } | 转换为图像时获取页面高度（以像素为单位）。 |
+| [Height](../../groupdocs.merger.domain.result/ipageinfo/height) { get; } | 转换为图像时以像素为单位获取页面高度。 |
 | [Number](../../groupdocs.merger.domain.result/ipageinfo/number) { get; } | 获取页码。 |
 | [Visible](../../groupdocs.merger.domain.result/ipageinfo/visible) { get; } | 指示页面是否可见。 |
-| [Width](../../groupdocs.merger.domain.result/ipageinfo/width) { get; } | 转换为图像时获取页面宽度（以像素为单位）。 |
+| [Width](../../groupdocs.merger.domain.result/ipageinfo/width) { get; } | 转换为图像时以像素为单位获取页面宽度。 |
 
 ### 也可以看看
 

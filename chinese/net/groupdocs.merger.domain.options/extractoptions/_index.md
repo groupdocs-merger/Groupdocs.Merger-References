@@ -18,16 +18,16 @@ public class ExtractOptions : PageOptions, IExtractOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtractOptions](extractoptions#constructor)() | 初始化[`ExtractOptions`](../extractoptions)类. |
-| [ExtractOptions](extractoptions#constructor_3)(int[]) | 初始化[`ExtractOptions`](../extractoptions)类. |
-| [ExtractOptions](extractoptions#constructor_1)(int, int) | 初始化[`ExtractOptions`](../extractoptions)类. |
-| [ExtractOptions](extractoptions#constructor_2)(int, int, RangeMode) | 初始化[`ExtractOptions`](../extractoptions)类. |
+| [ExtractOptions](extractoptions#constructor)() | 初始化一个新的实例[`ExtractOptions`](../extractoptions)类. |
+| [ExtractOptions](extractoptions#constructor_3)(int[]) | 初始化一个新的实例[`ExtractOptions`](../extractoptions)类. |
+| [ExtractOptions](extractoptions#constructor_1)(int, int) | 初始化一个新的实例[`ExtractOptions`](../extractoptions)类. |
+| [ExtractOptions](extractoptions#constructor_2)(int, int, RangeMode) | 初始化一个新的实例[`ExtractOptions`](../extractoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 
 ### 也可以看看
 

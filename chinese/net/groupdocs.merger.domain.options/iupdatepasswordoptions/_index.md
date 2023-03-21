@@ -1,14 +1,14 @@
 ---
 title: IUpdatePasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 密码更新选项接口
+description: 密码更新选项的接口
 type: docs
 weight: 370
 url: /zh/net/groupdocs.merger.domain.options/iupdatepasswordoptions/
 ---
 ## IUpdatePasswordOptions interface
 
-密码更新选项接口。
+密码更新选项的接口。
 
 ```csharp
 public interface IUpdatePasswordOptions : IOptions
@@ -18,7 +18,7 @@ public interface IUpdatePasswordOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NewPassword](../../groupdocs.merger.domain.options/iupdatepasswordoptions/newpassword) { get; } | 文档保护的新密码。 |
+| [NewPassword](../../groupdocs.merger.domain.options/iupdatepasswordoptions/newpassword) { get; } | 文档保护新密码. |
 
 ### 也可以看看
 

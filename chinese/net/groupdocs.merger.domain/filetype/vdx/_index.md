@@ -3,7 +3,7 @@ title: VDX
 second_title: GroupDocs.Merger for .NET API 参考
 description: Visio 绘图 XML 文件 .vdx 是在 Microsoft Visio 中创建的绘图或图表但以 XML 格式保存扩展名为 .VDX Visio 绘图 XML 文件是在 Microsoft 开发的 Visio 软件中创建的 了解有关此文件格式的更多信息这里https//docs.fileformat.com/image/vdx.
 type: docs
-weight: 300
+weight: 420
 url: /zh/net/groupdocs.merger.domain/filetype/vdx/
 ---
 ## FileType.VDX field

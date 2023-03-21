@@ -1,14 +1,14 @@
 ---
 title: IPreviewOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 预览选项界面
+description: 预览选项的界面
 type: docs
 weight: 290
 url: /zh/net/groupdocs.merger.domain.options/ipreviewoptions/
 ---
 ## IPreviewOptions interface
 
-预览选项界面。
+预览选项的界面。
 
 ```csharp
 public interface IPreviewOptions : IPageOptions
@@ -19,9 +19,9 @@ public interface IPreviewOptions : IPageOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [CreateStream](../../groupdocs.merger.domain.options/ipreviewoptions/createstream) { get; } | 定义创建输出页面预览流的方法的委托。 |
-| [Height](../../groupdocs.merger.domain.options/ipreviewoptions/height) { get; set; } | 预览高度。 |
+| [Height](../../groupdocs.merger.domain.options/ipreviewoptions/height) { get; set; } | 预览高度. |
 | [Mode](../../groupdocs.merger.domain.options/ipreviewoptions/mode) { get; } | 获取预览模式。 |
-| [ReleaseStream](../../groupdocs.merger.domain.options/ipreviewoptions/releasestream) { get; } | 定义释放输出页面预览流的方法的委托。 |
+| [ReleaseStream](../../groupdocs.merger.domain.options/ipreviewoptions/releasestream) { get; } | 定义释放输出页面预览流方法的委托。 |
 | [Width](../../groupdocs.merger.domain.options/ipreviewoptions/width) { get; set; } | 预览宽度. |
 
 ## 方法

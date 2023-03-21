@@ -1,14 +1,14 @@
 ---
 title: RemoveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供页面移除选项
+description: 提供用于删除页面的选项
 type: docs
 weight: 550
 url: /zh/net/groupdocs.merger.domain.options/removeoptions/
 ---
 ## RemoveOptions class
 
-提供页面移除选项。
+提供用于删除页面的选项。
 
 ```csharp
 public class RemoveOptions : PageOptions, IRemoveOptions
@@ -18,16 +18,16 @@ public class RemoveOptions : PageOptions, IRemoveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RemoveOptions](removeoptions#constructor)() | 初始化[`RemoveOptions`](../removeoptions)类. |
-| [RemoveOptions](removeoptions#constructor_3)(int[]) | 初始化[`RemoveOptions`](../removeoptions)类. |
-| [RemoveOptions](removeoptions#constructor_1)(int, int) | 初始化[`RemoveOptions`](../removeoptions)类. |
-| [RemoveOptions](removeoptions#constructor_2)(int, int, RangeMode) | 初始化[`RemoveOptions`](../removeoptions)类. |
+| [RemoveOptions](removeoptions#constructor)() | 初始化一个新的实例[`RemoveOptions`](../removeoptions)类. |
+| [RemoveOptions](removeoptions#constructor_3)(int[]) | 初始化一个新的实例[`RemoveOptions`](../removeoptions)类. |
+| [RemoveOptions](removeoptions#constructor_1)(int, int) | 初始化一个新的实例[`RemoveOptions`](../removeoptions)类. |
+| [RemoveOptions](removeoptions#constructor_2)(int, int, RangeMode) | 初始化一个新的实例[`RemoveOptions`](../removeoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 
 ### 也可以看看
 

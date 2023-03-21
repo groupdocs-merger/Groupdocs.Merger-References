@@ -1,14 +1,14 @@
 ---
 title: ISaveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文档保存选项的接口
+description: 文档保存选项的界面
 type: docs
 weight: 320
 url: /zh/net/groupdocs.merger.domain.options/isaveoptions/
 ---
 ## ISaveOptions interface
 
-文档保存选项的接口。
+文档保存选项的界面。
 
 ```csharp
 public interface ISaveOptions : IOptions

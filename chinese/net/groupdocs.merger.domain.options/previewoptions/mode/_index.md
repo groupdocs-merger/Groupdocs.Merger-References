@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: GroupDocs.Merger for .NET API 参考
-description: 预览模式
+description: 预览模式.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger.domain.options/previewoptions/mode/
 ---
 ## PreviewOptions.Mode property
 
-预览模式。
+预览模式.
 
 ```csharp
 public PreviewMode Mode { get; }

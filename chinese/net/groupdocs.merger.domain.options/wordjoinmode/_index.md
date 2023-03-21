@@ -19,7 +19,7 @@ public enum WordJoinMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 指定默认字加入。 |
-| Continuous | `1` | 指定 Word 加入而不从新页面开始。 |
+| Continuous | `1` | 指定不从新页开始加入 Word。 |
 
 ### 也可以看看
 

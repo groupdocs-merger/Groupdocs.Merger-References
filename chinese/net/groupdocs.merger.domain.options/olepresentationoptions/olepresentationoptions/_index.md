@@ -1,14 +1,14 @@
 ---
 title: OlePresentationOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化OlePresentationOptionsgroupdocs.merger.domain.options/olepresentationoptions类.
+description: 初始化一个新的实例OlePresentationOptionsgroupdocs.merger.domain.options/olepresentationoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/olepresentationoptions/olepresentationoptions/
 ---
 ## OlePresentationOptions(byte[], string, int) {#constructor}
 
-初始化[`OlePresentationOptions`](../../olepresentationoptions)类.
+初始化一个新的实例[`OlePresentationOptions`](../../olepresentationoptions)类.
 
 ```csharp
 public OlePresentationOptions(byte[] objectData, string extension, int pageNumber)
@@ -30,7 +30,7 @@ public OlePresentationOptions(byte[] objectData, string extension, int pageNumbe
 
 ## OlePresentationOptions(string, int) {#constructor_1}
 
-初始化[`OlePresentationOptions`](../../olepresentationoptions)类.
+初始化一个新的实例[`OlePresentationOptions`](../../olepresentationoptions)类.
 
 ```csharp
 public OlePresentationOptions(string filePath, int pageNumber)

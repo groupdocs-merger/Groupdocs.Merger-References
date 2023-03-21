@@ -18,26 +18,26 @@ public class OleDiagramOptions : ImportDocumentOptions, IOleDiagramOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OleDiagramOptions](olediagramoptions#constructor_2)(string, int) | 初始化[`OleDiagramOptions`](../olediagramoptions)类. |
-| [OleDiagramOptions](olediagramoptions#constructor_1)(string, byte[], int) | 初始化[`OleDiagramOptions`](../olediagramoptions)类. |
-| [OleDiagramOptions](olediagramoptions#constructor)(byte[], byte[], string, int) | 初始化[`OleDiagramOptions`](../olediagramoptions)类. |
+| [OleDiagramOptions](olediagramoptions#constructor_2)(string, int) | 初始化一个新的实例[`OleDiagramOptions`](../olediagramoptions)类. |
+| [OleDiagramOptions](olediagramoptions#constructor_1)(string, byte[], int) | 初始化一个新的实例[`OleDiagramOptions`](../olediagramoptions)类. |
+| [OleDiagramOptions](olediagramoptions#constructor)(byte[], byte[], string, int) | 初始化一个新的实例[`OleDiagramOptions`](../olediagramoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
-| [Height](../../groupdocs.merger.domain.options/olediagramoptions/height) { get; set; } | 嵌入对象形状的高度，以英寸为单位。 |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
+| [Height](../../groupdocs.merger.domain.options/olediagramoptions/height) { get; set; } | 嵌入对象形状的高度（以英寸为单位）。 |
 | [ImageData](../../groupdocs.merger.domain.options/olediagramoptions/imagedata) { get; } | 嵌入对象的图像数据。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
-| [Width](../../groupdocs.merger.domain.options/olediagramoptions/width) { get; set; } | 嵌入对象形状的宽度，以英寸为单位。 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
+| [Width](../../groupdocs.merger.domain.options/olediagramoptions/width) { get; set; } | 嵌入对象形状的宽度（以英寸为单位）。 |
 | [X](../../groupdocs.merger.domain.options/olediagramoptions/x) { get; set; } | 嵌入对象形状的引脚（旋转中心）相对于页面的 X 坐标。 |
 | [Y](../../groupdocs.merger.domain.options/olediagramoptions/y) { get; set; } | 嵌入对象形状的引脚（旋转中心）相对于页面的 Y 坐标。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关通过 OLE 将文档添加到图表的更多信息： [通过 OLE 将文档添加到图表。](https://docs.groupdocs.com/merger/net/add-document-to-diagram-via-ole/)
 

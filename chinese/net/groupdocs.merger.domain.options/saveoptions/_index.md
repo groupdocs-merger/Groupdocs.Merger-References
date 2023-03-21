@@ -18,7 +18,7 @@ public class SaveOptions : ISaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SaveOptions](saveoptions)(FileType) | 初始化的新实例[`SaveOptions`](../saveoptions)类. |
+| [SaveOptions](saveoptions)(FileType) | 初始化新实例[`SaveOptions`](../saveoptions)类. |
 
 ## 特性
 

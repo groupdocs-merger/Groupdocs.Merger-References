@@ -22,13 +22,13 @@ public void Split(ISplitOptions splitOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*splitOptions*一片空白。 |
+| ArgumentNullException | 抛出时*splitOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档拆分场景和用例： [如何用 3 行代码拆分 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/split-document/)
+* 有关文档拆分场景和用例的更多信息： [如何在 3 行代码中拆分 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/split-document/)
 * 关于如何以不同方式拆分文本文件的快速指南： [拆分文本文件指南](https://docs.groupdocs.com/merger/net/split-text-file/)
 
 ### 也可以看看
@@ -56,13 +56,13 @@ public void Split(ITextSplitOptions splitOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*splitOptions*一片空白。 |
+| ArgumentNullException | 抛出时*splitOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档拆分场景和用例： [如何用 3 行代码拆分 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/split-document/)
+* 有关文档拆分场景和用例的更多信息： [如何在 3 行代码中拆分 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/split-document/)
 * 关于如何以不同方式拆分文本文件的快速指南： [拆分文本文件指南](https://docs.groupdocs.com/merger/net/split-text-file/)
 
 ### 也可以看看

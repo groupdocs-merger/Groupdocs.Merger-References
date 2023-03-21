@@ -3,7 +3,7 @@ title: XLAM
 second_title: GroupDocs.Merger for .NET API 参考
 description: Excel 启用宏的加载项 .xlam
 type: docs
-weight: 390
+weight: 510
 url: /zh/net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field

@@ -1,14 +1,14 @@
 ---
 title: Pages
 second_title: GroupDocs.Merger for .NET API 参考
-description: 将应用操作的页码列表注意首页编号为 1.
+description: 应用操作的页码列表注意第一页有编号 1.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/ipager/pages/
 ---
 ## IPager.Pages property
 
-将应用操作的页码列表。注意：首页编号为 1.
+应用操作的页码列表。注意：第一页有编号 1.
 
 ```csharp
 public int[] Pages { get; }

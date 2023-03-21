@@ -1,14 +1,14 @@
 ---
 title: RotateOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化RotateOptionsgroupdocs.merger.domain.options/rotateoptions类.
+description: 初始化一个新的实例RotateOptionsgroupdocs.merger.domain.options/rotateoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/rotateoptions/rotateoptions/
 ---
 ## RotateOptions(RotateMode) {#constructor}
 
-初始化[`RotateOptions`](../../rotateoptions)类.
+初始化一个新的实例[`RotateOptions`](../../rotateoptions)类.
 
 ```csharp
 public RotateOptions(RotateMode rotateMode)
@@ -16,7 +16,7 @@ public RotateOptions(RotateMode rotateMode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateMode | RotateMode | 的旋转模式[`Mode`](../mode) |
+| rotateMode | RotateMode | 的旋转方式[`Mode`](../mode) |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public RotateOptions(RotateMode rotateMode)
 
 ## RotateOptions(RotateMode, int[]) {#constructor_3}
 
-初始化[`RotateOptions`](../../rotateoptions)类.
+初始化一个新的实例[`RotateOptions`](../../rotateoptions)类.
 
 ```csharp
 public RotateOptions(RotateMode rotateMode, int[] pageNumbers)
@@ -37,7 +37,7 @@ public RotateOptions(RotateMode rotateMode, int[] pageNumbers)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateMode | RotateMode | 的旋转模式[`Mode`](../mode) |
+| rotateMode | RotateMode | 的旋转方式[`Mode`](../mode) |
 | pageNumbers | Int32[] | 页码。 |
 
 ### 也可以看看
@@ -51,7 +51,7 @@ public RotateOptions(RotateMode rotateMode, int[] pageNumbers)
 
 ## RotateOptions(RotateMode, int, int) {#constructor_1}
 
-初始化[`RotateOptions`](../../rotateoptions)类.
+初始化一个新的实例[`RotateOptions`](../../rotateoptions)类.
 
 ```csharp
 public RotateOptions(RotateMode rotateMode, int startNumber, int endNumber)
@@ -59,7 +59,7 @@ public RotateOptions(RotateMode rotateMode, int startNumber, int endNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateMode | RotateMode | 的旋转模式[`Mode`](../mode) |
+| rotateMode | RotateMode | 的旋转方式[`Mode`](../mode) |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 
@@ -74,7 +74,7 @@ public RotateOptions(RotateMode rotateMode, int startNumber, int endNumber)
 
 ## RotateOptions(RotateMode, int, int, RangeMode) {#constructor_2}
 
-初始化[`RotateOptions`](../../rotateoptions)类.
+初始化一个新的实例[`RotateOptions`](../../rotateoptions)类.
 
 ```csharp
 public RotateOptions(RotateMode rotateMode, int startNumber, int endNumber, RangeMode mode)
@@ -82,7 +82,7 @@ public RotateOptions(RotateMode rotateMode, int startNumber, int endNumber, Rang
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateMode | RotateMode | 的旋转模式[`Mode`](../mode) |
+| rotateMode | RotateMode | 的旋转方式[`Mode`](../mode) |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 | mode | RangeMode | 范围模式。 |

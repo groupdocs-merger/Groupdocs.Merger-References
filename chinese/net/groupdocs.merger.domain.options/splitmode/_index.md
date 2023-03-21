@@ -1,14 +1,14 @@
 ---
 title: SplitMode
 second_title: GroupDocs.Merger for .NET API 参考
-description: 定义分页模式
+description: 定义页面拆分模式
 type: docs
 weight: 590
 url: /zh/net/groupdocs.merger.domain.options/splitmode/
 ---
 ## SplitMode enumeration
 
-定义分页模式。
+定义页面拆分模式。
 
 ```csharp
 public enum SplitMode
@@ -19,7 +19,7 @@ public enum SplitMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Pages | `0` | 拆分页面 |
-| Interval | `1` | 分割间隔 |
+| Interval | `1` | 分段间隔 |
 
 ### 也可以看看
 

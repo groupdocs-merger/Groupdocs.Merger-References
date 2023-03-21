@@ -1,14 +1,14 @@
 ---
 title: ImageJoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例ImageJoinOptionsgroupdocs.merger.domain.options/imagejoinoptions类.
+description: 初始化新实例ImageJoinOptionsgroupdocs.merger.domain.options/imagejoinoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/imagejoinoptions/imagejoinoptions/
 ---
 ## ImageJoinOptions() {#constructor}
 
-初始化的新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
+初始化新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
 
 ```csharp
 public ImageJoinOptions()
@@ -24,7 +24,7 @@ public ImageJoinOptions()
 
 ## ImageJoinOptions(FileType) {#constructor_1}
 
-初始化的新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
+初始化新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
 
 ```csharp
 public ImageJoinOptions(FileType fileType)
@@ -45,7 +45,7 @@ public ImageJoinOptions(FileType fileType)
 
 ## ImageJoinOptions(ImageJoinMode) {#constructor_3}
 
-初始化的新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
+初始化新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
 
 ```csharp
 public ImageJoinOptions(ImageJoinMode imageJoinMode)
@@ -66,7 +66,7 @@ public ImageJoinOptions(ImageJoinMode imageJoinMode)
 
 ## ImageJoinOptions(FileType, ImageJoinMode) {#constructor_2}
 
-初始化的新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
+初始化新实例[`ImageJoinOptions`](../../imagejoinoptions)类.
 
 ```csharp
 public ImageJoinOptions(FileType fileType, ImageJoinMode imageJoinMode)

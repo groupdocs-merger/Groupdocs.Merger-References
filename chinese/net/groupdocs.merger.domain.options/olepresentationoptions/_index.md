@@ -1,14 +1,14 @@
 ---
 title: OlePresentationOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供通过 OLE 将嵌入文档导入到演示文稿的选项
+description: 提供通过 OLE 将嵌入文档导入 Presentation 的选项
 type: docs
 weight: 450
 url: /zh/net/groupdocs.merger.domain.options/olepresentationoptions/
 ---
 ## OlePresentationOptions class
 
-提供通过 OLE 将嵌入文档导入到演示文稿的选项。
+提供通过 OLE 将嵌入文档导入 Presentation 的选项。
 
 ```csharp
 public class OlePresentationOptions : ImportDocumentOptions, IOlePresentationOptions
@@ -18,26 +18,26 @@ public class OlePresentationOptions : ImportDocumentOptions, IOlePresentationOpt
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OlePresentationOptions](olepresentationoptions#constructor_1)(string, int) | 初始化[`OlePresentationOptions`](../olepresentationoptions)类. |
-| [OlePresentationOptions](olepresentationoptions#constructor)(byte[], string, int) | 初始化[`OlePresentationOptions`](../olepresentationoptions)类. |
+| [OlePresentationOptions](olepresentationoptions#constructor_1)(string, int) | 初始化一个新的实例[`OlePresentationOptions`](../olepresentationoptions)类. |
+| [OlePresentationOptions](olepresentationoptions#constructor)(byte[], string, int) | 初始化一个新的实例[`OlePresentationOptions`](../olepresentationoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [Height](../../groupdocs.merger.domain.options/olepresentationoptions/height) { get; set; } | 嵌入对象框的高度。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
 | [Width](../../groupdocs.merger.domain.options/olepresentationoptions/width) { get; set; } | 嵌入对象框的宽度。 |
-| [X](../../groupdocs.merger.domain.options/olepresentationoptions/x) { get; set; } | 嵌入对象框的X坐标。 |
+| [X](../../groupdocs.merger.domain.options/olepresentationoptions/x) { get; set; } | 嵌入对象框的 X 坐标。 |
 | [Y](../../groupdocs.merger.domain.options/olepresentationoptions/y) { get; set; } | 嵌入对象框的Y坐标。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于通过 OLE 将文档添加到演示文稿： [通过 OLE 将文档添加到演示文稿。](https://docs.groupdocs.com/merger/net/add-document-to-presentation-via-ole/)
+* 有关通过 OLE 将文档添加到演示文稿的更多信息： [通过 OLE 将文档添加到演示文稿。](https://docs.groupdocs.com/merger/net/add-document-to-presentation-via-ole/)
 
 ### 也可以看看
 

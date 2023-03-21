@@ -1,14 +1,14 @@
 ---
 title: MoveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化MoveOptionsgroupdocs.merger.domain.options/moveoptions类.
+description: 初始化一个新的实例MoveOptionsgroupdocs.merger.domain.options/moveoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/moveoptions/moveoptions/
 ---
 ## MoveOptions constructor
 
-初始化[`MoveOptions`](../../moveoptions)类.
+初始化一个新的实例[`MoveOptions`](../../moveoptions)类.
 
 ```csharp
 public MoveOptions(int pageNumberToMove, int newPageNumber)
@@ -17,7 +17,7 @@ public MoveOptions(int pageNumberToMove, int newPageNumber)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumberToMove | Int32 | 要移动的页码。 |
-| newPageNumber | Int32 | 新的页码。 |
+| newPageNumber | Int32 | 新页码。 |
 
 ### 也可以看看
 

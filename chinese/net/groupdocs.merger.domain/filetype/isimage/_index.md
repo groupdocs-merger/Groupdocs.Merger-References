@@ -1,14 +1,14 @@
 ---
 title: IsImage
 second_title: GroupDocs.Merger for .NET API 参考
-description: 判断是否输入FileTypegroupdocs.merger.domain/filetype是原始文本格式
+description: 判断是否输入FileTypegroupdocs.merger.domain/filetype是图像格式.
 type: docs
-weight: 550
+weight: 690
 url: /zh/net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
 
-判断是否输入[`FileType`](../../filetype)是原始文本格式。
+判断是否输入[`FileType`](../../filetype)是图像格式.
 
 ```csharp
 public static bool IsImage(FileType fileType)
@@ -20,7 +20,7 @@ public static bool IsImage(FileType fileType)
 
 ### 返回值
 
-如果输入[`FileType`](../../filetype)是原始图像格式；否则，
+如果输入[`FileType`](../../filetype)是图片格式；否则，
 
 ```csharp
 true

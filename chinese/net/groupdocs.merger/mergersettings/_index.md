@@ -18,14 +18,14 @@ public class MergerSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MergerSettings](mergersettings#constructor)() | 初始化的新实例[`MergerSettings`](../mergersettings)类. |
-| [MergerSettings](mergersettings#constructor_1)(ILogger) | 初始化的新实例[`MergerSettings`](../mergersettings)类. |
+| [MergerSettings](mergersettings#constructor)() | 初始化新实例[`MergerSettings`](../mergersettings)类. |
+| [MergerSettings](mergersettings#constructor_1)(ILogger) | 初始化新实例[`MergerSettings`](../mergersettings)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Logger](../../groupdocs.merger/mergersettings/logger) { get; set; } | 用于跟踪文档处理工作流的记录器实现。 |
+| [Logger](../../groupdocs.merger/mergersettings/logger) { get; set; } | 用于跟踪文档处理工作流程的记录器实现。 |
 
 ### 也可以看看
 

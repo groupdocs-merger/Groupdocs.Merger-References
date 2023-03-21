@@ -18,17 +18,17 @@ public class RotateOptions : PageOptions, IRotateOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RotateOptions](rotateoptions#constructor)(RotateMode) | 初始化[`RotateOptions`](../rotateoptions)类. |
-| [RotateOptions](rotateoptions#constructor_3)(RotateMode, int[]) | 初始化[`RotateOptions`](../rotateoptions)类. |
-| [RotateOptions](rotateoptions#constructor_1)(RotateMode, int, int) | 初始化[`RotateOptions`](../rotateoptions)类. |
-| [RotateOptions](rotateoptions#constructor_2)(RotateMode, int, int, RangeMode) | 初始化[`RotateOptions`](../rotateoptions)类. |
+| [RotateOptions](rotateoptions#constructor)(RotateMode) | 初始化一个新的实例[`RotateOptions`](../rotateoptions)类. |
+| [RotateOptions](rotateoptions#constructor_3)(RotateMode, int[]) | 初始化一个新的实例[`RotateOptions`](../rotateoptions)类. |
+| [RotateOptions](rotateoptions#constructor_1)(RotateMode, int, int) | 初始化一个新的实例[`RotateOptions`](../rotateoptions)类. |
+| [RotateOptions](rotateoptions#constructor_2)(RotateMode, int, int, RangeMode) | 初始化一个新的实例[`RotateOptions`](../rotateoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Mode](../../groupdocs.merger.domain.options/rotateoptions/mode) { get; } | 获取旋转模式（90、180 或 270 度）。 |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 
 ### 也可以看看
 

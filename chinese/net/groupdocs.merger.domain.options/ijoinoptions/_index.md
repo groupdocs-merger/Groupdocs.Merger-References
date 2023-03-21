@@ -1,14 +1,14 @@
 ---
 title: IJoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文档连接选项的接口
+description: 文档加入选项的接口
 type: docs
 weight: 170
 url: /zh/net/groupdocs.merger.domain.options/ijoinoptions/
 ---
 ## IJoinOptions interface
 
-文档连接选项的接口。
+文档加入选项的接口。
 
 ```csharp
 public interface IJoinOptions : IPageOptions

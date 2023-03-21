@@ -3,7 +3,7 @@ title: DOT
 second_title: GroupDocs.Merger for .NET API 参考
 description: Word 文档模板 .dot 文件是由 Microsoft Word 创建的模板文件具有用于生成更多 DOC 或 DOCX 文件的预格式化设置 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/dot
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

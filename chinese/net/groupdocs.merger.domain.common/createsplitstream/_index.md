@@ -16,7 +16,7 @@ public delegate Stream CreateSplitStream(int number);
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| number | Int32 | 用于单据拆分的页码或行号。 |
+| number | Int32 | 用于文档拆分的页码或行号。 |
 
 ### 也可以看看
 

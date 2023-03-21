@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入对象的高度大小
+description: 嵌入对象的高度 size.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/isizeoptions/height/
 ---
 ## ISizeOptions.Height property
 
-嵌入对象的高度大小。
+嵌入对象的高度 size.
 
 ```csharp
 public int Height { get; set; }

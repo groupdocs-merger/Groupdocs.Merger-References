@@ -1,14 +1,14 @@
 ---
 title: SwapOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化SwapOptionsgroupdocs.merger.domain.options/swapoptions类.
+description: 初始化一个新的实例SwapOptionsgroupdocs.merger.domain.options/swapoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/swapoptions/swapoptions/
 ---
 ## SwapOptions constructor
 
-初始化[`SwapOptions`](../../swapoptions)类.
+初始化一个新的实例[`SwapOptions`](../../swapoptions)类.
 
 ```csharp
 public SwapOptions(int firstPageNumber, int secondPageNumber)
@@ -17,7 +17,7 @@ public SwapOptions(int firstPageNumber, int secondPageNumber)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | firstPageNumber | Int32 | 第一个页码。 |
-| secondPageNumber | Int32 | 第二页码。 |
+| secondPageNumber | Int32 | 第二个页码。 |
 
 ### 也可以看看
 

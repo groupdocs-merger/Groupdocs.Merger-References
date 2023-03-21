@@ -3,7 +3,7 @@ title: IsText
 second_title: GroupDocs.Merger for .NET API 参考
 description: 判断是否输入FileTypegroupdocs.merger.domain/filetype是原始文本格式
 type: docs
-weight: 560
+weight: 700
 url: /zh/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method

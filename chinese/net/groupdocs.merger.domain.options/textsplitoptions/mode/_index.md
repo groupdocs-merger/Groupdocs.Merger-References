@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文本分割模式
+description: 文本拆分模式
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger.domain.options/textsplitoptions/mode/
 ---
 ## TextSplitOptions.Mode property
 
-文本分割模式。
+文本拆分模式。
 
 ```csharp
 public TextSplitMode Mode { get; }

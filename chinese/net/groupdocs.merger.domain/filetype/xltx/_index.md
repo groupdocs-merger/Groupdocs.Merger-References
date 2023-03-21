@@ -1,14 +1,14 @@
 ---
 title: XLTX
 second_title: GroupDocs.Merger for .NET API 参考
-description: Excel Open XML 电子表格模板 .xltx 文件基于 Office OpenXML 文件格式规范它用于创建一个标准模板文件该文件可用于生成 XLSX 文件这些文件具有与 XLTX 文件中指定的相同的设置 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/xltx
+description: Excel Open XML 电子表格模板 .xltx 文件基于 Office OpenXML 文件格式规范它用于创建标准模板文件该文件可用于生成 XLSX 文件这些文件显示与 XLTX 文件中指定的设置相同的设置 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/xltx
 type: docs
-weight: 460
+weight: 580
 url: /zh/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field
 
-Excel Open XML 电子表格模板 (.xltx) 文件基于 Office OpenXML 文件格式规范。它用于创建一个标准模板文件，该文件可用于生成 XLSX 文件，这些文件具有与 XLTX 文件中指定的相同的设置。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/xltx)
+Excel Open XML 电子表格模板 (.xltx) 文件基于 Office OpenXML 文件格式规范。它用于创建标准模板文件，该文件可用于生成 XLSX 文件，这些文件显示与 XLTX 文件中指定的设置相同的设置。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/spreadsheet/xltx)
 
 ```csharp
 public static FileType XLTX;

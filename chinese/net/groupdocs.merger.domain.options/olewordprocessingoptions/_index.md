@@ -1,14 +1,14 @@
 ---
 title: OleWordProcessingOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供通过 OLE 将嵌入文档导入文字处理的选项
+description: 提供通过 OLE 将嵌入文档导入 Word 处理的选项
 type: docs
 weight: 470
 url: /zh/net/groupdocs.merger.domain.options/olewordprocessingoptions/
 ---
 ## OleWordProcessingOptions class
 
-提供通过 OLE 将嵌入文档导入文字处理的选项。
+提供通过 OLE 将嵌入文档导入 Word 处理的选项。
 
 ```csharp
 public class OleWordProcessingOptions : ImportDocumentOptions, IOleWordProcessingOptions
@@ -18,28 +18,28 @@ public class OleWordProcessingOptions : ImportDocumentOptions, IOleWordProcessin
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OleWordProcessingOptions](olewordprocessingoptions#constructor_2)(string, int) | 初始化[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
-| [OleWordProcessingOptions](olewordprocessingoptions#constructor_1)(string, byte[], int) | 初始化[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
-| [OleWordProcessingOptions](olewordprocessingoptions#constructor)(byte[], byte[], string, int) | 初始化[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
+| [OleWordProcessingOptions](olewordprocessingoptions#constructor_2)(string, int) | 初始化一个新的实例[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
+| [OleWordProcessingOptions](olewordprocessingoptions#constructor_1)(string, byte[], int) | 初始化一个新的实例[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
+| [OleWordProcessingOptions](olewordprocessingoptions#constructor)(byte[], byte[], string, int) | 初始化一个新的实例[`OleWordProcessingOptions`](../olewordprocessingoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [Height](../../groupdocs.merger.domain.options/olewordprocessingoptions/height) { get; set; } | Ole 对象图像的高度。 |
 | [ImageData](../../groupdocs.merger.domain.options/olewordprocessingoptions/imagedata) { get; } | Ole 对象图像的数据。 |
-| [Left](../../groupdocs.merger.domain.options/olewordprocessingoptions/left) { get; set; } | Ole 对象图像的左坐标。 |
+| [Left](../../groupdocs.merger.domain.options/olewordprocessingoptions/left) { get; set; } | Ole对象图像的左坐标。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
 | [Top](../../groupdocs.merger.domain.options/olewordprocessingoptions/top) { get; set; } | Ole 对象图像的顶部坐标。 |
 | [Width](../../groupdocs.merger.domain.options/olewordprocessingoptions/width) { get; set; } | Ole 对象图像的宽度。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于通过 OLE 将文档添加到 Word 处理： [通过 OLE 将文档添加到文字处理。](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)
+* 有关通过 OLE 将文档添加到 Word 处理的更多信息： [通过 OLE 将文档添加到 Word 处理中。](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)
 
 ### 也可以看看
 

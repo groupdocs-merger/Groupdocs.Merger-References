@@ -1,14 +1,14 @@
 ---
 title: PPSX
 second_title: GroupDocs.Merger for .NET API 参考
-description: PowerPoint Open XML 幻灯片放映 .ppsx 是使用 Microsoft PowerPoint 2007 及更高版本创建的用于幻灯片放映目的的文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/presentation/ppsx
+description: PowerPoint Open XML 幻灯片放映 .ppsx 是使用 Microsoft PowerPoint 2007 及更高版本创建的用于幻灯片放映的文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/presentation/ppsx
 type: docs
-weight: 210
+weight: 280
 url: /zh/net/groupdocs.merger.domain/filetype/ppsx/
 ---
 ## FileType.PPSX field
 
-PowerPoint Open XML 幻灯片放映 (.ppsx) 是使用 Microsoft PowerPoint 2007 及更高版本创建的用于幻灯片放映目的的文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/presentation/ppsx)
+PowerPoint Open XML 幻灯片放映 (.ppsx) 是使用 Microsoft PowerPoint 2007 及更高版本创建的用于幻灯片放映的文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/presentation/ppsx)
 
 ```csharp
 public static FileType PPSX;

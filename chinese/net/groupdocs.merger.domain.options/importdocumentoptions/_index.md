@@ -1,14 +1,14 @@
 ---
 title: ImportDocumentOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供嵌入文档导入的选项
+description: 为嵌入文档导入提供选项
 type: docs
 weight: 400
 url: /zh/net/groupdocs.merger.domain.options/importdocumentoptions/
 ---
 ## ImportDocumentOptions class
 
-提供嵌入文档导入的选项。
+为嵌入文档导入提供选项。
 
 ```csharp
 public abstract class ImportDocumentOptions : IImportDocumentOptions
@@ -18,18 +18,18 @@ public abstract class ImportDocumentOptions : IImportDocumentOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [Extension](../../groupdocs.merger.domain.options/importdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [ObjectData](../../groupdocs.merger.domain.options/importdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
+| [PageNumber](../../groupdocs.merger.domain.options/importdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于向 PDF 文档添加附件的信息： [如何在 PDF 文档中添加附件。](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
-* 更多关于通过 OLE 将文档添加到 Word 处理： [通过 OLE 将文档添加到文字处理。](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)
-* 更多关于通过 OLE 将文档添加到演示文稿： [通过 OLE 将文档添加到演示文稿。](https://docs.groupdocs.com/merger/net/add-document-to-presentation-via-ole/)
-* 有关通过 OLE 将文档添加到电子表格的更多信息： [通过 OLE 将文档添加到电子表格。](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
+* 有关向 PDF 文档添加附件的更多信息： [如何将附件添加到 PDF 文档。](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
+* 有关通过 OLE 将文档添加到 Word 处理的更多信息： [通过 OLE 将文档添加到 Word 处理中。](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)
+* 有关通过 OLE 将文档添加到演示文稿的更多信息： [通过 OLE 将文档添加到演示文稿。](https://docs.groupdocs.com/merger/net/add-document-to-presentation-via-ole/)
+* 更多关于通过 OLE 将文档添加到电子表格的信息： [通过 OLE 将文档添加到电子表格。](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
 * 有关通过 OLE 将文档添加到图表的更多信息： [通过 OLE 将文档添加到图表。](https://docs.groupdocs.com/merger/net/add-document-to-diagram-via-ole/)
 
 ### 也可以看看
