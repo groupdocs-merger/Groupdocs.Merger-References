@@ -1,14 +1,14 @@
 ---
 title: DOCX
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Microsoft Word Open XML Document .docx è un formato ben noto per i documenti Microsoft Word. Introdotto a partire dal 2007 con il rilascio di Microsoft Office 2007 la struttura di questo nuovo formato di documento è stata modificata da semplice binario a una combinazione di XML e file binari. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/wordprocessing/docx .
+description: Microsoft Word Open XML Document .docx è un formato ben noto per i documenti Microsoft Word. Introdotto a partire dal 2007 con il rilascio di Microsoft Office 2007 la struttura di questo nuovo formato di documento è stata modificata da semplice binario a una combinazione di XML e file binari. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/wordprocessing/docx .
 type: docs
-weight: 40
+weight: 60
 url: /it/net/groupdocs.merger.domain/filetype/docx/
 ---
 ## FileType.DOCX field
 
-Microsoft Word Open XML Document (.docx) è un formato ben noto per i documenti Microsoft Word. Introdotto a partire dal 2007 con il rilascio di Microsoft Office 2007, la struttura di questo nuovo formato di documento è stata modificata da semplice binario a una combinazione di XML e file binari. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/word-processing/docx) .
+Microsoft Word Open XML Document (.docx) è un formato ben noto per i documenti Microsoft Word. Introdotto a partire dal 2007 con il rilascio di Microsoft Office 2007, la struttura di questo nuovo formato di documento è stata modificata da semplice binario a una combinazione di XML e file binari. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/word-processing/docx) .
 
 ```csharp
 public static FileType DOCX;

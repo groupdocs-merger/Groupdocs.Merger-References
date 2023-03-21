@@ -3,7 +3,7 @@ title: XLAM
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Componente aggiuntivo con attivazione macro di Excel .xlam
 type: docs
-weight: 390
+weight: 510
 url: /it/net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field

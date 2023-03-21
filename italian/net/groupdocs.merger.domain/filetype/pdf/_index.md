@@ -1,14 +1,14 @@
 ---
 title: PDF
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Portable Document Format File .pdf è un formato di file introdotto come standard per la rappresentazione di documenti e altro materiale di riferimento in un formato indipendente dal software applicativo dallhardware e dal sistema operativo. Ulteriori informazioni su questo file formatoquihttps//docs.fileformat.com/view/pdf .
+description: Portable Document Format File .pdf è un formato di file introdotto come standard per la rappresentazione di documenti e altro materiale di riferimento in un formato indipendente dal software applicativo dallhardware e dal sistema operativo. Ulteriori informazioni su questo file formatoQuihttps//docs.fileformat.com/view/pdf .
 type: docs
-weight: 190
+weight: 250
 url: /it/net/groupdocs.merger.domain/filetype/pdf/
 ---
 ## FileType.PDF field
 
-Portable Document Format File (.pdf) è un formato di file introdotto come standard per la rappresentazione di documenti e altro materiale di riferimento in un formato indipendente dal software applicativo, dall'hardware e dal sistema operativo. Ulteriori informazioni su questo file formato[qui](https://docs.fileformat.com/view/pdf) .
+Portable Document Format File (.pdf) è un formato di file introdotto come standard per la rappresentazione di documenti e altro materiale di riferimento in un formato indipendente dal software applicativo, dall'hardware e dal sistema operativo. Ulteriori informazioni su questo file formato[Qui](https://docs.fileformat.com/view/pdf) .
 
 ```csharp
 public static FileType PDF;

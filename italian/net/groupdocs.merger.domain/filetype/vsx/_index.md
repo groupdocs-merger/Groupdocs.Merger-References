@@ -1,14 +1,14 @@
 ---
 title: VSX
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Visio Stencil XML File .vsx fa riferimento a stencil costituiti da disegni e forme utilizzati per creare diagrammi in Microsoft Visio. I file VSX vengono salvati nel formato di file XML ed erano supportati fino a Visio 2013. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/image/vsx .
+description: Visio Stencil XML File .vsx fa riferimento a stencil costituiti da disegni e forme utilizzati per creare diagrammi in Microsoft Visio. I file VSX vengono salvati nel formato di file XML ed erano supportati fino a Visio 2013. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/image/vsx .
 type: docs
-weight: 370
+weight: 490
 url: /it/net/groupdocs.merger.domain/filetype/vsx/
 ---
 ## FileType.VSX field
 
-Visio Stencil XML File (.vsx) fa riferimento a stencil costituiti da disegni e forme utilizzati per creare diagrammi in Microsoft Visio. I file VSX vengono salvati nel formato di file XML ed erano supportati fino a Visio 2013. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/image/vsx) .
+Visio Stencil XML File (.vsx) fa riferimento a stencil costituiti da disegni e forme utilizzati per creare diagrammi in Microsoft Visio. I file VSX vengono salvati nel formato di file XML ed erano supportati fino a Visio 2013. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/image/vsx) .
 
 ```csharp
 public static FileType VSX;

@@ -26,7 +26,7 @@ public void ExtractPages(IExtractOptions extractOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come estrarre pagine di documenti o intervalli di pagine specifici: [Come estrarre pagine da documenti PDF, Word, Excel e PowerPoint](https://docs.groupdocs.com/merger/net/extract-pages/)
 

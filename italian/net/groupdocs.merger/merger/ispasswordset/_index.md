@@ -20,7 +20,7 @@ Restituisce un valore che indica se il documento è protetto o meno.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come proteggere il documento con password: [Come proteggere documenti PDF, Word, Excel e PowerPoint con password](https://docs.groupdocs.com/merger/net/add-document-password/)
 * Ulteriori informazioni su come aggiornare o modificare la password del documento: [Come cambiare la password del documento](https://docs.groupdocs.com/merger/net/update-document-password/)

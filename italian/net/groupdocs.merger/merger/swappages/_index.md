@@ -26,7 +26,7 @@ public void SwapPages(ISwapOptions swapOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come scambiare le posizioni delle pagine all'interno del documento: [Come scambiare pagine all'interno di documenti PDF, Word, Excel o PowerPoint](https://docs.groupdocs.com/merger/net/swap-pages/)
 

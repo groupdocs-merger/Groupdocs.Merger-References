@@ -1,14 +1,14 @@
 ---
 title: XLS
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Excel Spreadsheet .xls è un file che può essere creato da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/spreadsheet/xls .
+description: Excel Spreadsheet .xls è un file che può essere creato da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /it/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field
 
-Excel Spreadsheet (.xls) è un file che può essere creato da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/spreadsheet/xls) .
+Excel Spreadsheet (.xls) è un file che può essere creato da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/spreadsheet/xls) .
 
 ```csharp
 public static FileType XLS;

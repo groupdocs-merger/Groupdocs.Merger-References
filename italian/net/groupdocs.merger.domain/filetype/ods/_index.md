@@ -1,14 +1,14 @@
 ---
 title: ODS
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: OpenDocument Spreadsheet .ods Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/spreadsheet/ods .
+description: OpenDocument Spreadsheet .ods Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/spreadsheet/ods .
 type: docs
-weight: 140
+weight: 200
 url: /it/net/groupdocs.merger.domain/filetype/ods/
 ---
 ## FileType.ODS field
 
-OpenDocument Spreadsheet (.ods) Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/spreadsheet/ods) .
+OpenDocument Spreadsheet (.ods) Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/spreadsheet/ods) .
 
 ```csharp
 public static FileType ODS;

@@ -1,14 +1,14 @@
 ---
 title: XLSB
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Il formato file foglio di calcolo binario di Excel .xlsb specifica il formato di file binario di Excel che è una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/spreadsheet/xlsb .
+description: Il formato file foglio di calcolo binario di Excel .xlsb specifica il formato di file binario di Excel che è una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /it/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field
 
-Il formato file foglio di calcolo binario di Excel (.xlsb) specifica il formato di file binario di Excel, che è una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/spreadsheet/xlsb) .
+Il formato file foglio di calcolo binario di Excel (.xlsb) specifica il formato di file binario di Excel, che è una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/spreadsheet/xlsb) .
 
 ```csharp
 public static FileType XLSB;

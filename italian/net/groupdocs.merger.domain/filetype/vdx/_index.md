@@ -1,14 +1,14 @@
 ---
 title: VDX
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Visio Drawing XML File .vdx è un disegno o un grafico creato in Microsoft Visio ma salvato in formato XML con estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio sviluppato da Microsoft. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/image/vdx .
+description: Visio Drawing XML File .vdx è un disegno o un grafico creato in Microsoft Visio ma salvato in formato XML con estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio sviluppato da Microsoft. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/image/vdx .
 type: docs
-weight: 300
+weight: 420
 url: /it/net/groupdocs.merger.domain/filetype/vdx/
 ---
 ## FileType.VDX field
 
-Visio Drawing XML File (.vdx) è un disegno o un grafico creato in Microsoft Visio, ma salvato in formato XML con estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/image/vdx) .
+Visio Drawing XML File (.vdx) è un disegno o un grafico creato in Microsoft Visio, ma salvato in formato XML con estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/image/vdx) .
 
 ```csharp
 public static FileType VDX;

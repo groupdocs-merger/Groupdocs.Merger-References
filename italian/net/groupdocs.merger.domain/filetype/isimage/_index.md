@@ -1,14 +1,14 @@
 ---
 title: IsImage
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Determina se inputFileTypegroupdocs.merger.domain/filetype è il formato di testo primitivo.
+description: Determina se inputFileTypegroupdocs.merger.domain/filetype è il formato immagine.
 type: docs
-weight: 550
+weight: 690
 url: /it/net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
 
-Determina se input[`FileType`](../../filetype) è il formato di testo primitivo.
+Determina se input[`FileType`](../../filetype) è il formato immagine.
 
 ```csharp
 public static bool IsImage(FileType fileType)
@@ -16,11 +16,11 @@ public static bool IsImage(FileType fileType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileType | FileType | Il[`FileType`](../../filetype) oggetto. |
+| fileType | FileType | IL[`FileType`](../../filetype) oggetto. |
 
 ### Valore di ritorno
 
-se immesso[`FileType`](../../filetype) è il formato immagine primitivo; altrimenti,
+se immesso[`FileType`](../../filetype) è il formato dell'immagine; Altrimenti,
 
 ```csharp
 true

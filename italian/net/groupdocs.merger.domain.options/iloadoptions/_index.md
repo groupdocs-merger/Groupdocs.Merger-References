@@ -18,7 +18,7 @@ public interface ILoadOptions : IOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Encoding](../../groupdocs.merger.domain.options/iloadoptions/encoding) { get; } | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault . |
+| [Encoding](../../groupdocs.merger.domain.options/iloadoptions/encoding) { get; } | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault . |
 | [Extension](../../groupdocs.merger.domain.options/iloadoptions/extension) { get; } | L'estensione del file da aprire. |
 | [Password](../../groupdocs.merger.domain.options/iloadoptions/password) { get; } | La password per aprire il file protetto da password. |
 | [Type](../../groupdocs.merger.domain.options/iloadoptions/type) { get; } | Il tipo di file da aprire. |

@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Determina se dueFileTypegroupdocs.merger.domain/filetype gli oggetti non sono gli stessi.
 type: docs
-weight: 580
+weight: 720
 url: /it/net/groupdocs.merger.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator
@@ -16,12 +16,12 @@ public static bool operator !=(FileType left, FileType right)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| left | FileType | Sono partiti[`FileType`](../../filetype) oggetto. |
-| right | FileType | Destra[`FileType`](../../filetype) oggetto. |
+| left | FileType | Sinistra[`FileType`](../../filetype) oggetto. |
+| right | FileType | Giusto[`FileType`](../../filetype) oggetto. |
 
 ### Valore di ritorno
 
-se entrambi[`FileType`](../../filetype) gli oggetti non sono gli stessi; altrimenti,
+se entrambi[`FileType`](../../filetype) gli oggetti non sono gli stessi; Altrimenti,
 
 ```csharp
 true

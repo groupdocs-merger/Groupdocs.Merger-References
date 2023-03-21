@@ -1,14 +1,14 @@
 ---
 title: PPT
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: PowerPoint Presentation .ppt rappresenta un file PowerPoint costituito da una raccolta di diapositive da visualizzare come SlideShow. Specifica il formato di file binario utilizzato da Microsoft PowerPoint 972003. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/presentation/ppt .
+description: PowerPoint Presentation .ppt rappresenta un file PowerPoint costituito da una raccolta di diapositive da visualizzare come SlideShow. Specifica il formato di file binario utilizzato da Microsoft PowerPoint 972003. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/presentation/ppt .
 type: docs
-weight: 220
+weight: 290
 url: /it/net/groupdocs.merger.domain/filetype/ppt/
 ---
 ## FileType.PPT field
 
-PowerPoint Presentation (.ppt) rappresenta un file PowerPoint costituito da una raccolta di diapositive da visualizzare come SlideShow. Specifica il formato di file binario utilizzato da Microsoft PowerPoint 97-2003. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/presentation/ppt) .
+PowerPoint Presentation (.ppt) rappresenta un file PowerPoint costituito da una raccolta di diapositive da visualizzare come SlideShow. Specifica il formato di file binario utilizzato da Microsoft PowerPoint 97-2003. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/presentation/ppt) .
 
 ```csharp
 public static FileType PPT;

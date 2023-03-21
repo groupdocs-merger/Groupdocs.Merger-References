@@ -12,7 +12,7 @@ Lo spazio dei nomi fornisce classi che consentono di unire documenti e manipolar
 
 | Classe | Descrizione |
 | --- | --- |
-| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[qui](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[Qui](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Merger](./merger) | Rappresenta la classe principale che controlla il processo di unione dei documenti. |
 | [MergerSettings](./mergersettings) | Definisce le impostazioni per la personalizzazione[`Merger`](../groupdocs.merger/merger) comportamento. |
 | [Metered](./metered) | Fornisce metodi per l'applicazione[Misurato](https://purchase.groupdocs.com/faqs/licensing/metered) licenza. |
