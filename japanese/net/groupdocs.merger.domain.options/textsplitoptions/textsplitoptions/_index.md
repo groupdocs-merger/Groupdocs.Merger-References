@@ -1,0 +1,149 @@
+---
+title: TextSplitOptions
+second_title: GroupDocs.Merger for .NET API リファレンス
+description: の新しいインスタンスを初期化しますTextSplitOptionsgroupdocs.merger.domain.options/textsplitoptionsclass.
+type: docs
+weight: 10
+url: /ja/net/groupdocs.merger.domain.options/textsplitoptions/textsplitoptions/
+---
+## TextSplitOptions(string, int[]) {#constructor_5}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(string filePathFormat, int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| filePathFormat | String | ファイル パス形式 (例: 'c:/split{0}.doc' または 'c:/split{0}.{1}' など、拡張子が定義済み)。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(string, TextSplitMode, int[]) {#constructor_4}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(string filePathFormat, TextSplitMode mode, int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| filePathFormat | String | ファイル パス形式 (例: 'c:/split{0}.doc' または 'c:/split{0}.{1}' など、拡張子が定義済み)。 |
+| mode | TextSplitMode | テキスト分割のモード。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, int[]) {#constructor_3}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 出力分割データの書き込みに使用されるストリームをインスタンス化するメソッド。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, TextSplitMode, int[]) {#constructor_2}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, TextSplitMode mode, int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 出力分割データの書き込みに使用されるストリームをインスタンス化するメソッド。 |
+| mode | TextSplitMode | テキスト分割のモード。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, ReleaseSplitStream, int[]) {#constructor_1}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
+    int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 出力分割データの書き込みに使用されるストリームをインスタンス化するメソッド。 |
+| releaseSplitStream | ReleaseSplitStream | createPageStream メソッドで作成したストリームを解放するメソッド。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, ReleaseSplitStream, TextSplitMode, int[]) {#constructor}
+
+の新しいインスタンスを初期化します[`TextSplitOptions`](../../textsplitoptions)class.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
+    TextSplitMode mode, int[] lineNumbers)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 出力分割データの書き込みに使用されるストリームをインスタンス化するメソッド。 |
+| releaseSplitStream | ReleaseSplitStream | createPageStream メソッドで作成したストリームを解放するメソッド。 |
+| mode | TextSplitMode | テキスト分割のモード。 |
+| lineNumbers | Int32[] | テキスト分割の行番号。 |
+
+### 関連項目
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 名前空間 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 組み立て [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
