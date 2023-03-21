@@ -3,7 +3,7 @@ title: VSSX
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Visio Stencil File .vssx son plantillas de dibujo creadas con Microsoft Visio 2013 y superior. El formato de archivo VSSX se puede abrir con Visio 2013 y superior. Los archivos de Visio son conocidos por la representación de una variedad de elementos de dibujo como la colección de formas conectores diagramas de flujo diseño de red diagramas UML Obtenga más información sobre este formato de archivoaquíhttps//docs.fileformat.com/image/vssx .
 type: docs
-weight: 340
+weight: 460
 url: /es/net/groupdocs.merger.domain/filetype/vssx/
 ---
 ## FileType.VSSX field

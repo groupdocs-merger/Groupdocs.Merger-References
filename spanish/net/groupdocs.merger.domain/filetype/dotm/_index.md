@@ -3,7 +3,7 @@ title: DOTM
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de documento de Word Open XML habilitado para macros .dotm representa un archivo de plantilla creado con Microsoft Word 2007 o superior. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/wordprocessing/dotm .
 type: docs
-weight: 60
+weight: 80
 url: /es/net/groupdocs.merger.domain/filetype/dotm/
 ---
 ## FileType.DOTM field

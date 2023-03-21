@@ -3,7 +3,7 @@ title: ERR
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: El archivo de registro de errores .err es un archivo de texto que contiene mensajes de error generados por un programa. Más información sobre este formato de archivoaquíhttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /es/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field

@@ -3,7 +3,7 @@ title: OTP
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de presentación de OpenDocument .otp representa archivos de plantilla de presentación creados por aplicaciones en formato estándar OASIS OpenDocument. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/presentation/otp .
 type: docs
-weight: 170
+weight: 230
 url: /es/net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field

@@ -3,7 +3,7 @@ title: VSTM
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de dibujo habilitada para macros de Visio .vstm son archivos de plantilla creados con Microsoft Visio que admiten macros. A diferencia de los archivos VSDX los archivos creados a partir de plantillas VSTM pueden ejecutar macros desarrolladas en código Visual Basic para aplicaciones VBA. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/image/vstm .
 type: docs
-weight: 350
+weight: 470
 url: /es/net/groupdocs.merger.domain/filetype/vstm/
 ---
 ## FileType.VSTM field

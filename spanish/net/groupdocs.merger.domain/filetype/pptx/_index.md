@@ -3,7 +3,7 @@ title: PPTX
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: PowerPoint Open XML Presentation .pptx es un archivo de presentación creado con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT que era binario el formato PPTX se basa en el formato de archivo de presentación XML abierto de Microsoft PowerPoint. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/presentation/pptx .
 type: docs
-weight: 230
+weight: 300
 url: /es/net/groupdocs.merger.domain/filetype/pptx/
 ---
 ## FileType.PPTX field

@@ -3,7 +3,7 @@ title: ToString
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Devuelve una cadena que representa el objeto actual.
 type: docs
-weight: 530
+weight: 660
 url: /es/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

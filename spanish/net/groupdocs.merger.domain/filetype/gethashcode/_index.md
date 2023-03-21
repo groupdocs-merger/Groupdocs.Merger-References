@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Devuelve el código hash para el actualFileTypegroupdocs.merger.domain/filetype objeto.
 type: docs
-weight: 520
+weight: 650
 url: /es/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

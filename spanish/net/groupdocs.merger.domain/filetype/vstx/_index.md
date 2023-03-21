@@ -3,7 +3,7 @@ title: VSTX
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de dibujo de Visio .vstx son archivos de plantilla de dibujo creados con Microsoft Visio 2013 y superior. Estos archivos VSTX proporcionan un punto de partida para crear dibujos de Visio guardados como archivos .VSDX con diseño y configuración predeterminados. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/image/vstx .
 type: docs
-weight: 360
+weight: 480
 url: /es/net/groupdocs.merger.domain/filetype/vstx/
 ---
 ## FileType.VSTX field

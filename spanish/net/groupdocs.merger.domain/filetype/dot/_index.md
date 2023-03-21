@@ -3,7 +3,7 @@ title: DOT
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Los archivos de plantilla de documento de Word .dot son archivos de plantilla creados por Microsoft Word para tener configuraciones preformateadas para la generación de más archivos DOC o DOCX. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /es/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

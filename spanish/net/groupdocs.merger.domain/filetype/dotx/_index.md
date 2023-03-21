@@ -3,7 +3,7 @@ title: DOTX
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de documento XML abierto de Word .dotx son archivos de plantilla creados por Microsoft Word para tener configuraciones preformateadas para la generación de más archivos DOCX. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/wordprocessing/dotx .
 type: docs
-weight: 70
+weight: 90
 url: /es/net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field
