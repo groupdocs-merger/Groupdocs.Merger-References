@@ -1,14 +1,14 @@
 ---
 title: XPS
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: XML Kağıt Belirtim Dosyası .xps Microsoft tarafından oluşturulan XML Kağıt Belirtimlerini temel alan sayfa düzeni dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/pagedescriptionlanguage/xps .
+description: XML Kağıt Belirtim Dosyası .xps Microsoft tarafından oluşturulan XML Kağıt Belirtimlerini temel alan sayfa düzeni dosyalarını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/pagedescriptionlanguage/xps .
 type: docs
-weight: 470
+weight: 590
 url: /tr/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field
 
-XML Kağıt Belirtim Dosyası (.xps), Microsoft tarafından oluşturulan XML Kağıt Belirtimlerini temel alan sayfa düzeni dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/page-description-language/xps) .
+XML Kağıt Belirtim Dosyası (.xps), Microsoft tarafından oluşturulan XML Kağıt Belirtimlerini temel alan sayfa düzeni dosyalarını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/page-description-language/xps) .
 
 ```csharp
 public static FileType XPS;

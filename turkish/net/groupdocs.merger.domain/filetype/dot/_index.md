@@ -1,14 +1,14 @@
 ---
 title: DOT
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Word Belge Şablonu .dot dosyaları daha fazla DOC veya DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/wordprocessing/dot .
+description: Word Belge Şablonu .dot dosyaları daha fazla DOC veya DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field
 
-Word Belge Şablonu (.dot) dosyaları, daha fazla DOC veya DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/word-processing/dot) .
+Word Belge Şablonu (.dot) dosyaları, daha fazla DOC veya DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/word-processing/dot) .
 
 ```csharp
 public static FileType DOT;

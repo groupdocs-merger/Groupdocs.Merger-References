@@ -47,7 +47,7 @@ Ad alanı, belgeleri yüklerken, birleştirirken, bölerken, önizlerken ve kayd
 | [ILoadOptions](./iloadoptions) | Belge yükleme seçenekleri için arayüz. |
 | [IMoveOptions](./imoveoptions) | Hareketli sayfa seçenekleri için arayüz. |
 | [IOleDiagramOptions](./iolediagramoptions) | Katıştırılmış belgenin OLE. aracılığıyla Diyagrama içe aktarma seçenekleri için arayüz |
-| [IOlePresentationOptions](./iolepresentationoptions) | Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arayüz |
+| [IOlePresentationOptions](./iolepresentationoptions) | Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arabirim |
 | [IOleSpreadsheetOptions](./iolespreadsheetoptions) | Katıştırılmış belgenin OLE. yoluyla Elektronik Tabloya içe aktarma seçenekleri için arayüz |
 | [IOleWordProcessingOptions](./iolewordprocessingoptions) | Gömülü belgenin OLE. yoluyla Word işlemeye alma seçenekleri için arayüz |
 | [IOptions](./ioptions) | Temel seçenekler için arayüz. |

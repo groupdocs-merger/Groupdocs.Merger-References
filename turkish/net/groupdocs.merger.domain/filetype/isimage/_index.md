@@ -1,14 +1,14 @@
 ---
 title: IsImage
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Girdi olup olmadığını belirlerFileTypegroupdocs.merger.domain/filetype ilkel metin biçimidir.
+description: Girdi olup olmadığını belirlerFileTypegroupdocs.merger.domain/filetype resim formatıdır.
 type: docs
-weight: 550
+weight: 690
 url: /tr/net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
 
-Girdi olup olmadığını belirler[`FileType`](../../filetype) ilkel metin biçimidir.
+Girdi olup olmadığını belirler[`FileType`](../../filetype) resim formatıdır.
 
 ```csharp
 public static bool IsImage(FileType fileType)
@@ -20,7 +20,7 @@ public static bool IsImage(FileType fileType)
 
 ### Geri dönüş değeri
 
-eğer giriş[`FileType`](../../filetype) ilkel görüntü formatıdır; aksi halde,
+eğer giriş[`FileType`](../../filetype) resim formatıdır; aksi takdirde,
 
 ```csharp
 true

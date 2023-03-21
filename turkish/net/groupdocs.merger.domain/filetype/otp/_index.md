@@ -1,14 +1,14 @@
 ---
 title: OTP
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: OpenDocument Sunum Şablonu .otp uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/presentation/otp .
+description: OpenDocument Sunum Şablonu .otp uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/presentation/otp .
 type: docs
-weight: 170
+weight: 230
 url: /tr/net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field
 
-OpenDocument Sunum Şablonu (.otp), uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/presentation/otp) .
+OpenDocument Sunum Şablonu (.otp), uygulamalar tarafından OASIS OpenDocument standart formatında oluşturulan sunum şablonu dosyalarını temsil eder. Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/presentation/otp) .
 
 ```csharp
 public static FileType OTP;

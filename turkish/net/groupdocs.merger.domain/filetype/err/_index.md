@@ -1,14 +1,14 @@
 ---
 title: ERR
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Hata Günlük Dosyası .err bir program tarafından oluşturulan hata mesajlarını içeren bir metin dosyasıdır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//fileinfo.com/extension/err .
+description: Hata Günlük Dosyası .err bir program tarafından oluşturulan hata mesajlarını içeren bir metin dosyasıdır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field
 
-Hata Günlük Dosyası (.err), bir program tarafından oluşturulan hata mesajlarını içeren bir metin dosyasıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://fileinfo.com/extension/err) .
+Hata Günlük Dosyası (.err), bir program tarafından oluşturulan hata mesajlarını içeren bir metin dosyasıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://fileinfo.com/extension/err) .
 
 ```csharp
 public static FileType ERR;

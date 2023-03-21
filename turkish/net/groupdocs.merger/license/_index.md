@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edininburadahttps//purchase.groupdocs.com/faqs/licensing .
+description: Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edininBuradahttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
 weight: 760
 url: /tr/net/groupdocs.merger/license/
 ---
 ## License class
 
-Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[burada](https://purchase.groupdocs.com/faqs/licensing) .
+Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[Burada](https://purchase.groupdocs.com/faqs/licensing) .
 
 ```csharp
 public sealed class License

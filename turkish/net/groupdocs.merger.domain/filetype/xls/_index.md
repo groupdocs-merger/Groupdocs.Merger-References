@@ -1,14 +1,14 @@
 ---
 title: XLS
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Excel Elektronik Tablosu .xls Microsoft Excelin yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilen bir dosyadır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/xls .
+description: Excel Elektronik Tablosu .xls Microsoft Excelin yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilen bir dosyadır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /tr/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field
 
-Excel Elektronik Tablosu (.xls), Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilen bir dosyadır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/xls) .
+Excel Elektronik Tablosu (.xls), Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilen bir dosyadır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/xls) .
 
 ```csharp
 public static FileType XLS;

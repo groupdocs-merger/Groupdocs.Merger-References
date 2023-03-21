@@ -1,14 +1,14 @@
 ---
 title: XLSB
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Excel İkili Hesap Tablosu .xlsb dosya formatı Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Formatını belirtir. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/xlsb .
+description: Excel İkili Hesap Tablosu .xlsb dosya formatı Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Formatını belirtir. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /tr/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field
 
-Excel İkili Hesap Tablosu (.xlsb) dosya formatı, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Formatını belirtir. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/xlsb) .
+Excel İkili Hesap Tablosu (.xlsb) dosya formatı, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Formatını belirtir. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/xlsb) .
 
 ```csharp
 public static FileType XLSB;

@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Açılacak dosyanın türü.
+description: Yüklenecek dosyanın türü.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-Açılacak dosyanın türü.
+Yüklenecek dosyanın türü.
 
 ```csharp
 public FileType Type { get; }

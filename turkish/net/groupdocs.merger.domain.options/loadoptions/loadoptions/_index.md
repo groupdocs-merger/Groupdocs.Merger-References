@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| fileType | FileType | Açılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
 
 ### istisnalar
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| fileType | FileType | Açılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
 | password | String | Parola korumalı dosyayı açmak için parola. |
 
 ### istisnalar
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
 
@@ -118,7 +118,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| fileType | FileType | Açılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
 | password | String | Parola korumalı dosyayı açmak için parola. |
 | encoding | Encoding | gibi metin tabanlı dosyaları açarken kullanılan kodlama[`CSV`](../../../groupdocs.merger.domain/filetype/csv) veya[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
 
@@ -148,8 +148,8 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| extension | String | Açılacak dosyanın uzantısı. |
-| fileType | FileType | Açılacak dosyanın türü. |
+| extension | String | Yüklenecek dosyanın uzantısı. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
 | password | String | Parola korumalı dosyayı açmak için parola. |
 | encoding | Encoding | gibi metin tabanlı dosyaları açarken kullanılan kodlama[`CSV`](../../../groupdocs.merger.domain/filetype/csv) veya[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | Ne zaman atıldı*fileType* boş. |
 | ArgumentNullException | Ne zaman atıldı*encoding* boş. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| iniFileType | FileType | Başlatılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
+| password | String | Parola korumalı dosyayı açmak için parola. |
+| encoding | Encoding | gibi metin tabanlı dosyaları açarken kullanılan kodlama[`CSV`](../../../groupdocs.merger.domain/filetype/csv) veya[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### istisnalar
+
+| istisna | şart |
+| --- | --- |
+| ArgumentNullException | Ne zaman atıldı*iniFileType* boş. |
+| ArgumentNullException | Ne zaman atıldı*fileType* boş. |
+| ArgumentNullException | Ne zaman atıldı*encoding* boş. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| iniFileType | FileType | Başlatılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
+| password | String | Parola korumalı dosyayı açmak için parola. |
+
+### istisnalar
+
+| istisna | şart |
+| --- | --- |
+| ArgumentNullException | Ne zaman atıldı*iniFileType* boş. |
+| ArgumentNullException | Ne zaman atıldı*fileType* boş. |
+
+### Ayrıca bakınız
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* ad alanı [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* toplantı [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+Yeni örneğini başlatır[`LoadOptions`](../../loadoptions) sınıf.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| iniFileType | FileType | Başlatılacak dosyanın türü. |
+| fileType | FileType | Yüklenecek dosyanın türü. |
+
+### istisnalar
+
+| istisna | şart |
+| --- | --- |
+| ArgumentNullException | Ne zaman atıldı*iniFileType* boş. |
+| ArgumentNullException | Ne zaman atıldı*fileType* boş. |
 
 ### Ayrıca bakınız
 

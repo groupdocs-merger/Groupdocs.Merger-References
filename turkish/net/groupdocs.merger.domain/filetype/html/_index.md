@@ -1,14 +1,14 @@
 ---
 title: HTML
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Köprü Metni Biçimlendirme Dili Dosyası .html tarayıcılarda görüntülenmek üzere oluşturulan web sayfalarının uzantısıdır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/web/html .
+description: Köprü Metni Biçimlendirme Dili Dosyası .html tarayıcılarda görüntülenmek üzere oluşturulan web sayfalarının uzantısıdır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /tr/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field
 
-Köprü Metni Biçimlendirme Dili Dosyası (.html), tarayıcılarda görüntülenmek üzere oluşturulan web sayfalarının uzantısıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/web/html) .
+Köprü Metni Biçimlendirme Dili Dosyası (.html), tarayıcılarda görüntülenmek üzere oluşturulan web sayfalarının uzantısıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/web/html) .
 
 ```csharp
 public static FileType HTML;

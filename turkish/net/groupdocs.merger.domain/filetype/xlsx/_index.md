@@ -1,14 +1,14 @@
 ---
 title: XLSX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Microsoft Excel Açık XML Elektronik Tablosu .xlsx Microsoft tarafından Microsoft Office 2007nin piyasaya sürülmesiyle kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/xlsx .
+description: Microsoft Excel Açık XML Elektronik Tablosu .xlsx Microsoft tarafından Microsoft Office 2007nin piyasaya sürülmesiyle tanıtılan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/xlsx .
 type: docs
-weight: 430
+weight: 550
 url: /tr/net/groupdocs.merger.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field
 
-Microsoft Excel Açık XML Elektronik Tablosu (.xlsx), Microsoft tarafından Microsoft Office 2007'nin piyasaya sürülmesiyle kullanıma sunulan, Microsoft Excel belgeleri için iyi bilinen bir biçimdir. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/xlsx) .
+Microsoft Excel Açık XML Elektronik Tablosu (.xlsx), Microsoft tarafından Microsoft Office 2007'nin piyasaya sürülmesiyle tanıtılan, Microsoft Excel belgeleri için iyi bilinen bir biçimdir. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/xlsx) .
 
 ```csharp
 public static FileType XLSX;

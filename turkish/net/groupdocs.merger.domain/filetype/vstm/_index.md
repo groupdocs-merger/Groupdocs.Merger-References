@@ -1,14 +1,14 @@
 ---
 title: VSTM
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Visio Makro Etkin Çizim Şablonu .vstm Microsoft Visio ile oluşturulan ve makroları destekleyen şablon dosyalarıdır. VSDX dosyalarının aksine VSTM şablonlarından oluşturulan dosyalar Visual Basic for Applications VBA kodunda geliştirilen makroları çalıştırabilir. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/image/vstm .
+description: Visio Makro Etkin Çizim Şablonu .vstm Microsoft Visio ile oluşturulan ve makroları destekleyen şablon dosyalarıdır. VSDX dosyalarının aksine VSTM şablonlarından oluşturulan dosyalar Visual Basic for Applications VBA kodunda geliştirilen makroları çalıştırabilir. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/image/vstm .
 type: docs
-weight: 350
+weight: 470
 url: /tr/net/groupdocs.merger.domain/filetype/vstm/
 ---
 ## FileType.VSTM field
 
-Visio Makro Etkin Çizim Şablonu (.vstm), Microsoft Visio ile oluşturulan ve makroları destekleyen şablon dosyalarıdır. VSDX dosyalarının aksine, VSTM şablonlarından oluşturulan dosyalar, Visual Basic for Applications (VBA) kodunda geliştirilen makroları çalıştırabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/image/vstm) .
+Visio Makro Etkin Çizim Şablonu (.vstm), Microsoft Visio ile oluşturulan ve makroları destekleyen şablon dosyalarıdır. VSDX dosyalarının aksine, VSTM şablonlarından oluşturulan dosyalar, Visual Basic for Applications (VBA) kodunda geliştirilen makroları çalıştırabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/image/vstm) .
 
 ```csharp
 public static FileType VSTM;

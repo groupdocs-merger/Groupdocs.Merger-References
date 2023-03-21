@@ -3,7 +3,7 @@ title: FromExtension
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Dosya uzantısını dosya türüyle eşler.
 type: docs
-weight: 480
+weight: 610
 url: /tr/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

@@ -1,14 +1,14 @@
 ---
 title: DOCM
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Word Open XML MacroEnabled Document .docm dosyaları Microsoft Word 2007 veya daha yüksek sürümde oluşturulmuş ve makro çalıştırabilen belgelerdir. Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/wordprocessing/docm .
+description: Word Open XML MacroEnabled Document .docm dosyaları Microsoft Word 2007 veya daha yüksek sürümde oluşturulmuş ve makro çalıştırabilen belgelerdir. Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/wordprocessing/docm .
 type: docs
-weight: 30
+weight: 50
 url: /tr/net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field
 
-Word Open XML Macro-Enabled Document (.docm) dosyaları, Microsoft Word 2007 veya daha yüksek sürümde oluşturulmuş ve makro çalıştırabilen belgelerdir. Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/word-processing/docm) .
+Word Open XML Macro-Enabled Document (.docm) dosyaları, Microsoft Word 2007 veya daha yüksek sürümde oluşturulmuş ve makro çalıştırabilen belgelerdir. Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/word-processing/docm) .
 
 ```csharp
 public static FileType DOCM;

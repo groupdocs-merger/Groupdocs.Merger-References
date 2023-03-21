@@ -19,20 +19,23 @@ public class LoadOptions : ILoadOptions
 | İsim | Tanım |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
-| [LoadOptions](loadoptions#constructor_3)(string) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_6)(string) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | Yeni örneğini başlatır[`LoadOptions`](../loadoptions) sınıf. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | gibi metin tabanlı dosyaları açarken kullanılan kodlama[`CSV`](../../groupdocs.merger.domain/filetype/csv) veya[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Varsayılan değer:Default . |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Açılacak dosyanın uzantısı. |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Dosyanın init. uzantısı |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | Parola korumalı dosyayı açmak için parola. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Açılacak dosyanın türü. |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Yüklenecek dosyanın türü. |
 
 ### Ayrıca bakınız
 
