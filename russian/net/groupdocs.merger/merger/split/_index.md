@@ -26,7 +26,7 @@ public void Split(ISplitOptions splitOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях разделения документов и вариантах использования: [Как разделить документы PDF, Word, Excel и PowerPoint в 3 строки кода](https://docs.groupdocs.com/merger/net/split-document/)
 * Краткое руководство о том, как разделить текстовые файлы разными способами: [Руководство по разделению текстовых файлов](https://docs.groupdocs.com/merger/net/split-text-file/)
@@ -60,7 +60,7 @@ public void Split(ITextSplitOptions splitOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях разделения документов и вариантах использования: [Как разделить документы PDF, Word, Excel и PowerPoint в 3 строки кода](https://docs.groupdocs.com/merger/net/split-document/)
 * Краткое руководство о том, как разделить текстовые файлы разными способами: [Руководство по разделению текстовых файлов](https://docs.groupdocs.com/merger/net/split-text-file/)

@@ -3,7 +3,7 @@ title: DOT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файлы шаблонов документов Word .dot  это файлы шаблонов созданные Microsoft Word с предварительно отформатированными настройками для создания дополнительных файлов DOC или DOCX. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

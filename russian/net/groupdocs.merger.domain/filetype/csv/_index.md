@@ -3,7 +3,7 @@ title: CSV
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл значений разделенных запятыми .csv представляет собой текстовые файлы содержащие записи данных со значениями разделенными запятыми. Подробнее об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/csv .
 type: docs
-weight: 10
+weight: 30
 url: /ru/net/groupdocs.merger.domain/filetype/csv/
 ---
 ## FileType.CSV field

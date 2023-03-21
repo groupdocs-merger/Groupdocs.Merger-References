@@ -40,7 +40,7 @@ public OleWordProcessingOptions(string filePath, byte[] imageData, int pageNumbe
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу встроенного объекта. |
+| filePath | String | Путь к файлу внедренного объекта. |
 | imageData | Byte[] | Данные изображения внедренного объекта. |
 | pageNumber | Int32 | Номер страницы для добавления встроенного объекта. |
 
@@ -62,7 +62,7 @@ public OleWordProcessingOptions(string filePath, int pageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу встроенного объекта. |
+| filePath | String | Путь к файлу внедренного объекта. |
 | pageNumber | Int32 | Номер страницы для добавления встроенного объекта. |
 
 ### Смотрите также

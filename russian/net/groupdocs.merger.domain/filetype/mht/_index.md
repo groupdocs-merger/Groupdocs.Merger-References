@@ -3,7 +3,7 @@ title: MHT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Вебархив MHTML .mht  это формат архива вебстраницы который может быть создан рядом различных приложений. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 110
+weight: 170
 url: /ru/net/groupdocs.merger.domain/filetype/mht/
 ---
 ## FileType.MHT field

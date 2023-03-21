@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по API GroupDocs.Merge для .NET
-description: Тип открываемого файла.
+description: Тип загружаемого файла.
 type: docs
 weight: 50
 url: /ru/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-Тип открываемого файла.
+Тип загружаемого файла.
 
 ```csharp
 public FileType Type { get; }

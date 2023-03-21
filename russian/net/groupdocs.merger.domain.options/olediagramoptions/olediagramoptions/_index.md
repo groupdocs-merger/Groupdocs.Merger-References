@@ -39,7 +39,7 @@ public OleDiagramOptions(string filePath, byte[] imageData, int pageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу встроенного объекта. |
+| filePath | String | Путь к файлу внедренного объекта. |
 | imageData | Byte[] | Данные изображения внедренного объекта. |
 | pageNumber | Int32 | Номер страницы для добавления встроенного объекта. |
 
@@ -61,7 +61,7 @@ public OleDiagramOptions(string filePath, int pageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу встроенного объекта. |
+| filePath | String | Путь к файлу внедренного объекта. |
 | pageNumber | Int32 | Номер страницы для добавления встроенного объекта. |
 
 ### Смотрите также

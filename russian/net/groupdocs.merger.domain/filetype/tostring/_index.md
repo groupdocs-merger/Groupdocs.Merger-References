@@ -3,7 +3,7 @@ title: ToString
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Возвращает строку представляющую текущий объект.
 type: docs
-weight: 530
+weight: 660
 url: /ru/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

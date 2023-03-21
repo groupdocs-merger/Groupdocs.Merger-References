@@ -3,7 +3,7 @@ title: PPS
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Слайдшоу PowerPoint .pps  это файл созданный с помощью Microsoft PowerPoint для целей слайдшоу. Чтение и создание файла PPS поддерживается Microsoft PowerPoint 972003. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/presentation/pps .
 type: docs
-weight: 200
+weight: 270
 url: /ru/net/groupdocs.merger.domain/filetype/pps/
 ---
 ## FileType.PPS field

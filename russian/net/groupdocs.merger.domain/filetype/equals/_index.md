@@ -3,7 +3,7 @@ title: Equals
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Определяет является ли текущийFileTypegroupdocs.merger.domain/filetype такое же как указаноFileTypegroupdocs.merger.domain/filetype объект.
 type: docs
-weight: 510
+weight: 640
 url: /ru/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}

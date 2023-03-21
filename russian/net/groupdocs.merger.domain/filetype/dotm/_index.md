@@ -3,7 +3,7 @@ title: DOTM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Шаблон документа Word Open XML с поддержкой макросов .dotm представляет собой файл шаблона созданный с помощью Microsoft Word 2007 или более поздней версии. Подробнее об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/dotm .
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/groupdocs.merger.domain/filetype/dotm/
 ---
 ## FileType.DOTM field

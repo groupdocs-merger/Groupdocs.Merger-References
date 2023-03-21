@@ -31,7 +31,7 @@ public class PdfAttachmentOptions : ImportDocumentOptions, IPdfAttachmentOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о добавлении вложений в PDF-документы: [Как добавить вложение в документ PDF.](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 

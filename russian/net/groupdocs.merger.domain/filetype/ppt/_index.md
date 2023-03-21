@@ -3,7 +3,7 @@ title: PPT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Презентация PowerPoint .ppt представляет собой файл PowerPoint состоящий из набора слайдов для отображения в виде слайдшоу. Он указывает формат двоичного файла используемый Microsoft PowerPoint 972003. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/presentation/ppt .
 type: docs
-weight: 220
+weight: 290
 url: /ru/net/groupdocs.merger.domain/filetype/ppt/
 ---
 ## FileType.PPT field

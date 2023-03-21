@@ -3,7 +3,7 @@ title: TSV
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл значений разделенных табуляцией .tsv представляет данные разделенные табуляцией в текстовом формате. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 270
+weight: 390
 url: /ru/net/groupdocs.merger.domain/filetype/tsv/
 ---
 ## FileType.TSV field

@@ -3,7 +3,7 @@ title: VSTX
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Шаблон чертежа Visio .vstx  это файлы шаблонов чертежей созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания рисунков Visio сохраненных в виде файлов .VSDX с макетом и настройками по умолчанию. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/image/vstx .
 type: docs
-weight: 360
+weight: 480
 url: /ru/net/groupdocs.merger.domain/filetype/vstx/
 ---
 ## FileType.VSTX field

@@ -20,7 +20,7 @@ public bool IsPasswordSet()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как защитить документ паролем: [Как защитить документы PDF, Word, Excel и PowerPoint паролем](https://docs.groupdocs.com/merger/net/add-document-password/)
 * Подробнее о том, как обновить или изменить пароль документа: [Как изменить пароль документа](https://docs.groupdocs.com/merger/net/update-document-password/)

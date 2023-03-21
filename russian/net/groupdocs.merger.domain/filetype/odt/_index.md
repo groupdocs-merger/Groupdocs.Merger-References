@@ -3,7 +3,7 @@ title: ODT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файлы текстовых документов OpenDocument .odt представляют собой тип документов созданных с помощью приложений для обработки текстов основанных на формате текстовых файлов OpenDocument. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/odt .
 type: docs
-weight: 150
+weight: 210
 url: /ru/net/groupdocs.merger.domain/filetype/odt/
 ---
 ## FileType.ODT field

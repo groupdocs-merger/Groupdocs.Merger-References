@@ -26,7 +26,7 @@ public void SwapPages(ISwapOptions swapOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как поменять местами страницы в документе: [Как поменять местами страницы внутри документа PDF, Word, Excel или PowerPoint](https://docs.groupdocs.com/merger/net/swap-pages/)
 

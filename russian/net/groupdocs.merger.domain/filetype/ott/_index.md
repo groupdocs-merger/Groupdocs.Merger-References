@@ -3,7 +3,7 @@ title: OTT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Шаблон документа OpenDocument .ott представляют собой шаблоны документов созданные приложениями в соответствии со стандартным форматом OpenDocument OASIS. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/ott .
 type: docs
-weight: 180
+weight: 240
 url: /ru/net/groupdocs.merger.domain/filetype/ott/
 ---
 ## FileType.OTT field

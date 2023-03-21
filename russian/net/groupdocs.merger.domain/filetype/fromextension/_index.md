@@ -3,7 +3,7 @@ title: FromExtension
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Сопоставляет расширение файла с типом файла.
 type: docs
-weight: 480
+weight: 610
 url: /ru/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

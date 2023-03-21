@@ -26,7 +26,7 @@ public void GeneratePreview(IPreviewOptions previewOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Узнайте больше о том, как создать превью для страниц документа: [Как создать предварительный просмотр страниц документа с помощью GroupDocs.Merge](https://docs.groupdocs.com/merger/net/generate-document-pages-preview/)
 

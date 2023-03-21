@@ -3,7 +3,7 @@ title: DOCX
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Документ Microsoft Word Open XML .docx  широко известный формат документов Microsoft Word. Представленный в 2007 году с выпуском Microsoft Office 2007 структура этого нового формата документа была изменена с простого двоичного файла на комбинацию XML и двоичных файлов. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/docx .
 type: docs
-weight: 40
+weight: 60
 url: /ru/net/groupdocs.merger.domain/filetype/docx/
 ---
 ## FileType.DOCX field

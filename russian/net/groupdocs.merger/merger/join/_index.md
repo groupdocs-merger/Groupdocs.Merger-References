@@ -26,7 +26,7 @@ public void Join(Stream document)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -60,7 +60,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -95,7 +95,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -128,7 +128,7 @@ public void Join(string filePath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -162,7 +162,7 @@ public void Join(string filePath, IJoinOptions joinOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -197,7 +197,7 @@ public void Join(string filePath, IImageJoinOptions joinOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о сценариях слияния документов и примерах использования: [Как объединить документы PDF, Word, Excel и PowerPoint за 3 шага](https://docs.groupdocs.com/merger/net/merge-files/)
 

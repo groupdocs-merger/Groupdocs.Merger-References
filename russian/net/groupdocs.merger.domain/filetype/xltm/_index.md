@@ -3,7 +3,7 @@ title: XLTM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Шаблон электронной таблицы Excel Open XML с поддержкой макросов .xltm представляет файлы созданные Microsoft Excel как файлы шаблонов с поддержкой макросов. Файлы XLTM аналогичны XLTX по структуре за исключением того что последний не поддерживает создание файлов шаблонов с макросами. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 450
+weight: 570
 url: /ru/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

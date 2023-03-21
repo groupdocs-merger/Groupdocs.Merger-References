@@ -3,7 +3,7 @@ title: XLSB
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Формат файла двоичной электронной таблицы Excel .xlsb определяет формат двоичного файла Excel который представляет собой набор записей и структур определяющих содержимое книги Excel. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /ru/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

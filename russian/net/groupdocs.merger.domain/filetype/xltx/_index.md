@@ -3,7 +3,7 @@ title: XLTX
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файлы шаблонов электронных таблиц Excel Open XML .xltx основаны на спецификациях формата файлов Office OpenXML. Он используется для создания стандартного файла шаблона который можно использовать для создания файлов XLSX с теми же настройками что и в файле XLTX. Подробнее об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/xltx .
 type: docs
-weight: 460
+weight: 580
 url: /ru/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field

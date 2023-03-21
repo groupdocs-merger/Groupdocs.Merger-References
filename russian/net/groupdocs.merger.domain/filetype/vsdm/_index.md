@@ -3,7 +3,7 @@ title: VSDM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Чертеж Visio с поддержкой макросов .vsdm  это файлы чертежей созданные с помощью приложения Microsoft Visio которое поддерживает макросы. Файлы VSDM представляют собой чертежи OPC/XML похожие на VSDX но также обеспечивающие возможность запуска макросов при открытии файла. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/image/vsdm .
 type: docs
-weight: 310
+weight: 430
 url: /ru/net/groupdocs.merger.domain/filetype/vsdm/
 ---
 ## FileType.VSDM field

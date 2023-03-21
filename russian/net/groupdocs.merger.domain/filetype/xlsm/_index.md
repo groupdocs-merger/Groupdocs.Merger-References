@@ -3,7 +3,7 @@ title: XLSM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Электронная таблица Excel Open XML с поддержкой макросов .xlsm  это тип файлов электронных таблиц поддерживающих макросы. Подробнее об этом формате файловздесьhttps//docs.fileformat.com/spreadsheet/xlsm .
 type: docs
-weight: 420
+weight: 540
 url: /ru/net/groupdocs.merger.domain/filetype/xlsm/
 ---
 ## FileType.XLSM field

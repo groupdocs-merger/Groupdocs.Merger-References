@@ -3,7 +3,7 @@ title: XLS
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Электронная таблица Excel .xls  это файл который может быть создан Microsoft Excel а также другими подобными программами для работы с электронными таблицами такими как OpenOffice Calc или Apple Numbers. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /ru/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field

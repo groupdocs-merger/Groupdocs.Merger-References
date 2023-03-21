@@ -3,7 +3,7 @@ title: PDF
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл переносимого формата документа .pdf  это формат файла который должен был быть введен в качестве стандарта для представления документов и других справочных материалов в формате который не зависит от прикладного программного обеспечения оборудования и операционной системы. Подробнее об этом файле форматздесьhttps//docs.fileformat.com/view/pdf .
 type: docs
-weight: 190
+weight: 250
 url: /ru/net/groupdocs.merger.domain/filetype/pdf/
 ---
 ## FileType.PDF field
