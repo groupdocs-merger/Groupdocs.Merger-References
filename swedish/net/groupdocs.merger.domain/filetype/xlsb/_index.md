@@ -3,7 +3,7 @@ title: XLSB
 second_title: GroupDocs.Merger för .NET API-referens
 description: Filformatet Excel Binary Spreadsheet .xlsb anger det binära Excelfilformatet som är en samling poster och strukturer som anger innehållet i Excelarbetsboken. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /sv/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

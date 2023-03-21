@@ -3,7 +3,7 @@ title: DOTM
 second_title: GroupDocs.Merger för .NET API-referens
 description: Word Open XML MacroEnabled Document Template .dotm representerar mallfil skapad med Microsoft Word 2007 eller högre. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/dotm .
 type: docs
-weight: 60
+weight: 80
 url: /sv/net/groupdocs.merger.domain/filetype/dotm/
 ---
 ## FileType.DOTM field

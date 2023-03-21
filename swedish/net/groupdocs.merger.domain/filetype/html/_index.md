@@ -3,7 +3,7 @@ title: HTML
 second_title: GroupDocs.Merger för .NET API-referens
 description: Hypertext Markup Language File .html är tillägget för webbsidor som skapats för visning i webbläsare. Läs mer om detta filformathärhttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /sv/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field

@@ -3,7 +3,7 @@ title: GetSupportedFileTypes
 second_title: GroupDocs.Merger för .NET API-referens
 description: Hämtar filtyper som stöds
 type: docs
-weight: 540
+weight: 670
 url: /sv/net/groupdocs.merger.domain/filetype/getsupportedfiletypes/
 ---
 ## FileType.GetSupportedFileTypes method

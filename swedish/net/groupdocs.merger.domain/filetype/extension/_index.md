@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Merger för .NET API-referens
 description: Filnamnssuffix inklusive perioden . t.ex. .doc.
 type: docs
-weight: 490
+weight: 620
 url: /sv/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

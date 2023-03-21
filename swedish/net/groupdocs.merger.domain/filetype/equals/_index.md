@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Merger för .NET API-referens
 description: Bestämmer om strömmenFileTypegroupdocs.merger.domain/filetype är samma som specificeratFileTypegroupdocs.merger.domain/filetype objekt.
 type: docs
-weight: 510
+weight: 640
 url: /sv/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}

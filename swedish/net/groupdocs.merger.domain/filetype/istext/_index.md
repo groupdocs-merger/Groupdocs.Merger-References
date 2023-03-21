@@ -3,7 +3,7 @@ title: IsText
 second_title: GroupDocs.Merger för .NET API-referens
 description: Bestämmer om ingångFileTypegroupdocs.merger.domain/filetype är primitivt textformat.
 type: docs
-weight: 560
+weight: 700
 url: /sv/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method

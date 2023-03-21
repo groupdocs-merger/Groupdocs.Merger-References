@@ -1,14 +1,14 @@
 ---
 title: ODT
 second_title: GroupDocs.Merger för .NET API-referens
-description: OpenDocument Text Document .odtfiler är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text Fileformat. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/odt .
+description: OpenDocument Text Document .odtfiler är typ av dokument som skapats med ordbehandlingsprogram som är baserade på OpenDocument Text Fileformat. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/odt .
 type: docs
-weight: 150
+weight: 210
 url: /sv/net/groupdocs.merger.domain/filetype/odt/
 ---
 ## FileType.ODT field
 
-OpenDocument Text Document (.odt)-filer är typ av dokument skapade med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Läs mer om detta filformat[här](https://docs.fileformat.com/word-processing/odt) .
+OpenDocument Text Document (.odt)-filer är typ av dokument som skapats med ordbehandlingsprogram som är baserade på OpenDocument Text File-format. Läs mer om detta filformat[här](https://docs.fileformat.com/word-processing/odt) .
 
 ```csharp
 public static FileType ODT;

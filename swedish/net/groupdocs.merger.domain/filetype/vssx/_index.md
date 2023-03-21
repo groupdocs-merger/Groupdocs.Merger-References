@@ -3,7 +3,7 @@ title: VSSX
 second_title: GroupDocs.Merger för .NET API-referens
 description: Visio Stencil File .vssx är ritstenciler skapade med Microsoft Visio 2013 och senare. VSSXfilformatet kan öppnas med Visio 2013 och högre. Visiofiler är kända för representation av en mängd olika ritningselement som samling av former kopplingar flödesscheman nätverkslayout UMLdiagram Läs mer om detta filformathärhttps//docs.fileformat.com/image/vssx .
 type: docs
-weight: 340
+weight: 460
 url: /sv/net/groupdocs.merger.domain/filetype/vssx/
 ---
 ## FileType.VSSX field

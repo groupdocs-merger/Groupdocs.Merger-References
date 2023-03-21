@@ -3,7 +3,7 @@ title: OTT
 second_title: GroupDocs.Merger för .NET API-referens
 description: OpenDocument Document Template .ott representerar malldokument som genereras av applikationer i enlighet med OASIS OpenDocumentstandardformat. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/ott .
 type: docs
-weight: 180
+weight: 240
 url: /sv/net/groupdocs.merger.domain/filetype/ott/
 ---
 ## FileType.OTT field

@@ -19,20 +19,23 @@ public class LoadOptions : ILoadOptions
 | namn | Beskrivning |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_3)(string) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_6)(string) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | Initierar ny instans av[`LoadOptions`](../loadoptions) class. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | Kodningen som används när man öppnar textbaserade filer som t.ex[`CSV`](../../groupdocs.merger.domain/filetype/csv) eller[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Standardvärdet ärDefault . |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Filtillägget som ska öppnas. |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Filtillägget till init. |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | Lösenordet för att öppna lösenordsskyddad fil. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Typen av fil som ska öppnas. |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Typen av fil som ska laddas. |
 
 ### Se även
 

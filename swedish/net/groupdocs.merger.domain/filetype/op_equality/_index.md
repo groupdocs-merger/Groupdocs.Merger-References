@@ -3,7 +3,7 @@ title: op_Equality
 second_title: GroupDocs.Merger för .NET API-referens
 description: Bestämmer om tvåFileTypegroupdocs.merger.domain/filetype objekten är desamma.
 type: docs
-weight: 570
+weight: 710
 url: /sv/net/groupdocs.merger.domain/filetype/op_equality/
 ---
 ## FileType Equality operator

@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Merger för .NET API-referens
 description: Returnerar en sträng som representerar det aktuella objektet.
 type: docs
-weight: 530
+weight: 660
 url: /sv/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

@@ -3,7 +3,7 @@ title: VSDM
 second_title: GroupDocs.Merger för .NET API-referens
 description: Visio MacroEnabled Drawing .vsdm är ritfiler som skapats med Microsoft Visioprogrammet som stöder makron. VSDMfiler är OPC/XMLritningar som liknar VSDX men som också ger möjlighet att köra makron när filen öppnas. Läs mer om detta filformathärhttps//docs.fileformat.com/image/vsdm .
 type: docs
-weight: 310
+weight: 430
 url: /sv/net/groupdocs.merger.domain/filetype/vsdm/
 ---
 ## FileType.VSDM field
