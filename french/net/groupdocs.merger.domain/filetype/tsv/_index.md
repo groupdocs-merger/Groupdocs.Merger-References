@@ -3,7 +3,7 @@ title: TSV
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Fichier de valeurs séparées par des tabulations .tsv représente les données séparées par des tabulations au format texte brut. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 270
+weight: 390
 url: /fr/net/groupdocs.merger.domain/filetype/tsv/
 ---
 ## FileType.TSV field

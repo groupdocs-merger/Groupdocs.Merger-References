@@ -3,7 +3,7 @@ title: XPS
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: XML Paper Specification File .xps représente les fichiers de mise en page basés sur les spécifications XML Paper Specifications créées par Microsoft. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/pagedescriptionlanguage/xps .
 type: docs
-weight: 470
+weight: 590
 url: /fr/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field

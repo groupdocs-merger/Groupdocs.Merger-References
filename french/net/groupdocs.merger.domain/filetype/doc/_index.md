@@ -3,7 +3,7 @@ title: DOC
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Document Microsoft Word .doc représente des documents générés par Microsoft Word ou dautres documents de traitement de texte au format de fichier binaire. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/doc .
 type: docs
-weight: 20
+weight: 40
 url: /fr/net/groupdocs.merger.domain/filetype/doc/
 ---
 ## FileType.DOC field

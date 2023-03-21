@@ -3,7 +3,7 @@ title: XLTX
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Les fichiers Excel Open XML Spreadsheet Template .xltx sont basés sur les spécifications de format de fichier Office OpenXML. Il est utilisé pour créer un fichier de modèle standard qui peut être utilisé pour générer des fichiers XLSX qui présentent les mêmes paramètres que ceux spécifiés dans le fichier XLTX. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/spreadsheet/xltx .
 type: docs
-weight: 460
+weight: 580
 url: /fr/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field

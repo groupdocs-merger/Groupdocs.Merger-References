@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Référence de l'API GroupDocs.Merger pour .NET
-description: Le type de fichier à ouvrir.
+description: Le type de fichier à charger.
 type: docs
 weight: 50
 url: /fr/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-Le type de fichier à ouvrir.
+Le type de fichier à charger.
 
 ```csharp
 public FileType Type { get; }

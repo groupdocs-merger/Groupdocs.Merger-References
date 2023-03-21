@@ -3,7 +3,7 @@ title: FromExtension
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Mappe lextension de fichier au type de fichier.
 type: docs
-weight: 480
+weight: 610
 url: /fr/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

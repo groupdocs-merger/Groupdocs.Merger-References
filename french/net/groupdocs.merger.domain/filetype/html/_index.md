@@ -3,7 +3,7 @@ title: HTML
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Hypertext Markup Language File .html est lextension des pages Web créées pour être affichées dans les navigateurs. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /fr/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field

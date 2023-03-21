@@ -3,7 +3,7 @@ title: XLSM
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Excel Open XML MacroEnabled Spreadsheet .xlsm est un type de fichier de feuille de calcul qui prend en charge les macros. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/spreadsheet/xlsm .
 type: docs
-weight: 420
+weight: 540
 url: /fr/net/groupdocs.merger.domain/filetype/xlsm/
 ---
 ## FileType.XLSM field

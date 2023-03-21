@@ -3,7 +3,7 @@ title: CSV
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Fichier de valeurs séparées par des virgules .csv représente des fichiers en texte brut contenant des enregistrements de données avec des valeurs séparées par des virgules. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/spreadsheet/csv .
 type: docs
-weight: 10
+weight: 30
 url: /fr/net/groupdocs.merger.domain/filetype/csv/
 ---
 ## FileType.CSV field

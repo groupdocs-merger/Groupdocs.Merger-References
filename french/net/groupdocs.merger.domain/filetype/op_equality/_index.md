@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Détermine si deuxFileTypegroupdocs.merger.domain/filetype les objets sont les mêmes.
 type: docs
-weight: 570
+weight: 710
 url: /fr/net/groupdocs.merger.domain/filetype/op_equality/
 ---
 ## FileType Equality operator
@@ -16,12 +16,12 @@ public static bool operator ==(FileType left, FileType right)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| left | FileType | La gauche[`FileType`](../../filetype) objet. |
-| right | FileType | Droit[`FileType`](../../filetype) objet. |
+| left | FileType | Gauche[`FileType`](../../filetype) objet. |
+| right | FileType | Droite[`FileType`](../../filetype) objet. |
 
 ### Return_Value
 
-si les deux[`FileType`](../../filetype) les objets sont les mêmes; Par ailleurs,
+si les deux[`FileType`](../../filetype) les objets sont les mêmes; sinon,
 
 ```csharp
 true
