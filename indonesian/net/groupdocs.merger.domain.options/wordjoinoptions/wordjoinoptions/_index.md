@@ -1,0 +1,178 @@
+---
+title: WordJoinOptions
+second_title: GroupDocs.Merger untuk Referensi .NET API
+description: Menginisialisasi instance baru dariWordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions kelas.
+type: docs
+weight: 10
+url: /id/net/groupdocs.merger.domain.options/wordjoinoptions/wordjoinoptions/
+---
+## WordJoinOptions() {#constructor}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions()
+```
+
+### Lihat juga
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int[]) {#constructor_7}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(int[] pageNumbers)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| pageNumbers | Int32[] | Nomor halaman. |
+
+### Lihat juga
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int) {#constructor_5}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| startNumber | Int32 | Nomor halaman awal. |
+| endNumber | Int32 | Nomor halaman akhir. |
+
+### Lihat juga
+
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(int, int, RangeMode) {#constructor_6}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| startNumber | Int32 | Nomor halaman awal. |
+| endNumber | Int32 | Nomor halaman akhir. |
+| mode | RangeMode | Modus jangkauan. |
+
+### Lihat juga
+
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType) {#constructor_1}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(FileType fileType)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| fileType | FileType | Jenis file yang akan digabungkan. |
+
+### Lihat juga
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int[]) {#constructor_4}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| fileType | FileType | Jenis file yang akan digabungkan. |
+| pageNumbers | Int32[] | Nomor halaman. |
+
+### Lihat juga
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int) {#constructor_2}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| fileType | FileType | Jenis file yang akan digabungkan. |
+| startNumber | Int32 | Nomor halaman awal. |
+| endNumber | Int32 | Nomor halaman akhir. |
+
+### Lihat juga
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+---
+
+## WordJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Menginisialisasi instance baru dari[`WordJoinOptions`](../../wordjoinoptions) kelas.
+
+```csharp
+public WordJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| fileType | FileType | Jenis file yang akan digabungkan. |
+| startNumber | Int32 | Nomor halaman awal. |
+| endNumber | Int32 | Nomor halaman akhir. |
+| mode | RangeMode | Modus jangkauan. |
+
+### Lihat juga
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [WordJoinOptions](../../wordjoinoptions)
+* ruang nama [GroupDocs.Merger.Domain.Options](../../wordjoinoptions)
+* perakitan [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
