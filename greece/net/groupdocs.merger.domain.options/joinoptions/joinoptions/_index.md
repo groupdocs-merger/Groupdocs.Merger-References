@@ -1,0 +1,178 @@
+---
+title: JoinOptions
+second_title: GroupDocs.Merger for .NET API Reference
+description: Αρχικοποιεί μια νέα παρουσία τουJoinOptionsgroupdocs.merger.domain.options/joinoptions τάξη.
+type: docs
+weight: 10
+url: /el/net/groupdocs.merger.domain.options/joinoptions/joinoptions/
+---
+## JoinOptions() {#constructor}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions()
+```
+
+### Δείτε επίσης
+
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int[]) {#constructor_7}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(int[] pageNumbers)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| pageNumbers | Int32[] | Αριθμοί σελίδων. |
+
+### Δείτε επίσης
+
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int, int) {#constructor_5}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(int startNumber, int endNumber)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| startNumber | Int32 | Ο αριθμός της αρχικής σελίδας. |
+| endNumber | Int32 | Ο αριθμός της τελικής σελίδας. |
+
+### Δείτε επίσης
+
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(int, int, RangeMode) {#constructor_6}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| startNumber | Int32 | Ο αριθμός της αρχικής σελίδας. |
+| endNumber | Int32 | Ο αριθμός της τελικής σελίδας. |
+| mode | RangeMode | Η λειτουργία εμβέλειας. |
+
+### Δείτε επίσης
+
+* enum [RangeMode](../../rangemode)
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType) {#constructor_1}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(FileType fileType)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| fileType | FileType | Ο τύπος του αρχείου προς ένταξη. |
+
+### Δείτε επίσης
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int[]) {#constructor_4}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| fileType | FileType | Ο τύπος του αρχείου προς ένταξη. |
+| pageNumbers | Int32[] | Αριθμοί σελίδων. |
+
+### Δείτε επίσης
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int) {#constructor_2}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| fileType | FileType | Ο τύπος του αρχείου προς ένταξη. |
+| startNumber | Int32 | Ο αριθμός της αρχικής σελίδας. |
+| endNumber | Int32 | Ο αριθμός της τελικής σελίδας. |
+
+### Δείτε επίσης
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+---
+
+## JoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+Αρχικοποιεί μια νέα παρουσία του[`JoinOptions`](../../joinoptions) τάξη.
+
+```csharp
+public JoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| fileType | FileType | Ο τύπος του αρχείου προς ένταξη. |
+| startNumber | Int32 | Ο αριθμός της αρχικής σελίδας. |
+| endNumber | Int32 | Ο αριθμός της τελικής σελίδας. |
+| mode | RangeMode | Η λειτουργία εμβέλειας. |
+
+### Δείτε επίσης
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [JoinOptions](../../joinoptions)
+* χώρος ονομάτων [GroupDocs.Merger.Domain.Options](../../joinoptions)
+* συνέλευση [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->
