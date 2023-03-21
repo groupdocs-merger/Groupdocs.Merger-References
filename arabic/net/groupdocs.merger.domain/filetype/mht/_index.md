@@ -3,7 +3,7 @@ title: MHT
 second_title: GroupDocs.Merger لمرجع .NET API
 description: أرشيف الويب MHTML .mht هو تنسيق أرشيف لصفحة الويب يمكن إنشاؤه بواسطة عدد من التطبيقات المختلفة. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 110
+weight: 170
 url: /ar/net/groupdocs.merger.domain/filetype/mht/
 ---
 ## FileType.MHT field

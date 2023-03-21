@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger لمرجع .NET API
-description: امتداد الملف المراد فتحه .
+description: امتداد الملف إلى init .
 type: docs
 weight: 30
 url: /ar/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-امتداد الملف المراد فتحه .
+امتداد الملف إلى init .
 
 ```csharp
 public string Extension { get; }

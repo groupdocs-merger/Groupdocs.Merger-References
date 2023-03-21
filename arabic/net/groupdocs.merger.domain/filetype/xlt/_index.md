@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملف قالب Excel .xlt عبارة عن ملفات قوالب تم إنشاؤها باستخدام Microsoft Excel وهو تطبيق جداول بيانات يأتي كجزء من مجموعة Microsoft Office. دعم Microsoft Office 972003 إنشاء ملفات XLT جديدة بالإضافة إلى فتحها. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 440
+weight: 560
 url: /ar/net/groupdocs.merger.domain/filetype/xlt/
 ---
 ## FileType.XLT field

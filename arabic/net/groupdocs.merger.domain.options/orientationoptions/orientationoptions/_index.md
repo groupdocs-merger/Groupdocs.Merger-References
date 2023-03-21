@@ -16,7 +16,7 @@ public OrientationOptions(OrientationMode orientationMode)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| orientationMode | OrientationMode | وضع توجيه[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | وضع التوجه[`OrientationMode`](../../orientationmode) |
 
 ### أنظر أيضا
 
@@ -37,7 +37,7 @@ public OrientationOptions(OrientationMode orientationMode, int[] pageNumbers)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| orientationMode | OrientationMode | وضع توجيه[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | وضع التوجه[`OrientationMode`](../../orientationmode) |
 | pageNumbers | Int32[] | أرقام الصفحات. |
 
 ### أنظر أيضا
@@ -59,7 +59,7 @@ public OrientationOptions(OrientationMode orientationMode, int startNumber, int 
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| orientationMode | OrientationMode | وضع توجيه[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | وضع التوجه[`OrientationMode`](../../orientationmode) |
 | startNumber | Int32 | رقم صفحة البداية. |
 | endNumber | Int32 | رقم صفحة النهاية. |
 
@@ -83,7 +83,7 @@ public OrientationOptions(OrientationMode orientationMode, int startNumber, int 
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| orientationMode | OrientationMode | وضع توجيه[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | وضع التوجه[`OrientationMode`](../../orientationmode) |
 | startNumber | Int32 | رقم صفحة البداية. |
 | endNumber | Int32 | رقم صفحة النهاية. |
 | mode | RangeMode | وضع النطاق. |

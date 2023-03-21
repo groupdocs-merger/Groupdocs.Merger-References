@@ -3,7 +3,7 @@ title: IsText
 second_title: GroupDocs.Merger لمرجع .NET API
 description: تحديد ما إذا كان الإدخالFileTypegroupdocs.merger.domain/filetype هو تنسيق نص بدائي.
 type: docs
-weight: 560
+weight: 700
 url: /ar/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method

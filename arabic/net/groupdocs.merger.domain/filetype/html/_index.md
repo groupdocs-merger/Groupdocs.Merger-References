@@ -3,7 +3,7 @@ title: HTML
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملف لغة توصيف النص التشعبي .html هو امتداد لصفحات الويب التي تم إنشاؤها للعرض في المستعرضات. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /ar/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field

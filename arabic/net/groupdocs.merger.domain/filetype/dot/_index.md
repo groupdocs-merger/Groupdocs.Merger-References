@@ -3,7 +3,7 @@ title: DOT
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملفات Word Document Template .dot هي ملفات قوالب تم إنشاؤها بواسطة Microsoft Word للحصول على إعدادات مهيأة مسبقًا لإنشاء المزيد من ملفات DOC أو DOCX. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

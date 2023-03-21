@@ -3,7 +3,7 @@ title: VSX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يشير ملف Visio Stencil XML .vsx إلى قوالب استنسل تتكون من رسومات وأشكال تُستخدم لإنشاء الرسوم التخطيطية في Microsoft Visio. يتم حفظ ملفات VSX بتنسيق ملف XML وتم دعمها حتى Visio 2013. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/image/vsx .
 type: docs
-weight: 370
+weight: 490
 url: /ar/net/groupdocs.merger.domain/filetype/vsx/
 ---
 ## FileType.VSX field

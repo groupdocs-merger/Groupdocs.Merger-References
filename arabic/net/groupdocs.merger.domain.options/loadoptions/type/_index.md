@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Merger لمرجع .NET API
-description: نوع الملف المراد فتحه .
+description: نوع الملف المراد تحميله.
 type: docs
 weight: 50
 url: /ar/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-نوع الملف المراد فتحه .
+نوع الملف المراد تحميله.
 
 ```csharp
 public FileType Type { get; }

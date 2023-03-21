@@ -3,7 +3,7 @@ title: MHTML
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملف MIME HTML .mhtml هو تنسيق أرشيف لصفحة الويب يمكن إنشاؤه بواسطة عدد من التطبيقات المختلفة. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 120
+weight: 180
 url: /ar/net/groupdocs.merger.domain/filetype/mhtml/
 ---
 ## FileType.MHTML field

@@ -3,7 +3,7 @@ title: DOCM
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملفات مستند Word Open XML الممكنة بماكرو .docm هي مستندات تم إنشاؤها بواسطة Microsoft Word 2007 أو أحدث مع إمكانية تشغيل وحدات الماكرو . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/wordprocessing/docm .
 type: docs
-weight: 30
+weight: 50
 url: /ar/net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field

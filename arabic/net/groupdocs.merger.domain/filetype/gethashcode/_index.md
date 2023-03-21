@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Merger لمرجع .NET API
 description: إرجاع كود التجزئة الحاليFileTypegroupdocs.merger.domain/filetype الكائن .
 type: docs
-weight: 520
+weight: 650
 url: /ar/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

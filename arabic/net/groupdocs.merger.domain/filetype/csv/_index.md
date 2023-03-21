@@ -3,7 +3,7 @@ title: CSV
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يمثل ملف القيم المفصولة بفواصل .csv ملفات نصية عادية تحتوي على سجلات بيانات بقيم مفصولة بفواصل . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/csv .
 type: docs
-weight: 10
+weight: 30
 url: /ar/net/groupdocs.merger.domain/filetype/csv/
 ---
 ## FileType.CSV field

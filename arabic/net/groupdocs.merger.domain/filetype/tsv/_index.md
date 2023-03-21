@@ -3,7 +3,7 @@ title: TSV
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يمثل ملف القيم المفصولة بعلامات جدولة .tsv بيانات مفصولة بعلامات تبويب بتنسيق نص عادي. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/tsv .
 type: docs
-weight: 270
+weight: 390
 url: /ar/net/groupdocs.merger.domain/filetype/tsv/
 ---
 ## FileType.TSV field

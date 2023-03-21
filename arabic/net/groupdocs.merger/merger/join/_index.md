@@ -16,7 +16,7 @@ public void Join(Stream document)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| document | Stream | وثيقة انضمت. |
+| document | Stream | وثيقة منضم. |
 
 ### استثناءات
 
@@ -48,7 +48,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| document | Stream | وثيقة انضمت. |
+| document | Stream | وثيقة منضم. |
 | joinOptions | IJoinOptions | خيارات الانضمام. |
 
 ### استثناءات
@@ -83,7 +83,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| document | Stream | وثيقة انضمت. |
+| document | Stream | وثيقة منضم. |
 | joinOptions | IImageJoinOptions | خيارات الانضمام للصورة. |
 
 ### استثناءات

@@ -3,7 +3,7 @@ title: VSDX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يمثل Visio Drawing .vsdx تنسيق ملف Microsoft Visio المقدم من Microsoft Office 2013 وما بعده. تم تطويره ليحل محل تنسيق الملف الثنائي  .VSD  الذي تدعمه الإصدارات السابقة من Microsoft Visio . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/image/vsdx .
 type: docs
-weight: 320
+weight: 440
 url: /ar/net/groupdocs.merger.domain/filetype/vsdx/
 ---
 ## FileType.VSDX field

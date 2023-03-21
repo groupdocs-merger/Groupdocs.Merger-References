@@ -19,20 +19,23 @@ public class LoadOptions : ILoadOptions
 | اسم | وصف |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
-| [LoadOptions](loadoptions#constructor_3)(string) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_6)(string) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | تهيئة مثيل جديد لـ[`LoadOptions`](../loadoptions) فئة . |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | الترميز المستخدم عند فتح ملفات نصية مثل[`CSV`](../../groupdocs.merger.domain/filetype/csv) أو[`TXT`](../../groupdocs.merger.domain/filetype/txt) . القيمة الافتراضية هيDefault . |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | امتداد الملف المراد فتحه . |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | امتداد الملف إلى init . |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | كلمة المرور لفتح ملف محمي بكلمة مرور. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | نوع الملف المراد فتحه . |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | نوع الملف المراد تحميله. |
 
 ### أنظر أيضا
 

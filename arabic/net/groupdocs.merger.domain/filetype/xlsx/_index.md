@@ -3,7 +3,7 @@ title: XLSX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: Microsoft Excel Open XML Spreadsheet .xlsx هو تنسيق معروف لمستندات Microsoft Excel تم تقديمه بواسطة Microsoft مع إصدار Microsoft Office 2007. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/xlsx .
 type: docs
-weight: 430
+weight: 550
 url: /ar/net/groupdocs.merger.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field

@@ -16,7 +16,7 @@ public void Validate(FileType fileType)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| fileType | FileType | نوع ملف[`FileType`](../../../groupdocs.merger.domain/filetype) صف دراسي. |
+| fileType | FileType | نوع ملف[`FileType`](../../../groupdocs.merger.domain/filetype) فصل. |
 
 ### أنظر أيضا
 

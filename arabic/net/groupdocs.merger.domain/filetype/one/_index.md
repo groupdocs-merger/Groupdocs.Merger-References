@@ -3,7 +3,7 @@ title: ONE
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يتم إنشاء ملفات OneNote Document .one بواسطة تطبيق Microsoft OneNote. يتيح لك OneNote جمع المعلومات باستخدام التطبيق كما لو كنت تستخدم لوحة المسودة لتدوين الملاحظات . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/notetaking/one .
 type: docs
-weight: 160
+weight: 220
 url: /ar/net/groupdocs.merger.domain/filetype/one/
 ---
 ## FileType.ONE field

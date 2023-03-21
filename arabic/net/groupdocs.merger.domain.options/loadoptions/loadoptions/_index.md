@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| fileType | FileType | نوع الملف المراد فتحه. |
+| fileType | FileType | نوع الملف المراد تحميله. |
 
 ### استثناءات
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| fileType | FileType | نوع الملف المراد فتحه. |
+| fileType | FileType | نوع الملف المراد تحميله. |
 | password | String | كلمة المرور لفتح ملف محمي بكلمة مرور. |
 
 ### استثناءات
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
 
@@ -118,7 +118,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| fileType | FileType | نوع الملف المراد فتحه. |
+| fileType | FileType | نوع الملف المراد تحميله. |
 | password | String | كلمة المرور لفتح ملف محمي بكلمة مرور. |
 | encoding | Encoding | الترميز المستخدم عند فتح ملفات نصية مثل[`CSV`](../../../groupdocs.merger.domain/filetype/csv) أو[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
 
@@ -148,8 +148,8 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| extension | String | امتداد الملف المراد فتحه. |
-| fileType | FileType | نوع الملف المراد فتحه. |
+| extension | String | امتداد الملف المراد تحميله. |
+| fileType | FileType | نوع الملف المراد تحميله. |
 | password | String | كلمة المرور لفتح ملف محمي بكلمة مرور. |
 | encoding | Encoding | الترميز المستخدم عند فتح ملفات نصية مثل[`CSV`](../../../groupdocs.merger.domain/filetype/csv) أو[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | عندما ألقيت*fileType* باطل. |
 | ArgumentNullException | عندما ألقيت*encoding* باطل. |
+
+### أنظر أيضا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* مساحة الاسم [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* المجسم [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| iniFileType | FileType | نوع الملف المراد تشغيله. |
+| fileType | FileType | نوع الملف المراد تحميله. |
+| password | String | كلمة المرور لفتح ملف محمي بكلمة مرور. |
+| encoding | Encoding | الترميز المستخدم عند فتح ملفات نصية مثل[`CSV`](../../../groupdocs.merger.domain/filetype/csv) أو[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### استثناءات
+
+| استثناء | حالة |
+| --- | --- |
+| ArgumentNullException | عندما ألقيت*iniFileType* باطل. |
+| ArgumentNullException | عندما ألقيت*fileType* باطل. |
+| ArgumentNullException | عندما ألقيت*encoding* باطل. |
+
+### أنظر أيضا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* مساحة الاسم [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* المجسم [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| iniFileType | FileType | نوع الملف المراد تشغيله. |
+| fileType | FileType | نوع الملف المراد تحميله. |
+| password | String | كلمة المرور لفتح ملف محمي بكلمة مرور. |
+
+### استثناءات
+
+| استثناء | حالة |
+| --- | --- |
+| ArgumentNullException | عندما ألقيت*iniFileType* باطل. |
+| ArgumentNullException | عندما ألقيت*fileType* باطل. |
+
+### أنظر أيضا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* مساحة الاسم [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* المجسم [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+تهيئة مثيل جديد لـ[`LoadOptions`](../../loadoptions) فئة .
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| iniFileType | FileType | نوع الملف المراد تشغيله. |
+| fileType | FileType | نوع الملف المراد تحميله. |
+
+### استثناءات
+
+| استثناء | حالة |
+| --- | --- |
+| ArgumentNullException | عندما ألقيت*iniFileType* باطل. |
+| ArgumentNullException | عندما ألقيت*fileType* باطل. |
 
 ### أنظر أيضا
 

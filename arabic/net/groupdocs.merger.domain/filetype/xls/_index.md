@@ -3,7 +3,7 @@ title: XLS
 second_title: GroupDocs.Merger لمرجع .NET API
 description: Excel Spreadsheet .xls هو ملف يمكن إنشاؤه بواسطة Microsoft Excel بالإضافة إلى برامج جداول البيانات المماثلة الأخرى مثل OpenOffice Calc أو Apple Numbers. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /ar/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field

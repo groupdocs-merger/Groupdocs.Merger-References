@@ -3,7 +3,7 @@ title: PPS
 second_title: GroupDocs.Merger لمرجع .NET API
 description: PowerPoint Slide Show .pps هو ملف تم إنشاؤه باستخدام Microsoft PowerPoint لغرض عرض الشرائح. يتم دعم قراءة ملف PPS وإنشائه بواسطة Microsoft PowerPoint 972003. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/presentation/pps .
 type: docs
-weight: 200
+weight: 270
 url: /ar/net/groupdocs.merger.domain/filetype/pps/
 ---
 ## FileType.PPS field

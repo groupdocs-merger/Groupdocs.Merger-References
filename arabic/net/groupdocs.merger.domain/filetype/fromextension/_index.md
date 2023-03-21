@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Merger لمرجع .NET API
 description: امتداد ملف الخرائط لنوع الملف.
 type: docs
-weight: 480
+weight: 610
 url: /ar/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

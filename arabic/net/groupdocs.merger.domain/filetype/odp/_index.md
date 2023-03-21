@@ -3,7 +3,7 @@ title: ODP
 second_title: GroupDocs.Merger لمرجع .NET API
 description: OpenDocument Presentation .odp يمثل تنسيق ملف العرض التقديمي المستخدم بواسطة OpenOffice.org في معيار OASISOpen . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/presentation/odp .
 type: docs
-weight: 130
+weight: 190
 url: /ar/net/groupdocs.merger.domain/filetype/odp/
 ---
 ## FileType.ODP field

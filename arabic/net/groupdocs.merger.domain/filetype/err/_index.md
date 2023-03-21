@@ -3,7 +3,7 @@ title: ERR
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملف سجل الأخطاء .err هو ملف نصي يحتوي على رسائل خطأ تم إنشاؤها بواسطة أحد البرامج. تعرف على المزيد حول تنسيق الملف هذاهناhttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /ar/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field

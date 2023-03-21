@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يحدد ما إذا كان التيارFileTypegroupdocs.merger.domain/filetype هو نفسه كما هو محددFileTypegroupdocs.merger.domain/filetype الكائن .
 type: docs
-weight: 510
+weight: 640
 url: /ar/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-إذا المعلمة[`FileType`](../../filetype) وهو نفس التيار[`FileType`](../../filetype) هدف؛ خلاف ذلك،
+لو المعلمة[`FileType`](../../filetype) وهو نفس التيار[`FileType`](../../filetype) هدف؛ خلاف ذلك،
 
 ```csharp
 true

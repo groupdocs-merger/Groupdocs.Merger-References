@@ -1,14 +1,14 @@
 ---
 title: IsImage
 second_title: GroupDocs.Merger لمرجع .NET API
-description: تحديد ما إذا كان الإدخالFileTypegroupdocs.merger.domain/filetype هو تنسيق نص بدائي.
+description: تحديد ما إذا كان الإدخالFileTypegroupdocs.merger.domain/filetype هو تنسيق الصورة .
 type: docs
-weight: 550
+weight: 690
 url: /ar/net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
 
-تحديد ما إذا كان الإدخال[`FileType`](../../filetype) هو تنسيق نص بدائي.
+تحديد ما إذا كان الإدخال[`FileType`](../../filetype) هو تنسيق الصورة .
 
 ```csharp
 public static bool IsImage(FileType fileType)
@@ -20,7 +20,7 @@ public static bool IsImage(FileType fileType)
 
 ### قيمة الإرجاع
 
-إذا كان الإدخال[`FileType`](../../filetype) هو تنسيق صورة بدائي ؛ خلاف ذلك،
+إذا كان الإدخال[`FileType`](../../filetype) هو تنسيق الصورة ؛ خلاف ذلك،
 
 ```csharp
 true
