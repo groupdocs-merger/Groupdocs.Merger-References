@@ -1,14 +1,14 @@
 ---
 title: XLSX
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Microsoft Excel Open XML Spreadsheet .xlsx ist ein bekanntes Format für Microsoft ExcelDokumente das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/spreadsheet/xlsx .
+description: Microsoft Excel Open XML Spreadsheet .xlsx ist ein bekanntes Format für Microsoft ExcelDokumente das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/spreadsheet/xlsx .
 type: docs
-weight: 430
+weight: 550
 url: /de/net/groupdocs.merger.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field
 
-Microsoft Excel Open XML Spreadsheet (.xlsx) ist ein bekanntes Format für Microsoft Excel-Dokumente, das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/spreadsheet/xlsx) .
+Microsoft Excel Open XML Spreadsheet (.xlsx) ist ein bekanntes Format für Microsoft Excel-Dokumente, das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/spreadsheet/xlsx) .
 
 ```csharp
 public static FileType XLSX;

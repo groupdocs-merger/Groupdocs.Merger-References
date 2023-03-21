@@ -12,7 +12,7 @@ Der Namespace bietet Klassen, die es Ihnen ermöglichen, Dokumente zusammenzufü
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[hier](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[Hier](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Merger](./merger) | Stellt die Hauptklasse dar, die den Dokumentenzusammenführungsprozess steuert. |
 | [MergerSettings](./mergersettings) | Definiert Einstellungen für das Customizing[`Merger`](../groupdocs.merger/merger) Verhalten. |
 | [Metered](./metered) | Bietet Methoden zum Anwenden[Gemessen](https://purchase.groupdocs.com/faqs/licensing/metered) Lizenz. |

@@ -1,14 +1,14 @@
 ---
 title: OTP
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: OpenDocumentPräsentationsvorlage .otp stellt Präsentationsvorlagendateien dar die von Anwendungen im OASIS OpenDocumentStandardformat erstellt wurden. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/presentation/otp .
+description: OpenDocumentPräsentationsvorlage .otp stellt Präsentationsvorlagendateien dar die von Anwendungen im OASIS OpenDocumentStandardformat erstellt wurden. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/presentation/otp .
 type: docs
-weight: 170
+weight: 230
 url: /de/net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field
 
-OpenDocument-Präsentationsvorlage (.otp) stellt Präsentationsvorlagendateien dar, die von Anwendungen im OASIS OpenDocument-Standardformat erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/presentation/otp) .
+OpenDocument-Präsentationsvorlage (.otp) stellt Präsentationsvorlagendateien dar, die von Anwendungen im OASIS OpenDocument-Standardformat erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/presentation/otp) .
 
 ```csharp
 public static FileType OTP;

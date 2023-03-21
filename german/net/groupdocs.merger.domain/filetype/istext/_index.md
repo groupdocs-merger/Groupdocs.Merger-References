@@ -3,7 +3,7 @@ title: IsText
 second_title: GroupDocs.Merger für .NET-API-Referenz
 description: Bestimmt ob EingangFileTypegroupdocs.merger.domain/filetype ist ein primitives Textformat.
 type: docs
-weight: 560
+weight: 700
 url: /de/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method
@@ -16,11 +16,11 @@ public static bool IsText(FileType fileType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fileType | FileType | Das[`FileType`](../../filetype) Objekt. |
+| fileType | FileType | Der[`FileType`](../../filetype) Objekt. |
 
 ### Rückgabewert
 
-falls eingegeben[`FileType`](../../filetype) ist ein primitives Textformat; Andernfalls,
+falls eingegeben[`FileType`](../../filetype) ist ein primitives Textformat; ansonsten,
 
 ```csharp
 true

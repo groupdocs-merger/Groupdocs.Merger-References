@@ -26,7 +26,7 @@ public void MovePage(IMoveOptions moveOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Verschieben einer Seite an eine andere Position im Dokument: [So verschieben Sie PDF-, Word-, Excel- und PowerPoint-Dokumentseiten](https://docs.groupdocs.com/merger/net/move-page/)
 

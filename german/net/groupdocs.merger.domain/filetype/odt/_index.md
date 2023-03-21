@@ -1,14 +1,14 @@
 ---
 title: ODT
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: OpenDocumentTextdokumentdateien .odt sind Dokumenttypen die mit Textverarbeitungsanwendungen erstellt wurden die auf dem OpenDocumentTextdateiformat basieren. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/wordprocessing/odt .
+description: OpenDocumentTextdokumentdateien .odt sind Dokumenttypen die mit Textverarbeitungsanwendungen erstellt wurden die auf dem OpenDocumentTextdateiformat basieren. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/wordprocessing/odt .
 type: docs
-weight: 150
+weight: 210
 url: /de/net/groupdocs.merger.domain/filetype/odt/
 ---
 ## FileType.ODT field
 
-OpenDocument-Textdokumentdateien (.odt) sind Dokumenttypen, die mit Textverarbeitungsanwendungen erstellt wurden, die auf dem OpenDocument-Textdateiformat basieren. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/word-processing/odt) .
+OpenDocument-Textdokumentdateien (.odt) sind Dokumenttypen, die mit Textverarbeitungsanwendungen erstellt wurden, die auf dem OpenDocument-Textdateiformat basieren. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/word-processing/odt) .
 
 ```csharp
 public static FileType ODT;

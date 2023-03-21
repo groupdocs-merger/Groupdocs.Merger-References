@@ -1,14 +1,14 @@
 ---
 title: PPS
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: PowerPointDiashow .pps ist eine Datei die mit Microsoft PowerPoint für Diashowzwecke erstellt wurde. Das Lesen und Erstellen von PPSDateien wird von Microsoft PowerPoint 972003 unterstützt. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/presentation/pps .
+description: PowerPointDiashow .pps ist eine Datei die mit Microsoft PowerPoint für Diashowzwecke erstellt wurde. Das Lesen und Erstellen von PPSDateien wird von Microsoft PowerPoint 972003 unterstützt. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/presentation/pps .
 type: docs
-weight: 200
+weight: 270
 url: /de/net/groupdocs.merger.domain/filetype/pps/
 ---
 ## FileType.PPS field
 
-PowerPoint-Diashow (.pps) ist eine Datei, die mit Microsoft PowerPoint für Diashowzwecke erstellt wurde. Das Lesen und Erstellen von PPS-Dateien wird von Microsoft PowerPoint 97-2003 unterstützt. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/presentation/pps) .
+PowerPoint-Diashow (.pps) ist eine Datei, die mit Microsoft PowerPoint für Diashowzwecke erstellt wurde. Das Lesen und Erstellen von PPS-Dateien wird von Microsoft PowerPoint 97-2003 unterstützt. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/presentation/pps) .
 
 ```csharp
 public static FileType PPS;

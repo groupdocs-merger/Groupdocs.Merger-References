@@ -31,7 +31,7 @@ public class PdfAttachmentOptions : ImportDocumentOptions, IPdfAttachmentOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Hinzufügen von Anhängen zu PDF-Dokumenten: [So fügen Sie einem PDF-Dokument einen Anhang hinzu.](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 

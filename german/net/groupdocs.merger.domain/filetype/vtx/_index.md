@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: VisioVorlagenXMLDatei .vtx ist eine Microsoft VisioZeichnungsvorlage die im XMLDateiformat auf Datenträger gespeichert wird. Die Vorlage soll eine Datei mit Grundeinstellungen bereitstellen die zum Erstellen mehrerer VisioDateien mit denselben Einstellungen verwendet werden kann. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/image/vtx .
+description: VisioVorlagenXMLDatei .vtx ist eine Microsoft VisioZeichnungsvorlage die im XMLDateiformat auf Datenträger gespeichert wird. Die Vorlage soll eine Datei mit Grundeinstellungen bereitstellen die zum Erstellen mehrerer VisioDateien mit denselben Einstellungen verwendet werden kann. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/image/vtx .
 type: docs
-weight: 380
+weight: 500
 url: /de/net/groupdocs.merger.domain/filetype/vtx/
 ---
 ## FileType.VTX field
 
-Visio-Vorlagen-XML-Datei (.vtx) ist eine Microsoft Visio-Zeichnungsvorlage, die im XML-Dateiformat auf Datenträger gespeichert wird. Die Vorlage soll eine Datei mit Grundeinstellungen bereitstellen, die zum Erstellen mehrerer Visio-Dateien mit denselben Einstellungen verwendet werden kann. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/image/vtx) .
+Visio-Vorlagen-XML-Datei (.vtx) ist eine Microsoft Visio-Zeichnungsvorlage, die im XML-Dateiformat auf Datenträger gespeichert wird. Die Vorlage soll eine Datei mit Grundeinstellungen bereitstellen, die zum Erstellen mehrerer Visio-Dateien mit denselben Einstellungen verwendet werden kann. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/image/vtx) .
 
 ```csharp
 public static FileType VTX;

@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Excel Open XML MacroEnabled Spreadsheet Template .xltm stellt Dateien dar die von Microsoft Excel als Makroaktivierte Vorlagendateien generiert werden. XLTMDateien ähneln XLTX in ihrer Struktur abgesehen davon dass letztere das Erstellen von Vorlagendateien mit Makros nicht unterstützen. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/spreadsheet/xltm .
+description: Excel Open XML MacroEnabled Spreadsheet Template .xltm stellt Dateien dar die von Microsoft Excel als Makroaktivierte Vorlagendateien generiert werden. XLTMDateien ähneln XLTX in ihrer Struktur abgesehen davon dass letztere das Erstellen von Vorlagendateien mit Makros nicht unterstützen. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 450
+weight: 570
 url: /de/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Excel Open XML Macro-Enabled Spreadsheet Template (.xltm) stellt Dateien dar, die von Microsoft Excel als Makro-aktivierte Vorlagendateien generiert werden. XLTM-Dateien ähneln XLTX in ihrer Struktur, abgesehen davon, dass letztere das Erstellen von Vorlagendateien mit Makros nicht unterstützen. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/spreadsheet/xltm) .
+Excel Open XML Macro-Enabled Spreadsheet Template (.xltm) stellt Dateien dar, die von Microsoft Excel als Makro-aktivierte Vorlagendateien generiert werden. XLTM-Dateien ähneln XLTX in ihrer Struktur, abgesehen davon, dass letztere das Erstellen von Vorlagendateien mit Makros nicht unterstützen. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/spreadsheet/xltm) .
 
 ```csharp
 public static FileType XLTM;

@@ -1,14 +1,14 @@
 ---
 title: VSDX
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: VisioZeichnung .vsdx stellt das Microsoft VisioDateiformat dar das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt um das binäre Dateiformat .VSD zu ersetzen das von früheren Versionen von Microsoft Visio unterstützt wird. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/image/vsdx .
+description: VisioZeichnung .vsdx stellt das Microsoft VisioDateiformat dar das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt um das binäre Dateiformat .VSD zu ersetzen das von früheren Versionen von Microsoft Visio unterstützt wird. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/image/vsdx .
 type: docs
-weight: 320
+weight: 440
 url: /de/net/groupdocs.merger.domain/filetype/vsdx/
 ---
 ## FileType.VSDX field
 
-Visio-Zeichnung (.vsdx) stellt das Microsoft Visio-Dateiformat dar, das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt, um das binäre Dateiformat .VSD zu ersetzen, das von früheren Versionen von Microsoft Visio unterstützt wird. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/image/vsdx) .
+Visio-Zeichnung (.vsdx) stellt das Microsoft Visio-Dateiformat dar, das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt, um das binäre Dateiformat .VSD zu ersetzen, das von früheren Versionen von Microsoft Visio unterstützt wird. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/image/vsdx) .
 
 ```csharp
 public static FileType VSDX;

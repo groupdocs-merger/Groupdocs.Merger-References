@@ -20,7 +20,7 @@ Informationen zu Dokumenteigenschaften.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Erfahren Sie mehr über Dokumentdateityp, Seitenzahl, Größe und viele andere formatspezifische Eigenschaften: [So erhalten Sie Dokumentinformationen mit GroupDocs.Merger](https://docs.groupdocs.com/merger/net/get-document-information/)
 

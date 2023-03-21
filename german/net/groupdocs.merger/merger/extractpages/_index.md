@@ -26,7 +26,7 @@ public void ExtractPages(IExtractOptions extractOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Extrahieren bestimmter Dokumentseiten oder Seitenbereiche: [So extrahieren Sie Seiten aus PDF-, Word-, Excel- und PowerPoint-Dokumenten](https://docs.groupdocs.com/merger/net/extract-pages/)
 

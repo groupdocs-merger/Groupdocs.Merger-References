@@ -37,7 +37,7 @@ public class OleSpreadsheetOptions : ImportDocumentOptions, IOleSpreadsheetOptio
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Hinzufügen von Dokumenten zu Spreadsheet über OLE: [Dokument über OLE zu Spreadsheet hinzufügen.](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
 

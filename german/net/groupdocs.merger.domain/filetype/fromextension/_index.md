@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Merger für .NET-API-Referenz
 description: Ordnet die Dateierweiterung dem Dateityp zu.
 type: docs
-weight: 480
+weight: 610
 url: /de/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

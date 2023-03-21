@@ -1,14 +1,14 @@
 ---
 title: VSX
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: VisioSchablonenXMLDatei .vsx bezieht sich auf Schablonen die aus Zeichnungen und Formen bestehen die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSXDateien werden im XMLDateiformat gespeichert und wurden bis Visio 2013 unterstützt. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/image/vsx .
+description: VisioSchablonenXMLDatei .vsx bezieht sich auf Schablonen die aus Zeichnungen und Formen bestehen die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSXDateien werden im XMLDateiformat gespeichert und wurden bis Visio 2013 unterstützt. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/image/vsx .
 type: docs
-weight: 370
+weight: 490
 url: /de/net/groupdocs.merger.domain/filetype/vsx/
 ---
 ## FileType.VSX field
 
-Visio-Schablonen-XML-Datei (.vsx) bezieht sich auf Schablonen, die aus Zeichnungen und Formen bestehen, die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSX-Dateien werden im XML-Dateiformat gespeichert und wurden bis Visio 2013 unterstützt. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/image/vsx) .
+Visio-Schablonen-XML-Datei (.vsx) bezieht sich auf Schablonen, die aus Zeichnungen und Formen bestehen, die zum Erstellen von Diagrammen in Microsoft Visio verwendet werden. VSX-Dateien werden im XML-Dateiformat gespeichert und wurden bis Visio 2013 unterstützt. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/image/vsx) .
 
 ```csharp
 public static FileType VSX;

@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Merger für .NET-API-Referenz
 description: Gibt den HashCode für den Strom zurückFileTypegroupdocs.merger.domain/filetype Objekt.
 type: docs
-weight: 520
+weight: 650
 url: /de/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

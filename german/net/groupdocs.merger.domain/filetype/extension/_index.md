@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Merger für .NET-API-Referenz
 description: Dateinamensuffix einschließlich Punkt . zB .doc.
 type: docs
-weight: 490
+weight: 620
 url: /de/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

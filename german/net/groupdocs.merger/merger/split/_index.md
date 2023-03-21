@@ -26,7 +26,7 @@ public void Split(ISplitOptions splitOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über Belegaufteilungsszenarien und Anwendungsfälle: [So teilen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Codezeilen auf](https://docs.groupdocs.com/merger/net/split-document/)
 * Kurzanleitung zum Aufteilen von Textdateien auf verschiedene Arten: [Anleitung zum Teilen von Textdateien](https://docs.groupdocs.com/merger/net/split-text-file/)
@@ -60,7 +60,7 @@ public void Split(ITextSplitOptions splitOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über Belegaufteilungsszenarien und Anwendungsfälle: [So teilen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Codezeilen auf](https://docs.groupdocs.com/merger/net/split-document/)
 * Kurzanleitung zum Aufteilen von Textdateien auf verschiedene Arten: [Anleitung zum Teilen von Textdateien](https://docs.groupdocs.com/merger/net/split-text-file/)
