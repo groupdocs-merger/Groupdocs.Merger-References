@@ -3,7 +3,7 @@ title: XLS
 second_title: GroupDocs.Merger för .NET API-referens
 description: Excel Spreadsheet .xls är en fil som kan skapas av Microsoft Excel såväl som andra liknande kalkylbladsprogram som OpenOffice Calc eller Apple Numbers. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /sv/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field

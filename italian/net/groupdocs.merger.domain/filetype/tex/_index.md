@@ -1,14 +1,14 @@
 ---
 title: TEX
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: LaTeX Source Document .tex è un linguaggio che comprende funzionalità di programmazione e markup utilizzate per impaginare i documenti. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/pagedescriptionlanguage/tex .
+description: LaTeX Source Document .tex è un linguaggio che comprende funzionalità di programmazione e markup utilizzate per impaginare i documenti. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/pagedescriptionlanguage/tex .
 type: docs
-weight: 260
+weight: 360
 url: /it/net/groupdocs.merger.domain/filetype/tex/
 ---
 ## FileType.TEX field
 
-LaTeX Source Document (.tex) è un linguaggio che comprende funzionalità di programmazione e markup, utilizzate per impaginare i documenti. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/page-description-language/tex) .
+LaTeX Source Document (.tex) è un linguaggio che comprende funzionalità di programmazione e markup, utilizzate per impaginare i documenti. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/page-description-language/tex) .
 
 ```csharp
 public static FileType TEX;

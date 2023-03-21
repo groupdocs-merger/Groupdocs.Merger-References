@@ -1,14 +1,14 @@
 ---
 title: ImageJoinMode
 second_title: GroupDocs.Merger for .NET API 参考
-description: 图像加入的可能模式
+description: 图像连接的可能模式
 type: docs
 weight: 380
 url: /zh/net/groupdocs.merger.domain.options/imagejoinmode/
 ---
 ## ImageJoinMode enumeration
 
-图像加入的可能模式。
+图像连接的可能模式。
 
 ```csharp
 public enum ImageJoinMode

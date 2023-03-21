@@ -3,7 +3,7 @@ title: XLAM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Надстройка Excel с поддержкой макросов .xlam
 type: docs
-weight: 390
+weight: 510
 url: /ru/net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field

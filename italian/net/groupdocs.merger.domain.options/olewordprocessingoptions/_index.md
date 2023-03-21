@@ -37,7 +37,7 @@ public class OleWordProcessingOptions : ImportDocumentOptions, IOleWordProcessin
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sull'aggiunta di documenti all'elaborazione di testi tramite OLE: [Aggiungi documento all'elaborazione di testi tramite OLE.](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)
 

@@ -3,7 +3,7 @@ title: Extension
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Suffisso nome file incluso il punto . ad es. .doc.
 type: docs
-weight: 490
+weight: 620
 url: /it/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

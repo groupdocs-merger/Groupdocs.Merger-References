@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Merger for .NET API 参考
-description: 转换为图像时获取页面高度以像素为单位
+description: 转换为图像时以像素为单位获取页面高度
 type: docs
 weight: 20
 url: /zh/net/groupdocs.merger.domain.result/pageinfo/height/
 ---
 ## PageInfo.Height property
 
-转换为图像时获取页面高度（以像素为单位）。
+转换为图像时以像素为单位获取页面高度。
 
 ```csharp
 public int Height { get; }

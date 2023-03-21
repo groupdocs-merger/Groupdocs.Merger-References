@@ -3,7 +3,7 @@ title: XLSB
 second_title: GroupDocs.Merger for .NET API 参考
 description: Excel 二进制电子表格 .xlsb 文件格式指定 Excel 二进制文件格式它是指定 Excel 工作簿内容的记录和结构的集合 了解有关此文件格式的更多信息这里https//docs.fileformat.com/spreadsheet/xlsb
 type: docs
-weight: 410
+weight: 530
 url: /zh/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

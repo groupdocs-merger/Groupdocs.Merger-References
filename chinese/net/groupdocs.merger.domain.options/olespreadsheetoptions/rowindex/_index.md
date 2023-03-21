@@ -1,14 +1,14 @@
 ---
 title: RowIndex
 second_title: GroupDocs.Merger for .NET API 参考
-description: 左上行索引
+description: 左上行索引.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.options/olespreadsheetoptions/rowindex/
 ---
 ## OleSpreadsheetOptions.RowIndex property
 
-左上行索引。
+左上行索引.
 
 ```csharp
 public int RowIndex { get; set; }

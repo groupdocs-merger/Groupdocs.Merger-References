@@ -1,14 +1,14 @@
 ---
 title: TXT
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Düz Metin Dosyası .txt satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/wordprocessing/txt .
+description: Düz Metin Dosyası .txt satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 280
+weight: 400
 url: /tr/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field
 
-Düz Metin Dosyası (.txt), satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/word-processing/txt) .
+Düz Metin Dosyası (.txt), satır biçiminde düz metin içeren bir metin belgesini temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/word-processing/txt) .
 
 ```csharp
 public static FileType TXT;

@@ -1,14 +1,14 @@
 ---
 title: IRotateOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 页面旋转选项接口
+description: 页面旋转选项的界面
 type: docs
 weight: 310
 url: /zh/net/groupdocs.merger.domain.options/irotateoptions/
 ---
 ## IRotateOptions interface
 
-页面旋转选项接口。
+页面旋转选项的界面。
 
 ```csharp
 public interface IRotateOptions : IPageOptions

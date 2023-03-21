@@ -3,7 +3,7 @@ title: PPSX
 second_title: GroupDocs.Merger för .NET API-referens
 description: PowerPoint Open XML Slide Show .ppsx är en fil skapad med Microsoft PowerPoint 2007 och senare för Slide Showändamål. Läs mer om detta filformathärhttps//docs.fileformat.com/presentation/ppsx .
 type: docs
-weight: 210
+weight: 280
 url: /sv/net/groupdocs.merger.domain/filetype/ppsx/
 ---
 ## FileType.PPSX field

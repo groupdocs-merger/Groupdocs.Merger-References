@@ -3,7 +3,7 @@ title: DOTX
 second_title: GroupDocs.Merger for .NET API 参考
 description: Word Open XML 文档模板 .dotx 是由 Microsoft Word 创建的模板文件具有用于生成更多 DOCX 文件的预格式化设置 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/dotx
 type: docs
-weight: 70
+weight: 90
 url: /zh/net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field

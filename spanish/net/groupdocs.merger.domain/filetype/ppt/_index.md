@@ -3,7 +3,7 @@ title: PPT
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Presentación de PowerPoint .ppt representa un archivo de PowerPoint que consta de una colección de diapositivas para mostrarlas como presentación de diapositivas. Especifica el formato de archivo binario utilizado por Microsoft PowerPoint 972003. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/presentation/ppt .
 type: docs
-weight: 220
+weight: 290
 url: /es/net/groupdocs.merger.domain/filetype/ppt/
 ---
 ## FileType.PPT field

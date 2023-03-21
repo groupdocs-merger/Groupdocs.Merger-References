@@ -26,7 +26,7 @@ public void ExtractPages(IExtractOptions extractOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как извлечь определенные страницы документа или диапазон страниц: [Как извлечь страницы из документов PDF, Word, Excel и PowerPoint](https://docs.groupdocs.com/merger/net/extract-pages/)
 

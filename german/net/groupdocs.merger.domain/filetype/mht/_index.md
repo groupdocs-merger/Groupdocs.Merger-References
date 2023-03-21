@@ -1,14 +1,14 @@
 ---
 title: MHT
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: MHTMLWebarchiv .mht ist ein Archivformat für Webseiten das von einer Reihe unterschiedlicher Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/web/mhtml .
+description: MHTMLWebarchiv .mht ist ein Archivformat für Webseiten das von einer Reihe unterschiedlicher Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 110
+weight: 170
 url: /de/net/groupdocs.merger.domain/filetype/mht/
 ---
 ## FileType.MHT field
 
-MHTML-Webarchiv (.mht) ist ein Archivformat für Webseiten, das von einer Reihe unterschiedlicher Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/web/mhtml) .
+MHTML-Webarchiv (.mht) ist ein Archivformat für Webseiten, das von einer Reihe unterschiedlicher Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/web/mhtml) .
 
 ```csharp
 public static FileType MHT;

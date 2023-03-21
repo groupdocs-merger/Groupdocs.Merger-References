@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Excel Açık XML Makro Etkin Elektronik Tablo Şablonu .xltm Microsoft Excel tarafından Makro etkin şablon dosyaları olarak oluşturulan dosyaları temsil eder. XLTM dosyaları daha sonra makrolarla şablon dosyaları oluşturmayı desteklememesi dışında yapı olarak XLTXe benzer. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/xltm .
+description: Excel Açık XML Makro Etkin Elektronik Tablo Şablonu .xltm Microsoft Excel tarafından Makro etkin şablon dosyaları olarak oluşturulan dosyaları temsil eder. XLTM dosyaları daha sonra makrolarla şablon dosyaları oluşturmayı desteklememesi dışında yapı olarak XLTXe benzer. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 450
+weight: 570
 url: /tr/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Excel Açık XML Makro Etkin Elektronik Tablo Şablonu (.xltm), Microsoft Excel tarafından Makro etkin şablon dosyaları olarak oluşturulan dosyaları temsil eder. XLTM dosyaları, daha sonra makrolarla şablon dosyaları oluşturmayı desteklememesi dışında yapı olarak XLTX'e benzer. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/xltm) .
+Excel Açık XML Makro Etkin Elektronik Tablo Şablonu (.xltm), Microsoft Excel tarafından Makro etkin şablon dosyaları olarak oluşturulan dosyaları temsil eder. XLTM dosyaları, daha sonra makrolarla şablon dosyaları oluşturmayı desteklememesi dışında yapı olarak XLTX'e benzer. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/xltm) .
 
 ```csharp
 public static FileType XLTM;

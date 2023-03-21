@@ -1,14 +1,14 @@
 ---
 title: AddPasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化AddPasswordOptionsgroupdocs.merger.domain.options/addpasswordoptions类.
+description: 初始化一个新的实例AddPasswordOptionsgroupdocs.merger.domain.options/addpasswordoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/addpasswordoptions/addpasswordoptions/
 ---
 ## AddPasswordOptions constructor
 
-初始化[`AddPasswordOptions`](../../addpasswordoptions)类.
+初始化一个新的实例[`AddPasswordOptions`](../../addpasswordoptions)类.
 
 ```csharp
 public AddPasswordOptions(string password)

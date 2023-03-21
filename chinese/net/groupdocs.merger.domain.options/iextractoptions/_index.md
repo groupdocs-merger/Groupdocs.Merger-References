@@ -1,14 +1,14 @@
 ---
 title: IExtractOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提取文档页面的选项接口
+description: 用于提取文档页面的选项的接口
 type: docs
 weight: 140
 url: /zh/net/groupdocs.merger.domain.options/iextractoptions/
 ---
 ## IExtractOptions interface
 
-提取文档页面的选项接口。
+用于提取文档页面的选项的接口。
 
 ```csharp
 public interface IExtractOptions : IPageOptions

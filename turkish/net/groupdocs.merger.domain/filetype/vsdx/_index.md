@@ -1,14 +1,14 @@
 ---
 title: VSDX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Visio Çizimi .vsdx Microsoft Office 2013ten itibaren sunulan Microsoft Visio dosya formatını temsil eder. Microsoft Visionun önceki sürümleri tarafından desteklenen ikili dosya biçimi .VSDnin yerini almak üzere geliştirilmiştir. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/image/vsdx .
+description: Visio Çizimi .vsdx Microsoft Office 2013ten itibaren sunulan Microsoft Visio dosya formatını temsil eder. Microsoft Visionun önceki sürümleri tarafından desteklenen ikili dosya biçimi .VSDnin yerini almak üzere geliştirilmiştir. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/image/vsdx .
 type: docs
-weight: 320
+weight: 440
 url: /tr/net/groupdocs.merger.domain/filetype/vsdx/
 ---
 ## FileType.VSDX field
 
-Visio Çizimi (.vsdx), Microsoft Office 2013'ten itibaren sunulan Microsoft Visio dosya formatını temsil eder. Microsoft Visio'nun önceki sürümleri tarafından desteklenen ikili dosya biçimi .VSD'nin yerini almak üzere geliştirilmiştir. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/image/vsdx) .
+Visio Çizimi (.vsdx), Microsoft Office 2013'ten itibaren sunulan Microsoft Visio dosya formatını temsil eder. Microsoft Visio'nun önceki sürümleri tarafından desteklenen ikili dosya biçimi .VSD'nin yerini almak üzere geliştirilmiştir. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/image/vsdx) .
 
 ```csharp
 public static FileType VSDX;

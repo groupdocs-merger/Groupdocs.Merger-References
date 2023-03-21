@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Merger for .NET API 参考
-description: 预览高度
+description: 预览高度.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.merger.domain.options/previewoptions/height/
 ---
 ## PreviewOptions.Height property
 
-预览高度。
+预览高度.
 
 ```csharp
 public int Height { get; set; }

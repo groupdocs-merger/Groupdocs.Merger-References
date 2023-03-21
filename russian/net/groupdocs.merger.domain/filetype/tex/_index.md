@@ -3,7 +3,7 @@ title: TEX
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Исходный документ LaTeX .tex  это язык который включает в себя программирование а также функции разметки используемые для набора документов. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/pagedescriptionlanguage/tex .
 type: docs
-weight: 260
+weight: 360
 url: /ru/net/groupdocs.merger.domain/filetype/tex/
 ---
 ## FileType.TEX field

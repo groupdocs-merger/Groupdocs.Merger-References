@@ -3,7 +3,7 @@ title: TXT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл обычного текста .txt представляет собой текстовый документ содержащий обычный текст в виде строк. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 280
+weight: 400
 url: /ru/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field

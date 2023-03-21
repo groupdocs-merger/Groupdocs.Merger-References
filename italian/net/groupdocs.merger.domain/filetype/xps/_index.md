@@ -1,14 +1,14 @@
 ---
 title: XPS
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Il file XML Paper Specification .xps rappresenta i file di layout di pagina basati su XML Paper Specifications creati da Microsoft. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/pagedescriptionlanguage/xps .
+description: Il file XML Paper Specification .xps rappresenta i file di layout di pagina basati su XML Paper Specifications creati da Microsoft. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/pagedescriptionlanguage/xps .
 type: docs
-weight: 470
+weight: 590
 url: /it/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field
 
-Il file XML Paper Specification (.xps) rappresenta i file di layout di pagina basati su XML Paper Specifications creati da Microsoft. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/page-description-language/xps) .
+Il file XML Paper Specification (.xps) rappresenta i file di layout di pagina basati su XML Paper Specifications creati da Microsoft. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/page-description-language/xps) .
 
 ```csharp
 public static FileType XPS;

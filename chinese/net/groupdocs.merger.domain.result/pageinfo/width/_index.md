@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: GroupDocs.Merger for .NET API 参考
-description: 转换为图像时获取页面宽度以像素为单位
+description: 转换为图像时以像素为单位获取页面宽度
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.result/pageinfo/width/
 ---
 ## PageInfo.Width property
 
-转换为图像时获取页面宽度（以像素为单位）。
+转换为图像时以像素为单位获取页面宽度。
 
 ```csharp
 public int Width { get; }

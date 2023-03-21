@@ -31,7 +31,8 @@ public sealed class FileType : IEquatable<FileType>
 | override [GetHashCode](../../groupdocs.merger.domain/filetype/gethashcode)() | Возвращает хеш-код для текущего[`FileType`](../filetype) объект. |
 | override [ToString](../../groupdocs.merger.domain/filetype/tostring)() | Возвращает строку, представляющую текущий объект. |
 | static [GetSupportedFileTypes](../../groupdocs.merger.domain/filetype/getsupportedfiletypes)() | Извлекает поддерживаемые типы файлов |
-| static [IsImage](../../groupdocs.merger.domain/filetype/isimage)(FileType) | Определяет, будет ли ввод[`FileType`](../filetype) это примитивный текстовый формат. |
+| static [IsArchive](../../groupdocs.merger.domain/filetype/isarchive)(FileType) | Определяет, будет ли ввод[`FileType`](../filetype) формат архива. |
+| static [IsImage](../../groupdocs.merger.domain/filetype/isimage)(FileType) | Определяет, будет ли ввод[`FileType`](../filetype) формат изображения. |
 | static [IsText](../../groupdocs.merger.domain/filetype/istext)(FileType) | Определяет, будет ли ввод[`FileType`](../filetype) это примитивный текстовый формат. |
 | [operator ==](../../groupdocs.merger.domain/filetype/op_equality) | Определяет, являются ли два[`FileType`](../filetype) объекты одинаковые. |
 | [operator !=](../../groupdocs.merger.domain/filetype/op_inequality) | Определяет, являются ли два[`FileType`](../filetype) объекты не одинаковы. |
@@ -40,6 +41,8 @@ public sealed class FileType : IEquatable<FileType>
 
 | Имя | Описание |
 | --- | --- |
+| static [BMP](../../groupdocs.merger.domain/filetype/bmp) | Файл растрового изображения (.bmp) представляет собой файлы, используемые для хранения растровых цифровых изображений. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/image/bmp) . |
+| static [BZ2](../../groupdocs.merger.domain/filetype/bz2) | Сжатый файл Bzip2 (.bz2) |
 | static [CSV](../../groupdocs.merger.domain/filetype/csv) | Файл значений, разделенных запятыми (.csv), представляет собой текстовые файлы, содержащие записи данных со значениями, разделенными запятыми. Подробнее об этом формате файла[здесь](https://docs.fileformat.com/spreadsheet/csv) . |
 | static [DOC](../../groupdocs.merger.domain/filetype/doc) | Документ Microsoft Word (.doc) представляет собой документы, сгенерированные Microsoft Word или другими текстовыми редакторами в двоичном формате. Подробнее об этом формате файлов[здесь](https://docs.fileformat.com/word-processing/doc) . |
 | static [DOCM](../../groupdocs.merger.domain/filetype/docm) | Файлы документов Word Open XML с поддержкой макросов (.docm) — это документы, созданные в Microsoft Word 2007 или более поздней версии с возможностью запуска макросов. Подробнее об этом формате файлов[здесь](https://docs.fileformat.com/word-processing/docm) . |
@@ -49,7 +52,11 @@ public sealed class FileType : IEquatable<FileType>
 | static [DOTX](../../groupdocs.merger.domain/filetype/dotx) | Шаблон документа Word Open XML (.dotx) — это файлы шаблонов, созданные Microsoft Word для предварительно отформатированных настроек для создания дополнительных файлов DOCX. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/word-processing/dotx) . |
 | static [EPUB](../../groupdocs.merger.domain/filetype/epub) | Open eBook File (.epub) — это формат файла электронной книги, который представляет собой стандартный формат цифровой публикации для издателей и потребителей. К настоящему времени этот формат стал настолько распространенным, что его поддерживают многие электронные книги и программные приложения. Узнайте больше об этом формате файла.[здесь](https://docs.fileformat.com/ebook/epub) . |
 | static [ERR](../../groupdocs.merger.domain/filetype/err) | Файл журнала ошибок (.err) — это текстовый файл, содержащий сообщения об ошибках, созданные программой. Узнайте больше об этом формате файла[здесь](https://fileinfo.com/extension/err) . |
+| static [GIF](../../groupdocs.merger.domain/filetype/gif) | Графический файл формата обмена (.gif) |
+| static [GZ](../../groupdocs.merger.domain/filetype/gz) | Сжатый файл G-Zip (.gz) |
 | static [HTML](../../groupdocs.merger.domain/filetype/html) | Файл языка гипертекстовой разметки (.html) — это расширение для веб-страниц, созданных для отображения в браузерах. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/web/html) . |
+| static [JPEG](../../groupdocs.merger.domain/filetype/jpeg) | Изображение JPEG (.jpeg) — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение, полученное в результате сжатия, представляет собой компромисс между размером хранилища и качеством изображения. Подробнее об этом формате файла[здесь](https://docs.fileformat.com/image/jpeg) . |
+| static [JPG](../../groupdocs.merger.domain/filetype/jpg) | Изображение JPEG (.jpg) |
 | static [MHT](../../groupdocs.merger.domain/filetype/mht) | Веб-архив MHTML (.mht) — это формат архива веб-страницы, который может быть создан рядом различных приложений. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/web/mhtml) . |
 | static [MHTML](../../groupdocs.merger.domain/filetype/mhtml) | HTML-файл MIME (.mhtml) — это формат архива веб-страницы, который может быть создан рядом различных приложений. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/web/mhtml) . |
 | static [ODP](../../groupdocs.merger.domain/filetype/odp) | Презентация OpenDocument (.odp) представляет собой формат файла презентации, используемый OpenOffice.org в стандарте OASISOpen. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/presentation/odp) . |
@@ -59,13 +66,19 @@ public sealed class FileType : IEquatable<FileType>
 | static [OTP](../../groupdocs.merger.domain/filetype/otp) | Шаблон презентации OpenDocument (.otp) представляет собой файлы шаблонов презентаций, созданные приложениями в стандартном формате OASIS OpenDocument. Подробнее об этом формате файлов[здесь](https://docs.fileformat.com/presentation/otp) . |
 | static [OTT](../../groupdocs.merger.domain/filetype/ott) | Шаблон документа OpenDocument (.ott) представляют собой шаблоны документов, созданные приложениями в соответствии со стандартным форматом OpenDocument OASIS. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/word-processing/ott) . |
 | static [PDF](../../groupdocs.merger.domain/filetype/pdf) | Файл переносимого формата документа (.pdf) — это формат файла, который должен был быть введен в качестве стандарта для представления документов и других справочных материалов в формате, который не зависит от прикладного программного обеспечения, оборудования и операционной системы. Подробнее об этом файле формат[здесь](https://docs.fileformat.com/view/pdf) . |
+| static [PNG](../../groupdocs.merger.domain/filetype/png) | Portable Network Graphics (.png) — это тип файла растрового изображения, в котором используется сжатие без потерь. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/image/png) . |
 | static [PPS](../../groupdocs.merger.domain/filetype/pps) | Слайд-шоу PowerPoint (.pps) — это файл, созданный с помощью Microsoft PowerPoint для целей слайд-шоу. Чтение и создание файла PPS поддерживается Microsoft PowerPoint 97-2003. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/presentation/pps) . |
 | static [PPSX](../../groupdocs.merger.domain/filetype/ppsx) | Слайд-шоу PowerPoint Open XML (.ppsx) — это файл, созданный с помощью Microsoft PowerPoint 2007 и более поздних версий для целей слайд-шоу. Подробнее об этом формате файла[здесь](https://docs.fileformat.com/presentation/ppsx) . |
 | static [PPT](../../groupdocs.merger.domain/filetype/ppt) | Презентация PowerPoint (.ppt) представляет собой файл PowerPoint, состоящий из набора слайдов для отображения в виде слайд-шоу. Он указывает формат двоичного файла, используемый Microsoft PowerPoint 97-2003. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/presentation/ppt) . |
 | static [PPTX](../../groupdocs.merger.domain/filetype/pptx) | Презентация PowerPoint Open XML (.pptx) — это файл презентации, созданный с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/presentation/pptx) . |
 | static [PS](../../groupdocs.merger.domain/filetype/ps) | Файл PostScript (.ps) |
+| static [RAR](../../groupdocs.merger.domain/filetype/rar) | Архив Рошаля Сжатый файл (.rar) |
 | static [RTF](../../groupdocs.merger.domain/filetype/rtf) | Форматированный текстовый файл (.rtf), представленный и задокументированный Microsoft, форматированный текстовый формат (RTF) представляет собой метод кодирования форматированного текста и графики для использования в приложениях. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/word-processing/rtf) . |
+| static [SevenZ](../../groupdocs.merger.domain/filetype/sevenz) | Сжатый файл 7-Zip (.7z) |
+| static [TAR](../../groupdocs.merger.domain/filetype/tar) | Объединенный файловый архив Unix (.tar) |
 | static [TEX](../../groupdocs.merger.domain/filetype/tex) | Исходный документ LaTeX (.tex) — это язык, который включает в себя программирование, а также функции разметки, используемые для набора документов. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/page-description-language/tex) . |
+| static [TIF](../../groupdocs.merger.domain/filetype/tif) | Файл изображения с тегами (.tif) |
+| static [TIFF](../../groupdocs.merger.domain/filetype/tiff) | Формат файла изображения с тегами (.tiff) |
 | static [TSV](../../groupdocs.merger.domain/filetype/tsv) | Файл значений, разделенных табуляцией (.tsv) представляет данные, разделенные табуляцией, в текстовом формате. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/spreadsheet/tsv) . |
 | static [TXT](../../groupdocs.merger.domain/filetype/txt) | Файл обычного текста (.txt) представляет собой текстовый документ, содержащий обычный текст в виде строк. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/word-processing/txt) . |
 | static [Unknown](../../groupdocs.merger.domain/filetype/unknown) | Представляет неизвестный тип файла. |
@@ -87,10 +100,11 @@ public sealed class FileType : IEquatable<FileType>
 | static [XLTM](../../groupdocs.merger.domain/filetype/xltm) | Шаблон электронной таблицы Excel Open XML с поддержкой макросов (.xltm) представляет файлы, созданные Microsoft Excel, как файлы шаблонов с поддержкой макросов. Файлы XLTM аналогичны XLTX по структуре, за исключением того, что последний не поддерживает создание файлов шаблонов с макросами. Узнайте больше об этом формате файла[здесь](https://docs.fileformat.com/spreadsheet/xltm) . |
 | static [XLTX](../../groupdocs.merger.domain/filetype/xltx) | Файлы шаблонов электронных таблиц Excel Open XML (.xltx) основаны на спецификациях формата файлов Office OpenXML. Он используется для создания стандартного файла шаблона, который можно использовать для создания файлов XLSX с теми же настройками, что и в файле XLTX. Подробнее об этом формате файла[здесь](https://docs.fileformat.com/spreadsheet/xltx) . |
 | static [XPS](../../groupdocs.merger.domain/filetype/xps) | Файл спецификации XML Paper (.xps) представляет собой файлы макета страницы, основанные на спецификациях XML Paper, созданных Microsoft. Подробнее об этом формате файла[здесь](https://docs.fileformat.com/page-description-language/xps) . |
+| static [ZIP](../../groupdocs.merger.domain/filetype/zip) | Заархивированный файл (.zip) |
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Узнайте больше о форматах файлов, поддерживаемых GroupDocs.Merge: [Полный список поддерживаемых форматов документов](https://docs.groupdocs.com/display/mergernet/Supported+Document+Types)
 * Узнайте больше о том, как получить поддерживаемые типы файлов в коде: [Как получить поддерживаемые форматы файлов в коде](https://docs.groupdocs.com/display/mergernet/Get+supported+file+types)

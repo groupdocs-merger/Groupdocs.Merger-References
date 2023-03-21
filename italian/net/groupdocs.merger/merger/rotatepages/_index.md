@@ -26,7 +26,7 @@ public void RotatePages(IRotateOptions rotateOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come ruotare le pagine di un documento PDF: [Come ruotare le pagine di un documento PDF](https://docs.groupdocs.com/merger/net/rotate-pages/)
 

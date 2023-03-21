@@ -3,7 +3,7 @@ title: PPTX
 second_title: GroupDocs.Merger för .NET API-referens
 description: PowerPoint Open XML Presentation .pptx är en presentationsfil skapad med det populära Microsoft PowerPointprogrammet. Till skillnad från den tidigare versionen av presentationsfilformatet PPT som var binärt är PPTXformatet baserat på Microsoft PowerPoints öppna XMLpresentationsfilformat. Läs mer om detta filformathärhttps//docs.fileformat.com/presentation/pptx .
 type: docs
-weight: 230
+weight: 300
 url: /sv/net/groupdocs.merger.domain/filetype/pptx/
 ---
 ## FileType.PPTX field

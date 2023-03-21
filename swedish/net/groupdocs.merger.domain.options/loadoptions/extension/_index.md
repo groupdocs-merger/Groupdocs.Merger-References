@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger för .NET API-referens
-description: Filtillägget som ska öppnas.
+description: Filtillägget till init.
 type: docs
 weight: 30
 url: /sv/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-Filtillägget som ska öppnas.
+Filtillägget till init.
 
 ```csharp
 public string Extension { get; }

@@ -1,14 +1,14 @@
 ---
 title: ERR
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Fehlerprotokolldatei .err ist eine Textdatei die von einem Programm generierte Fehlermeldungen enthält. Erfahren Sie mehr über dieses Dateiformathierhttps//fileinfo.com/extension/err .
+description: Fehlerprotokolldatei .err ist eine Textdatei die von einem Programm generierte Fehlermeldungen enthält. Erfahren Sie mehr über dieses DateiformatHierhttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /de/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field
 
-Fehlerprotokolldatei (.err) ist eine Textdatei, die von einem Programm generierte Fehlermeldungen enthält. Erfahren Sie mehr über dieses Dateiformat[hier](https://fileinfo.com/extension/err) .
+Fehlerprotokolldatei (.err) ist eine Textdatei, die von einem Programm generierte Fehlermeldungen enthält. Erfahren Sie mehr über dieses Dateiformat[Hier](https://fileinfo.com/extension/err) .
 
 ```csharp
 public static FileType ERR;

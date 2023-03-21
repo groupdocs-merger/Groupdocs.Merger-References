@@ -19,20 +19,23 @@ public class LoadOptions : ILoadOptions
 | Nome | Descrizione |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
-| [LoadOptions](loadoptions#constructor_3)(string) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_6)(string) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | Inizializza una nuova istanza di[`LoadOptions`](../loadoptions) classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault . |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | L'estensione del file da aprire. |
+| [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault . |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | L'estensione del file init. |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | La password per aprire il file protetto da password. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Il tipo di file da aprire. |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Il tipo di file da caricare. |
 
 ### Guarda anche
 

@@ -29,10 +29,10 @@ public sealed class License
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关许可的更多信息： [GroupDocs 许可常见问题解答](https://purchase.groupdocs.com/faqs/licensing)
-* 更多关于 GroupDocs.Merger 许可： [评估限制和许可](https://docs.groupdocs.com/display/mergernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Merger)
+* 有关 GroupDocs 的更多信息。合并许可： [评估限制和许可](https://docs.groupdocs.com/display/mergernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Merger)
 
 ### 也可以看看
 

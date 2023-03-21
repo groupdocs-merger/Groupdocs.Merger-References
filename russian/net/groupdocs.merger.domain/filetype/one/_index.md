@@ -3,7 +3,7 @@ title: ONE
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файлы документов OneNote .one создаются приложением Microsoft OneNote. OneNote позволяет собирать информацию с помощью приложения как если бы вы использовали черновик для создания заметок. Подробнее об этом формате файлаздесьhttps//docs.fileformat.com/notetaking/one .
 type: docs
-weight: 160
+weight: 220
 url: /ru/net/groupdocs.merger.domain/filetype/one/
 ---
 ## FileType.ONE field

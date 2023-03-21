@@ -3,7 +3,7 @@ title: XLSB
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: El formato de archivo de hoja de cálculo binaria de Excel .xlsb especifica el formato de archivo binario de Excel que es una colección de registros y estructuras que especifican el contenido del libro de Excel. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /es/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

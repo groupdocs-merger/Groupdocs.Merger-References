@@ -16,7 +16,7 @@ public void Validate(FileType fileType)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| fileType | FileType | Le type de fichier de[`FileType`](../../../groupdocs.merger.domain/filetype) classer. |
+| fileType | FileType | Le type de fichier de[`FileType`](../../../groupdocs.merger.domain/filetype) classe. |
 
 ### Voir également
 

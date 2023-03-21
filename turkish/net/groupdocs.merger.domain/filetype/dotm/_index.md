@@ -1,14 +1,14 @@
 ---
 title: DOTM
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Word Açık XML Makro Etkin Belge Şablonu .dotm Microsoft Word 2007 veya üstü ile oluşturulan şablon dosyasını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/wordprocessing/dotm .
+description: Word Açık XML Makro Etkin Belge Şablonu .dotm Microsoft Word 2007 veya üstü ile oluşturulan şablon dosyasını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/wordprocessing/dotm .
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/groupdocs.merger.domain/filetype/dotm/
 ---
 ## FileType.DOTM field
 
-Word Açık XML Makro Etkin Belge Şablonu (.dotm), Microsoft Word 2007 veya üstü ile oluşturulan şablon dosyasını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/word-processing/dotm) .
+Word Açık XML Makro Etkin Belge Şablonu (.dotm), Microsoft Word 2007 veya üstü ile oluşturulan şablon dosyasını temsil eder. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/word-processing/dotm) .
 
 ```csharp
 public static FileType DOTM;

@@ -3,7 +3,7 @@ title: ERR
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл журнала ошибок .err  это текстовый файл содержащий сообщения об ошибках созданные программой. Узнайте больше об этом формате файлаздесьhttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field

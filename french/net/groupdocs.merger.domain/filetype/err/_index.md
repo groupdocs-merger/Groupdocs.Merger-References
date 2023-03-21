@@ -3,7 +3,7 @@ title: ERR
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Error Log File .err est un fichier texte qui contient les messages derreur générés par un programme. En savoir plus sur ce format de fichiericihttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /fr/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field

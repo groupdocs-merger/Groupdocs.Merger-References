@@ -3,7 +3,7 @@ title: ToString
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Geçerli nesneyi temsil eden bir dize döndürür.
 type: docs
-weight: 530
+weight: 660
 url: /tr/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

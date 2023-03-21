@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例SaveOptionsgroupdocs.merger.domain.options/saveoptions类.
+description: 初始化新实例SaveOptionsgroupdocs.merger.domain.options/saveoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/saveoptions/saveoptions/
 ---
 ## SaveOptions constructor
 
-初始化的新实例[`SaveOptions`](../../saveoptions)类.
+初始化新实例[`SaveOptions`](../../saveoptions)类.
 
 ```csharp
 public SaveOptions(FileType fileType)

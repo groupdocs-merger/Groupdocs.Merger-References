@@ -1,14 +1,14 @@
 ---
 title: DOTX
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Word Open XML Document Template .dotx sind Vorlagendateien die von Microsoft Word erstellt wurden um vorformatierte Einstellungen für die Generierung weiterer DOCXDateien zu haben. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/wordprocessing/dotx .
+description: Word Open XML Document Template .dotx sind Vorlagendateien die von Microsoft Word erstellt wurden um vorformatierte Einstellungen für die Generierung weiterer DOCXDateien zu haben. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/wordprocessing/dotx .
 type: docs
-weight: 70
+weight: 90
 url: /de/net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field
 
-Word Open XML Document Template (.dotx) sind Vorlagendateien, die von Microsoft Word erstellt wurden, um vorformatierte Einstellungen für die Generierung weiterer DOCX-Dateien zu haben. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/word-processing/dotx) .
+Word Open XML Document Template (.dotx) sind Vorlagendateien, die von Microsoft Word erstellt wurden, um vorformatierte Einstellungen für die Generierung weiterer DOCX-Dateien zu haben. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/word-processing/dotx) .
 
 ```csharp
 public static FileType DOTX;

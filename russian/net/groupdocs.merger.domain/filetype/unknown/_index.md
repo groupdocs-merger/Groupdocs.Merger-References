@@ -3,7 +3,7 @@ title: Unknown
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Представляет неизвестный тип файла.
 type: docs
-weight: 290
+weight: 410
 url: /ru/net/groupdocs.merger.domain/filetype/unknown/
 ---
 ## FileType.Unknown field

@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Merger för .NET API-referens
-description: Typen av fil som ska öppnas.
+description: Typen av fil som ska laddas.
 type: docs
 weight: 50
 url: /sv/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-Typen av fil som ska öppnas.
+Typen av fil som ska laddas.
 
 ```csharp
 public FileType Type { get; }

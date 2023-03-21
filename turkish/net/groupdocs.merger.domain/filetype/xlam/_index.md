@@ -3,7 +3,7 @@ title: XLAM
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Excel Makro Etkin Eklenti .xlam
 type: docs
-weight: 390
+weight: 510
 url: /tr/net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field

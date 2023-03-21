@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: GroupDocs.Merger لمرجع .NET API
 description: تحديد ما إذا كان اثنانFileTypegroupdocs.merger.domain/filetype الكائنات ليست هي نفسها.
 type: docs
-weight: 580
+weight: 720
 url: /ar/net/groupdocs.merger.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator
@@ -16,8 +16,8 @@ public static bool operator !=(FileType left, FileType right)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| left | FileType | اليسار[`FileType`](../../filetype) هدف. |
-| right | FileType | الصحيح[`FileType`](../../filetype) هدف. |
+| left | FileType | غادر[`FileType`](../../filetype) هدف. |
+| right | FileType | يمين[`FileType`](../../filetype) هدف. |
 
 ### قيمة الإرجاع
 

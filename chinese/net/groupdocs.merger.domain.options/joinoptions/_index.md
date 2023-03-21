@@ -1,14 +1,14 @@
 ---
 title: JoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供文档加入的选项
+description: 提供文档加入选项
 type: docs
 weight: 410
 url: /zh/net/groupdocs.merger.domain.options/joinoptions/
 ---
 ## JoinOptions class
 
-提供文档加入的选项。
+提供文档加入选项。
 
 ```csharp
 public class JoinOptions : PageOptions, IJoinOptions
@@ -18,20 +18,20 @@ public class JoinOptions : PageOptions, IJoinOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JoinOptions](joinoptions#constructor)() | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_1)(FileType) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_7)(int[]) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_4)(FileType, int[]) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_5)(int, int) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_2)(FileType, int, int) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_6)(int, int, RangeMode) | 初始化[`JoinOptions`](../joinoptions)类. |
-| [JoinOptions](joinoptions#constructor_3)(FileType, int, int, RangeMode) | 初始化[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor)() | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_1)(FileType) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_7)(int[]) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_4)(FileType, int[]) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_5)(int, int) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_2)(FileType, int, int) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_6)(int, int, RangeMode) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
+| [JoinOptions](joinoptions#constructor_3)(FileType, int, int, RangeMode) | 初始化一个新的实例[`JoinOptions`](../joinoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 | [Type](../../groupdocs.merger.domain.options/joinoptions/type) { get; } | 要加入的文件的类型。 |
 
 ### 也可以看看

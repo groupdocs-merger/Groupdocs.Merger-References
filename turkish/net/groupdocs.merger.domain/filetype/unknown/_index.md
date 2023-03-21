@@ -3,7 +3,7 @@ title: Unknown
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Bilinmeyen dosya türünü temsil eder.
 type: docs
-weight: 290
+weight: 410
 url: /tr/net/groupdocs.merger.domain/filetype/unknown/
 ---
 ## FileType.Unknown field

@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文件保护密码
+description: 文档保护密码.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/iaddpasswordoptions/password/
 ---
 ## IAddPasswordOptions.Password property
 
-文件保护密码。
+文档保护密码.
 
 ```csharp
 public string Password { get; }

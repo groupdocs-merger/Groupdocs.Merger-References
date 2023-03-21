@@ -1,14 +1,14 @@
 ---
 title: VSSX
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Visio Stencil File .vssx sta disegnando stencil creati con Microsoft Visio 2013 e versioni successive. Il formato file VSSX può essere aperto con Visio 2013 e versioni successive. I file Visio sono noti per la rappresentazione di una varietà di elementi di disegno come raccolta di forme connettori diagrammi di flusso layout di rete diagrammi UML Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/image/vssx .
+description: Visio Stencil File .vssx sta disegnando stencil creati con Microsoft Visio 2013 e versioni successive. Il formato file VSSX può essere aperto con Visio 2013 e versioni successive. I file Visio sono noti per la rappresentazione di una varietà di elementi di disegno come raccolta di forme connettori diagrammi di flusso layout di rete diagrammi UML Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/image/vssx .
 type: docs
-weight: 340
+weight: 460
 url: /it/net/groupdocs.merger.domain/filetype/vssx/
 ---
 ## FileType.VSSX field
 
-Visio Stencil File (.vssx) sta disegnando stencil creati con Microsoft Visio 2013 e versioni successive. Il formato file VSSX può essere aperto con Visio 2013 e versioni successive. I file Visio sono noti per la rappresentazione di una varietà di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/image/vssx) .
+Visio Stencil File (.vssx) sta disegnando stencil creati con Microsoft Visio 2013 e versioni successive. Il formato file VSSX può essere aperto con Visio 2013 e versioni successive. I file Visio sono noti per la rappresentazione di una varietà di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/image/vssx) .
 
 ```csharp
 public static FileType VSSX;

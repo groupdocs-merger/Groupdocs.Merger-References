@@ -3,7 +3,7 @@ title: OTT
 second_title: GroupDocs.Merger لمرجع .NET API
 description: قالب مستند OpenDocument .ott يمثل مستندات النموذج التي تم إنشاؤها بواسطة التطبيقات وفقًا للتنسيق القياسي OpenDocument الخاص بـ OASIS. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/wordprocessing/ott .
 type: docs
-weight: 180
+weight: 240
 url: /ar/net/groupdocs.merger.domain/filetype/ott/
 ---
 ## FileType.OTT field

@@ -1,14 +1,14 @@
 ---
 title: IOlePresentationOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 通过 OLE 将嵌入文档的导入选项导入演示文稿的接口
+description: 用于通过 OLE. 将嵌入文档的导入选项导入 Presentation 的接口
 type: docs
 weight: 210
 url: /zh/net/groupdocs.merger.domain.options/iolepresentationoptions/
 ---
 ## IOlePresentationOptions interface
 
-通过 OLE 将嵌入文档的导入选项导入演示文稿的接口。
+用于通过 OLE. 将嵌入文档的导入选项导入 Presentation 的接口
 
 ```csharp
 public interface IOlePresentationOptions : IImportDocumentOptions, ISizeOptions
@@ -18,7 +18,7 @@ public interface IOlePresentationOptions : IImportDocumentOptions, ISizeOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [X](../../groupdocs.merger.domain.options/iolepresentationoptions/x) { get; set; } | 嵌入对象框的X坐标。 |
+| [X](../../groupdocs.merger.domain.options/iolepresentationoptions/x) { get; set; } | 嵌入对象框的 X 坐标。 |
 | [Y](../../groupdocs.merger.domain.options/iolepresentationoptions/y) { get; set; } | 嵌入对象框的Y坐标。 |
 
 ### 也可以看看

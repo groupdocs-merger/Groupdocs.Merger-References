@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: GroupDocs.Merger for .NET API 参考
-description: 图像加入模式
+description: 图像连接模式
 type: docs
 weight: 20
 url: /zh/net/groupdocs.merger.domain.options/imagejoinoptions/mode/
 ---
 ## ImageJoinOptions.Mode property
 
-图像加入模式。
+图像连接模式。
 
 ```csharp
 public ImageJoinMode Mode { get; }

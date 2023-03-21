@@ -19,7 +19,7 @@ public enum TextSplitMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Lines | `0` | 分割线 |
-| Interval | `1` | 分割间隔 |
+| Interval | `1` | 分段间隔 |
 
 ### 也可以看看
 

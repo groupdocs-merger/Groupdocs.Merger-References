@@ -18,7 +18,7 @@ public interface ILoadOptions : IOptions
 
 | Имя | Описание |
 | --- | --- |
-| [Encoding](../../groupdocs.merger.domain.options/iloadoptions/encoding) { get; } | Кодировка, используемая при открытии текстовых файлов, таких как[`CSV`](../../groupdocs.merger.domain/filetype/csv) или же[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Значение по умолчанию:Default . |
+| [Encoding](../../groupdocs.merger.domain.options/iloadoptions/encoding) { get; } | Кодировка, используемая при открытии текстовых файлов, таких как[`CSV`](../../groupdocs.merger.domain/filetype/csv) или[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Значение по умолчанию:Default . |
 | [Extension](../../groupdocs.merger.domain.options/iloadoptions/extension) { get; } | Расширение открываемого файла. |
 | [Password](../../groupdocs.merger.domain.options/iloadoptions/password) { get; } | Пароль для открытия защищенного паролем файла. |
 | [Type](../../groupdocs.merger.domain.options/iloadoptions/type) { get; } | Тип открываемого файла. |

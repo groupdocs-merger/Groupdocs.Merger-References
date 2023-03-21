@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Die Erweiterung der zu öffnenden Datei.
+description: Die Erweiterung der Datei zu init.
 type: docs
 weight: 30
 url: /de/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-Die Erweiterung der zu öffnenden Datei.
+Die Erweiterung der Datei zu init.
 
 ```csharp
 public string Extension { get; }

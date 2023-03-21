@@ -3,7 +3,7 @@ title: RTF
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Archivo de formato de texto enriquecido .rtf introducido y documentado por Microsoft el formato de texto enriquecido RTF representa un método de codificación de texto y gráficos con formato para su uso dentro de las aplicaciones. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/wordprocessing/rtf .
 type: docs
-weight: 250
+weight: 330
 url: /es/net/groupdocs.merger.domain/filetype/rtf/
 ---
 ## FileType.RTF field

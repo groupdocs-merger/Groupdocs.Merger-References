@@ -1,14 +1,14 @@
 ---
 title: XPS
 second_title: GroupDocs.Merger for .NET API 参考
-description: XML 纸张规范文件 .xps 表示基于 Microsoft 创建的 XML 纸张规范的页面布局文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/pagedescriptionlanguage/xps
+description: XML 纸张规格文件 .xps 表示基于 Microsoft 创建的 XML 纸张规格的页面布局文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/pagedescriptionlanguage/xps
 type: docs
-weight: 470
+weight: 590
 url: /zh/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field
 
-XML 纸张规范文件 (.xps) 表示基于 Microsoft 创建的 XML 纸张规范的页面布局文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/page-description-language/xps)
+XML 纸张规格文件 (.xps) 表示基于 Microsoft 创建的 XML 纸张规格的页面布局文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/page-description-language/xps)
 
 ```csharp
 public static FileType XPS;

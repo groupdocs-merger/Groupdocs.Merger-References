@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: GroupDocs.Merger for .NET API 参考
-description: 打开受密码保护的文件的密码
+description: 打开密码保护文件的密码
 type: docs
 weight: 30
 url: /zh/net/groupdocs.merger.domain.options/iloadoptions/password/
 ---
 ## ILoadOptions.Password property
 
-打开受密码保护的文件的密码。
+打开密码保护文件的密码。
 
 ```csharp
 public string Password { get; }

@@ -3,7 +3,7 @@ title: XLT
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл шаблона Excel .xlt  это файлы шаблонов созданные с помощью Microsoft Excel приложения для работы с электронными таблицами входящего в состав пакета Microsoft Office. Microsoft Office 972003 поддерживает создание новых файлов XLT а также их открытие. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 440
+weight: 560
 url: /ru/net/groupdocs.merger.domain/filetype/xlt/
 ---
 ## FileType.XLT field

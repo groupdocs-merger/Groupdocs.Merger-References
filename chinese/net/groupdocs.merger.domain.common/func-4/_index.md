@@ -1,14 +1,14 @@
 ---
 title: FuncT1T2T3TResult
 second_title: GroupDocs.Merger for .NET API 参考
-description: 封装一个具有三个参数的方法并返回一个由TResult参数.
+description: 封装了一个方法该方法具有三个参数并返回由指定类型的值TResult参数.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.merger.domain.common/func-4/
 ---
 ## Func&lt;T1,T2,T3,TResult&gt; delegate
 
-封装一个具有三个参数的方法，并返回一个由*TResult*参数.
+封装了一个方法，该方法具有三个参数并返回由指定类型的值*TResult*参数.
 
 ```csharp
 public delegate TResult Func<in T1, in T2, in T3, out TResult>(T1 arg1, T2 arg2, T3 arg3);
@@ -19,7 +19,7 @@ public delegate TResult Func<in T1, in T2, in T3, out TResult>(T1 arg1, T2 arg2,
 | T1 | 此委托封装的方法的第一个参数的类型。 |
 | T2 | 此委托封装的方法的第二个参数的类型。 |
 | T3 | 此委托封装的方法的第三个参数的类型。 |
-| TResult | 此委托封装的方法的返回值的类型。 |
+| TResult | 此委托封装的方法的返回值类型。 |
 | arg1 | 此委托封装的方法的第一个参数。 |
 | arg2 | 此委托封装的方法的第二个参数。 |
 | arg3 | 此委托封装的方法的第三个参数。 |

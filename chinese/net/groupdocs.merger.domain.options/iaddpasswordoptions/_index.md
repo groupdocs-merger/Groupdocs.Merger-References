@@ -1,14 +1,14 @@
 ---
 title: IAddPasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 密码添加选项接口
+description: 密码添加选项界面.
 type: docs
 weight: 130
 url: /zh/net/groupdocs.merger.domain.options/iaddpasswordoptions/
 ---
 ## IAddPasswordOptions interface
 
-密码添加选项接口。
+密码添加选项界面.
 
 ```csharp
 public interface IAddPasswordOptions : IOptions
@@ -18,7 +18,7 @@ public interface IAddPasswordOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Password](../../groupdocs.merger.domain.options/iaddpasswordoptions/password) { get; } | 文件保护密码。 |
+| [Password](../../groupdocs.merger.domain.options/iaddpasswordoptions/password) { get; } | 文档保护密码. |
 
 ### 也可以看看
 

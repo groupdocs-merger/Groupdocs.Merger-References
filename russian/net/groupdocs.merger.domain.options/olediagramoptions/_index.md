@@ -37,7 +37,7 @@ public class OleDiagramOptions : ImportDocumentOptions, IOleDiagramOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о добавлении документа в диаграмму через OLE: [Добавьте документ в диаграмму через OLE.](https://docs.groupdocs.com/merger/net/add-document-to-diagram-via-ole/)
 

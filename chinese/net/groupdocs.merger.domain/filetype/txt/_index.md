@@ -3,7 +3,7 @@ title: TXT
 second_title: GroupDocs.Merger for .NET API 参考
 description: 纯文本文件 .txt 表示包含行形式的纯文本的文本文档 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/txt
 type: docs
-weight: 280
+weight: 400
 url: /zh/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field

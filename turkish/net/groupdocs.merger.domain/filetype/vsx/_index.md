@@ -1,14 +1,14 @@
 ---
 title: VSX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Visio Kalıp XML Dosyası .vsx Microsoft Visioda diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013e kadar desteklenir. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/image/vsx .
+description: Visio Kalıp XML Dosyası .vsx Microsoft Visioda diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013e kadar desteklenir. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/image/vsx .
 type: docs
-weight: 370
+weight: 490
 url: /tr/net/groupdocs.merger.domain/filetype/vsx/
 ---
 ## FileType.VSX field
 
-Visio Kalıp XML Dosyası (.vsx), Microsoft Visio'da diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013'e kadar desteklenir. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/image/vsx) .
+Visio Kalıp XML Dosyası (.vsx), Microsoft Visio'da diyagram oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. VSX dosyaları XML dosya biçiminde kaydedilir ve Visio 2013'e kadar desteklenir. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/image/vsx) .
 
 ```csharp
 public static FileType VSX;

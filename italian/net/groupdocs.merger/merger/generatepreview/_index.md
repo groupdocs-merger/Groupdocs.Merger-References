@@ -26,7 +26,7 @@ public void GeneratePreview(IPreviewOptions previewOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come generare anteprime per le pagine dei documenti: [Come generare l'anteprima delle pagine del documento utilizzando GroupDocs.Merger](https://docs.groupdocs.com/merger/net/generate-document-pages-preview/)
 

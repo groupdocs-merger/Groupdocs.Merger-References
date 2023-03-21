@@ -3,7 +3,7 @@ title: MHTML
 second_title: GroupDocs.Merger för .NET API-referens
 description: MIME HTMLfil .mhtml är ett webbsidearkivformat som kan skapas av ett antal olika applikationer. Läs mer om detta filformathärhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 120
+weight: 180
 url: /sv/net/groupdocs.merger.domain/filetype/mhtml/
 ---
 ## FileType.MHTML field

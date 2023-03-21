@@ -1,14 +1,14 @@
 ---
 title: ColumnIndex
 second_title: GroupDocs.Merger for .NET API 参考
-description: 左上列索引
+description: 左上列索引.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/iolespreadsheetoptions/columnindex/
 ---
 ## IOleSpreadsheetOptions.ColumnIndex property
 
-左上列索引。
+左上列索引.
 
 ```csharp
 public int ColumnIndex { get; set; }

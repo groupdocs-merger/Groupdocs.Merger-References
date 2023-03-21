@@ -3,7 +3,7 @@ title: VDX
 second_title: GroupDocs.Merger för .NET API-referens
 description: Visio Drawing XML File .vdx är en ritning eller ett diagram som skapats i Microsoft Visio men som sparats i XMLformat har filtillägget .VDX. En VisioritningsXMLfil skapas i Visioprogramvaran som är utvecklad av Microsoft. Läs mer om detta filformathärhttps//docs.fileformat.com/image/vdx .
 type: docs
-weight: 300
+weight: 420
 url: /sv/net/groupdocs.merger.domain/filetype/vdx/
 ---
 ## FileType.VDX field

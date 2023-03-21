@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Merger لمرجع .NET API
 description: إرجاع سلسلة تمثل الكائن الحالي.
 type: docs
-weight: 530
+weight: 660
 url: /ar/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

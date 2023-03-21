@@ -3,7 +3,7 @@ title: ODP
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: OpenDocument Presentation .odp representa el formato de archivo de presentación utilizado por OpenOffice.org en el estándar OASISOpen. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/presentation/odp .
 type: docs
-weight: 130
+weight: 190
 url: /es/net/groupdocs.merger.domain/filetype/odp/
 ---
 ## FileType.ODP field

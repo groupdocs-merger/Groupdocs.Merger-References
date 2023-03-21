@@ -3,7 +3,7 @@ title: PPS
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Diaporama PowerPoint .pps est un fichier créé à laide de Microsoft PowerPoint à des fins de diaporama. La lecture et la création de fichiers PPS sont prises en charge par Microsoft PowerPoint 972003. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/presentation/pps .
 type: docs
-weight: 200
+weight: 270
 url: /fr/net/groupdocs.merger.domain/filetype/pps/
 ---
 ## FileType.PPS field

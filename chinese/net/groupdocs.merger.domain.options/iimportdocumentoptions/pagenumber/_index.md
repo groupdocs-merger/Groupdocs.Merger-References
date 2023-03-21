@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入对象的插入页码
+description: 插入对象的页码
 type: docs
 weight: 30
 url: /zh/net/groupdocs.merger.domain.options/iimportdocumentoptions/pagenumber/
 ---
 ## IImportDocumentOptions.PageNumber property
 
-嵌入对象的插入页码
+插入对象的页码。
 
 ```csharp
 public int PageNumber { get; }

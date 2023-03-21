@@ -1,14 +1,14 @@
 ---
 title: DOTX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Word Açık XML Belge Şablonu .dotx daha fazla DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/wordprocessing/dotx .
+description: Word Açık XML Belge Şablonu .dotx daha fazla DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/wordprocessing/dotx .
 type: docs
-weight: 70
+weight: 90
 url: /tr/net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field
 
-Word Açık XML Belge Şablonu (.dotx), daha fazla DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/word-processing/dotx) .
+Word Açık XML Belge Şablonu (.dotx), daha fazla DOCX dosyası oluşturmak için önceden biçimlendirilmiş ayarlara sahip olmak üzere Microsoft Word tarafından oluşturulan şablon dosyalarıdır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/word-processing/dotx) .
 
 ```csharp
 public static FileType DOTX;

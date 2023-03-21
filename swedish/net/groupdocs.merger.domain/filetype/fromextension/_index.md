@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Merger för .NET API-referens
 description: Mappar filtillägget till filtyp.
 type: docs
-weight: 480
+weight: 610
 url: /sv/net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method

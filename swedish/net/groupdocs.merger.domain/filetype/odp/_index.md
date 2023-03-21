@@ -3,7 +3,7 @@ title: ODP
 second_title: GroupDocs.Merger för .NET API-referens
 description: OpenDocument Presentation .odp representerar presentationsfilformat som används av OpenOffice.org i OASISOpenstandarden. Läs mer om detta filformathärhttps//docs.fileformat.com/presentation/odp .
 type: docs
-weight: 130
+weight: 190
 url: /sv/net/groupdocs.merger.domain/filetype/odp/
 ---
 ## FileType.ODP field

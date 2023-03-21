@@ -18,7 +18,7 @@ public interface ISizeOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../groupdocs.merger.domain.options/isizeoptions/height) { get; set; } | 嵌入对象的高度大小。 |
+| [Height](../../groupdocs.merger.domain.options/isizeoptions/height) { get; set; } | 嵌入对象的高度 size. |
 | [Width](../../groupdocs.merger.domain.options/isizeoptions/width) { get; set; } | 嵌入对象大小的宽度。 |
 
 ### 也可以看看

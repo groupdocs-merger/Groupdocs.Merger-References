@@ -1,14 +1,14 @@
 ---
 title: UpdatePasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供用于更新文档密码的选项
+description: 提供更新文档密码的选项
 type: docs
 weight: 640
 url: /zh/net/groupdocs.merger.domain.options/updatepasswordoptions/
 ---
 ## UpdatePasswordOptions class
 
-提供用于更新文档密码的选项。
+提供更新文档密码的选项。
 
 ```csharp
 public class UpdatePasswordOptions : IUpdatePasswordOptions
@@ -18,7 +18,7 @@ public class UpdatePasswordOptions : IUpdatePasswordOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UpdatePasswordOptions](updatepasswordoptions)(string) | 初始化[`UpdatePasswordOptions`](../updatepasswordoptions)类. |
+| [UpdatePasswordOptions](updatepasswordoptions)(string) | 初始化一个新的实例[`UpdatePasswordOptions`](../updatepasswordoptions)类. |
 
 ## 特性
 

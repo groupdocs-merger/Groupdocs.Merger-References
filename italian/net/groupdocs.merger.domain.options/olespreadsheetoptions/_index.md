@@ -37,7 +37,7 @@ public class OleSpreadsheetOptions : ImportDocumentOptions, IOleSpreadsheetOptio
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sull'aggiunta di documenti al foglio di calcolo tramite OLE: [Aggiungi documento al foglio di calcolo tramite OLE.](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
 

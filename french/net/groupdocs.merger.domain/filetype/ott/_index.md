@@ -3,7 +3,7 @@ title: OTT
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: OpenDocument Document Template .ott représente les modèles de documents générés par les applications conformément au format standard OpenDocument dOASIS. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/ott .
 type: docs
-weight: 180
+weight: 240
 url: /fr/net/groupdocs.merger.domain/filetype/ott/
 ---
 ## FileType.OTT field

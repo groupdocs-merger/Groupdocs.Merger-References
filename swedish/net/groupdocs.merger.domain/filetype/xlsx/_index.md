@@ -3,7 +3,7 @@ title: XLSX
 second_title: GroupDocs.Merger för .NET API-referens
 description: Microsoft Excel Open XMLkalkylblad .xlsx är ett välkänt format för Microsoft Exceldokument som introducerades av Microsoft i och med lanseringen av Microsoft Office 2007. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xlsx .
 type: docs
-weight: 430
+weight: 550
 url: /sv/net/groupdocs.merger.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field

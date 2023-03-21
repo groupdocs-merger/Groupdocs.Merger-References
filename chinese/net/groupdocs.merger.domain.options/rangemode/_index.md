@@ -18,9 +18,9 @@ public enum RangeMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| AllPages | `0` | 范围包含从头到尾的所有数字。 |
-| OddPages | `1` | 范围从头到尾只有奇数。 |
-| EvenPages | `2` | 范围从头到尾只有偶数。 |
+| AllPages | `0` | Range 有从开始到结束的所有数字。 |
+| OddPages | `1` | 范围从开始到结束只有奇数。 |
+| EvenPages | `2` | 范围从开始到结束只有偶数。 |
 
 ### 也可以看看
 

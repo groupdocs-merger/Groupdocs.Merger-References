@@ -1,14 +1,14 @@
 ---
 title: ReleaseStream
 second_title: GroupDocs.Merger for .NET API 参考
-description: 定义释放输出页面预览流的方法的委托
+description: 定义释放输出页面预览流方法的委托
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.options/previewoptions/releasestream/
 ---
 ## PreviewOptions.ReleaseStream property
 
-定义释放输出页面预览流的方法的委托。
+定义释放输出页面预览流方法的委托。
 
 ```csharp
 public ReleasePageStream ReleaseStream { get; }

@@ -3,7 +3,7 @@ title: PPT
 second_title: GroupDocs.Merger لمرجع .NET API
 description: PowerPoint Presentation .ppt يمثل ملف PowerPoint يتكون من مجموعة من الشرائح لعرضها على هيئة SlideShow. تحدد تنسيق الملف الثنائي المستخدم بواسطة Microsoft PowerPoint 972003. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/presentation/ppt .
 type: docs
-weight: 220
+weight: 290
 url: /ar/net/groupdocs.merger.domain/filetype/ppt/
 ---
 ## FileType.PPT field

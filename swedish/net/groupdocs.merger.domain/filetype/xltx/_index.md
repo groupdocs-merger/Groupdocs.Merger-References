@@ -3,7 +3,7 @@ title: XLTX
 second_title: GroupDocs.Merger för .NET API-referens
 description: Excel Open XML Spreadsheet Templatefiler .xltx är baserade på Office OpenXMLfilformatspecifikationerna. Den används för att skapa en standardmallfil som kan användas för att generera XLSXfiler som uppvisar samma inställningar som anges i XLTXfilen. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xltx .
 type: docs
-weight: 460
+weight: 580
 url: /sv/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field

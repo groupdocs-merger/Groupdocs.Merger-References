@@ -3,7 +3,7 @@ title: ODS
 second_title: GroupDocs.Merger لمرجع .NET API
 description: جدول بيانات OpenDocument .ods تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/ods .
 type: docs
-weight: 140
+weight: 200
 url: /ar/net/groupdocs.merger.domain/filetype/ods/
 ---
 ## FileType.ODS field

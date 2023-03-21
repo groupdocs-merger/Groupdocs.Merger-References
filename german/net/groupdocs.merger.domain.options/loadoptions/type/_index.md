@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Der Typ der zu öffnenden Datei.
+description: Der Typ der zu ladenden Datei.
 type: docs
 weight: 50
 url: /de/net/groupdocs.merger.domain.options/loadoptions/type/
 ---
 ## LoadOptions.Type property
 
-Der Typ der zu öffnenden Datei.
+Der Typ der zu ladenden Datei.
 
 ```csharp
 public FileType Type { get; }

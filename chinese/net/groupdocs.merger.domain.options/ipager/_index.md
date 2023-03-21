@@ -1,14 +1,14 @@
 ---
 title: IPager
 second_title: GroupDocs.Merger for .NET API 参考
-description: 应用选项接口页面范围等
+description: 应用选项的接口页面范围等
 type: docs
 weight: 270
 url: /zh/net/groupdocs.merger.domain.options/ipager/
 ---
 ## IPager interface
 
-应用选项接口（页面、范围等）
+应用选项的接口（页面、范围等）
 
 ```csharp
 public interface IPager
@@ -18,7 +18,7 @@ public interface IPager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pages](../../groupdocs.merger.domain.options/ipager/pages) { get; } | 将应用操作的页码列表。注意：首页编号为 1. |
+| [Pages](../../groupdocs.merger.domain.options/ipager/pages) { get; } | 应用操作的页码列表。注意：第一页有编号 1. |
 
 ### 也可以看看
 

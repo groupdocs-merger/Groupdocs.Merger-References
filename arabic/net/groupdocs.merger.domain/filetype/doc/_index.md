@@ -3,7 +3,7 @@ title: DOC
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يمثل مستند Microsoft Word .doc المستندات التي تم إنشاؤها بواسطة Microsoft Word أو مستندات معالجة النصوص الأخرى بتنسيق ملف ثنائي. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/wordprocessing/doc .
 type: docs
-weight: 20
+weight: 40
 url: /ar/net/groupdocs.merger.domain/filetype/doc/
 ---
 ## FileType.DOC field

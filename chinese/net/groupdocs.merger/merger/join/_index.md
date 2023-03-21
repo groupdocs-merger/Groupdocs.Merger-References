@@ -16,19 +16,19 @@ public void Join(Stream document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Stream | 加入文件。 |
+| document | Stream | 加入文档。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 
@@ -48,21 +48,21 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Stream | 加入文件。 |
+| document | Stream | 加入文档。 |
 | joinOptions | IJoinOptions | 加入选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
-| ArgumentNullException | 何时抛出*joinOptions*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
+| ArgumentNullException | 抛出时*joinOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 
@@ -83,21 +83,21 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Stream | 加入文件。 |
+| document | Stream | 加入文档。 |
 | joinOptions | IImageJoinOptions | 图像连接选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*document*一片空白。 |
-| ArgumentNullException | 何时抛出*joinOptions*一片空白。 |
+| ArgumentNullException | 抛出时*document*一片空白。 |
+| ArgumentNullException | 抛出时*joinOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 
@@ -118,19 +118,19 @@ public void Join(string filePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 连接文档的文件路径。 |
+| filePath | String | 加入文档的文件路径。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 
@@ -150,21 +150,21 @@ public void Join(string filePath, IJoinOptions joinOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 连接文档的文件路径。 |
+| filePath | String | 加入文档的文件路径。 |
 | joinOptions | IJoinOptions | 加入选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
-| ArgumentNullException | 何时抛出*joinOptions*一片空白。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
+| ArgumentNullException | 抛出时*joinOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 
@@ -185,21 +185,21 @@ public void Join(string filePath, IImageJoinOptions joinOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 连接文档的文件路径。 |
+| filePath | String | 加入文档的文件路径。 |
 | joinOptions | IImageJoinOptions | 图像连接选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*filePath*为空或为空。 |
-| ArgumentNullException | 何时抛出*joinOptions*一片空白。 |
+| ArgumentNullException | 抛出时*filePath*为 null 或空。 |
+| ArgumentNullException | 抛出时*joinOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于文档合并场景和用例： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
+* 有关文档合并场景和用例的更多信息： [如何通过 3 个步骤合并 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/merge-files/)
 
 ### 也可以看看
 

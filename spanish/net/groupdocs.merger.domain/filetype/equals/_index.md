@@ -3,7 +3,7 @@ title: Equals
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Determina si la corrienteFileTypegroupdocs.merger.domain/filetype es igual a lo especificadoFileTypegroupdocs.merger.domain/filetype objeto.
 type: docs
-weight: 510
+weight: 640
 url: /es/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}

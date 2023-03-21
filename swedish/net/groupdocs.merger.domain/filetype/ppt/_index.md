@@ -3,7 +3,7 @@ title: PPT
 second_title: GroupDocs.Merger för .NET API-referens
 description: PowerPointpresentation .ppt representerar en PowerPointfil som består av en samling bilder för visning som bildspel. Den anger det binära filformatet som används av Microsoft PowerPoint 972003. Läs mer om detta filformathärhttps//docs.fileformat.com/presentation/ppt .
 type: docs
-weight: 220
+weight: 290
 url: /sv/net/groupdocs.merger.domain/filetype/ppt/
 ---
 ## FileType.PPT field

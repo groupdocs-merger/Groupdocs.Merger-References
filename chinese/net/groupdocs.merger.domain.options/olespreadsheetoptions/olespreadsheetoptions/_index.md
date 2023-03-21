@@ -1,14 +1,14 @@
 ---
 title: OleSpreadsheetOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化OleSpreadsheetOptionsgroupdocs.merger.domain.options/olespreadsheetoptions类.
+description: 初始化一个新的实例OleSpreadsheetOptionsgroupdocs.merger.domain.options/olespreadsheetoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/olespreadsheetoptions/olespreadsheetoptions/
 ---
 ## OleSpreadsheetOptions(byte[], byte[], string, int) {#constructor}
 
-初始化[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
+初始化一个新的实例[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
 
 ```csharp
 public OleSpreadsheetOptions(byte[] objectData, byte[] imageData, string extension, int pageNumber)
@@ -31,7 +31,7 @@ public OleSpreadsheetOptions(byte[] objectData, byte[] imageData, string extensi
 
 ## OleSpreadsheetOptions(string, byte[], int) {#constructor_1}
 
-初始化[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
+初始化一个新的实例[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
 
 ```csharp
 public OleSpreadsheetOptions(string filePath, byte[] imageData, int pageNumber)
@@ -53,7 +53,7 @@ public OleSpreadsheetOptions(string filePath, byte[] imageData, int pageNumber)
 
 ## OleSpreadsheetOptions(string, int) {#constructor_2}
 
-初始化[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
+初始化一个新的实例[`OleSpreadsheetOptions`](../../olespreadsheetoptions)类.
 
 ```csharp
 public OleSpreadsheetOptions(string filePath, int pageNumber)

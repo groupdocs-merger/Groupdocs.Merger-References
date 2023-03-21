@@ -3,7 +3,7 @@ title: Equals
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Determina se la correnteFileTypegroupdocs.merger.domain/filetype è uguale a quanto specificatoFileTypegroupdocs.merger.domain/filetype oggetto.
 type: docs
-weight: 510
+weight: 640
 url: /it/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Valore di ritorno
 
-se entrambi[`FileType`](../../filetype) gli oggetti sono gli stessi; altrimenti,
+se entrambi[`FileType`](../../filetype) gli oggetti sono gli stessi; Altrimenti,
 
 ```csharp
 true
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### Valore di ritorno
 
-Se parametro è[`FileType`](../../filetype) ed è uguale alla corrente[`FileType`](../../filetype) oggetto; altrimenti,
+Se parametro è[`FileType`](../../filetype) ed è uguale alla corrente[`FileType`](../../filetype) oggetto; Altrimenti,
 
 ```csharp
 true

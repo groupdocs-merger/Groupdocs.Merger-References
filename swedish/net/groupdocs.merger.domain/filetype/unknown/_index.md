@@ -3,7 +3,7 @@ title: Unknown
 second_title: GroupDocs.Merger för .NET API-referens
 description: Representerar okänd filtyp.
 type: docs
-weight: 290
+weight: 410
 url: /sv/net/groupdocs.merger.domain/filetype/unknown/
 ---
 ## FileType.Unknown field

@@ -1,14 +1,14 @@
 ---
 title: SecondPageNumber
 second_title: GroupDocs.Merger for .NET API 参考
-description: 要交换的第二个页码
+description: 要交换的第二页码
 type: docs
 weight: 20
 url: /zh/net/groupdocs.merger.domain.options/iswapoptions/secondpagenumber/
 ---
 ## ISwapOptions.SecondPageNumber property
 
-要交换的第二个页码。
+要交换的第二页码。
 
 ```csharp
 public int SecondPageNumber { get; }

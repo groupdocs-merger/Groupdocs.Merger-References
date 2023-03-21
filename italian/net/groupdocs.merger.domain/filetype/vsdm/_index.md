@@ -1,14 +1,14 @@
 ---
 title: VSDM
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Visio MacroEnabled Drawing .vsdm sono file di disegno creati con lapplicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX ma forniscono anche la possibilità di eseguire macro allapertura del file. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/image/vsdm .
+description: Visio MacroEnabled Drawing .vsdm sono file di disegno creati con lapplicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX ma forniscono anche la possibilità di eseguire macro allapertura del file. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/image/vsdm .
 type: docs
-weight: 310
+weight: 430
 url: /it/net/groupdocs.merger.domain/filetype/vsdm/
 ---
 ## FileType.VSDM field
 
-Visio Macro-Enabled Drawing (.vsdm) sono file di disegno creati con l'applicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX, ma forniscono anche la possibilità di eseguire macro all'apertura del file. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/image/vsdm) .
+Visio Macro-Enabled Drawing (.vsdm) sono file di disegno creati con l'applicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX, ma forniscono anche la possibilità di eseguire macro all'apertura del file. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/image/vsdm) .
 
 ```csharp
 public static FileType VSDM;

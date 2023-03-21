@@ -37,7 +37,7 @@ public class OleSpreadsheetOptions : ImportDocumentOptions, IOleSpreadsheetOptio
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о добавлении документа в электронную таблицу через OLE: [Добавьте документ в электронную таблицу через OLE.](https://docs.groupdocs.com/merger/net/add-document-to-spreadsheet-via-ole/)
 

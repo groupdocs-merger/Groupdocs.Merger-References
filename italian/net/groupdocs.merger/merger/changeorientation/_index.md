@@ -26,7 +26,7 @@ public void ChangeOrientation(IOrientationOptions orientationOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come modificare l'orientamento delle pagine dei documenti di Microsoft Word: [Come modificare l'orientamento delle pagine dei documenti di Microsoft Word](https://docs.groupdocs.com/merger/net/change-page-orientation/)
 

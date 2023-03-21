@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileType | FileType | Il tipo di file da aprire. |
+| fileType | FileType | Il tipo di file da caricare. |
 
 ### Eccezioni
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
 
@@ -64,7 +64,7 @@ public LoadOptions(string password, Encoding encoding)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | password | String | La password per l'apertura del file protetto da password. |
-| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
 ### Eccezioni
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileType | FileType | Il tipo di file da aprire. |
+| fileType | FileType | Il tipo di file da caricare. |
 | password | String | La password per l'apertura del file protetto da password. |
 
 ### Eccezioni
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
 
@@ -118,9 +118,9 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileType | FileType | Il tipo di file da aprire. |
+| fileType | FileType | Il tipo di file da caricare. |
 | password | String | La password per l'apertura del file protetto da password. |
-| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
 ### Eccezioni
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
 
@@ -148,10 +148,10 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| extension | String | L'estensione del file da aprire. |
-| fileType | FileType | Il tipo di file da aprire. |
+| extension | String | L'estensione del file da caricare. |
+| fileType | FileType | Il tipo di file da caricare. |
 | password | String | La password per l'apertura del file protetto da password. |
-| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
 ### Eccezioni
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | Lanciato quando*fileType* è zero. |
 | ArgumentNullException | Lanciato quando*encoding* è zero. |
+
+### Guarda anche
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* spazio dei nomi [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assemblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| iniFileType | FileType | Il tipo di file da inizializzare. |
+| fileType | FileType | Il tipo di file da caricare. |
+| password | String | La password per l'apertura del file protetto da password. |
+| encoding | Encoding | La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### Eccezioni
+
+| eccezione | condizione |
+| --- | --- |
+| ArgumentNullException | Lanciato quando*iniFileType* è zero. |
+| ArgumentNullException | Lanciato quando*fileType* è zero. |
+| ArgumentNullException | Lanciato quando*encoding* è zero. |
+
+### Guarda anche
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* spazio dei nomi [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assemblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| iniFileType | FileType | Il tipo di file da inizializzare. |
+| fileType | FileType | Il tipo di file da caricare. |
+| password | String | La password per l'apertura del file protetto da password. |
+
+### Eccezioni
+
+| eccezione | condizione |
+| --- | --- |
+| ArgumentNullException | Lanciato quando*iniFileType* è zero. |
+| ArgumentNullException | Lanciato quando*fileType* è zero. |
+
+### Guarda anche
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* spazio dei nomi [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* assemblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+Inizializza una nuova istanza di[`LoadOptions`](../../loadoptions) classe.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| iniFileType | FileType | Il tipo di file da inizializzare. |
+| fileType | FileType | Il tipo di file da caricare. |
+
+### Eccezioni
+
+| eccezione | condizione |
+| --- | --- |
+| ArgumentNullException | Lanciato quando*iniFileType* è zero. |
+| ArgumentNullException | Lanciato quando*fileType* è zero. |
 
 ### Guarda anche
 

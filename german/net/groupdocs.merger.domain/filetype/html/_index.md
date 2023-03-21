@@ -1,14 +1,14 @@
 ---
 title: HTML
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Hypertext Markup Language File .html ist die Erweiterung für Webseiten die für die Anzeige in Browsern erstellt wurden. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/web/html .
+description: Hypertext Markup Language File .html ist die Erweiterung für Webseiten die für die Anzeige in Browsern erstellt wurden. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /de/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field
 
-Hypertext Markup Language File (.html) ist die Erweiterung für Webseiten, die für die Anzeige in Browsern erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/web/html) .
+Hypertext Markup Language File (.html) ist die Erweiterung für Webseiten, die für die Anzeige in Browsern erstellt wurden. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/web/html) .
 
 ```csharp
 public static FileType HTML;

@@ -3,7 +3,7 @@ title: OTP
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Шаблон презентации OpenDocument .otp представляет собой файлы шаблонов презентаций созданные приложениями в стандартном формате OASIS OpenDocument. Подробнее об этом формате файловздесьhttps//docs.fileformat.com/presentation/otp .
 type: docs
-weight: 170
+weight: 230
 url: /ru/net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field

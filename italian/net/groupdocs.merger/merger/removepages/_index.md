@@ -26,7 +26,7 @@ public void RemovePages(IRemoveOptions removeOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come rimuovere la pagina dal documento: [Come rimuovere una pagina da un documento PDF, Word, Excel o PowerPoint](https://docs.groupdocs.com/merger/net/remove-pages/)
 

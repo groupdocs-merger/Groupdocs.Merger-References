@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.merger.domain.options/olediagramoptions/width/
 ---
 ## OleDiagramOptions.Width property
 
-嵌入对象形状的宽度，以英寸为单位。
+嵌入对象形状的宽度（以英寸为单位）。
 
 ```csharp
 public int Width { get; set; }

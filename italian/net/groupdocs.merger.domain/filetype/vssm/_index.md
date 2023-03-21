@@ -1,14 +1,14 @@
 ---
 title: VSSM
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: I file stencil con attivazione macro di Visio .vssm sono file stencil di Microsoft Visio che supportano le macro. Un file VSSM una volta aperto consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagramma. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/image/vssm .
+description: I file stencil con attivazione macro di Visio .vssm sono file stencil di Microsoft Visio che supportano le macro. Un file VSSM una volta aperto consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagramma. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/image/vssm .
 type: docs
-weight: 330
+weight: 450
 url: /it/net/groupdocs.merger.domain/filetype/vssm/
 ---
 ## FileType.VSSM field
 
-I file stencil con attivazione macro di Visio (.vssm) sono file stencil di Microsoft Visio che supportano le macro. Un file VSSM, una volta aperto, consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagramma. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/image/vssm) .
+I file stencil con attivazione macro di Visio (.vssm) sono file stencil di Microsoft Visio che supportano le macro. Un file VSSM, una volta aperto, consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagramma. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/image/vssm) .
 
 ```csharp
 public static FileType VSSM;

@@ -1,14 +1,14 @@
 ---
 title: IOleDiagramOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入文档通过 OLE 导入图表的接口
+description: 用于通过 OLE. 将嵌入文档的导入选项导入图表的接口
 type: docs
 weight: 200
 url: /zh/net/groupdocs.merger.domain.options/iolediagramoptions/
 ---
 ## IOleDiagramOptions interface
 
-嵌入文档通过 OLE 导入图表的接口。
+用于通过 OLE. 将嵌入文档的导入选项导入图表的接口
 
 ```csharp
 public interface IOleDiagramOptions : IImportDocumentOptions, ISizeOptions

@@ -3,7 +3,7 @@ title: XLSB
 second_title: GroupDocs.Merger لمرجع .NET API
 description: يحدد تنسيق ملف Excel Binary Spreadsheet .xlsb تنسيق ملف Excel الثنائي  وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/xlsb .
 type: docs
-weight: 410
+weight: 530
 url: /ar/net/groupdocs.merger.domain/filetype/xlsb/
 ---
 ## FileType.XLSB field

@@ -3,7 +3,7 @@ title: VTX
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Visio Template XML File .vtx est un modèle de dessin Microsoft Visio qui est enregistré sur le disque au format de fichier XML. Le modèle vise à fournir un fichier avec des paramètres de base pouvant être utilisés pour créer plusieurs fichiers Visio avec les mêmes paramètres. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/image/vtx .
 type: docs
-weight: 380
+weight: 500
 url: /fr/net/groupdocs.merger.domain/filetype/vtx/
 ---
 ## FileType.VTX field

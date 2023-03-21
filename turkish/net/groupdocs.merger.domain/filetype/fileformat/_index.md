@@ -3,7 +3,7 @@ title: FileFormat
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Dosya türü adı örneğin Microsoft Word Belgesi.
 type: docs
-weight: 500
+weight: 630
 url: /tr/net/groupdocs.merger.domain/filetype/fileformat/
 ---
 ## FileType.FileFormat property

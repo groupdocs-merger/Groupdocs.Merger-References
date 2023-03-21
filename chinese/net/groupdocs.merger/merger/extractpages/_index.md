@@ -22,13 +22,13 @@ public void ExtractPages(IExtractOptions extractOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*extractOptions*一片空白。 |
+| ArgumentNullException | 抛出时*extractOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何提取特定文档页面或页面范围： [如何从 PDF、Word、Excel 和 PowerPoint 文档中提取页面](https://docs.groupdocs.com/merger/net/extract-pages/)
+* 有关如何提取特定文档页面或页面范围的更多信息： [如何从 PDF、Word、Excel 和 PowerPoint 文档中提取页面](https://docs.groupdocs.com/merger/net/extract-pages/)
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AddPasswordOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供添加文档密码的选项
+description: 提供用于添加文档密码的选项
 type: docs
 weight: 110
 url: /zh/net/groupdocs.merger.domain.options/addpasswordoptions/
 ---
 ## AddPasswordOptions class
 
-提供添加文档密码的选项。
+提供用于添加文档密码的选项。
 
 ```csharp
 public class AddPasswordOptions : IAddPasswordOptions
@@ -18,13 +18,13 @@ public class AddPasswordOptions : IAddPasswordOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddPasswordOptions](addpasswordoptions)(string) | 初始化[`AddPasswordOptions`](../addpasswordoptions)类. |
+| [AddPasswordOptions](addpasswordoptions)(string) | 初始化一个新的实例[`AddPasswordOptions`](../addpasswordoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Password](../../groupdocs.merger.domain.options/addpasswordoptions/password) { get; } | 文件保护密码。 |
+| [Password](../../groupdocs.merger.domain.options/addpasswordoptions/password) { get; } | 文档保护密码. |
 
 ### 也可以看看
 

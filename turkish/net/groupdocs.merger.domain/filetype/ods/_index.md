@@ -1,14 +1,14 @@
 ---
 title: ODS
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: OpenDocument Elektronik Tablosu .ods Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/ods .
+description: OpenDocument Elektronik Tablosu .ods Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/ods .
 type: docs
-weight: 140
+weight: 200
 url: /tr/net/groupdocs.merger.domain/filetype/ods/
 ---
 ## FileType.ODS field
 
-OpenDocument Elektronik Tablosu (.ods) Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/ods) .
+OpenDocument Elektronik Tablosu (.ods) Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/ods) .
 
 ```csharp
 public static FileType ODS;

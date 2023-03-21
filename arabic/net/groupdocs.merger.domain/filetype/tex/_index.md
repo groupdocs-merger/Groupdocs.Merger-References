@@ -3,7 +3,7 @@ title: TEX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: وثيقة مصدر LaTeX .tex هي لغة تتكون من ميزات البرمجة والترميز المستخدمة في طباعة المستندات. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/pagedescriptionlanguage/tex .
 type: docs
-weight: 260
+weight: 360
 url: /ar/net/groupdocs.merger.domain/filetype/tex/
 ---
 ## FileType.TEX field

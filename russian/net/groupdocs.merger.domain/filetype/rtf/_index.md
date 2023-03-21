@@ -3,7 +3,7 @@ title: RTF
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Форматированный текстовый файл .rtf представленный и задокументированный Microsoft форматированный текстовый формат RTF представляет собой метод кодирования форматированного текста и графики для использования в приложениях. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/wordprocessing/rtf .
 type: docs
-weight: 250
+weight: 330
 url: /ru/net/groupdocs.merger.domain/filetype/rtf/
 ---
 ## FileType.RTF field

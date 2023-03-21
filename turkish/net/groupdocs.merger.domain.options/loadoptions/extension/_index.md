@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Açılacak dosyanın uzantısı.
+description: Dosyanın init. uzantısı
 type: docs
 weight: 30
 url: /tr/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-Açılacak dosyanın uzantısı.
+Dosyanın init. uzantısı
 
 ```csharp
 public string Extension { get; }

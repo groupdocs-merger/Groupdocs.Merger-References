@@ -3,7 +3,7 @@ title: DOT
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Les fichiers de modèle de document Word .dot sont des fichiers de modèle créés par Microsoft Word pour avoir des paramètres préformatés pour la génération dautres fichiers DOC ou DOCX. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /fr/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

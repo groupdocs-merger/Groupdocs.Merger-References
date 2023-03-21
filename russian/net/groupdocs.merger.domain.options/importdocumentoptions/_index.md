@@ -24,7 +24,7 @@ public abstract class ImportDocumentOptions : IImportDocumentOptions
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о добавлении вложений в PDF-документы: [Как добавить вложение в документ PDF.](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 * Подробнее о добавлении документа в обработку Word через OLE: [Добавьте документ в обработку Word через OLE.](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)

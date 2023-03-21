@@ -1,14 +1,14 @@
 ---
 title: ExtractOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化ExtractOptionsgroupdocs.merger.domain.options/extractoptions类.
+description: 初始化一个新的实例ExtractOptionsgroupdocs.merger.domain.options/extractoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/extractoptions/extractoptions/
 ---
 ## ExtractOptions() {#constructor}
 
-初始化[`ExtractOptions`](../../extractoptions)类.
+初始化一个新的实例[`ExtractOptions`](../../extractoptions)类.
 
 ```csharp
 public ExtractOptions()
@@ -24,7 +24,7 @@ public ExtractOptions()
 
 ## ExtractOptions(int[]) {#constructor_3}
 
-初始化[`ExtractOptions`](../../extractoptions)类.
+初始化一个新的实例[`ExtractOptions`](../../extractoptions)类.
 
 ```csharp
 public ExtractOptions(int[] pageNumbers)
@@ -44,7 +44,7 @@ public ExtractOptions(int[] pageNumbers)
 
 ## ExtractOptions(int, int) {#constructor_1}
 
-初始化[`ExtractOptions`](../../extractoptions)类.
+初始化一个新的实例[`ExtractOptions`](../../extractoptions)类.
 
 ```csharp
 public ExtractOptions(int startNumber, int endNumber)
@@ -65,7 +65,7 @@ public ExtractOptions(int startNumber, int endNumber)
 
 ## ExtractOptions(int, int, RangeMode) {#constructor_2}
 
-初始化[`ExtractOptions`](../../extractoptions)类.
+初始化一个新的实例[`ExtractOptions`](../../extractoptions)类.
 
 ```csharp
 public ExtractOptions(int startNumber, int endNumber, RangeMode mode)

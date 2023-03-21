@@ -18,8 +18,8 @@ public class GroupDocsMergerException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GroupDocsMergerException](groupdocsmergerexception#constructor)(string) | 初始化[`GroupDocsMergerException`](../groupdocsmergerexception)类. |
-| [GroupDocsMergerException](groupdocsmergerexception#constructor_1)(string, Exception) | 初始化[`GroupDocsMergerException`](../groupdocsmergerexception)类. |
+| [GroupDocsMergerException](groupdocsmergerexception#constructor)(string) | 初始化一个新的实例[`GroupDocsMergerException`](../groupdocsmergerexception)类. |
+| [GroupDocsMergerException](groupdocsmergerexception#constructor_1)(string, Exception) | 初始化一个新的实例[`GroupDocsMergerException`](../groupdocsmergerexception)类. |
 
 ## 方法
 

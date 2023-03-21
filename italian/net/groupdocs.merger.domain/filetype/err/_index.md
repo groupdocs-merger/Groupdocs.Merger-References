@@ -1,14 +1,14 @@
 ---
 title: ERR
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Error Log File .err è un file di testo che contiene i messaggi di errore generati da un programma. Ulteriori informazioni su questo formato di filequihttps//fileinfo.com/extension/err .
+description: Error Log File .err è un file di testo che contiene i messaggi di errore generati da un programma. Ulteriori informazioni su questo formato di fileQuihttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /it/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field
 
-Error Log File (.err) è un file di testo che contiene i messaggi di errore generati da un programma. Ulteriori informazioni su questo formato di file[qui](https://fileinfo.com/extension/err) .
+Error Log File (.err) è un file di testo che contiene i messaggi di errore generati da un programma. Ulteriori informazioni su questo formato di file[Qui](https://fileinfo.com/extension/err) .
 
 ```csharp
 public static FileType ERR;

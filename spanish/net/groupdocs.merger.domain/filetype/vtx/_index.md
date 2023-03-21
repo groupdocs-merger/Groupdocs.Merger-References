@@ -3,7 +3,7 @@ title: VTX
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: El archivo XML de plantilla de Visio .vtx es una plantilla de dibujo de Microsoft Visio que se guarda en un disco en formato de archivo XML. El objetivo de la plantilla es proporcionar un archivo con la configuración básica que se puede usar para crear varios archivos de Visio con la misma configuración. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/image/vtx .
 type: docs
-weight: 380
+weight: 500
 url: /es/net/groupdocs.merger.domain/filetype/vtx/
 ---
 ## FileType.VTX field

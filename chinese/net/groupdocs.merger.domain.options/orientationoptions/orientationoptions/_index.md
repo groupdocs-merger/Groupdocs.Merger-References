@@ -1,14 +1,14 @@
 ---
 title: OrientationOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化OrientationOptionsgroupdocs.merger.domain.options/orientationoptions类.
+description: 初始化一个新的实例OrientationOptionsgroupdocs.merger.domain.options/orientationoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/orientationoptions/orientationoptions/
 ---
 ## OrientationOptions(OrientationMode) {#constructor}
 
-初始化[`OrientationOptions`](../../orientationoptions)类.
+初始化一个新的实例[`OrientationOptions`](../../orientationoptions)类.
 
 ```csharp
 public OrientationOptions(OrientationMode orientationMode)
@@ -16,7 +16,7 @@ public OrientationOptions(OrientationMode orientationMode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| orientationMode | OrientationMode | 定向模式[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | 的定向模式[`OrientationMode`](../../orientationmode) |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public OrientationOptions(OrientationMode orientationMode)
 
 ## OrientationOptions(OrientationMode, int[]) {#constructor_3}
 
-初始化[`OrientationOptions`](../../orientationoptions)类.
+初始化一个新的实例[`OrientationOptions`](../../orientationoptions)类.
 
 ```csharp
 public OrientationOptions(OrientationMode orientationMode, int[] pageNumbers)
@@ -37,7 +37,7 @@ public OrientationOptions(OrientationMode orientationMode, int[] pageNumbers)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| orientationMode | OrientationMode | 定向模式[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | 的定向模式[`OrientationMode`](../../orientationmode) |
 | pageNumbers | Int32[] | 页码。 |
 
 ### 也可以看看
@@ -51,7 +51,7 @@ public OrientationOptions(OrientationMode orientationMode, int[] pageNumbers)
 
 ## OrientationOptions(OrientationMode, int, int) {#constructor_1}
 
-初始化[`OrientationOptions`](../../orientationoptions)类.
+初始化一个新的实例[`OrientationOptions`](../../orientationoptions)类.
 
 ```csharp
 public OrientationOptions(OrientationMode orientationMode, int startNumber, int endNumber)
@@ -59,7 +59,7 @@ public OrientationOptions(OrientationMode orientationMode, int startNumber, int 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| orientationMode | OrientationMode | 定向模式[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | 的定向模式[`OrientationMode`](../../orientationmode) |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 
@@ -74,7 +74,7 @@ public OrientationOptions(OrientationMode orientationMode, int startNumber, int 
 
 ## OrientationOptions(OrientationMode, int, int, RangeMode) {#constructor_2}
 
-初始化[`OrientationOptions`](../../orientationoptions)类.
+初始化一个新的实例[`OrientationOptions`](../../orientationoptions)类.
 
 ```csharp
 public OrientationOptions(OrientationMode orientationMode, int startNumber, int endNumber, 
@@ -83,7 +83,7 @@ public OrientationOptions(OrientationMode orientationMode, int startNumber, int 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| orientationMode | OrientationMode | 定向模式[`OrientationMode`](../../orientationmode) |
+| orientationMode | OrientationMode | 的定向模式[`OrientationMode`](../../orientationmode) |
 | startNumber | Int32 | 起始页码。 |
 | endNumber | Int32 | 结束页码。 |
 | mode | RangeMode | 范围模式。 |

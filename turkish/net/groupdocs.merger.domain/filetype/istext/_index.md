@@ -3,7 +3,7 @@ title: IsText
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Girdi olup olmadığını belirlerFileTypegroupdocs.merger.domain/filetype ilkel metin biçimidir.
 type: docs
-weight: 560
+weight: 700
 url: /tr/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method
@@ -20,7 +20,7 @@ public static bool IsText(FileType fileType)
 
 ### Geri dönüş değeri
 
-eğer giriş[`FileType`](../../filetype) ilkel metin biçimidir; aksi halde,
+eğer giriş[`FileType`](../../filetype) ilkel metin biçimidir; aksi takdirde,
 
 ```csharp
 true

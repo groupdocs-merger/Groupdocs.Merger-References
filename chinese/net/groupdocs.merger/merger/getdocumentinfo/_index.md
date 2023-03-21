@@ -1,14 +1,14 @@
 ---
 title: GetDocumentInfo
 second_title: GroupDocs.Merger for .NET API 参考
-description: 获取有关文档页面的信息它们的大小最大页面高度最大高度页面的宽度
+description: 获取有关文档页面的信息它们的大小最大页面高度具有最大高度的页面的宽度
 type: docs
 weight: 70
 url: /zh/net/groupdocs.merger/merger/getdocumentinfo/
 ---
 ## Merger.GetDocumentInfo method
 
-获取有关文档页面的信息：它们的大小、最大页面高度、最大高度页面的宽度。
+获取有关文档页面的信息：它们的大小、最大页面高度、具有最大高度的页面的宽度。
 
 ```csharp
 public IDocumentInfo GetDocumentInfo()
@@ -20,7 +20,7 @@ public IDocumentInfo GetDocumentInfo()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 了解有关文档文件类型、页数、大小和许多其他格式特定属性的更多信息： [如何使用 GroupDocs.Merger 获取文档信息](https://docs.groupdocs.com/merger/net/get-document-information/)
 

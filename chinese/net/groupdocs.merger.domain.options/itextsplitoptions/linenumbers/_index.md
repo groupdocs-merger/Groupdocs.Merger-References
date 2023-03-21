@@ -1,14 +1,14 @@
 ---
 title: LineNumbers
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文本分割的行号
+description: 文本拆分的行号
 type: docs
 weight: 20
 url: /zh/net/groupdocs.merger.domain.options/itextsplitoptions/linenumbers/
 ---
 ## ITextSplitOptions.LineNumbers property
 
-文本分割的行号。
+文本拆分的行号。
 
 ```csharp
 public int[] LineNumbers { get; }

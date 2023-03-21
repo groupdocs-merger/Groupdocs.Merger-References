@@ -18,21 +18,24 @@ public class LoadOptions : ILoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadOptions](loadoptions#constructor)(FileType) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_3)(string) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | 初始化的新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor)(FileType) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_6)(string) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | 初始化新实例[`LoadOptions`](../loadoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | 打开基于文本的文件时使用的编码，例如[`CSV`](../../groupdocs.merger.domain/filetype/csv)或者[`TXT`](../../groupdocs.merger.domain/filetype/txt). 默认值为Default. |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | 要打开的文件的扩展名。 |
-| [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | 打开受密码保护的文件的密码。 |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | 要打开的文件类型。 |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | init. 文件的扩展名 |
+| [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | 打开密码保护文件的密码。 |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | 要加载的文件类型。 |
 
 ### 也可以看看
 

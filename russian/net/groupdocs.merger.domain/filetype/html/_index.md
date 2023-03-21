@@ -3,7 +3,7 @@ title: HTML
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файл языка гипертекстовой разметки .html  это расширение для вебстраниц созданных для отображения в браузерах. Узнайте больше об этом формате файлаздесьhttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /ru/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field

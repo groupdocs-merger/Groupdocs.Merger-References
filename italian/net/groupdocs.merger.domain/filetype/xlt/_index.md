@@ -1,14 +1,14 @@
 ---
 title: XLT
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: File modello Excel .xlt sono file modello creati con Microsoft Excel unapplicazione per fogli di calcolo inclusa nella suite Microsoft Office. Microsoft Office 972003 supportava la creazione di nuovi file XLT e lapertura di questi. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/spreadsheet/xlt .
+description: File modello Excel .xlt sono file modello creati con Microsoft Excel unapplicazione per fogli di calcolo inclusa nella suite Microsoft Office. Microsoft Office 972003 supportava la creazione di nuovi file XLT e lapertura di questi. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 440
+weight: 560
 url: /it/net/groupdocs.merger.domain/filetype/xlt/
 ---
 ## FileType.XLT field
 
-File modello Excel (.xlt) sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo inclusa nella suite Microsoft Office. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e l'apertura di questi. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/spreadsheet/xlt) .
+File modello Excel (.xlt) sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo inclusa nella suite Microsoft Office. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e l'apertura di questi. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/spreadsheet/xlt) .
 
 ```csharp
 public static FileType XLT;

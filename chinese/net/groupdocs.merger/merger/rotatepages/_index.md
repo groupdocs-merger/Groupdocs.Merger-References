@@ -22,13 +22,13 @@ public void RotatePages(IRotateOptions rotateOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*rotateOptions*一片空白。 |
+| ArgumentNullException | 抛出时*rotateOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何旋转 PDF 文档页面： [如何旋转 PDF 文档页面](https://docs.groupdocs.com/merger/net/rotate-pages/)
+* 有关如何旋转 PDF 文档页面的更多信息： [如何旋转 PDF 文档页面](https://docs.groupdocs.com/merger/net/rotate-pages/)
 
 ### 也可以看看
 

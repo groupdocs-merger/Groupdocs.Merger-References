@@ -26,7 +26,7 @@ public void Join(Stream document)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -60,7 +60,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -95,7 +95,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -128,7 +128,7 @@ public void Join(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -162,7 +162,7 @@ public void Join(string filePath, IJoinOptions joinOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -197,7 +197,7 @@ public void Join(string filePath, IImageJoinOptions joinOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Szenarien und Anwendungsfällen für die Dokumentenzusammenführung: [So führen Sie PDF-, Word-, Excel- und PowerPoint-Dokumente in 3 Schritten zusammen](https://docs.groupdocs.com/merger/net/merge-files/)
 

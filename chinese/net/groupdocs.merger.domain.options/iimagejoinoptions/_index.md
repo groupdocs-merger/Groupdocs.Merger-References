@@ -1,14 +1,14 @@
 ---
 title: IImageJoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 图像连接选项的接口
+description: 图像连接选项的界面
 type: docs
 weight: 150
 url: /zh/net/groupdocs.merger.domain.options/iimagejoinoptions/
 ---
 ## IImageJoinOptions interface
 
-图像连接选项的接口。
+图像连接选项的界面。
 
 ```csharp
 public interface IImageJoinOptions : IOptions
@@ -18,7 +18,7 @@ public interface IImageJoinOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mode](../../groupdocs.merger.domain.options/iimagejoinoptions/mode) { get; } | 图像加入模式。 |
+| [Mode](../../groupdocs.merger.domain.options/iimagejoinoptions/mode) { get; } | 图像连接模式。 |
 | [Type](../../groupdocs.merger.domain.options/iimagejoinoptions/type) { get; } | 图像文件类型。 |
 
 ### 也可以看看

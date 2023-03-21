@@ -1,14 +1,14 @@
 ---
 title: ISwapOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 页面交换选项接口
+description: 页面交换选项的接口
 type: docs
 weight: 350
 url: /zh/net/groupdocs.merger.domain.options/iswapoptions/
 ---
 ## ISwapOptions interface
 
-页面交换选项接口。
+页面交换选项的接口。
 
 ```csharp
 public interface ISwapOptions : IOptions
@@ -18,8 +18,8 @@ public interface ISwapOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FirstPageNumber](../../groupdocs.merger.domain.options/iswapoptions/firstpagenumber) { get; } | 要交换的第一个页码。 |
-| [SecondPageNumber](../../groupdocs.merger.domain.options/iswapoptions/secondpagenumber) { get; } | 要交换的第二个页码。 |
+| [FirstPageNumber](../../groupdocs.merger.domain.options/iswapoptions/firstpagenumber) { get; } | 要交换的第一页码。 |
+| [SecondPageNumber](../../groupdocs.merger.domain.options/iswapoptions/secondpagenumber) { get; } | 要交换的第二页码。 |
 
 ### 也可以看看
 

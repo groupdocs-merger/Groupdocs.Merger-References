@@ -3,7 +3,7 @@ title: XLTM
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Plantilla de hoja de cálculo Excel Open XML habilitada para macros .xltm representa archivos generados por Microsoft Excel como archivos de plantilla habilitada para macros. Los archivos XLTM son similares a XLTX en estructura excepto que el último no admite la creación de archivos de plantilla con macros. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 450
+weight: 570
 url: /es/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field

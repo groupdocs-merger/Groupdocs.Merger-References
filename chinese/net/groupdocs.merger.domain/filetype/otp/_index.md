@@ -1,14 +1,14 @@
 ---
 title: OTP
 second_title: GroupDocs.Merger for .NET API 参考
-description: OpenDocument 演示模板 .otp 表示由应用程序以 OASIS OpenDocument 标准格式创建的演示模板文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/presentation/otp
+description: OpenDocument 演示模板 .otp 表示应用程序以 OASIS OpenDocument 标准格式创建的演示模板文件 了解有关此文件格式的更多信息这里https//docs.fileformat.com/presentation/otp
 type: docs
-weight: 170
+weight: 230
 url: /zh/net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field
 
-OpenDocument 演示模板 (.otp) 表示由应用程序以 OASIS OpenDocument 标准格式创建的演示模板文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/presentation/otp)
+OpenDocument 演示模板 (.otp) 表示应用程序以 OASIS OpenDocument 标准格式创建的演示模板文件。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/presentation/otp)
 
 ```csharp
 public static FileType OTP;

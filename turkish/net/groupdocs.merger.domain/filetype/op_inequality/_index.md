@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: İki olup olmadığını belirlerFileTypegroupdocs.merger.domain/filetype nesneler aynı değil.
 type: docs
-weight: 580
+weight: 720
 url: /tr/net/groupdocs.merger.domain/filetype/op_inequality/
 ---
 ## FileType Inequality operator
@@ -16,12 +16,12 @@ public static bool operator !=(FileType left, FileType right)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| left | FileType | Ayrıldı[`FileType`](../../filetype) nesne. |
-| right | FileType | Doğru[`FileType`](../../filetype) nesne. |
+| left | FileType | Sol[`FileType`](../../filetype) nesne. |
+| right | FileType | Sağ[`FileType`](../../filetype) nesne. |
 
 ### Geri dönüş değeri
 
-ikisi de olursa[`FileType`](../../filetype) nesneler aynı değildir; aksi halde,
+ikisi de olursa[`FileType`](../../filetype) nesneler aynı değildir; aksi takdirde,
 
 ```csharp
 true

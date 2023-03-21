@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: GroupDocs.Merger for .NET API 参考
 description: 返回当前的哈希码FileTypegroupdocs.merger.domain/filetype对象.
 type: docs
-weight: 520
+weight: 650
 url: /zh/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

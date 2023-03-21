@@ -3,7 +3,7 @@ title: DOCM
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Les fichiers Word Open XML MacroEnabled Document .docm sont des documents générés par Microsoft Word 2007 ou version ultérieure avec la possibilité dexécuter des macros. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/docm .
 type: docs
-weight: 30
+weight: 50
 url: /fr/net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field

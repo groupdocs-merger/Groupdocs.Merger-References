@@ -22,13 +22,13 @@ public void SwapPages(ISwapOptions swapOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*swapOptions*一片空白。 |
+| ArgumentNullException | 抛出时*swapOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何在文档中交换页面位置： [如何在 PDF、Word、Excel 或 PowerPoint 文档中交换页面](https://docs.groupdocs.com/merger/net/swap-pages/)
+* 有关如何在文档中交换页面位置的更多信息： [如何在 PDF、Word、Excel 或 PowerPoint 文档中交换页面](https://docs.groupdocs.com/merger/net/swap-pages/)
 
 ### 也可以看看
 

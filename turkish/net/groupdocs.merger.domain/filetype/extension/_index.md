@@ -3,7 +3,7 @@ title: Extension
 second_title: .NET API Başvurusu için GroupDocs.Merger
 description: Dosya adı soneki . noktası dahil ör. .doc.
 type: docs
-weight: 490
+weight: 620
 url: /tr/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

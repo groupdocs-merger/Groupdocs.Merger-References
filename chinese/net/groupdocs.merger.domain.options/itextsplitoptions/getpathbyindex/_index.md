@@ -1,14 +1,14 @@
 ---
 title: GetPathByIndex
 second_title: GroupDocs.Merger for .NET API 参考
-description: 获取已定义扩展名的索引拆分文档的完整文件路径
+description: 通过定义的扩展名的索引获取拆分文档的完整文件路径
 type: docs
 weight: 50
 url: /zh/net/groupdocs.merger.domain.options/itextsplitoptions/getpathbyindex/
 ---
 ## ITextSplitOptions.GetPathByIndex method
 
-获取已定义扩展名的索引拆分文档的完整文件路径。
+通过定义的扩展名的索引获取拆分文档的完整文件路径。
 
 ```csharp
 public string GetPathByIndex(int index, string extension)

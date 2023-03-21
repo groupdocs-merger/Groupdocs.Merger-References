@@ -18,16 +18,16 @@ public class ImageJoinOptions : IImageJoinOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageJoinOptions](imagejoinoptions#constructor)() | 初始化的新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
-| [ImageJoinOptions](imagejoinoptions#constructor_1)(FileType) | 初始化的新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
-| [ImageJoinOptions](imagejoinoptions#constructor_3)(ImageJoinMode) | 初始化的新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
-| [ImageJoinOptions](imagejoinoptions#constructor_2)(FileType, ImageJoinMode) | 初始化的新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
+| [ImageJoinOptions](imagejoinoptions#constructor)() | 初始化新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
+| [ImageJoinOptions](imagejoinoptions#constructor_1)(FileType) | 初始化新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
+| [ImageJoinOptions](imagejoinoptions#constructor_3)(ImageJoinMode) | 初始化新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
+| [ImageJoinOptions](imagejoinoptions#constructor_2)(FileType, ImageJoinMode) | 初始化新实例[`ImageJoinOptions`](../imagejoinoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mode](../../groupdocs.merger.domain.options/imagejoinoptions/mode) { get; } | 图像加入模式。 |
+| [Mode](../../groupdocs.merger.domain.options/imagejoinoptions/mode) { get; } | 图像连接模式。 |
 | [Type](../../groupdocs.merger.domain.options/imagejoinoptions/type) { get; } | 图像文件类型。 |
 
 ### 也可以看看

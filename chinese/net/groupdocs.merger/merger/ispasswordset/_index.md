@@ -16,16 +16,16 @@ public bool IsPasswordSet()
 
 ### 返回值
 
-返回一个值，该值指示文档是否受保护。
+返回一个值，指示文档是否受保护。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何使用密码保护文档： [如何使用密码保护 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/add-document-password/)
-* 有关如何更新或更改文档密码的更多信息： [如何更改文件密码](https://docs.groupdocs.com/merger/net/update-document-password/)
-* 更多关于如何检查文档密码保护与否： [如何检查文档密码保护](https://docs.groupdocs.com/merger/net/check-document-password-protection/)
-* 有关如何删除文档密码的更多信息： [如何删除 PDF、Word、Excel 和 PowerPoint 文档密码](https://docs.groupdocs.com/merger/net/remove-document-password/)
+* 有关如何使用密码保护文档的更多信息： [如何使用密码保护 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/add-document-password/)
+* 有关如何更新或更改文档密码的更多信息： [如何更改文档密码](https://docs.groupdocs.com/merger/net/update-document-password/)
+* 更多关于如何检查文档密码保护与否： [如何查看文档密码保护](https://docs.groupdocs.com/merger/net/check-document-password-protection/)
+* 有关如何删除文档密码的更多信息： [如何删除 PDF、Word、Excel 和 PowerPoint 文档的密码](https://docs.groupdocs.com/merger/net/remove-document-password/)
 
 ### 也可以看看
 

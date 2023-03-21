@@ -3,7 +3,7 @@ title: VTX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: Visio Template XML File .vtx هو قالب رسم Microsoft Visio يتم حفظه على قرص بتنسيق ملف XML. يهدف القالب إلى توفير ملف بالإعدادات الأساسية التي يمكن استخدامها لإنشاء ملفات Visio متعددة بنفس الإعدادات . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/image/vtx .
 type: docs
-weight: 380
+weight: 500
 url: /ar/net/groupdocs.merger.domain/filetype/vtx/
 ---
 ## FileType.VTX field

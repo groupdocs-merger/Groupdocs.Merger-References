@@ -1,14 +1,14 @@
 ---
 title: PPSX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: PowerPoint Açık XML Slayt Gösterisi .ppsx Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üzeri kullanılarak oluşturulan bir dosyadır. Bu dosya formatı hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/presentation/ppsx .
+description: PowerPoint Açık XML Slayt Gösterisi .ppsx Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üzeri kullanılarak oluşturulan bir dosyadır. Bu dosya formatı hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/presentation/ppsx .
 type: docs
-weight: 210
+weight: 280
 url: /tr/net/groupdocs.merger.domain/filetype/ppsx/
 ---
 ## FileType.PPSX field
 
-PowerPoint Açık XML Slayt Gösterisi (.ppsx), Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üzeri kullanılarak oluşturulan bir dosyadır. Bu dosya formatı hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/presentation/ppsx) .
+PowerPoint Açık XML Slayt Gösterisi (.ppsx), Slayt Gösterisi amacıyla Microsoft PowerPoint 2007 ve üzeri kullanılarak oluşturulan bir dosyadır. Bu dosya formatı hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/presentation/ppsx) .
 
 ```csharp
 public static FileType PPSX;

@@ -29,7 +29,7 @@ public sealed class License
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о лицензировании: [Часто задаваемые вопросы о лицензировании GroupDocs](https://purchase.groupdocs.com/faqs/licensing)
 * Подробнее о лицензировании GroupDocs.Merger: [Ограничения оценки и лицензирование](https://docs.groupdocs.com/display/mergernet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Merger)

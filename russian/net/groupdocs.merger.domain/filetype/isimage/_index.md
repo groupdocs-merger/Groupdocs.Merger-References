@@ -1,14 +1,14 @@
 ---
 title: IsImage
 second_title: Справочник по API GroupDocs.Merge для .NET
-description: Определяет будет ли вводFileTypegroupdocs.merger.domain/filetype это примитивный текстовый формат.
+description: Определяет будет ли вводFileTypegroupdocs.merger.domain/filetype формат изображения.
 type: docs
-weight: 550
+weight: 690
 url: /ru/net/groupdocs.merger.domain/filetype/isimage/
 ---
 ## FileType.IsImage method
 
-Определяет, будет ли ввод[`FileType`](../../filetype) это примитивный текстовый формат.
+Определяет, будет ли ввод[`FileType`](../../filetype) формат изображения.
 
 ```csharp
 public static bool IsImage(FileType fileType)
@@ -20,7 +20,7 @@ public static bool IsImage(FileType fileType)
 
 ### Возвращаемое значение
 
-если ввод[`FileType`](../../filetype) примитивный формат изображения; в противном случае,
+если ввод[`FileType`](../../filetype) формат изображения; в противном случае,
 
 ```csharp
 true

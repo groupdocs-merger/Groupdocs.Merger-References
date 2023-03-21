@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fileType | FileType | Der Typ der zu öffnenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
 
 ### Ausnahmen
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fileType | FileType | Der Typ der zu öffnenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
 | password | String | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
 
 ### Ausnahmen
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
 
@@ -118,7 +118,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fileType | FileType | Der Typ der zu öffnenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
 | password | String | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
 | encoding | Encoding | Die Codierung, die beim Öffnen von textbasierten Dateien wie z[`CSV`](../../../groupdocs.merger.domain/filetype/csv) oder[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
 
@@ -148,8 +148,8 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| extension | String | Die Erweiterung der zu öffnenden Datei. |
-| fileType | FileType | Der Typ der zu öffnenden Datei. |
+| extension | String | Die Erweiterung der zu ladenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
 | password | String | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
 | encoding | Encoding | Die Codierung, die beim Öffnen von textbasierten Dateien wie z[`CSV`](../../../groupdocs.merger.domain/filetype/csv) oder[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | Wann geworfen*fileType* ist Null. |
 | ArgumentNullException | Wann geworfen*encoding* ist Null. |
+
+### Siehe auch
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namensraum [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* Montage [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| iniFileType | FileType | Der Typ der zu initialisierenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
+| password | String | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
+| encoding | Encoding | Die Codierung, die beim Öffnen von textbasierten Dateien wie z[`CSV`](../../../groupdocs.merger.domain/filetype/csv) oder[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | Wann geworfen*iniFileType* ist Null. |
+| ArgumentNullException | Wann geworfen*fileType* ist Null. |
+| ArgumentNullException | Wann geworfen*encoding* ist Null. |
+
+### Siehe auch
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namensraum [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* Montage [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| iniFileType | FileType | Der Typ der zu initialisierenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
+| password | String | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | Wann geworfen*iniFileType* ist Null. |
+| ArgumentNullException | Wann geworfen*fileType* ist Null. |
+
+### Siehe auch
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* namensraum [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* Montage [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+Initialisiert eine neue Instanz von[`LoadOptions`](../../loadoptions) Klasse.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| iniFileType | FileType | Der Typ der zu initialisierenden Datei. |
+| fileType | FileType | Der Typ der zu ladenden Datei. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | Wann geworfen*iniFileType* ist Null. |
+| ArgumentNullException | Wann geworfen*fileType* ist Null. |
 
 ### Siehe auch
 

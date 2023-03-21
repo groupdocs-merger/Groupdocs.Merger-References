@@ -16,22 +16,22 @@ public void UpdatePassword(IUpdatePasswordOptions updatePasswordOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| updatePasswordOptions | IUpdatePasswordOptions | 用于指定当前/新密码的选项。 |
+| updatePasswordOptions | IUpdatePasswordOptions | 指定当前/新密码的选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*updatePasswordOptions*一片空白。 |
+| ArgumentNullException | 抛出时*updatePasswordOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何使用密码保护文档： [如何使用密码保护 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/add-document-password/)
-* 有关如何更新或更改文档密码的更多信息： [如何更改文件密码](https://docs.groupdocs.com/merger/net/update-document-password/)
-* 更多关于如何检查文档密码保护与否： [如何检查文档密码保护](https://docs.groupdocs.com/merger/net/check-document-password-protection/)
-* 有关如何删除文档密码的更多信息： [如何删除 PDF、Word、Excel 和 PowerPoint 文档密码](https://docs.groupdocs.com/merger/net/remove-document-password/)
+* 有关如何使用密码保护文档的更多信息： [如何使用密码保护 PDF、Word、Excel 和 PowerPoint 文档](https://docs.groupdocs.com/merger/net/add-document-password/)
+* 有关如何更新或更改文档密码的更多信息： [如何更改文档密码](https://docs.groupdocs.com/merger/net/update-document-password/)
+* 更多关于如何检查文档密码保护与否： [如何查看文档密码保护](https://docs.groupdocs.com/merger/net/check-document-password-protection/)
+* 有关如何删除文档密码的更多信息： [如何删除 PDF、Word、Excel 和 PowerPoint 文档的密码](https://docs.groupdocs.com/merger/net/remove-document-password/)
 
 ### 也可以看看
 

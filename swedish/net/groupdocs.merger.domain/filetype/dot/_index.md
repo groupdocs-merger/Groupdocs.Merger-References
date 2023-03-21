@@ -3,7 +3,7 @@ title: DOT
 second_title: GroupDocs.Merger för .NET API-referens
 description: Worddokumentmallfiler .dot är mallfiler skapade av Microsoft Word för att ha förformaterade inställningar för generering av ytterligare DOC eller DOCXfiler. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /sv/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field

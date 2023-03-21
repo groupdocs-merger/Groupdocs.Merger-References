@@ -3,7 +3,7 @@ title: XLS
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Hoja de cálculo de Excel .xls es un archivo que puede crear Microsoft Excel así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/spreadsheet/xls .
 type: docs
-weight: 400
+weight: 520
 url: /es/net/groupdocs.merger.domain/filetype/xls/
 ---
 ## FileType.XLS field

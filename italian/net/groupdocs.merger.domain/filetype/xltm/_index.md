@@ -1,14 +1,14 @@
 ---
 title: XLTM
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: Il modello di foglio di calcolo con attivazione macro Excel Open XML .xltm rappresenta i file generati da Microsoft Excel come file modello con attivazione macro. I file XLTM sono simili a XLTX nella struttura diversa da quella successiva non supporta la creazione di file modello con macro. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/spreadsheet/xltm .
+description: Il modello di foglio di calcolo con attivazione macro Excel Open XML .xltm rappresenta i file generati da Microsoft Excel come file modello con attivazione macro. I file XLTM sono simili a XLTX nella struttura diversa da quella successiva non supporta la creazione di file modello con macro. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/spreadsheet/xltm .
 type: docs
-weight: 450
+weight: 570
 url: /it/net/groupdocs.merger.domain/filetype/xltm/
 ---
 ## FileType.XLTM field
 
-Il modello di foglio di calcolo con attivazione macro Excel Open XML (.xltm) rappresenta i file generati da Microsoft Excel come file modello con attivazione macro. I file XLTM sono simili a XLTX nella struttura diversa da quella successiva non supporta la creazione di file modello con macro. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/spreadsheet/xltm) .
+Il modello di foglio di calcolo con attivazione macro Excel Open XML (.xltm) rappresenta i file generati da Microsoft Excel come file modello con attivazione macro. I file XLTM sono simili a XLTX nella struttura diversa da quella successiva non supporta la creazione di file modello con macro. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/spreadsheet/xltm) .
 
 ```csharp
 public static FileType XLTM;

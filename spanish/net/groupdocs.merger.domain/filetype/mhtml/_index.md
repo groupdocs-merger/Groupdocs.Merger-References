@@ -3,7 +3,7 @@ title: MHTML
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: MIME HTML File .mhtml es un formato de archivo de página web que pueden crear varias aplicaciones diferentes. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 120
+weight: 180
 url: /es/net/groupdocs.merger.domain/filetype/mhtml/
 ---
 ## FileType.MHTML field

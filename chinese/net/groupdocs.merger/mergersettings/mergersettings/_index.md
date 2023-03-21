@@ -1,14 +1,14 @@
 ---
 title: MergerSettings
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例MergerSettingsgroupdocs.merger/mergersettings类.
+description: 初始化新实例MergerSettingsgroupdocs.merger/mergersettings类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger/mergersettings/mergersettings/
 ---
 ## MergerSettings() {#constructor}
 
-初始化的新实例[`MergerSettings`](../../mergersettings)类.
+初始化新实例[`MergerSettings`](../../mergersettings)类.
 
 ```csharp
 public MergerSettings()
@@ -24,7 +24,7 @@ public MergerSettings()
 
 ## MergerSettings(ILogger) {#constructor_1}
 
-初始化的新实例[`MergerSettings`](../../mergersettings)类.
+初始化新实例[`MergerSettings`](../../mergersettings)类.
 
 ```csharp
 public MergerSettings(ILogger logger)
@@ -38,7 +38,7 @@ public MergerSettings(ILogger logger)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*logger*一片空白。 |
+| ArgumentNullException | 抛出时*logger*一片空白。 |
 
 ### 也可以看看
 

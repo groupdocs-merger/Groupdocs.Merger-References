@@ -22,11 +22,11 @@ public void RemovePages(IRemoveOptions removeOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*removeOptions*一片空白。 |
+| ArgumentNullException | 抛出时*removeOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何从文档中删除页面的更多信息： [如何从 PDF、Word、Excel 或 PowerPoint 文档中删除页面](https://docs.groupdocs.com/merger/net/remove-pages/)
 

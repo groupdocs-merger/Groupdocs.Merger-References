@@ -1,14 +1,14 @@
 ---
 title: NewPassword
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文档保护的新密码
+description: 文档保护新密码.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/iupdatepasswordoptions/newpassword/
 ---
 ## IUpdatePasswordOptions.NewPassword property
 
-文档保护的新密码。
+文档保护新密码.
 
 ```csharp
 public string NewPassword { get; }

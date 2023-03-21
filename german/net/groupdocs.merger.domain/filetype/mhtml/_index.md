@@ -1,14 +1,14 @@
 ---
 title: MHTML
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: MIMEHTMLDatei .mhtml ist ein Archivformat für Webseiten das von einer Reihe verschiedener Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/web/mhtml .
+description: MIMEHTMLDatei .mhtml ist ein Archivformat für Webseiten das von einer Reihe verschiedener Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/web/mhtml .
 type: docs
-weight: 120
+weight: 180
 url: /de/net/groupdocs.merger.domain/filetype/mhtml/
 ---
 ## FileType.MHTML field
 
-MIME-HTML-Datei (.mhtml) ist ein Archivformat für Webseiten, das von einer Reihe verschiedener Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/web/mhtml) .
+MIME-HTML-Datei (.mhtml) ist ein Archivformat für Webseiten, das von einer Reihe verschiedener Anwendungen erstellt werden kann. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/web/mhtml) .
 
 ```csharp
 public static FileType MHTML;

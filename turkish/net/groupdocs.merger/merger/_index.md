@@ -1,14 +1,14 @@
 ---
 title: Merger
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Belge birleştirme işlemini kontrol eden ana sınıfı temsil eder.
+description: Belge birleştirme sürecini kontrol eden ana sınıfı temsil eder.
 type: docs
 weight: 790
 url: /tr/net/groupdocs.merger/merger/
 ---
 ## Merger class
 
-Belge birleştirme işlemini kontrol eden ana sınıfı temsil eder.
+Belge birleştirme sürecini kontrol eden ana sınıfı temsil eder.
 
 ```csharp
 public class Merger : IDisposable

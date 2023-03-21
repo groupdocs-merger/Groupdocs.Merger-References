@@ -1,14 +1,14 @@
 ---
 title: DOT
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: I file Word Document Template .dot sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOC o DOCX. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/wordprocessing/dot .
+description: I file Word Document Template .dot sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOC o DOCX. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/wordprocessing/dot .
 type: docs
-weight: 50
+weight: 70
 url: /it/net/groupdocs.merger.domain/filetype/dot/
 ---
 ## FileType.DOT field
 
-I file Word Document Template (.dot) sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOC o DOCX. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/word-processing/dot) .
+I file Word Document Template (.dot) sono file modello creati da Microsoft Word per avere impostazioni preformattate per la generazione di ulteriori file DOC o DOCX. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/word-processing/dot) .
 
 ```csharp
 public static FileType DOT;

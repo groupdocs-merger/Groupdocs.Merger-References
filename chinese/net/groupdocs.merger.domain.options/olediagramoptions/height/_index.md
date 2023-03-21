@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.merger.domain.options/olediagramoptions/height/
 ---
 ## OleDiagramOptions.Height property
 
-嵌入对象形状的高度，以英寸为单位。
+嵌入对象形状的高度（以英寸为单位）。
 
 ```csharp
 public int Height { get; set; }

@@ -20,7 +20,7 @@ Informazioni sulle proprietà del documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sul tipo di file del documento, sul numero di pagine, sulla dimensione e su molte altre proprietà specifiche del formato: [Come ottenere informazioni sul documento utilizzando GroupDocs.Merger](https://docs.groupdocs.com/merger/net/get-document-information/)
 

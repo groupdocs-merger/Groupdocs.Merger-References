@@ -1,14 +1,14 @@
 ---
 title: GetConsumptionCredit
 second_title: GroupDocs.Merger for .NET API 参考
-description: 检索已使用积分的数量
+description: 检索已使用的信用额度
 type: docs
 weight: 30
 url: /zh/net/groupdocs.merger/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-检索已使用积分的数量
+检索已使用的信用额度
 
 ```csharp
 public static decimal GetConsumptionCredit()

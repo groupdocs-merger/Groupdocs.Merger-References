@@ -37,7 +37,7 @@ public PdfAttachmentOptions(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу встроенного объекта. |
+| filePath | String | Путь к файлу внедренного объекта. |
 
 ### Смотрите также
 

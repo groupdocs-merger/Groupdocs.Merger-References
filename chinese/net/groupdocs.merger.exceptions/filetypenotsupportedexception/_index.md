@@ -18,7 +18,7 @@ public class FileTypeNotSupportedException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileTypeNotSupportedException](filetypenotsupportedexception)(string) | 初始化[`FileTypeNotSupportedException`](../filetypenotsupportedexception)类. |
+| [FileTypeNotSupportedException](filetypenotsupportedexception)(string) | 初始化一个新的实例[`FileTypeNotSupportedException`](../filetypenotsupportedexception)类. |
 
 ### 也可以看看
 

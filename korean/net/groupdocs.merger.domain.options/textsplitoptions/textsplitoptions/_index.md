@@ -1,0 +1,149 @@
+---
+title: TextSplitOptions
+second_title: .NET API 참조용 GroupDocs.Merger
+description: 의 새 인스턴스를 초기화합니다.TextSplitOptionsgroupdocs.merger.domain.options/textsplitoptions 클래스.
+type: docs
+weight: 10
+url: /ko/net/groupdocs.merger.domain.options/textsplitoptions/textsplitoptions/
+---
+## TextSplitOptions(string, int[]) {#constructor_5}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(string filePathFormat, int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| filePathFormat | String | 확장자가 이미 정의된 파일 경로 형식(예: 'c:/split{0}.doc' 또는 'c:/split{0}.{1}'). |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(string, TextSplitMode, int[]) {#constructor_4}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(string filePathFormat, TextSplitMode mode, int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| filePathFormat | String | 확장자가 이미 정의된 파일 경로 형식(예: 'c:/split{0}.doc' 또는 'c:/split{0}.{1}'). |
+| mode | TextSplitMode | 텍스트 분할 모드. |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, int[]) {#constructor_3}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 출력 분할 데이터를 쓰는 데 사용되는 스트림을 인스턴스화하는 메서드입니다. |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, TextSplitMode, int[]) {#constructor_2}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, TextSplitMode mode, int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 출력 분할 데이터를 쓰는 데 사용되는 스트림을 인스턴스화하는 메서드입니다. |
+| mode | TextSplitMode | 텍스트 분할 모드. |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, ReleaseSplitStream, int[]) {#constructor_1}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
+    int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 출력 분할 데이터를 쓰는 데 사용되는 스트림을 인스턴스화하는 메서드입니다. |
+| releaseSplitStream | ReleaseSplitStream | createPageStream 메소드로 생성된 스트림을 해제하는 메소드. |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+---
+
+## TextSplitOptions(CreateSplitStream, ReleaseSplitStream, TextSplitMode, int[]) {#constructor}
+
+의 새 인스턴스를 초기화합니다.[`TextSplitOptions`](../../textsplitoptions) 클래스.
+
+```csharp
+public TextSplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream releaseSplitStream, 
+    TextSplitMode mode, int[] lineNumbers)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| createSplitStream | CreateSplitStream | 출력 분할 데이터를 쓰는 데 사용되는 스트림을 인스턴스화하는 메서드입니다. |
+| releaseSplitStream | ReleaseSplitStream | createPageStream 메소드로 생성된 스트림을 해제하는 메소드. |
+| mode | TextSplitMode | 텍스트 분할 모드. |
+| lineNumbers | Int32[] | 텍스트 분할을 위한 줄 번호입니다. |
+
+### 또한보십시오
+
+* delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
+* delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
+* enum [TextSplitMode](../../textsplitmode)
+* class [TextSplitOptions](../../textsplitoptions)
+* 네임스페이스 [GroupDocs.Merger.Domain.Options](../../textsplitoptions)
+* 집회 [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Merger.dll -->

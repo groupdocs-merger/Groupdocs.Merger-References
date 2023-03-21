@@ -1,14 +1,14 @@
 ---
 title: PDF
 second_title: GroupDocs.Merger for .NET API 参考
-description: 可移植文档格式文件 .pdf 是一种文件格式它被引入作为一种标准用于以独立于应用软件硬件和操作系统的格式表示文档和其他参考材料 了解有关此文件的更多信息格式这里https//docs.fileformat.com/view/pdf
+description: 便携式文档格式文件 .pdf 是一种文件格式作为文档和其他参考材料的表示标准引入其格式独立于应用程序软件硬件和操作系统 了解有关此文件的更多信息格式这里https//docs.fileformat.com/view/pdf
 type: docs
-weight: 190
+weight: 250
 url: /zh/net/groupdocs.merger.domain/filetype/pdf/
 ---
 ## FileType.PDF field
 
-可移植文档格式文件 (.pdf) 是一种文件格式，它被引入作为一种标准，用于以独立于应用软件、硬件和操作系统的格式表示文档和其他参考材料。 了解有关此文件的更多信息格式[这里](https://docs.fileformat.com/view/pdf)
+便携式文档格式文件 (.pdf) 是一种文件格式，作为文档和其他参考材料的表示标准引入，其格式独立于应用程序软件、硬件和操作系统。 了解有关此文件的更多信息格式[这里](https://docs.fileformat.com/view/pdf)
 
 ```csharp
 public static FileType PDF;

@@ -3,7 +3,7 @@ title: ERR
 second_title: GroupDocs.Merger för .NET API-referens
 description: Felloggfil .err är en textfil som innehåller felmeddelanden som genereras av ett program. Läs mer om detta filformathärhttps//fileinfo.com/extension/err .
 type: docs
-weight: 90
+weight: 110
 url: /sv/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field

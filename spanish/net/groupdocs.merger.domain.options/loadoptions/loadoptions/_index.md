@@ -16,7 +16,7 @@ public LoadOptions(FileType fileType)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| fileType | FileType | El tipo de archivo a abrir. |
+| fileType | FileType | El tipo de archivo a cargar. |
 
 ### Excepciones
 
@@ -33,7 +33,7 @@ public LoadOptions(FileType fileType)
 
 ---
 
-## LoadOptions(string) {#constructor_3}
+## LoadOptions(string) {#constructor_6}
 
 Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
 
@@ -53,7 +53,7 @@ public LoadOptions(string password)
 
 ---
 
-## LoadOptions(string, Encoding) {#constructor_5}
+## LoadOptions(string, Encoding) {#constructor_8}
 
 Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
 
@@ -80,7 +80,7 @@ public LoadOptions(string password, Encoding encoding)
 
 ---
 
-## LoadOptions(FileType, string) {#constructor_1}
+## LoadOptions(FileType, string) {#constructor_4}
 
 Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
 
@@ -90,7 +90,7 @@ public LoadOptions(FileType fileType, string password)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| fileType | FileType | El tipo de archivo a abrir. |
+| fileType | FileType | El tipo de archivo a cargar. |
 | password | String | La contraseña para abrir el archivo protegido por contraseña. |
 
 ### Excepciones
@@ -108,7 +108,7 @@ public LoadOptions(FileType fileType, string password)
 
 ---
 
-## LoadOptions(FileType, string, Encoding) {#constructor_2}
+## LoadOptions(FileType, string, Encoding) {#constructor_5}
 
 Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
 
@@ -118,7 +118,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| fileType | FileType | El tipo de archivo a abrir. |
+| fileType | FileType | El tipo de archivo a cargar. |
 | password | String | La contraseña para abrir el archivo protegido por contraseña. |
 | encoding | Encoding | La codificación utilizada al abrir archivos basados en texto como[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -138,7 +138,7 @@ public LoadOptions(FileType fileType, string password, Encoding encoding)
 
 ---
 
-## LoadOptions(string, FileType, string, Encoding) {#constructor_4}
+## LoadOptions(string, FileType, string, Encoding) {#constructor_7}
 
 Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
 
@@ -148,8 +148,8 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| extension | String | La extensión del archivo a abrir. |
-| fileType | FileType | El tipo de archivo a abrir. |
+| extension | String | La extensión del archivo a cargar. |
+| fileType | FileType | El tipo de archivo a cargar. |
 | password | String | La contraseña para abrir el archivo protegido por contraseña. |
 | encoding | Encoding | La codificación utilizada al abrir archivos basados en texto como[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
 
@@ -159,6 +159,97 @@ public LoadOptions(string extension, FileType fileType, string password, Encodin
 | --- | --- |
 | ArgumentNullException | arrojado cuando*fileType* es nulo. |
 | ArgumentNullException | arrojado cuando*encoding* es nulo. |
+
+### Ver también
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* espacio de nombres [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* asamblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string, Encoding) {#constructor_3}
+
+Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password, Encoding encoding)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| iniFileType | FileType | El tipo de archivo a init. |
+| fileType | FileType | El tipo de archivo a cargar. |
+| password | String | La contraseña para abrir el archivo protegido por contraseña. |
+| encoding | Encoding | La codificación utilizada al abrir archivos basados en texto como[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt). |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | arrojado cuando*iniFileType* es nulo. |
+| ArgumentNullException | arrojado cuando*fileType* es nulo. |
+| ArgumentNullException | arrojado cuando*encoding* es nulo. |
+
+### Ver también
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* espacio de nombres [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* asamblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType, string) {#constructor_2}
+
+Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType, string password)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| iniFileType | FileType | El tipo de archivo a init. |
+| fileType | FileType | El tipo de archivo a cargar. |
+| password | String | La contraseña para abrir el archivo protegido por contraseña. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | arrojado cuando*iniFileType* es nulo. |
+| ArgumentNullException | arrojado cuando*fileType* es nulo. |
+
+### Ver también
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [LoadOptions](../../loadoptions)
+* espacio de nombres [GroupDocs.Merger.Domain.Options](../../loadoptions)
+* asamblea [GroupDocs.Merger](../../../)
+
+---
+
+## LoadOptions(FileType, FileType) {#constructor_1}
+
+Inicializa una nueva instancia de[`LoadOptions`](../../loadoptions) clase.
+
+```csharp
+public LoadOptions(FileType iniFileType, FileType fileType)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| iniFileType | FileType | El tipo de archivo a init. |
+| fileType | FileType | El tipo de archivo a cargar. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | arrojado cuando*iniFileType* es nulo. |
+| ArgumentNullException | arrojado cuando*fileType* es nulo. |
 
 ### Ver también
 

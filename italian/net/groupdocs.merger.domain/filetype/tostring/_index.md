@@ -3,7 +3,7 @@ title: ToString
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Restituisce una stringa che rappresenta loggetto corrente.
 type: docs
-weight: 530
+weight: 660
 url: /it/net/groupdocs.merger.domain/filetype/tostring/
 ---
 ## FileType.ToString method

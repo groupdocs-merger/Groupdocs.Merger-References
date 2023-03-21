@@ -3,7 +3,7 @@ title: RTF
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Rich Text Format File .rtf introduit et documenté par Microsoft le format RTF Rich Text Format représente une méthode de codage de texte formaté et de graphiques à utiliser dans les applications. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/rtf .
 type: docs
-weight: 250
+weight: 330
 url: /fr/net/groupdocs.merger.domain/filetype/rtf/
 ---
 ## FileType.RTF field

@@ -1,14 +1,14 @@
 ---
 title: XLTX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Excel Açık XML Elektronik Tablo Şablonu .xltx dosyaları Office OpenXML dosya biçimi belirtimlerini temel alır. XLTX dosyasında belirtilen ayarların aynısını sergileyen XLSX dosyaları oluşturmak için kullanılabilecek standart bir şablon dosyası oluşturmak için kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/spreadsheet/xltx .
+description: Excel Açık XML Elektronik Tablo Şablonu .xltx dosyaları Office OpenXML dosya biçimi belirtimlerini temel alır. XLTX dosyasında belirtilen ayarların aynısını sergileyen XLSX dosyaları oluşturmak için kullanılabilecek standart bir şablon dosyası oluşturmak için kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/spreadsheet/xltx .
 type: docs
-weight: 460
+weight: 580
 url: /tr/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field
 
-Excel Açık XML Elektronik Tablo Şablonu (.xltx) dosyaları, Office OpenXML dosya biçimi belirtimlerini temel alır. XLTX dosyasında belirtilen ayarların aynısını sergileyen XLSX dosyaları oluşturmak için kullanılabilecek standart bir şablon dosyası oluşturmak için kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/spreadsheet/xltx) .
+Excel Açık XML Elektronik Tablo Şablonu (.xltx) dosyaları, Office OpenXML dosya biçimi belirtimlerini temel alır. XLTX dosyasında belirtilen ayarların aynısını sergileyen XLSX dosyaları oluşturmak için kullanılabilecek standart bir şablon dosyası oluşturmak için kullanılır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/spreadsheet/xltx) .
 
 ```csharp
 public static FileType XLTX;

@@ -1,14 +1,14 @@
 ---
 title: DOC
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: I documenti di Microsoft Word .doc rappresentano i documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato file binario. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/wordprocessing/doc .
+description: I documenti di Microsoft Word .doc rappresentano i documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato file binario. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/wordprocessing/doc .
 type: docs
-weight: 20
+weight: 40
 url: /it/net/groupdocs.merger.domain/filetype/doc/
 ---
 ## FileType.DOC field
 
-I documenti di Microsoft Word (.doc) rappresentano i documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato file binario. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/word-processing/doc) .
+I documenti di Microsoft Word (.doc) rappresentano i documenti generati da Microsoft Word o altri documenti di elaborazione testi in formato file binario. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/word-processing/doc) .
 
 ```csharp
 public static FileType DOC;

@@ -12,8 +12,8 @@ Ad alanı, çok çeşitli desteklenen belge türlerinde belgeleri birleştirmeni
 
 | Sınıf | Tanım |
 | --- | --- |
-| [License](./license) | Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[burada](https://purchase.groupdocs.com/faqs/licensing) . |
-| [Merger](./merger) | Belge birleştirme işlemini kontrol eden ana sınıfı temsil eder. |
+| [License](./license) | Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[Burada](https://purchase.groupdocs.com/faqs/licensing) . |
+| [Merger](./merger) | Belge birleştirme sürecini kontrol eden ana sınıfı temsil eder. |
 | [MergerSettings](./mergersettings) | Özelleştirme için ayarları tanımlar[`Merger`](../groupdocs.merger/merger) davranış. |
 | [Metered](./metered) | Uygulama için yöntemler sağlar[ölçülü](https://purchase.groupdocs.com/faqs/licensing/metered) lisans. |
 

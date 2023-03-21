@@ -3,7 +3,7 @@ title: XLTX
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملفات Excel Open XML Spreadsheet Template xltx تستند إلى مواصفات تنسيق ملف Office OpenXML. يتم استخدامه لإنشاء ملف قالب قياسي يمكن استخدامه لإنشاء ملفات XLSX التي تعرض نفس الإعدادات المحددة في ملف XLTX . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/spreadsheet/xltx .
 type: docs
-weight: 460
+weight: 580
 url: /ar/net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field

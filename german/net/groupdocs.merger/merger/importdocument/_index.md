@@ -26,7 +26,7 @@ public void ImportDocument(IImportDocumentOptions importDocumentOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Hinzufügen von Anhängen zu PDF-Dokumenten: [So fügen Sie einem PDF-Dokument einen Anhang hinzu.](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 * Weitere Informationen zum Hinzufügen von Dokumenten zur Textverarbeitung über OLE: [Dokument über OLE zur Textverarbeitung hinzufügen.](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)

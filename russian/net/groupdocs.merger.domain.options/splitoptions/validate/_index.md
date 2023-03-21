@@ -16,7 +16,7 @@ public void Validate(FileType fileType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileType | FileType | Тип файла[`FileType`](../../../groupdocs.merger.domain/filetype) учебный класс. |
+| fileType | FileType | Тип файла[`FileType`](../../../groupdocs.merger.domain/filetype) сорт. |
 
 ### Смотрите также
 

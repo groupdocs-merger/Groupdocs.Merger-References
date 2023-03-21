@@ -1,14 +1,14 @@
 ---
 title: Encoding
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: La codifica utilizzata durante lapertura di file basati su testo comeCSVgroupdocs.merger.domain/filetype/csv oTXTgroupdocs.merger.domain/filetype/txt . Il valore predefinito èDefault .
+description: La codifica utilizzata durante lapertura di file basati su testo comeCSVgroupdocs.merger.domain/filetype/csv OTXTgroupdocs.merger.domain/filetype/txt . Il valore predefinito èDefault .
 type: docs
 weight: 20
 url: /it/net/groupdocs.merger.domain.options/loadoptions/encoding/
 ---
 ## LoadOptions.Encoding property
 
-La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) o[`TXT`](../../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault .
+La codifica utilizzata durante l'apertura di file basati su testo come[`CSV`](../../../groupdocs.merger.domain/filetype/csv) O[`TXT`](../../../groupdocs.merger.domain/filetype/txt) . Il valore predefinito èDefault .
 
 ```csharp
 public Encoding Encoding { get; }

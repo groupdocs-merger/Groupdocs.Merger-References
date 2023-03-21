@@ -3,7 +3,7 @@ title: VSDM
 second_title: GroupDocs.Merger لمرجع .NET API
 description: رسم Visio ممكّن بماكرو .vsdm عبارة عن ملفات رسم تم إنشاؤها باستخدام تطبيق Microsoft Visio الذي يدعم وحدات الماكرو. ملفات VSDM هي رسومات OPC / XML تشبه VSDX  ولكنها توفر أيضًا القدرة على تشغيل وحدات الماكرو عند فتح الملف. تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/image/vsdm .
 type: docs
-weight: 310
+weight: 430
 url: /ar/net/groupdocs.merger.domain/filetype/vsdm/
 ---
 ## FileType.VSDM field

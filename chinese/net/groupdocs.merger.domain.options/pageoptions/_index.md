@@ -18,7 +18,7 @@ public abstract class PageOptions : IPageOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NewPageNumber
 second_title: GroupDocs.Merger for .NET API 参考
-description: 获取或设置新的页码
+description: 获取或设置新页码
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/imoveoptions/newpagenumber/
 ---
 ## IMoveOptions.NewPageNumber property
 
-获取或设置新的页码。
+获取或设置新页码。
 
 ```csharp
 public int NewPageNumber { get; }
@@ -16,7 +16,7 @@ public int NewPageNumber { get; }
 
 ### 适当的价值
 
-新的页码。
+新页码。
 
 ### 也可以看看
 

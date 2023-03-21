@@ -3,7 +3,7 @@ title: ODT
 second_title: GroupDocs.Merger for .NET API 参考
 description: OpenDocument 文本文档 .odt 文件是使用基于 OpenDocument 文本文件格式的文字处理应用程序创建的文档类型 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/odt
 type: docs
-weight: 150
+weight: 210
 url: /zh/net/groupdocs.merger.domain/filetype/odt/
 ---
 ## FileType.ODT field

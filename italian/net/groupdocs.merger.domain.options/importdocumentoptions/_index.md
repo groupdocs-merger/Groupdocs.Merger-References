@@ -24,7 +24,7 @@ public abstract class ImportDocumentOptions : IImportDocumentOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sull'aggiunta di allegati ai documenti PDF: [Come aggiungere un allegato a un documento PDF.](https://docs.groupdocs.com/merger/net/how-to-add-attachment-to-pdf-document/)
 * Ulteriori informazioni sull'aggiunta di documenti all'elaborazione di testi tramite OLE: [Aggiungi documento all'elaborazione di testi tramite OLE.](https://docs.groupdocs.com/merger/net/add-document-to-word-processing-via-ole/)

@@ -3,7 +3,7 @@ title: XPS
 second_title: GroupDocs.Merger för .NET API-referens
 description: XML Paper Specification File .xps representerar sidlayoutfiler som är baserade på XML Paper Specifications skapade av Microsoft. Läs mer om detta filformathärhttps//docs.fileformat.com/pagedescriptionlanguage/xps .
 type: docs
-weight: 470
+weight: 590
 url: /sv/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field

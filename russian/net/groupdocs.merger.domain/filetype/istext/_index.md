@@ -3,7 +3,7 @@ title: IsText
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Определяет будет ли вводFileTypegroupdocs.merger.domain/filetype это примитивный текстовый формат.
 type: docs
-weight: 560
+weight: 700
 url: /ru/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method

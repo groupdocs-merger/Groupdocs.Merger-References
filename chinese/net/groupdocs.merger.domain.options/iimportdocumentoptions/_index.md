@@ -1,14 +1,14 @@
 ---
 title: IImportDocumentOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入文档的导入接口
+description: 用于导入嵌入文档的接口
 type: docs
 weight: 160
 url: /zh/net/groupdocs.merger.domain.options/iimportdocumentoptions/
 ---
 ## IImportDocumentOptions interface
 
-嵌入文档的导入接口。
+用于导入嵌入文档的接口。
 
 ```csharp
 public interface IImportDocumentOptions : IOptions
@@ -18,9 +18,9 @@ public interface IImportDocumentOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extension](../../groupdocs.merger.domain.options/iimportdocumentoptions/extension) { get; } | 嵌入对象的扩展名。 |
+| [Extension](../../groupdocs.merger.domain.options/iimportdocumentoptions/extension) { get; } | 嵌入对象的扩展。 |
 | [ObjectData](../../groupdocs.merger.domain.options/iimportdocumentoptions/objectdata) { get; } | 嵌入对象的数据。 |
-| [PageNumber](../../groupdocs.merger.domain.options/iimportdocumentoptions/pagenumber) { get; } | 嵌入对象的插入页码 |
+| [PageNumber](../../groupdocs.merger.domain.options/iimportdocumentoptions/pagenumber) { get; } | 插入对象的页码。 |
 
 ### 也可以看看
 

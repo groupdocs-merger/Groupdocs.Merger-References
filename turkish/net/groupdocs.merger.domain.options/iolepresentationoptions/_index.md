@@ -1,14 +1,14 @@
 ---
 title: IOlePresentationOptions
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arayüz
+description: Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arabirim
 type: docs
 weight: 210
 url: /tr/net/groupdocs.merger.domain.options/iolepresentationoptions/
 ---
 ## IOlePresentationOptions interface
 
-Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arayüz
+Katıştırılmış belgenin OLE. aracılığıyla Sunuma içe aktarma seçenekleri için arabirim
 
 ```csharp
 public interface IOlePresentationOptions : IImportDocumentOptions, ISizeOptions

@@ -1,14 +1,14 @@
 ---
 title: WordJoinOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化WordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions类.
+description: 初始化一个新的实例WordJoinOptionsgroupdocs.merger.domain.options/wordjoinoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/wordjoinoptions/wordjoinoptions/
 ---
 ## WordJoinOptions() {#constructor}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions()
@@ -24,7 +24,7 @@ public WordJoinOptions()
 
 ## WordJoinOptions(int[]) {#constructor_7}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(int[] pageNumbers)
@@ -44,7 +44,7 @@ public WordJoinOptions(int[] pageNumbers)
 
 ## WordJoinOptions(int, int) {#constructor_5}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(int startNumber, int endNumber)
@@ -65,7 +65,7 @@ public WordJoinOptions(int startNumber, int endNumber)
 
 ## WordJoinOptions(int, int, RangeMode) {#constructor_6}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
@@ -88,7 +88,7 @@ public WordJoinOptions(int startNumber, int endNumber, RangeMode mode)
 
 ## WordJoinOptions(FileType) {#constructor_1}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(FileType fileType)
@@ -109,7 +109,7 @@ public WordJoinOptions(FileType fileType)
 
 ## WordJoinOptions(FileType, int[]) {#constructor_4}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(FileType fileType, int[] pageNumbers)
@@ -131,7 +131,7 @@ public WordJoinOptions(FileType fileType, int[] pageNumbers)
 
 ## WordJoinOptions(FileType, int, int) {#constructor_2}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
@@ -154,7 +154,7 @@ public WordJoinOptions(FileType fileType, int startNumber, int endNumber)
 
 ## WordJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
 
-初始化[`WordJoinOptions`](../../wordjoinoptions)类.
+初始化一个新的实例[`WordJoinOptions`](../../wordjoinoptions)类.
 
 ```csharp
 public WordJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)

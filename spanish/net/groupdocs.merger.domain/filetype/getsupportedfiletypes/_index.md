@@ -3,7 +3,7 @@ title: GetSupportedFileTypes
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Recupera tipos de archivo admitidos
 type: docs
-weight: 540
+weight: 670
 url: /es/net/groupdocs.merger.domain/filetype/getsupportedfiletypes/
 ---
 ## FileType.GetSupportedFileTypes method

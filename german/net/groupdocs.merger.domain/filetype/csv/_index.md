@@ -1,14 +1,14 @@
 ---
 title: CSV
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Comma Separated Values File .csv stellt reine Textdateien dar die Datensätze mit kommagetrennten Werten enthalten. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/spreadsheet/csv .
+description: Comma Separated Values File .csv stellt reine Textdateien dar die Datensätze mit kommagetrennten Werten enthalten. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/spreadsheet/csv .
 type: docs
-weight: 10
+weight: 30
 url: /de/net/groupdocs.merger.domain/filetype/csv/
 ---
 ## FileType.CSV field
 
-Comma Separated Values File (.csv) stellt reine Textdateien dar, die Datensätze mit kommagetrennten Werten enthalten. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/spreadsheet/csv) .
+Comma Separated Values File (.csv) stellt reine Textdateien dar, die Datensätze mit kommagetrennten Werten enthalten. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/spreadsheet/csv) .
 
 ```csharp
 public static FileType CSV;

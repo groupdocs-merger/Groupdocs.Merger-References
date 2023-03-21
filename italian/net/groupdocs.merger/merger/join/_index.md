@@ -26,7 +26,7 @@ public void Join(Stream document)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -60,7 +60,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -95,7 +95,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -128,7 +128,7 @@ public void Join(string filePath)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -162,7 +162,7 @@ public void Join(string filePath, IJoinOptions joinOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 
@@ -197,7 +197,7 @@ public void Join(string filePath, IImageJoinOptions joinOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sugli scenari di unione dei documenti e sui casi d'uso: [Come unire documenti PDF, Word, Excel e PowerPoint in 3 passaggi](https://docs.groupdocs.com/merger/net/merge-files/)
 

@@ -3,7 +3,7 @@ title: IsText
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Determina si la entradaFileTypegroupdocs.merger.domain/filetype es formato de texto primitivo.
 type: docs
-weight: 560
+weight: 700
 url: /es/net/groupdocs.merger.domain/filetype/istext/
 ---
 ## FileType.IsText method
@@ -16,7 +16,7 @@ public static bool IsText(FileType fileType)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| fileType | FileType | los[`FileType`](../../filetype) objeto. |
+| fileType | FileType | El[`FileType`](../../filetype) objeto. |
 
 ### Valor_devuelto
 

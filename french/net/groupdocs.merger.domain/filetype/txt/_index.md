@@ -3,7 +3,7 @@ title: TXT
 second_title: Référence de l'API GroupDocs.Merger pour .NET
 description: Fichier de texte brut .txt représente un document texte contenant du texte brut sous forme de lignes. En savoir plus sur ce format de fichiericihttps//docs.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 280
+weight: 400
 url: /fr/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field

@@ -3,7 +3,7 @@ title: Extension
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Суффикс имени файла включая точку . например .doc.
 type: docs
-weight: 490
+weight: 620
 url: /ru/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

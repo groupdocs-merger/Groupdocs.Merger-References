@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Merger لمرجع .NET API
 description: لاحقة اسم الملف بما في ذلك النقطة . مثل .doc .
 type: docs
-weight: 490
+weight: 620
 url: /ar/net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

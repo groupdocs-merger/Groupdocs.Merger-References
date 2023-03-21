@@ -22,13 +22,13 @@ public void MovePage(IMoveOptions moveOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*moveOptions*一片空白。 |
+| ArgumentNullException | 抛出时*moveOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何将页面移动到文档中的另一个位置： [如何移动 PDF、Word、Excel 和 PowerPoint 文档页面](https://docs.groupdocs.com/merger/net/move-page/)
+* 有关如何将页面移动到文档中的另一个位置的更多信息： [如何移动 PDF、Word、Excel 和 PowerPoint 文档页面](https://docs.groupdocs.com/merger/net/move-page/)
 
 ### 也可以看看
 

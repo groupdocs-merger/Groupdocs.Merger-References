@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: GroupDocs.Merger for .NET API 参考
-description: 处理资源
+description: 处置资源
 type: docs
 weight: 40
 url: /zh/net/groupdocs.merger/merger/dispose/
 ---
 ## Merger.Dispose method
 
-处理资源。
+处置资源。
 
 ```csharp
 public void Dispose()

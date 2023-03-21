@@ -3,7 +3,7 @@ title: XLAM
 second_title: GroupDocs.Merger لمرجع .NET API
 description: الوظيفة الإضافية الممكنة بماكرو في Excel .xlam
 type: docs
-weight: 390
+weight: 510
 url: /ar/net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field

@@ -3,7 +3,7 @@ title: Equals
 second_title: GroupDocs.Merger für .NET-API-Referenz
 description: Bestimmt ob der StromFileTypegroupdocs.merger.domain/filetype ist genauso wie angegebenFileTypegroupdocs.merger.domain/filetype Objekt.
 type: docs
-weight: 510
+weight: 640
 url: /de/net/groupdocs.merger.domain/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Rückgabewert
 
-wenn beides[`FileType`](../../filetype) Objekte sind gleich; Andernfalls,
+wenn beides[`FileType`](../../filetype) Objekte sind gleich; ansonsten,
 
 ```csharp
 true
@@ -52,7 +52,7 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-wenn Parameter ist[`FileType`](../../filetype) und ist das gleiche wie Strom[`FileType`](../../filetype) Objekt; Andernfalls,
+Wenn Parameter ist[`FileType`](../../filetype) und ist das gleiche wie Strom[`FileType`](../../filetype) Objekt; ansonsten,
 
 ```csharp
 true

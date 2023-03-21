@@ -1,14 +1,14 @@
 ---
 title: FileFormat
 second_title: GroupDocs.Merger for .NET API 参考
-description: 文件类型名称例如Microsoft Word 文档
+description: 文件类型名称例如Microsoft Word 文档.
 type: docs
-weight: 500
+weight: 630
 url: /zh/net/groupdocs.merger.domain/filetype/fileformat/
 ---
 ## FileType.FileFormat property
 
-文件类型名称，例如“Microsoft Word 文档”。
+文件类型名称，例如“Microsoft Word 文档”.
 
 ```csharp
 public string FileFormat { get; }

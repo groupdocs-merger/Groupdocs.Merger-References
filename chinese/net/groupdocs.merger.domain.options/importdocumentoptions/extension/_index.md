@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: GroupDocs.Merger for .NET API 参考
-description: 嵌入对象的扩展名
+description: 嵌入对象的扩展
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/importdocumentoptions/extension/
 ---
 ## ImportDocumentOptions.Extension property
 
-嵌入对象的扩展名。
+嵌入对象的扩展。
 
 ```csharp
 public string Extension { get; }

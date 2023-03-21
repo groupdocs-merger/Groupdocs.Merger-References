@@ -1,14 +1,14 @@
 ---
 title: PdfAttachmentOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化PdfAttachmentOptionsgroupdocs.merger.domain.options/pdfattachmentoptions类.
+description: 初始化一个新的实例PdfAttachmentOptionsgroupdocs.merger.domain.options/pdfattachmentoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/pdfattachmentoptions/pdfattachmentoptions/
 ---
 ## PdfAttachmentOptions(byte[], string) {#constructor}
 
-初始化[`PdfAttachmentOptions`](../../pdfattachmentoptions)类.
+初始化一个新的实例[`PdfAttachmentOptions`](../../pdfattachmentoptions)类.
 
 ```csharp
 public PdfAttachmentOptions(byte[] objectData, string extension)
@@ -29,7 +29,7 @@ public PdfAttachmentOptions(byte[] objectData, string extension)
 
 ## PdfAttachmentOptions(string) {#constructor_1}
 
-初始化[`PdfAttachmentOptions`](../../pdfattachmentoptions)类.
+初始化一个新的实例[`PdfAttachmentOptions`](../../pdfattachmentoptions)类.
 
 ```csharp
 public PdfAttachmentOptions(string filePath)

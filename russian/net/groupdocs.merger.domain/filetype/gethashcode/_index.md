@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Возвращает хешкод для текущегоFileTypegroupdocs.merger.domain/filetype объект.
 type: docs
-weight: 520
+weight: 650
 url: /ru/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

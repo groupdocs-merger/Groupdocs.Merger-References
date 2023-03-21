@@ -35,7 +35,7 @@ public class OlePresentationOptions : ImportDocumentOptions, IOlePresentationOpt
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sull'aggiunta di documenti alla presentazione tramite OLE: [Aggiungi documento alla presentazione tramite OLE.](https://docs.groupdocs.com/merger/net/add-document-to-presentation-via-ole/)
 

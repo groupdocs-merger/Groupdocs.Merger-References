@@ -1,14 +1,14 @@
 ---
 title: PPTX
 second_title: .NET API Başvurusu için GroupDocs.Merger
-description: PowerPoint Açık XML Sunumu .pptx popüler Microsoft PowerPoint uygulamasıyla oluşturulmuş bir sunum dosyasıdır. İkili olan sunum dosyası biçimi PPTnin önceki sürümünün aksine PPTX biçimi Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bu dosya biçimi hakkında daha fazla bilgi edininburadahttps//docs.fileformat.com/presentation/pptx .
+description: PowerPoint Açık XML Sunumu .pptx popüler Microsoft PowerPoint uygulamasıyla oluşturulmuş bir sunum dosyasıdır. İkili olan sunum dosyası biçimi PPTnin önceki sürümünün aksine PPTX biçimi Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bu dosya biçimi hakkında daha fazla bilgi edininBuradahttps//docs.fileformat.com/presentation/pptx .
 type: docs
-weight: 230
+weight: 300
 url: /tr/net/groupdocs.merger.domain/filetype/pptx/
 ---
 ## FileType.PPTX field
 
-PowerPoint Açık XML Sunumu (.pptx), popüler Microsoft PowerPoint uygulamasıyla oluşturulmuş bir sunum dosyasıdır. İkili olan sunum dosyası biçimi PPT'nin önceki sürümünün aksine, PPTX biçimi Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bu dosya biçimi hakkında daha fazla bilgi edinin[burada](https://docs.fileformat.com/presentation/pptx) .
+PowerPoint Açık XML Sunumu (.pptx), popüler Microsoft PowerPoint uygulamasıyla oluşturulmuş bir sunum dosyasıdır. İkili olan sunum dosyası biçimi PPT'nin önceki sürümünün aksine, PPTX biçimi Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bu dosya biçimi hakkında daha fazla bilgi edinin[Burada](https://docs.fileformat.com/presentation/pptx) .
 
 ```csharp
 public static FileType PPTX;

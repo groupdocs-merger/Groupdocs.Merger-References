@@ -3,7 +3,7 @@ title: TEX
 second_title: GroupDocs.Merger för .NET API-referens
 description: LaTeX källdokument .tex är ett språk som består av både programmerings och uppmärkningsfunktioner som används för att sätta in dokument. Läs mer om detta filformathärhttps//docs.fileformat.com/pagedescriptionlanguage/tex .
 type: docs
-weight: 260
+weight: 360
 url: /sv/net/groupdocs.merger.domain/filetype/tex/
 ---
 ## FileType.TEX field

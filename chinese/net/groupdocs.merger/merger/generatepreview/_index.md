@@ -22,13 +22,13 @@ public void GeneratePreview(IPreviewOptions previewOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*previewOptions*一片空白。 |
+| ArgumentNullException | 抛出时*previewOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 详细了解如何为文档页面生成预览： [如何使用 GroupDocs.Merger 生成文档页面预览](https://docs.groupdocs.com/merger/net/generate-document-pages-preview/)
+* 了解有关如何为文档页面生成预览的更多信息： [如何使用 GroupDocs.Merger 生成文档页面预览](https://docs.groupdocs.com/merger/net/generate-document-pages-preview/)
 
 ### 也可以看看
 

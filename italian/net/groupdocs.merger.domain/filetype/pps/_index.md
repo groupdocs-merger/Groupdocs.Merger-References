@@ -1,14 +1,14 @@
 ---
 title: PPS
 second_title: Riferimento API GroupDocs.Merger per .NET
-description: PowerPoint Slide Show .pps è un file creato utilizzando Microsoft PowerPoint a scopo di presentazione. La lettura e la creazione di file PPS è supportata da Microsoft PowerPoint 972003. Ulteriori informazioni su questo formato di filequihttps//docs.fileformat.com/presentation/pps .
+description: PowerPoint Slide Show .pps è un file creato utilizzando Microsoft PowerPoint a scopo di presentazione. La lettura e la creazione di file PPS è supportata da Microsoft PowerPoint 972003. Ulteriori informazioni su questo formato di fileQuihttps//docs.fileformat.com/presentation/pps .
 type: docs
-weight: 200
+weight: 270
 url: /it/net/groupdocs.merger.domain/filetype/pps/
 ---
 ## FileType.PPS field
 
-PowerPoint Slide Show (.pps) è un file creato utilizzando Microsoft PowerPoint a scopo di presentazione. La lettura e la creazione di file PPS è supportata da Microsoft PowerPoint 97-2003. Ulteriori informazioni su questo formato di file[qui](https://docs.fileformat.com/presentation/pps) .
+PowerPoint Slide Show (.pps) è un file creato utilizzando Microsoft PowerPoint a scopo di presentazione. La lettura e la creazione di file PPS è supportata da Microsoft PowerPoint 97-2003. Ulteriori informazioni su questo formato di file[Qui](https://docs.fileformat.com/presentation/pps) .
 
 ```csharp
 public static FileType PPS;

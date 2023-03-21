@@ -3,7 +3,7 @@ title: TXT
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Archivo de texto sin formato .txt representa un documento de texto que contiene texto sin formato en forma de líneas. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 280
+weight: 400
 url: /es/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field

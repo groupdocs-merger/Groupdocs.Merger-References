@@ -3,7 +3,7 @@ title: HTML
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: El archivo de lenguaje de marcado de hipertexto .html es la extensión para las páginas web creadas para mostrarse en los navegadores. Más información sobre este formato de archivoaquíhttps//docs.fileformat.com/web/html .
 type: docs
-weight: 100
+weight: 140
 url: /es/net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field

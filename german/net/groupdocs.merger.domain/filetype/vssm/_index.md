@@ -1,14 +1,14 @@
 ---
 title: VSSM
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Visio MacroEnabled Stencil File .vssm sind Microsoft VisioSchablonendateien die Makros unterstützen. Wenn eine VSSMDatei geöffnet wird können Makros ausgeführt werden um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/image/vssm .
+description: Visio MacroEnabled Stencil File .vssm sind Microsoft VisioSchablonendateien die Makros unterstützen. Wenn eine VSSMDatei geöffnet wird können Makros ausgeführt werden um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/image/vssm .
 type: docs
-weight: 330
+weight: 450
 url: /de/net/groupdocs.merger.domain/filetype/vssm/
 ---
 ## FileType.VSSM field
 
-Visio Macro-Enabled Stencil File (.vssm) sind Microsoft Visio-Schablonendateien, die Makros unterstützen. Wenn eine VSSM-Datei geöffnet wird, können Makros ausgeführt werden, um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/image/vssm) .
+Visio Macro-Enabled Stencil File (.vssm) sind Microsoft Visio-Schablonendateien, die Makros unterstützen. Wenn eine VSSM-Datei geöffnet wird, können Makros ausgeführt werden, um die gewünschte Formatierung und Platzierung von Formen in einem Diagramm zu erreichen. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/image/vssm) .
 
 ```csharp
 public static FileType VSSM;

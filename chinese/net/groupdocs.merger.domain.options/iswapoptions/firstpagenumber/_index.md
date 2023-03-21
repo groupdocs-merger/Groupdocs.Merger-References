@@ -1,14 +1,14 @@
 ---
 title: FirstPageNumber
 second_title: GroupDocs.Merger for .NET API 参考
-description: 要交换的第一个页码
+description: 要交换的第一页码
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.options/iswapoptions/firstpagenumber/
 ---
 ## ISwapOptions.FirstPageNumber property
 
-要交换的第一个页码。
+要交换的第一页码。
 
 ```csharp
 public int FirstPageNumber { get; }

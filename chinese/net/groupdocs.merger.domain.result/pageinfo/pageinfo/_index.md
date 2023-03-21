@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: GroupDocs.Merger for .NET API 参考
-description: 初始化的新实例PageInfogroupdocs.merger.domain.result/pageinfo类.
+description: 初始化新实例PageInfogroupdocs.merger.domain.result/pageinfo类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.merger.domain.result/pageinfo/pageinfo/
 ---
 ## PageInfo(int, bool) {#constructor}
 
-初始化的新实例[`PageInfo`](../../pageinfo)类.
+初始化新实例[`PageInfo`](../../pageinfo)类.
 
 ```csharp
 public PageInfo(int number, bool visible)
@@ -23,7 +23,7 @@ public PageInfo(int number, bool visible)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 何时抛出*number*小于或等于零。 |
+| ArgumentException | 抛出时*number*小于或等于零。 |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public PageInfo(int number, bool visible)
 
 ## PageInfo(int, bool, int, int) {#constructor_1}
 
-初始化的新实例[`PageInfo`](../../pageinfo)类.
+初始化新实例[`PageInfo`](../../pageinfo)类.
 
 ```csharp
 public PageInfo(int number, bool visible, int width, int height)
@@ -45,16 +45,16 @@ public PageInfo(int number, bool visible, int width, int height)
 | --- | --- | --- |
 | number | Int32 | 页码。 |
 | visible | Boolean | 页面可见性指示器。 |
-| width | Int32 | 以 JPG 或 PNG 格式查看时的页面宽度（以像素为单位）。 |
+| width | Int32 | 以 JPG 或 PNG 格式查看时页面的宽度（以像素为单位）。 |
 | height | Int32 | 以 JPG 或 PNG 格式查看时页面的高度（以像素为单位）。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 何时抛出*number*小于或等于零。 |
-| ArgumentException | 何时抛出*width*小于或等于零。 |
-| ArgumentException | 何时抛出*height*小于或等于零。 |
+| ArgumentException | 抛出时*number*小于或等于零。 |
+| ArgumentException | 抛出时*width*小于或等于零。 |
+| ArgumentException | 抛出时*height*小于或等于零。 |
 
 ### 也可以看看
 

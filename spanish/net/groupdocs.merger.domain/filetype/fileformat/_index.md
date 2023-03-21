@@ -3,7 +3,7 @@ title: FileFormat
 second_title: Referencia de API de GroupDocs.Merger para .NET
 description: Nombre del tipo de archivo por ejemplo Documento de Microsoft Word.
 type: docs
-weight: 500
+weight: 630
 url: /es/net/groupdocs.merger.domain/filetype/fileformat/
 ---
 ## FileType.FileFormat property

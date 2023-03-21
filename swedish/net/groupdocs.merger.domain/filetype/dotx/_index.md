@@ -3,7 +3,7 @@ title: DOTX
 second_title: GroupDocs.Merger för .NET API-referens
 description: Word Open XML Document Template .dotx är mallfiler skapade av Microsoft Word för att ha förformaterade inställningar för generering av ytterligare DOCXfiler. Läs mer om detta filformathärhttps//docs.fileformat.com/wordprocessing/dotx .
 type: docs
-weight: 70
+weight: 90
 url: /sv/net/groupdocs.merger.domain/filetype/dotx/
 ---
 ## FileType.DOTX field

@@ -1,14 +1,14 @@
 ---
 title: XLT
 second_title: GroupDocs.Merger för .NET API-referens
-description: Excel Template File .xlt är mallfiler skapade med Microsoft Excel som är ett kalkylbladsprogram som ingår i Microsoft Officepaketet. Microsoft Office 972003 stödde att skapa nya XLTfiler samt att öppna dessa. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xlt .
+description: Excel Template File .xlt är mallfiler skapade med Microsoft Excel som är ett kalkylarksprogram som ingår i Microsoft Officepaketet. Microsoft Office 972003 stödde att skapa nya XLTfiler samt att öppna dessa. Läs mer om detta filformathärhttps//docs.fileformat.com/spreadsheet/xlt .
 type: docs
-weight: 440
+weight: 560
 url: /sv/net/groupdocs.merger.domain/filetype/xlt/
 ---
 ## FileType.XLT field
 
-Excel Template File (.xlt) är mallfiler skapade med Microsoft Excel som är ett kalkylbladsprogram som ingår i Microsoft Office-paketet. Microsoft Office 97-2003 stödde att skapa nya XLT-filer samt att öppna dessa. Läs mer om detta filformat[här](https://docs.fileformat.com/spreadsheet/xlt) .
+Excel Template File (.xlt) är mallfiler skapade med Microsoft Excel som är ett kalkylarksprogram som ingår i Microsoft Office-paketet. Microsoft Office 97-2003 stödde att skapa nya XLT-filer samt att öppna dessa. Läs mer om detta filformat[här](https://docs.fileformat.com/spreadsheet/xlt) .
 
 ```csharp
 public static FileType XLT;

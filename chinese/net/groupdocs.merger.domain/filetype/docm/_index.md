@@ -1,14 +1,14 @@
 ---
 title: DOCM
 second_title: GroupDocs.Merger for .NET API 参考
-description: Word Open XML 启用宏的文档 .docm 文件是 Microsoft Word 2007 或更高版本生成的文档能够运行宏 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/docm
+description: Word Open XML 宏启用文档 .docm 文件是 Microsoft Word 2007 或更高版本生成的文档能够运行宏 了解有关此文件格式的更多信息这里https//docs.fileformat.com/wordprocessing/docm
 type: docs
-weight: 30
+weight: 50
 url: /zh/net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field
 
-Word Open XML 启用宏的文档 (.docm) 文件是 Microsoft Word 2007 或更高版本生成的文档，能够运行宏。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/word-processing/docm)
+Word Open XML 宏启用文档 (.docm) 文件是 Microsoft Word 2007 或更高版本生成的文档，能够运行宏。 了解有关此文件格式的更多信息[这里](https://docs.fileformat.com/word-processing/docm)
 
 ```csharp
 public static FileType DOCM;

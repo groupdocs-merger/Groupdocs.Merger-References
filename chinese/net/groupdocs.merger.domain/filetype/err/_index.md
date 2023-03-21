@@ -1,14 +1,14 @@
 ---
 title: ERR
 second_title: GroupDocs.Merger for .NET API 参考
-description: 错误日志文件 .err 是一个文本文件其中包含程序生成的错误消息 了解有关此文件格式的更多信息这里https//fileinfo.com/extension/err
+description: 错误日志文件 .err 是包含程序生成的错误消息的文本文件 了解有关此文件格式的更多信息这里https//fileinfo.com/extension/err
 type: docs
-weight: 90
+weight: 110
 url: /zh/net/groupdocs.merger.domain/filetype/err/
 ---
 ## FileType.ERR field
 
-错误日志文件 (.err) 是一个文本文件，其中包含程序生成的错误消息。 了解有关此文件格式的更多信息[这里](https://fileinfo.com/extension/err)
+错误日志文件 (.err) 是包含程序生成的错误消息的文本文件。 了解有关此文件格式的更多信息[这里](https://fileinfo.com/extension/err)
 
 ```csharp
 public static FileType ERR;

@@ -1,14 +1,14 @@
 ---
 title: TXT
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Plain Text File .txt stellt ein Textdokument dar das einfachen Text in Form von Zeilen enthält. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/wordprocessing/txt .
+description: Plain Text File .txt stellt ein Textdokument dar das einfachen Text in Form von Zeilen enthält. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/wordprocessing/txt .
 type: docs
-weight: 280
+weight: 400
 url: /de/net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field
 
-Plain Text File (.txt) stellt ein Textdokument dar, das einfachen Text in Form von Zeilen enthält. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/word-processing/txt) .
+Plain Text File (.txt) stellt ein Textdokument dar, das einfachen Text in Form von Zeilen enthält. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/word-processing/txt) .
 
 ```csharp
 public static FileType TXT;

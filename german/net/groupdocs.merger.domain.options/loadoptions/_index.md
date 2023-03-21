@@ -19,20 +19,23 @@ public class LoadOptions : ILoadOptions
 | Name | Beschreibung |
 | --- | --- |
 | [LoadOptions](loadoptions#constructor)(FileType) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
-| [LoadOptions](loadoptions#constructor_3)(string) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
-| [LoadOptions](loadoptions#constructor_1)(FileType, string) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
-| [LoadOptions](loadoptions#constructor_5)(string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
-| [LoadOptions](loadoptions#constructor_2)(FileType, string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
-| [LoadOptions](loadoptions#constructor_4)(string, FileType, string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_6)(string) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_1)(FileType, FileType) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_4)(FileType, string) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_8)(string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_2)(FileType, FileType, string) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_5)(FileType, string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_3)(FileType, FileType, string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
+| [LoadOptions](loadoptions#constructor_7)(string, FileType, string, Encoding) | Initialisiert eine neue Instanz von[`LoadOptions`](../loadoptions) Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | Die Codierung, die beim Öffnen textbasierter Dateien wie z[`CSV`](../../groupdocs.merger.domain/filetype/csv) oder[`TXT`](../../groupdocs.merger.domain/filetype/txt) . Standardwert istDefault . |
-| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Die Erweiterung der zu öffnenden Datei. |
+| [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | Die Erweiterung der Datei zu init. |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | Das Passwort zum Öffnen einer passwortgeschützten Datei. |
-| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Der Typ der zu öffnenden Datei. |
+| [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | Der Typ der zu ladenden Datei. |
 
 ### Siehe auch
 

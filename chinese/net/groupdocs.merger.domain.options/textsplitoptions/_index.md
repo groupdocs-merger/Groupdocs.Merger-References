@@ -1,14 +1,14 @@
 ---
 title: TextSplitOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 提供文档文本拆分选项
+description: 提供文档文本拆分的选项
 type: docs
 weight: 630
 url: /zh/net/groupdocs.merger.domain.options/textsplitoptions/
 ---
 ## TextSplitOptions class
 
-提供文档文本拆分选项。
+提供文档文本拆分的选项。
 
 ```csharp
 public class TextSplitOptions : ITextSplitOptions
@@ -18,27 +18,27 @@ public class TextSplitOptions : ITextSplitOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextSplitOptions](textsplitoptions#constructor_3)(CreateSplitStream, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
-| [TextSplitOptions](textsplitoptions#constructor_5)(string, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
-| [TextSplitOptions](textsplitoptions#constructor_1)(CreateSplitStream, ReleaseSplitStream, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
-| [TextSplitOptions](textsplitoptions#constructor_2)(CreateSplitStream, TextSplitMode, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
-| [TextSplitOptions](textsplitoptions#constructor_4)(string, TextSplitMode, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
-| [TextSplitOptions](textsplitoptions#constructor)(CreateSplitStream, ReleaseSplitStream, TextSplitMode, int[]) | 初始化[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor_3)(CreateSplitStream, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor_5)(string, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor_1)(CreateSplitStream, ReleaseSplitStream, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor_2)(CreateSplitStream, TextSplitMode, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor_4)(string, TextSplitMode, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
+| [TextSplitOptions](textsplitoptions#constructor)(CreateSplitStream, ReleaseSplitStream, TextSplitMode, int[]) | 初始化一个新的实例[`TextSplitOptions`](../textsplitoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CreateStream](../../groupdocs.merger.domain.options/textsplitoptions/createstream) { get; } | 定义创建输出拆分流的方法的委托。 |
-| [LineNumbers](../../groupdocs.merger.domain.options/textsplitoptions/linenumbers) { get; } | 文本分割的行号。 |
-| [Mode](../../groupdocs.merger.domain.options/textsplitoptions/mode) { get; } | 文本分割模式。 |
+| [LineNumbers](../../groupdocs.merger.domain.options/textsplitoptions/linenumbers) { get; } | 文本拆分的行号。 |
+| [Mode](../../groupdocs.merger.domain.options/textsplitoptions/mode) { get; } | 文本拆分模式。 |
 | [ReleaseStream](../../groupdocs.merger.domain.options/textsplitoptions/releasestream) { get; } | 定义释放输出拆分流的方法的委托。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetPathByIndex](../../groupdocs.merger.domain.options/textsplitoptions/getpathbyindex)(int, string) | 获取已定义扩展名的索引拆分文档的完整文件路径。 |
+| [GetPathByIndex](../../groupdocs.merger.domain.options/textsplitoptions/getpathbyindex)(int, string) | 通过定义的扩展名的索引获取拆分文档的完整文件路径。 |
 | [Validate](../../groupdocs.merger.domain.options/textsplitoptions/validate)(FileType) | 验证拆分选项。 |
 
 ### 也可以看看

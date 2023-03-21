@@ -18,21 +18,21 @@ public class WordJoinOptions : JoinOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WordJoinOptions](wordjoinoptions#constructor)() | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_1)(FileType) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_7)(int[]) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_4)(FileType, int[]) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_5)(int, int) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_2)(FileType, int, int) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_6)(int, int, RangeMode) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
-| [WordJoinOptions](wordjoinoptions#constructor_3)(FileType, int, int, RangeMode) | 初始化[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor)() | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_1)(FileType) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_7)(int[]) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_4)(FileType, int[]) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_5)(int, int) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_2)(FileType, int, int) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_6)(int, int, RangeMode) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
+| [WordJoinOptions](wordjoinoptions#constructor_3)(FileType, int, int, RangeMode) | 初始化一个新的实例[`WordJoinOptions`](../wordjoinoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Mode](../../groupdocs.merger.domain.options/wordjoinoptions/mode) { get; set; } | Word 连接模式。 |
-| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合。 |
+| [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | 获取页码集合. |
 | [Type](../../groupdocs.merger.domain.options/joinoptions/type) { get; } | 要加入的文件的类型。 |
 
 ### 也可以看看

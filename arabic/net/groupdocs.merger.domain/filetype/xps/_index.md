@@ -3,7 +3,7 @@ title: XPS
 second_title: GroupDocs.Merger لمرجع .NET API
 description: ملف مواصفات ورق XML .xps يمثل ملفات تخطيط الصفحة التي تستند إلى مواصفات ورق XML التي أنشأتها Microsoft . تعرف على المزيد حول تنسيق الملف هذاهناhttps//docs.fileformat.com/pagedescriptionlanguage/xps .
 type: docs
-weight: 470
+weight: 590
 url: /ar/net/groupdocs.merger.domain/filetype/xps/
 ---
 ## FileType.XPS field

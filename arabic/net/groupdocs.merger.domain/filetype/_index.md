@@ -31,7 +31,8 @@ public sealed class FileType : IEquatable<FileType>
 | override [GetHashCode](../../groupdocs.merger.domain/filetype/gethashcode)() | إرجاع كود التجزئة الحالي[`FileType`](../filetype) الكائن . |
 | override [ToString](../../groupdocs.merger.domain/filetype/tostring)() | إرجاع سلسلة تمثل الكائن الحالي. |
 | static [GetSupportedFileTypes](../../groupdocs.merger.domain/filetype/getsupportedfiletypes)() | استرداد أنواع الملفات المدعومة |
-| static [IsImage](../../groupdocs.merger.domain/filetype/isimage)(FileType) | تحديد ما إذا كان الإدخال[`FileType`](../filetype) هو تنسيق نص بدائي. |
+| static [IsArchive](../../groupdocs.merger.domain/filetype/isarchive)(FileType) | تحديد ما إذا كان الإدخال[`FileType`](../filetype) هو تنسيق أرشيف . |
+| static [IsImage](../../groupdocs.merger.domain/filetype/isimage)(FileType) | تحديد ما إذا كان الإدخال[`FileType`](../filetype) هو تنسيق الصورة . |
 | static [IsText](../../groupdocs.merger.domain/filetype/istext)(FileType) | تحديد ما إذا كان الإدخال[`FileType`](../filetype) هو تنسيق نص بدائي. |
 | [operator ==](../../groupdocs.merger.domain/filetype/op_equality) | تحديد ما إذا كان اثنان[`FileType`](../filetype) الكائنات هي نفسها. |
 | [operator !=](../../groupdocs.merger.domain/filetype/op_inequality) | تحديد ما إذا كان اثنان[`FileType`](../filetype) الكائنات ليست هي نفسها. |
@@ -40,6 +41,8 @@ public sealed class FileType : IEquatable<FileType>
 
 | اسم | وصف |
 | --- | --- |
+| static [BMP](../../groupdocs.merger.domain/filetype/bmp) | يمثل ملف الصور النقطية (.bmp) الملفات التي تُستخدم لتخزين الصور الرقمية النقطية. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/image/bmp) . |
+| static [BZ2](../../groupdocs.merger.domain/filetype/bz2) | ملف مضغوط Bzip2 (.bz2) |
 | static [CSV](../../groupdocs.merger.domain/filetype/csv) | يمثل ملف القيم المفصولة بفواصل (.csv) ملفات نصية عادية تحتوي على سجلات بيانات بقيم مفصولة بفواصل . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/spreadsheet/csv) . |
 | static [DOC](../../groupdocs.merger.domain/filetype/doc) | يمثل مستند Microsoft Word (.doc) المستندات التي تم إنشاؤها بواسطة Microsoft Word أو مستندات معالجة النصوص الأخرى بتنسيق ملف ثنائي. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/doc) . |
 | static [DOCM](../../groupdocs.merger.domain/filetype/docm) | ملفات مستند Word Open XML الممكنة بماكرو (.docm) هي مستندات تم إنشاؤها بواسطة Microsoft Word 2007 أو أحدث مع إمكانية تشغيل وحدات الماكرو . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/docm) . |
@@ -49,7 +52,11 @@ public sealed class FileType : IEquatable<FileType>
 | static [DOTX](../../groupdocs.merger.domain/filetype/dotx) | Word Open XML Document Template (.dotx) عبارة عن ملفات قوالب تم إنشاؤها بواسطة Microsoft Word للحصول على إعدادات منسقة مسبقًا لإنشاء ملفات DOCX أخرى. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/dotx) . |
 | static [EPUB](../../groupdocs.merger.domain/filetype/epub) | ملف الكتاب الإلكتروني المفتوح (.epub) هو تنسيق ملف كتاب إلكتروني يوفر تنسيقًا قياسيًا للنشر الرقمي للناشرين والمستهلكين. أصبح التنسيق شائعًا جدًا حتى الآن لدرجة أنه مدعوم من قبل العديد من برامج القراءة الإلكترونية وتطبيقات البرامج . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/ebook/epub) . |
 | static [ERR](../../groupdocs.merger.domain/filetype/err) | ملف سجل الأخطاء (.err) هو ملف نصي يحتوي على رسائل خطأ تم إنشاؤها بواسطة أحد البرامج. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://fileinfo.com/extension/err) . |
+| static [GIF](../../groupdocs.merger.domain/filetype/gif) | ملف تنسيق التبادل الرسومي (.gif) |
+| static [GZ](../../groupdocs.merger.domain/filetype/gz) | ملف مضغوط G-Zip (.gz) |
 | static [HTML](../../groupdocs.merger.domain/filetype/html) | ملف لغة توصيف النص التشعبي (.html) هو امتداد لصفحات الويب التي تم إنشاؤها للعرض في المستعرضات. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/web/html) . |
+| static [JPEG](../../groupdocs.merger.domain/filetype/jpeg) | صورة JPEG (.jpeg) هي نوع من تنسيق الصورة يتم حفظها باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/image/jpeg) . |
+| static [JPG](../../groupdocs.merger.domain/filetype/jpg) | صورة JPEG (.jpg) |
 | static [MHT](../../groupdocs.merger.domain/filetype/mht) | أرشيف الويب MHTML (.mht) هو تنسيق أرشيف لصفحة الويب يمكن إنشاؤه بواسطة عدد من التطبيقات المختلفة. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/web/mhtml) . |
 | static [MHTML](../../groupdocs.merger.domain/filetype/mhtml) | ملف MIME HTML (.mhtml) هو تنسيق أرشيف لصفحة الويب يمكن إنشاؤه بواسطة عدد من التطبيقات المختلفة. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/web/mhtml) . |
 | static [ODP](../../groupdocs.merger.domain/filetype/odp) | OpenDocument Presentation (.odp) يمثل تنسيق ملف العرض التقديمي المستخدم بواسطة OpenOffice.org في معيار OASISOpen . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/odp) . |
@@ -58,14 +65,20 @@ public sealed class FileType : IEquatable<FileType>
 | static [ONE](../../groupdocs.merger.domain/filetype/one) | يتم إنشاء ملفات OneNote Document (.one) بواسطة تطبيق Microsoft OneNote. يتيح لك OneNote جمع المعلومات باستخدام التطبيق كما لو كنت تستخدم لوحة المسودة لتدوين الملاحظات . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/note-taking/one) . |
 | static [OTP](../../groupdocs.merger.domain/filetype/otp) | قالب العرض التقديمي OpenDocument (.otp) يمثل ملفات قالب العرض التقديمي التي تم إنشاؤها بواسطة تطبيقات بتنسيق OASIS OpenDocument القياسي . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/otp) . |
 | static [OTT](../../groupdocs.merger.domain/filetype/ott) | قالب مستند OpenDocument (.ott) يمثل مستندات النموذج التي تم إنشاؤها بواسطة التطبيقات وفقًا للتنسيق القياسي OpenDocument الخاص بـ OASIS. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/ott) . |
-| static [PDF](../../groupdocs.merger.domain/filetype/pdf) | ملف تنسيق المستند المحمول (.pdf) هو تنسيق ملف تم تقديمه كمعيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن البرامج التطبيقية والأجهزة وكذلك نظام التشغيل. تعرف على المزيد حول هذا الملف صيغة[هنا](https://docs.fileformat.com/view/pdf) . |
+| static [PDF](../../groupdocs.merger.domain/filetype/pdf) | ملف تنسيق المستند المحمول (.pdf) هو تنسيق ملف تم تقديمه كمعيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن البرامج التطبيقية والأجهزة وكذلك نظام التشغيل. تعرف على المزيد حول هذا الملف شكل[هنا](https://docs.fileformat.com/view/pdf) . |
+| static [PNG](../../groupdocs.merger.domain/filetype/png) | Portable Network Graphic (.png) هو نوع من تنسيق ملف الصورة النقطية الذي يستخدم ضغط بدون فقدان . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/image/png) . |
 | static [PPS](../../groupdocs.merger.domain/filetype/pps) | PowerPoint Slide Show (.pps) هو ملف تم إنشاؤه باستخدام Microsoft PowerPoint لغرض عرض الشرائح. يتم دعم قراءة ملف PPS وإنشائه بواسطة Microsoft PowerPoint 97-2003. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/pps) . |
 | static [PPSX](../../groupdocs.merger.domain/filetype/ppsx) | PowerPoint Open XML Slide Show (.ppsx) هو ملف تم إنشاؤه باستخدام Microsoft PowerPoint 2007 والإصدارات الأحدث لغرض عرض الشرائح . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/ppsx) . |
 | static [PPT](../../groupdocs.merger.domain/filetype/ppt) | PowerPoint Presentation (.ppt) يمثل ملف PowerPoint يتكون من مجموعة من الشرائح لعرضها على هيئة SlideShow. تحدد تنسيق الملف الثنائي المستخدم بواسطة Microsoft PowerPoint 97-2003. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/ppt) . |
 | static [PPTX](../../groupdocs.merger.domain/filetype/pptx) | PowerPoint Open XML Presentation (.pptx) هو ملف عرض تقديمي تم إنشاؤه باستخدام تطبيق Microsoft PowerPoint الشهير. على عكس الإصدار السابق من تنسيق ملف العرض التقديمي PPT الذي كان ثنائيًا ، يعتمد تنسيق PPTX على تنسيق ملف العرض التقديمي XML المفتوح لبرنامج Microsoft PowerPoint. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/presentation/pptx) . |
 | static [PS](../../groupdocs.merger.domain/filetype/ps) | ملف PostScript (.ps) |
+| static [RAR](../../groupdocs.merger.domain/filetype/rar) | ملف مضغوط Roshal ARchive (.rar) |
 | static [RTF](../../groupdocs.merger.domain/filetype/rtf) | ملف Rich Text Format (.rtf) الذي تم تقديمه وتوثيقه بواسطة Microsoft ، يمثل Rich Text Format (RTF) طريقة لترميز النص والرسومات المنسقة للاستخدام داخل التطبيقات. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/rtf) . |
+| static [SevenZ](../../groupdocs.merger.domain/filetype/sevenz) | ملف مضغوط 7-Zip (.7z) |
+| static [TAR](../../groupdocs.merger.domain/filetype/tar) | أرشيف ملفات Unix الموحدة (.tar) |
 | static [TEX](../../groupdocs.merger.domain/filetype/tex) | وثيقة مصدر LaTeX (.tex) هي لغة تتكون من ميزات البرمجة والترميز المستخدمة في طباعة المستندات. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/page-description-language/tex) . |
+| static [TIF](../../groupdocs.merger.domain/filetype/tif) | ملف الصور الموسومة (.tif) |
+| static [TIFF](../../groupdocs.merger.domain/filetype/tiff) | تنسيق ملف الصورة الموسوم (.tiff) |
 | static [TSV](../../groupdocs.merger.domain/filetype/tsv) | يمثل ملف القيم المفصولة بعلامات جدولة (.tsv) بيانات مفصولة بعلامات تبويب بتنسيق نص عادي. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/spreadsheet/tsv) . |
 | static [TXT](../../groupdocs.merger.domain/filetype/txt) | ملف نصي عادي (.txt) يمثل مستندًا نصيًا يحتوي على نص عادي في شكل أسطر. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/word-processing/txt) . |
 | static [Unknown](../../groupdocs.merger.domain/filetype/unknown) | يمثل نوع ملف غير معروف. |
@@ -87,6 +100,7 @@ public sealed class FileType : IEquatable<FileType>
 | static [XLTM](../../groupdocs.merger.domain/filetype/xltm) | يمثل قالب جدول البيانات الممكّن بماكرو XML المفتوح (xltm.) الملفات التي تم إنشاؤها بواسطة Microsoft Excel كملفات قوالب ممكّنة بماكرو. تتشابه ملفات XLTM مع XLTX من حيث البنية بخلاف أن أحدثها لا يدعم إنشاء ملفات القوالب باستخدام وحدات الماكرو. تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/spreadsheet/xltm) . |
 | static [XLTX](../../groupdocs.merger.domain/filetype/xltx) | ملفات Excel Open XML Spreadsheet Template (xltx) تستند إلى مواصفات تنسيق ملف Office OpenXML. يتم استخدامه لإنشاء ملف قالب قياسي يمكن استخدامه لإنشاء ملفات XLSX التي تعرض نفس الإعدادات المحددة في ملف XLTX . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/spreadsheet/xltx) . |
 | static [XPS](../../groupdocs.merger.domain/filetype/xps) | ملف مواصفات ورق XML (.xps) يمثل ملفات تخطيط الصفحة التي تستند إلى مواصفات ورق XML التي أنشأتها Microsoft . تعرف على المزيد حول تنسيق الملف هذا[هنا](https://docs.fileformat.com/page-description-language/xps) . |
+| static [ZIP](../../groupdocs.merger.domain/filetype/zip) | ملف مضغوط (.zip) |
 
 ### ملاحظات
 

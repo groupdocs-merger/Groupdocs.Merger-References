@@ -1,14 +1,14 @@
 ---
 title: IMoveOptions
 second_title: GroupDocs.Merger for .NET API 参考
-description: 移动页面选项接口
+description: 移动页面选项的界面
 type: docs
 weight: 190
 url: /zh/net/groupdocs.merger.domain.options/imoveoptions/
 ---
 ## IMoveOptions interface
 
-移动页面选项接口。
+移动页面选项的界面。
 
 ```csharp
 public interface IMoveOptions : IOptions
@@ -18,7 +18,7 @@ public interface IMoveOptions : IOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NewPageNumber](../../groupdocs.merger.domain.options/imoveoptions/newpagenumber) { get; } | 获取或设置新的页码。 |
+| [NewPageNumber](../../groupdocs.merger.domain.options/imoveoptions/newpagenumber) { get; } | 获取或设置新页码。 |
 | [PageNumberToMove](../../groupdocs.merger.domain.options/imoveoptions/pagenumbertomove) { get; } | 获取或设置要移动的页码。 |
 
 ### 也可以看看

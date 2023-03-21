@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Riferimento API GroupDocs.Merger per .NET
 description: Restituisce il codice hash per la correnteFileTypegroupdocs.merger.domain/filetype oggetto.
 type: docs
-weight: 520
+weight: 650
 url: /it/net/groupdocs.merger.domain/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method

@@ -3,7 +3,7 @@ title: MHT
 second_title: GroupDocs.Merger for .NET API 参考
 description: MHTML Web 存档 .mht 是一种网页存档格式可以由许多不同的应用程序创建 了解有关此文件格式的更多信息这里https//docs.fileformat.com/web/mhtml
 type: docs
-weight: 110
+weight: 170
 url: /zh/net/groupdocs.merger.domain/filetype/mht/
 ---
 ## FileType.MHT field

@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: Справочник по API GroupDocs.Merge для .NET
-description: Расширение открываемого файла.
+description: Расширение файла для инициализации.
 type: docs
 weight: 30
 url: /ru/net/groupdocs.merger.domain.options/loadoptions/extension/
 ---
 ## LoadOptions.Extension property
 
-Расширение открываемого файла.
+Расширение файла для инициализации.
 
 ```csharp
 public string Extension { get; }

@@ -1,14 +1,14 @@
 ---
 title: EPUB
 second_title: GroupDocs.Merger für .NET-API-Referenz
-description: Open eBook File .epub ist ein EBookDateiformat das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet dass es von vielen EReadern und Softwareanwendungen unterstützt wird. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/ebook/epub .
+description: Open eBook File .epub ist ein EBookDateiformat das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet dass es von vielen EReadern und Softwareanwendungen unterstützt wird. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/ebook/epub .
 type: docs
-weight: 80
+weight: 100
 url: /de/net/groupdocs.merger.domain/filetype/epub/
 ---
 ## FileType.EPUB field
 
-Open eBook File (.epub) ist ein E-Book-Dateiformat, das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/ebook/epub) .
+Open eBook File (.epub) ist ein E-Book-Dateiformat, das ein digitales Standardveröffentlichungsformat für Verlage und Verbraucher bietet. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/ebook/epub) .
 
 ```csharp
 public static FileType EPUB;

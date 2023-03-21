@@ -3,7 +3,7 @@ title: DOC
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Документ Microsoft Word .doc представляет собой документы сгенерированные Microsoft Word или другими текстовыми редакторами в двоичном формате. Подробнее об этом формате файловздесьhttps//docs.fileformat.com/wordprocessing/doc .
 type: docs
-weight: 20
+weight: 40
 url: /ru/net/groupdocs.merger.domain/filetype/doc/
 ---
 ## FileType.DOC field

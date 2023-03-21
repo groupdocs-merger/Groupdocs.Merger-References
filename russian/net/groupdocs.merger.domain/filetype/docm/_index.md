@@ -3,7 +3,7 @@ title: DOCM
 second_title: Справочник по API GroupDocs.Merge для .NET
 description: Файлы документов Word Open XML с поддержкой макросов .docm  это документы созданные в Microsoft Word 2007 или более поздней версии с возможностью запуска макросов. Подробнее об этом формате файловздесьhttps//docs.fileformat.com/wordprocessing/docm .
 type: docs
-weight: 30
+weight: 50
 url: /ru/net/groupdocs.merger.domain/filetype/docm/
 ---
 ## FileType.DOCM field

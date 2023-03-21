@@ -22,11 +22,11 @@ public void ChangeOrientation(IOrientationOptions orientationOptions)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 何时抛出*orientationOptions*一片空白。 |
+| ArgumentNullException | 抛出时*orientationOptions*一片空白。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何更改 Microsoft Word 文档页面方向的更多信息： [如何更改 Microsoft Word 文档页面方向](https://docs.groupdocs.com/merger/net/change-page-orientation/)
 
