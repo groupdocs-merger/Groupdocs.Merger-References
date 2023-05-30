@@ -1,17 +1,17 @@
 ---
-title: TIFF
+title: SVGZ
 second_title: GroupDocs.Merger for .NET API Reference
-description: Tagged Image File Format .tiff
+description: Scalable Vector Graphics Compressed File .svgz
 type: docs
-weight: 400
-url: /net/groupdocs.merger.domain/filetype/tiff/
+weight: 360
+url: /net/groupdocs.merger.domain/filetype/svgz/
 ---
-## FileType.TIFF field
+## FileType.SVGZ field
 
-Tagged Image File Format (.tiff)
+Scalable Vector Graphics Compressed File (.svgz)
 
 ```csharp
-public static FileType TIFF;
+public static FileType SVGZ;
 ```
 
 ### See Also

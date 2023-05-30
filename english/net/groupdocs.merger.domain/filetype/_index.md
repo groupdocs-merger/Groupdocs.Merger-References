@@ -75,6 +75,8 @@ public sealed class FileType : IEquatable<FileType>
 | static [RAR](../../groupdocs.merger.domain/filetype/rar) | Roshal ARchive Compressed File (.rar) |
 | static [RTF](../../groupdocs.merger.domain/filetype/rtf) | Rich Text Format File (.rtf) introduced and documented by Microsoft, the Rich Text Format (RTF) represents a method of encoding formatted text and graphics for use within applications. Learn more about this file format [here](https://docs.fileformat.com/word-processing/rtf). |
 | static [SevenZ](../../groupdocs.merger.domain/filetype/sevenz) | 7-Zip Compressed File (.7z) |
+| static [SVG](../../groupdocs.merger.domain/filetype/svg) | Scalable Vector Graphics File (.svg) |
+| static [SVGZ](../../groupdocs.merger.domain/filetype/svgz) | Scalable Vector Graphics Compressed File (.svgz) |
 | static [TAR](../../groupdocs.merger.domain/filetype/tar) | Consolidated Unix File Archive (.tar) |
 | static [TEX](../../groupdocs.merger.domain/filetype/tex) | LaTeX Source Document (.tex) is a language that comprises of programming as well as mark-up features, used to typeset documents. Learn more about this file format [here](https://docs.fileformat.com/page-description-language/tex). |
 | static [TIF](../../groupdocs.merger.domain/filetype/tif) | Tagged Image File (.tif) |
