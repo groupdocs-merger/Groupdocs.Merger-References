@@ -29,6 +29,8 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | Field | Description |
 | --- | --- |
 | [Unknown](#Unknown) | Represents unknown file type. |
+| [ZIP](#ZIP) |  |
+| [TAR](#TAR) |  |
 | [VSSX](#VSSX) | Visio Stencil File (.vssx) are drawing stencils created with Microsoft Visio 2013 and above. |
 | [VSDX](#VSDX) | Visio Drawing (.vsdx) represents Microsoft Visio file format introduced from Microsoft Office 2013 onwards. |
 | [VSDM](#VSDM) | Visio Macro-Enabled Drawing (.vsdm) are drawing files created with Microsoft Visio application that supports macros. |
@@ -47,6 +49,8 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [TIF](#TIF) | Tagged Image File (.tif) |
 | [TIFF](#TIFF) | Tagged Image File Format (.tiff) |
 | [GIF](#GIF) | Graphical Interchange Format File (.gif) |
+| [SVG](#SVG) | Scalable Vector Graphics File (.svg) |
+| [SVGZ](#SVGZ) | Scalable Vector Graphics Compressed File (.svgz) |
 | [HTML](#HTML) | Hypertext Markup Language File (.html) is the extension for web pages created for display in browsers. |
 | [MHT](#MHT) | MHTML Web Archive (.mht) is a web page archive format that can be created by a number of different applications. |
 | [MHTML](#MHTML) | MIME HTML File (.mhtml) is a web page archive format that can be created by a number of different applications. |
@@ -100,6 +104,7 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [op_Inequality(FileType left, FileType right)](#op-Inequality-com.groupdocs.merger.domain.FileType-com.groupdocs.merger.domain.FileType-) | Determines whether two [FileType](../../com.groupdocs.merger.domain/filetype) objects are not the same. |
 | [toString()](#toString--) | Returns a string that represents the current object. |
 | [isText(FileType fileType)](#isText-com.groupdocs.merger.domain.FileType-) | Determines whether input [FileType](../../com.groupdocs.merger.domain/filetype) is primitive text format. |
+| [isArchive(FileType fileType)](#isArchive-com.groupdocs.merger.domain.FileType-) | Determines whether input [FileType](../../com.groupdocs.merger.domain/filetype) is archive format. |
 | [isImage(FileType fileType)](#isImage-com.groupdocs.merger.domain.FileType-) | Determines whether input [FileType](../../com.groupdocs.merger.domain/filetype) is primitive text format. |
 | [getBase(FileType fileType)](#getBase-com.groupdocs.merger.domain.FileType-) |  |
 ### Unknown {#Unknown}
@@ -109,6 +114,18 @@ public static final FileType Unknown
 
 
 Represents unknown file type.
+
+### ZIP {#ZIP}
+```
+public static FileType ZIP
+```
+
+
+### TAR {#TAR}
+```
+public static FileType TAR
+```
+
 
 ### VSSX {#VSSX}
 ```
@@ -292,6 +309,22 @@ public static FileType GIF
 
 
 Graphical Interchange Format File (.gif)
+
+### SVG {#SVG}
+```
+public static FileType SVG
+```
+
+
+Scalable Vector Graphics File (.svg)
+
+### SVGZ {#SVGZ}
+```
+public static FileType SVGZ
+```
+
+
+Scalable Vector Graphics Compressed File (.svgz)
 
 ### HTML {#HTML}
 ```
@@ -859,6 +892,29 @@ true
 ```
 
 if input [FileType](../../com.groupdocs.merger.domain/filetype) is primitive text format; otherwise,
+
+```
+false
+```
+### isArchive(FileType fileType) {#isArchive-com.groupdocs.merger.domain.FileType-}
+```
+public static boolean isArchive(FileType fileType)
+```
+
+
+Determines whether input [FileType](../../com.groupdocs.merger.domain/filetype) is archive format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileType | [FileType](../../com.groupdocs.merger.domain/filetype) | The [FileType](../../com.groupdocs.merger.domain/filetype) object. |
+
+**Returns:**
+boolean - ```
+true
+```
+
+if input [FileType](../../com.groupdocs.merger.domain/filetype) is archive format; otherwise,
 
 ```
 false
