@@ -29,8 +29,8 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | Field | Description |
 | --- | --- |
 | [Unknown](#Unknown) | Represents unknown file type. |
-| [ZIP](#ZIP) |  |
-| [TAR](#TAR) |  |
+| [ZIP](#ZIP) | Zipped File (.zip) |
+| [TAR](#TAR) | Consolidated Unix File Archive (.tar) |
 | [VSSX](#VSSX) | Visio Stencil File (.vssx) are drawing stencils created with Microsoft Visio 2013 and above. |
 | [VSDX](#VSDX) | Visio Drawing (.vsdx) represents Microsoft Visio file format introduced from Microsoft Office 2013 onwards. |
 | [VSDM](#VSDM) | Visio Macro-Enabled Drawing (.vsdm) are drawing files created with Microsoft Visio application that supports macros. |
@@ -121,11 +121,15 @@ public static FileType ZIP
 ```
 
 
+Zipped File (.zip)
+
 ### TAR {#TAR}
 ```
 public static FileType TAR
 ```
 
+
+Consolidated Unix File Archive (.tar)
 
 ### VSSX {#VSSX}
 ```
