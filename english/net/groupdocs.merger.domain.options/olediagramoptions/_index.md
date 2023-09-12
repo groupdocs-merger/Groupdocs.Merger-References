@@ -3,7 +3,7 @@ title: OleDiagramOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for import of the embedded document to Diagram via OLE.
 type: docs
-weight: 440
+weight: 450
 url: /net/groupdocs.merger.domain.options/olediagramoptions/
 ---
 ## OleDiagramOptions class

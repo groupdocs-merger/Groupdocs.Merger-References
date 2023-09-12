@@ -3,7 +3,7 @@ title: ISaveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document saving options.
 type: docs
-weight: 320
+weight: 330
 url: /net/groupdocs.merger.domain.options/isaveoptions/
 ---
 ## ISaveOptions interface

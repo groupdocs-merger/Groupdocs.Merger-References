@@ -3,7 +3,7 @@ title: ISplitOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page splitting options.
 type: docs
-weight: 340
+weight: 350
 url: /net/groupdocs.merger.domain.options/isplitoptions/
 ---
 ## ISplitOptions interface

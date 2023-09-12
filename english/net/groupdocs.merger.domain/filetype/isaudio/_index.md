@@ -1,17 +1,17 @@
 ---
-title: IsArchive
+title: IsAudio
 second_title: GroupDocs.Merger for .NET API Reference
-description: Determines whether input FileTypegroupdocs.merger.domain/filetype is archive format.
+description: Determines whether input FileTypegroupdocs.merger.domain/filetype is audio format.
 type: docs
-weight: 710
-url: /net/groupdocs.merger.domain/filetype/isarchive/
+weight: 720
+url: /net/groupdocs.merger.domain/filetype/isaudio/
 ---
-## FileType.IsArchive method
+## FileType.IsAudio method
 
-Determines whether input [`FileType`](../../filetype) is archive format.
+Determines whether input [`FileType`](../../filetype) is audio format.
 
 ```csharp
-public static bool IsArchive(FileType fileType)
+public static bool IsAudio(FileType fileType)
 ```
 
 | Parameter | Type | Description |
@@ -24,7 +24,7 @@ public static bool IsArchive(FileType fileType)
 true
 ```
 
-if input [`FileType`](../../filetype) is archive format; otherwise,
+if input [`FileType`](../../filetype) is audio format; otherwise,
 
 ```csharp
 false

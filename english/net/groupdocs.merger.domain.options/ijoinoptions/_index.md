@@ -11,18 +11,13 @@ url: /net/groupdocs.merger.domain.options/ijoinoptions/
 Interface for the document joining options.
 
 ```csharp
-public interface IJoinOptions : IPageOptions
+[Obsolete("This interface is obsolete, please use IPageJoinOptions instead. Now use it only for Audio types or whole files joining.")]
+public interface IJoinOptions : IOptions
 ```
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [Type](../../groupdocs.merger.domain.options/ijoinoptions/type) { get; } | The type of the file to join. |
 
 ### See Also
 
-* interface [IPageOptions](../ipageoptions)
+* interface [IOptions](../ioptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../)
 
