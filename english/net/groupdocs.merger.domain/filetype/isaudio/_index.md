@@ -3,7 +3,7 @@ title: IsAudio
 second_title: GroupDocs.Merger for .NET API Reference
 description: Determines whether input FileTypegroupdocs.merger.domain/filetype is audio format.
 type: docs
-weight: 720
+weight: 730
 url: /net/groupdocs.merger.domain/filetype/isaudio/
 ---
 ## FileType.IsAudio method

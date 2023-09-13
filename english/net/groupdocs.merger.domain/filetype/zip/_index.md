@@ -3,7 +3,7 @@ title: ZIP
 second_title: GroupDocs.Merger for .NET API Reference
 description: Zipped File .zip
 type: docs
-weight: 630
+weight: 640
 url: /net/groupdocs.merger.domain/filetype/zip/
 ---
 ## FileType.ZIP field

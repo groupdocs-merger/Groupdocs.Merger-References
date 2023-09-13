@@ -3,7 +3,7 @@ title: ODS
 second_title: GroupDocs.Merger for .NET API Reference
 description: OpenDocument Spreadsheet .ods Learn more about this file format herehttps//docs.fileformat.com/spreadsheet/ods.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.merger.domain/filetype/ods/
 ---
 ## FileType.ODS field
