@@ -3,7 +3,7 @@ title: PDF
 second_title: GroupDocs.Merger for .NET API Reference
 description: Portable Document Format File .pdf isa file format that was to introduced as a standard for representation of documents and other reference material in a format that is independent of application software hardware as well as Operating System. Learn more about this file format herehttps//docs.fileformat.com/view/pdf.
 type: docs
-weight: 260
+weight: 250
 url: /net/groupdocs.merger.domain/filetype/pdf/
 ---
 ## FileType.PDF field

@@ -3,7 +3,7 @@ title: SVGZ
 second_title: GroupDocs.Merger for .NET API Reference
 description: Scalable Vector Graphics Compressed File .svgz
 type: docs
-weight: 370
+weight: 360
 url: /net/groupdocs.merger.domain/filetype/svgz/
 ---
 ## FileType.SVGZ field
