@@ -3,7 +3,7 @@ title: WordJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: The Word join options.
 type: docs
-weight: 680
+weight: 660
 url: /net/groupdocs.merger.domain.options/wordjoinoptions/
 ---
 ## WordJoinOptions class
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.options/wordjoinoptions/
 The Word join options.
 
 ```csharp
-public class WordJoinOptions : PageJoinOptions
+public class WordJoinOptions : JoinOptions
 ```
 
 ## Constructors
@@ -33,11 +33,11 @@ public class WordJoinOptions : PageJoinOptions
 | --- | --- |
 | [Mode](../../groupdocs.merger.domain.options/wordjoinoptions/mode) { get; set; } | The Word join mode. |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
-| [Type](../../groupdocs.merger.domain.options/pagejoinoptions/type) { get; } | The type of the file to join. |
+| [Type](../../groupdocs.merger.domain.options/joinoptions/type) { get; } | The type of the file to join. |
 
 ### See Also
 
-* class [PageJoinOptions](../pagejoinoptions)
+* class [JoinOptions](../joinoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../)
 

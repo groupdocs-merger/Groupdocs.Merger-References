@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines page description properties.
 type: docs
-weight: 720
+weight: 700
 url: /net/groupdocs.merger.domain.result/pageinfo/
 ---
 ## PageInfo class

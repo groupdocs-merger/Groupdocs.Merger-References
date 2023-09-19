@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document loading.
 type: docs
-weight: 430
+weight: 420
 url: /net/groupdocs.merger.domain.options/loadoptions/
 ---
 ## LoadOptions class
