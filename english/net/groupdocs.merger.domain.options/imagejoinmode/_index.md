@@ -3,7 +3,7 @@ title: ImageJoinMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible modes for the image joining.
 type: docs
-weight: 380
+weight: 390
 url: /net/groupdocs.merger.domain.options/imagejoinmode/
 ---
 ## ImageJoinMode enumeration
