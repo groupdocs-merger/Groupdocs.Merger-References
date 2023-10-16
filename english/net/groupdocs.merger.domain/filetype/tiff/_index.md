@@ -3,7 +3,7 @@ title: TIFF
 second_title: GroupDocs.Merger for .NET API Reference
 description: Tagged Image File Format .tiff
 type: docs
-weight: 400
+weight: 410
 url: /net/groupdocs.merger.domain/filetype/tiff/
 ---
 ## FileType.TIFF field

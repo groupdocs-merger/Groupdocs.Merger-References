@@ -24,6 +24,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [OleSpreadsheetOptions](./olespreadsheetoptions) | Provides options for import of the embedded document to Spreadsheet via OLE. |
 | [OleWordProcessingOptions](./olewordprocessingoptions) | Provides options for import of the embedded document to Word processing via OLE. |
 | [OrientationOptions](./orientationoptions) | Provides options for the page orientation. |
+| [PageJoinOptions](./pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](./pageoptions) | Provides options for specifying page or pages range. |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
 | [PreviewOptions](./previewoptions) | Represents document preview options. |
@@ -52,6 +53,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [IOleWordProcessingOptions](./iolewordprocessingoptions) | Interface for import options of the embedded document to Word processing via OLE. |
 | [IOptions](./ioptions) | Interface for the base options. |
 | [IOrientationOptions](./iorientationoptions) | Interface for the page orientation options. |
+| [IPageJoinOptions](./ipagejoinoptions) | Interface for the document page joining options. |
 | [IPageOptions](./ipageoptions) | Interface for the page options |
 | [IPager](./ipager) | Interface for apply option (pages, range and etc.) |
 | [IPdfAttachmentOptions](./ipdfattachmentoptions) | Interface for options of the embedded document to PDF as attachment. |

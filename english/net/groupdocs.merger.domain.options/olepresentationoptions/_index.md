@@ -3,7 +3,7 @@ title: OlePresentationOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for import of the embedded document to Presentation via OLE.
 type: docs
-weight: 450
+weight: 460
 url: /net/groupdocs.merger.domain.options/olepresentationoptions/
 ---
 ## OlePresentationOptions class

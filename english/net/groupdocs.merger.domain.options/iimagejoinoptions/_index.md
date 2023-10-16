@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.options/iimagejoinoptions/
 Interface for the image joining options.
 
 ```csharp
-public interface IImageJoinOptions : IOptions
+public interface IImageJoinOptions : IJoinOptions
 ```
 
 ## Properties
@@ -19,11 +19,10 @@ public interface IImageJoinOptions : IOptions
 | Name | Description |
 | --- | --- |
 | [Mode](../../groupdocs.merger.domain.options/iimagejoinoptions/mode) { get; } | The image join mode. |
-| [Type](../../groupdocs.merger.domain.options/iimagejoinoptions/type) { get; } | The image file type. |
 
 ### See Also
 
-* interface [IOptions](../ioptions)
+* interface [IJoinOptions](../ijoinoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../)
 

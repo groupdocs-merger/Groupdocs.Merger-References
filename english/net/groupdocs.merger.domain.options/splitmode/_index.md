@@ -3,7 +3,7 @@ title: SplitMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines page splitting modes.
 type: docs
-weight: 590
+weight: 610
 url: /net/groupdocs.merger.domain.options/splitmode/
 ---
 ## SplitMode enumeration

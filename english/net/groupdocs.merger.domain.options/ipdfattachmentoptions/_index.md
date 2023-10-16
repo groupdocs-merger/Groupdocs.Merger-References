@@ -3,7 +3,7 @@ title: IPdfAttachmentOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for options of the embedded document to PDF as attachment.
 type: docs
-weight: 280
+weight: 290
 url: /net/groupdocs.merger.domain.options/ipdfattachmentoptions/
 ---
 ## IPdfAttachmentOptions interface
