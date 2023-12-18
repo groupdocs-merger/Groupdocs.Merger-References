@@ -3,7 +3,7 @@ title: CreateSplitStream
 second_title: GroupDocs.Merger for .NET API Reference
 description: Delegate that defines method to create output split stream.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.merger.domain.common/createsplitstream/
 ---
 ## CreateSplitStream delegate

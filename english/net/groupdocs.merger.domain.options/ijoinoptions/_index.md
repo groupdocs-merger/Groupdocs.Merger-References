@@ -3,7 +3,7 @@ title: IJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document joining options.
 type: docs
-weight: 170
+weight: 180
 url: /net/groupdocs.merger.domain.options/ijoinoptions/
 ---
 ## IJoinOptions interface

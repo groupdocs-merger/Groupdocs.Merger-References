@@ -3,7 +3,7 @@ title: UpdatePassword
 second_title: GroupDocs.Merger for .NET API Reference
 description: Updates existing password for document.
 type: docs
-weight: 180
+weight: 200
 url: /net/groupdocs.merger/merger/updatepassword/
 ---
 ## Merger.UpdatePassword method

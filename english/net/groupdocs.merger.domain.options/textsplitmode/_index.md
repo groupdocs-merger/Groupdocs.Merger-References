@@ -3,7 +3,7 @@ title: TextSplitMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible text splitting modes.
 type: docs
-weight: 640
+weight: 670
 url: /net/groupdocs.merger.domain.options/textsplitmode/
 ---
 ## TextSplitMode enumeration

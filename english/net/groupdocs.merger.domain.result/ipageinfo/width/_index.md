@@ -3,7 +3,7 @@ title: Width
 second_title: GroupDocs.Merger for .NET API Reference
 description: Gets page width in pixels when converted to image.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.merger.domain.result/ipageinfo/width/
 ---
 ## IPageInfo.Width property

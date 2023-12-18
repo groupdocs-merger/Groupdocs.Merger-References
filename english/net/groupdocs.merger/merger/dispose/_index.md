@@ -3,7 +3,7 @@ title: Dispose
 second_title: GroupDocs.Merger for .NET API Reference
 description: Disposes resources.
 type: docs
-weight: 40
+weight: 60
 url: /net/groupdocs.merger/merger/dispose/
 ---
 ## Merger.Dispose method

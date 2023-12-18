@@ -3,7 +3,7 @@ title: RotatePages
 second_title: GroupDocs.Merger for .NET API Reference
 description: Rotate pages of the document.
 type: docs
-weight: 140
+weight: 160
 url: /net/groupdocs.merger/merger/rotatepages/
 ---
 ## Merger.RotatePages method

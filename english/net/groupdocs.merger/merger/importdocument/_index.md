@@ -3,7 +3,7 @@ title: ImportDocument
 second_title: GroupDocs.Merger for .NET API Reference
 description: Imports the document as attachment or embedded via Ole.
 type: docs
-weight: 80
+weight: 100
 url: /net/groupdocs.merger/merger/importdocument/
 ---
 ## Merger.ImportDocument method

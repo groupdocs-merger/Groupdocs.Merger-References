@@ -3,7 +3,7 @@ title: Merger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
-weight: 810
+weight: 840
 url: /net/groupdocs.merger/merger/
 ---
 ## Merger class
@@ -36,7 +36,9 @@ public class Merger : IDisposable
 | Name | Description |
 | --- | --- |
 | [AddPassword](../../groupdocs.merger/merger/addpassword)(IAddPasswordOptions) | Protects document with password. |
+| [ApplyPageBuilder](../../groupdocs.merger/merger/applypagebuilder)(PageBuilder) | Applies page builder changes. |
 | [ChangeOrientation](../../groupdocs.merger/merger/changeorientation)(IOrientationOptions) | Applies a new orientation mode for the specified pages. |
+| [CreatePageBuilder](../../groupdocs.merger/merger/createpagebuilder)(PageBuilderOptions) | Creates a new Page builder with predefined document collection. |
 | [Dispose](../../groupdocs.merger/merger/dispose)() | Disposes resources. |
 | [ExtractPages](../../groupdocs.merger/merger/extractpages)(IExtractOptions) | Makes a new document with some pages from the source document. |
 | [GeneratePreview](../../groupdocs.merger/merger/generatepreview)(IPreviewOptions) | Generates document pages preview. |

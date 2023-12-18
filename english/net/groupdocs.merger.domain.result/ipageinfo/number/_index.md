@@ -3,7 +3,7 @@ title: Number
 second_title: GroupDocs.Merger for .NET API Reference
 description: Gets the page number.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.merger.domain.result/ipageinfo/number/
 ---
 ## IPageInfo.Number property

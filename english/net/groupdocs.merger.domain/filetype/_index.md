@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents file type. Provides methods to obtain list of all file types supported by GroupDocs.Merger detect file type by extension etc.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.merger.domain/filetype/
 ---
 ## FileType class

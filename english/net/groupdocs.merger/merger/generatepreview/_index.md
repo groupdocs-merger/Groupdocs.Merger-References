@@ -3,7 +3,7 @@ title: GeneratePreview
 second_title: GroupDocs.Merger for .NET API Reference
 description: Generates document pages preview.
 type: docs
-weight: 60
+weight: 80
 url: /net/groupdocs.merger/merger/generatepreview/
 ---
 ## Merger.GeneratePreview method

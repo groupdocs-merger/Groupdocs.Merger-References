@@ -3,7 +3,7 @@ title: GroupDocs.Merger.Domain.Common
 second_title: GroupDocs.Merger for .NET API Reference
 description: The namespace provides common delegates.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.merger.domain.common/
 ---
 The namespace provides common delegates.

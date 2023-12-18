@@ -3,7 +3,7 @@ title: IsPasswordSet
 second_title: GroupDocs.Merger for .NET API Reference
 description: Checks whether document is password protected.
 type: docs
-weight: 90
+weight: 110
 url: /net/groupdocs.merger/merger/ispasswordset/
 ---
 ## Merger.IsPasswordSet method

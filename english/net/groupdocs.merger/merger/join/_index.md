@@ -3,7 +3,7 @@ title: Join
 second_title: GroupDocs.Merger for .NET API Reference
 description: Joins the documents into one single document.
 type: docs
-weight: 100
+weight: 120
 url: /net/groupdocs.merger/merger/join/
 ---
 ## Join(Stream) {#join}
