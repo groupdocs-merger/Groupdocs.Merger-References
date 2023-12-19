@@ -3,7 +3,7 @@ title: SwapPages
 second_title: GroupDocs.Merger for .NET API Reference
 description: Swaps two pages within document of known format.
 type: docs
-weight: 170
+weight: 190
 url: /net/groupdocs.merger/merger/swappages/
 ---
 ## Merger.SwapPages method

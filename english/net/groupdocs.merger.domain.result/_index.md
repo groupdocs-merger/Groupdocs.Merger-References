@@ -3,7 +3,7 @@ title: GroupDocs.Merger.Domain.Result
 second_title: GroupDocs.Merger for .NET API Reference
 description: The namespace provides classes which represent document results.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.merger.domain.result/
 ---
 The namespace provides classes which represent document results.

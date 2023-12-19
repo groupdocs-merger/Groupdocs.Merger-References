@@ -3,7 +3,7 @@ title: ITextSplitOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the text splitting options.
 type: docs
-weight: 370
+weight: 390
 url: /net/groupdocs.merger.domain.options/itextsplitoptions/
 ---
 ## ITextSplitOptions interface

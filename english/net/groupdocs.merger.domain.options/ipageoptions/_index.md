@@ -3,7 +3,7 @@ title: IPageOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page options
 type: docs
-weight: 270
+weight: 290
 url: /net/groupdocs.merger.domain.options/ipageoptions/
 ---
 ## IPageOptions interface

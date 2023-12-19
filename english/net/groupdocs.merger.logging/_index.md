@@ -3,7 +3,7 @@ title: GroupDocs.Merger.Logging
 second_title: GroupDocs.Merger for .NET API Reference
 description: The namespace provides classes for customizing logging behaviour.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.merger.logging/
 ---
 The namespace provides classes for customizing logging behaviour.

@@ -3,7 +3,7 @@ title: Height
 second_title: GroupDocs.Merger for .NET API Reference
 description: Gets page height in pixels when converted to image.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.merger.domain.result/ipageinfo/height/
 ---
 ## IPageInfo.Height property

@@ -3,7 +3,7 @@ title: RemovePages
 second_title: GroupDocs.Merger for .NET API Reference
 description: Removes pages from document of known format.
 type: docs
-weight: 120
+weight: 140
 url: /net/groupdocs.merger/merger/removepages/
 ---
 ## Merger.RemovePages method

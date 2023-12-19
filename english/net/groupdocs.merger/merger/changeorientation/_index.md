@@ -3,7 +3,7 @@ title: ChangeOrientation
 second_title: GroupDocs.Merger for .NET API Reference
 description: Applies a new orientation mode for the specified pages.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.merger/merger/changeorientation/
 ---
 ## Merger.ChangeOrientation method

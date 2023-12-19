@@ -3,7 +3,7 @@ title: Save
 second_title: GroupDocs.Merger for .NET API Reference
 description: Saves the result document to the stream document.
 type: docs
-weight: 150
+weight: 170
 url: /net/groupdocs.merger/merger/save/
 ---
 ## Save(Stream) {#save}

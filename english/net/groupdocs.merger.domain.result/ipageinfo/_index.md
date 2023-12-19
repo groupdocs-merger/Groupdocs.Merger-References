@@ -3,7 +3,7 @@ title: IPageInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page description properties.
 type: docs
-weight: 710
+weight: 740
 url: /net/groupdocs.merger.domain.result/ipageinfo/
 ---
 ## IPageInfo interface
@@ -18,6 +18,7 @@ public interface IPageInfo
 
 | Name | Description |
 | --- | --- |
+| [Document](../../groupdocs.merger.domain.result/ipageinfo/document) { get; set; } | Gets the document info. |
 | [Height](../../groupdocs.merger.domain.result/ipageinfo/height) { get; } | Gets page height in pixels when converted to image. |
 | [Number](../../groupdocs.merger.domain.result/ipageinfo/number) { get; } | Gets the page number. |
 | [Visible](../../groupdocs.merger.domain.result/ipageinfo/visible) { get; } | Indicates whether page is visibile or not. |

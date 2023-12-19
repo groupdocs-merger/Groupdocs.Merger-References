@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents document preview options.
 type: docs
-weight: 550
+weight: 580
 url: /net/groupdocs.merger.domain.options/previewoptions/
 ---
 ## PreviewOptions class

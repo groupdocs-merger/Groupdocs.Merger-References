@@ -3,7 +3,7 @@ title: MovePage
 second_title: GroupDocs.Merger for .NET API Reference
 description: Moves page to a new position within document of known format.
 type: docs
-weight: 110
+weight: 130
 url: /net/groupdocs.merger/merger/movepage/
 ---
 ## Merger.MovePage method

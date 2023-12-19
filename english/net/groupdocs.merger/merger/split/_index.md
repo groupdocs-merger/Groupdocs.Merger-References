@@ -3,7 +3,7 @@ title: Split
 second_title: GroupDocs.Merger for .NET API Reference
 description: Splits the single document to the multiple documents.
 type: docs
-weight: 160
+weight: 180
 url: /net/groupdocs.merger/merger/split/
 ---
 ## Split(ISplitOptions) {#split}

@@ -5,7 +5,7 @@ weight: 10
 url: /net/
 description: GroupDocs.Merger for .NET API References contain examples, code snippets, and API documentation. It provides namespaces, classes, interfaces, and other API details.
 is_root: true
-version: "23.11.0"
+version: "23.12.0"
 ---
 ## Namespaces
 
@@ -13,6 +13,7 @@ version: "23.11.0"
 | --- | --- |
 | [GroupDocs.Merger](./groupdocs.merger) | The namespace provides classes which allow you to merge documents and manipulate document structure (split single document to multiple documents, reorder or replace document pages, change page orientation, manage document password and perform other manipulations) across wide range of supported document types - PDF, DOCX/DOC, PPTX/PPT, XLSX/XLS, VSDX/VSD, ODT, ODS, ODP, HTML, EPUB and many others. |
 | [GroupDocs.Merger.Domain](./groupdocs.merger.domain) | The namespace provides classes for working with document structure. |
+| [GroupDocs.Merger.Domain.Builders](./groupdocs.merger.domain.builders) | The namespace provides builders. |
 | [GroupDocs.Merger.Domain.Common](./groupdocs.merger.domain.common) | The namespace provides common delegates. |
 | [GroupDocs.Merger.Domain.Options](./groupdocs.merger.domain.options) | The namespace provides classes to specify additional options when loading, joining, splitting, previewing and saving documents. |
 | [GroupDocs.Merger.Domain.Result](./groupdocs.merger.domain.result) | The namespace provides classes which represent document results. |

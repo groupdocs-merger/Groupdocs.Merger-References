@@ -3,7 +3,7 @@ title: Visible
 second_title: GroupDocs.Merger for .NET API Reference
 description: Indicates whether page is visibile or not.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.merger.domain.result/pageinfo/visible/
 ---
 ## PageInfo.Visible property

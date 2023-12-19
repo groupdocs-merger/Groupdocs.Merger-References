@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines page description properties.
 type: docs
-weight: 720
+weight: 750
 url: /net/groupdocs.merger.domain.result/pageinfo/
 ---
 ## PageInfo class
@@ -25,6 +25,7 @@ public class PageInfo : IPageInfo
 
 | Name | Description |
 | --- | --- |
+| [Document](../../groupdocs.merger.domain.result/pageinfo/document) { get; set; } | Gets the document info. |
 | [Height](../../groupdocs.merger.domain.result/pageinfo/height) { get; } | Gets page height in pixels when converted to image. |
 | [Number](../../groupdocs.merger.domain.result/pageinfo/number) { get; } | Gets the page number. |
 | [Visible](../../groupdocs.merger.domain.result/pageinfo/visible) { get; } | Indicates whether page is visibile or not. |

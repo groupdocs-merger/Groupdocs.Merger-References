@@ -3,7 +3,7 @@ title: ExtractPages
 second_title: GroupDocs.Merger for .NET API Reference
 description: Makes a new document with some pages from the source document.
 type: docs
-weight: 50
+weight: 70
 url: /net/groupdocs.merger/merger/extractpages/
 ---
 ## Merger.ExtractPages method

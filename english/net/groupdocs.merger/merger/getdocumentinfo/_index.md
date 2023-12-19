@@ -3,7 +3,7 @@ title: GetDocumentInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Gets information about document pages their sizes maximum page height the width of a page with the maximum height.
 type: docs
-weight: 70
+weight: 90
 url: /net/groupdocs.merger/merger/getdocumentinfo/
 ---
 ## Merger.GetDocumentInfo method

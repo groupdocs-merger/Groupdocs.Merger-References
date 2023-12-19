@@ -3,7 +3,7 @@ title: GroupDocs.Merger.Domain.Options
 second_title: GroupDocs.Merger for .NET API Reference
 description: The namespace provides classes to specify additional options when loading joining splitting previewing and saving documents.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.merger.domain.options/
 ---
 The namespace provides classes to specify additional options when loading, joining, splitting, previewing and saving documents.
@@ -24,6 +24,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [OleSpreadsheetOptions](./olespreadsheetoptions) | Provides options for import of the embedded document to Spreadsheet via OLE. |
 | [OleWordProcessingOptions](./olewordprocessingoptions) | Provides options for import of the embedded document to Word processing via OLE. |
 | [OrientationOptions](./orientationoptions) | Provides options for the page orientation. |
+| [PageBuilderOptions](./pagebuilderoptions) | Provides options for specifying the page builder. |
 | [PageJoinOptions](./pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](./pageoptions) | Provides options for specifying page or pages range. |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
@@ -53,6 +54,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [IOleWordProcessingOptions](./iolewordprocessingoptions) | Interface for import options of the embedded document to Word processing via OLE. |
 | [IOptions](./ioptions) | Interface for the base options. |
 | [IOrientationOptions](./iorientationoptions) | Interface for the page orientation options. |
+| [IPageBuilderOptions](./ipagebuilderoptions) | Interface for the page builder options |
 | [IPageJoinOptions](./ipagejoinoptions) | Interface for the document page joining options. |
 | [IPageOptions](./ipageoptions) | Interface for the page options |
 | [IPager](./ipager) | Interface for apply option (pages, range and etc.) |

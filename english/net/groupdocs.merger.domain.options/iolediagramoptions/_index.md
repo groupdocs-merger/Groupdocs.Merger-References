@@ -3,7 +3,7 @@ title: IOleDiagramOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for import options of the embedded document to Diagram via OLE.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.merger.domain.options/iolediagramoptions/
 ---
 ## IOleDiagramOptions interface
