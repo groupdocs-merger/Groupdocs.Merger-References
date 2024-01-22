@@ -11,9 +11,21 @@ url: /net/groupdocs.merger.domain.options/joinoptions/
 Provides options for the document joining.
 
 ```csharp
-[Obsolete("This interface is obsolete, please use IPageJoinOptions instead. Now use it only for Audio types or whole files joining.")]
 public class JoinOptions : IJoinOptions
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [JoinOptions](joinoptions#constructor)() | Initializes a new instance of the [`JoinOptions`](../joinoptions) class. |
+| [JoinOptions](joinoptions#constructor_1)(FileType) | Initializes a new instance of the [`JoinOptions`](../joinoptions) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Type](../../groupdocs.merger.domain.options/joinoptions/type) { get; } | The type of the file to join. |
 
 ### See Also
 
