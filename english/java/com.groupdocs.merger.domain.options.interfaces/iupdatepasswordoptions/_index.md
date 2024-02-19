@@ -3,7 +3,7 @@ title: IUpdatePasswordOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the password updating options.
 type: docs
-weight: 33
+weight: 36
 url: /java/com.groupdocs.merger.domain.options.interfaces/iupdatepasswordoptions/
 ---
 **All Implemented Interfaces:**

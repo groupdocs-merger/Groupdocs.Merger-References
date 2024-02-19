@@ -3,7 +3,7 @@ title: ISizeOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for adding embedded object.
 type: docs
-weight: 29
+weight: 32
 url: /java/com.groupdocs.merger.domain.options.interfaces/isizeoptions/
 ---```
 public interface ISizeOptions

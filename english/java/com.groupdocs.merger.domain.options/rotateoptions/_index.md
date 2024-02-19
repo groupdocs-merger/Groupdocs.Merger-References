@@ -3,7 +3,7 @@ title: RotateOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for the page rotation.
 type: docs
-weight: 31
+weight: 33
 url: /java/com.groupdocs.merger.domain.options/rotateoptions/
 ---
 **Inheritance:**

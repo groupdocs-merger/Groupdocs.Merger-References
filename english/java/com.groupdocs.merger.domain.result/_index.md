@@ -3,7 +3,7 @@ title: com.groupdocs.merger.domain.result
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.domain.result namespace provides classes which represent document results.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.groupdocs.merger.domain.result/
 ---
 

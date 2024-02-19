@@ -3,7 +3,7 @@ title: IPreviewOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the preview options.
 type: docs
-weight: 25
+weight: 28
 url: /java/com.groupdocs.merger.domain.options.interfaces/ipreviewoptions/
 ---
 **All Implemented Interfaces:**

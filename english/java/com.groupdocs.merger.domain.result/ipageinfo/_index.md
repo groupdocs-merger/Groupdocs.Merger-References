@@ -14,10 +14,35 @@ Interface for the page description properties.
 
 | Method | Description |
 | --- | --- |
+| [getDocument()](#getDocument--) | Gets the document info. |
+| [setDocument(DocumentInfo value)](#setDocument-com.groupdocs.merger.domain.result.DocumentInfo-) | Gets the document info. |
 | [getNumber()](#getNumber--) | Gets the page number. |
 | [getVisible()](#getVisible--) | Indicates whether page is visibile or not. |
 | [getWidth()](#getWidth--) | Gets page width in pixels when converted to image. |
 | [getHeight()](#getHeight--) | Gets page height in pixels when converted to image. |
+### getDocument() {#getDocument--}
+```
+public abstract DocumentInfo getDocument()
+```
+
+
+Gets the document info.
+
+**Returns:**
+[DocumentInfo](../../com.groupdocs.merger.domain.result/documentinfo)
+### setDocument(DocumentInfo value) {#setDocument-com.groupdocs.merger.domain.result.DocumentInfo-}
+```
+public abstract void setDocument(DocumentInfo value)
+```
+
+
+Gets the document info.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [DocumentInfo](../../com.groupdocs.merger.domain.result/documentinfo) |  |
+
 ### getNumber() {#getNumber--}
 ```
 public abstract int getNumber()

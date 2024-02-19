@@ -3,7 +3,7 @@ title: ITextSplitOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the text splitting options.
 type: docs
-weight: 32
+weight: 35
 url: /java/com.groupdocs.merger.domain.options.interfaces/itextsplitoptions/
 ---
 **All Implemented Interfaces:**

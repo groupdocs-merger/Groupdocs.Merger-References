@@ -3,7 +3,7 @@ title: com.groupdocs.merger.logging
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.logging namespace provides classes for customizing logging behaviour.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.groupdocs.merger.logging/
 ---
 

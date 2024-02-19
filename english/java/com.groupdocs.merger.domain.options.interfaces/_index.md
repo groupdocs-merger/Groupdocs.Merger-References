@@ -3,7 +3,7 @@ title: com.groupdocs.merger.domain.options.interfaces
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.domain.options.interfaces namespace provides classes for working with Interfaces.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.merger.domain.options.interfaces/
 ---
 
@@ -21,11 +21,14 @@ The **com.groupdocs.merger.domain.options.interfaces** namespace provides classe
 | [IJoinOptions](../com.groupdocs.merger.domain.options.interfaces/ijoinoptions) | Interface for the document joining options. |
 | [ILoadOptions](../com.groupdocs.merger.domain.options.interfaces/iloadoptions) | Interface for the document loading options. |
 | [IMoveOptions](../com.groupdocs.merger.domain.options.interfaces/imoveoptions) | Interface for the moving page options. |
+| [IOleDiagramOptions](../com.groupdocs.merger.domain.options.interfaces/iolediagramoptions) | Interface for import options of the embedded document to Diagram via OLE. |
 | [IOlePresentationOptions](../com.groupdocs.merger.domain.options.interfaces/iolepresentationoptions) | Interface for import options of the embedded document to Presentation via OLE. |
 | [IOleSpreadsheetOptions](../com.groupdocs.merger.domain.options.interfaces/iolespreadsheetoptions) | Interface for import options of the embedded document to Spreadsheet via OLE. |
 | [IOleWordProcessingOptions](../com.groupdocs.merger.domain.options.interfaces/iolewordprocessingoptions) | Interface for import options of the embedded document to Word processing via OLE. |
 | [IOptions](../com.groupdocs.merger.domain.options.interfaces/ioptions) | Interface for the base options. |
 | [IOrientationOptions](../com.groupdocs.merger.domain.options.interfaces/iorientationoptions) | Interface for the page orientation options. |
+| [IPageBuilderOptions](../com.groupdocs.merger.domain.options.interfaces/ipagebuilderoptions) | Interface for the page builder options |
+| [IPageJoinOptions](../com.groupdocs.merger.domain.options.interfaces/ipagejoinoptions) | Interface for the document page joining options. |
 | [IPageOptions](../com.groupdocs.merger.domain.options.interfaces/ipageoptions) | Interface for the page options |
 | [IPager](../com.groupdocs.merger.domain.options.interfaces/ipager) | Interface for apply option (pages, range and etc.) |
 | [IPdfAttachmentOptions](../com.groupdocs.merger.domain.options.interfaces/ipdfattachmentoptions) | Interface for options of the embedded document to PDF as attachment. |

@@ -5,7 +5,7 @@ weight: 11
 url: /java/
 description: GroupDocs.Merger for Java API References contain examples, code snippets, and API documentation. It provides packages, classes, interfaces, and other API details.
 is_root: true
-version: "23.10"
+version: 24.2
 ---
 
 ## Packages
@@ -13,6 +13,7 @@ version: "23.10"
 | --- | --- |
 | [com.groupdocs.merger](./com.groupdocs.merger) | The **com.groupdocs.merger** namespace provides classes which allow you to merge documents and manipulate document structure (split single document to multiple documents, reorder or replace document pages, change page orientation, manage document password and perform other manipulations) across wide range of supported document types - PDF, DOCX/DOC, PPTX/PPT, XLSX/XLS, VSDX/VSD, ODT, ODS, ODP, HTML, EPUB and many others.. |
 | [com.groupdocs.merger.domain](./com.groupdocs.merger.domain) | The **com.groupdocs.merger.domain** namespace provides classes for working with document structure. |
+| [com.groupdocs.merger.domain.builders](./com.groupdocs.merger.domain.builders) | The **com.groupdocs.merger.domain.builders** namespace provides builders. |
 | [com.groupdocs.merger.domain.common](./com.groupdocs.merger.domain.common) | The **com.groupdocs.merger.domain.common** namespace provides common delegates. |
 | [com.groupdocs.merger.domain.options](./com.groupdocs.merger.domain.options) | The **com.groupdocs.merger.domain.options** namespace provides classes to specify additional options when loading, joining, splitting, previewing and saving documents. |
 | [com.groupdocs.merger.domain.options.interfaces](./com.groupdocs.merger.domain.options.interfaces) | The **com.groupdocs.merger.domain.options.interfaces** namespace provides classes for working with Interfaces. |

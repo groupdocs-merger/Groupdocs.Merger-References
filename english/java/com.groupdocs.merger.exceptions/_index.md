@@ -3,7 +3,7 @@ title: com.groupdocs.merger.exceptions
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.exceptions namespace provides classes for exceptions which can occur while working with a document.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.merger.exceptions/
 ---
 
