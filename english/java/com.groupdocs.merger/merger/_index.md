@@ -39,6 +39,7 @@ Represents the main class that controls the document merging process.
 | [join(String filePath, IJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath, IPageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath, IImageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-) | Joins the documents into one single document. |
+| [createPageBuilder()](#createPageBuilder--) | Creates a new Page builder with predefined document collection. |
 | [createPageBuilder(PageBuilderOptions pageBuilderOptions)](#createPageBuilder-com.groupdocs.merger.domain.options.PageBuilderOptions-) | Creates a new Page builder with predefined document collection. |
 | [applyPageBuilder(PageBuilder pageBuilder)](#applyPageBuilder-com.groupdocs.merger.domain.builders.PageBuilder-) | Applies page builder changes. |
 | [split(ISplitOptions splitOptions)](#split-com.groupdocs.merger.domain.options.interfaces.ISplitOptions-) | Splits the single document to the multiple documents. |
@@ -378,6 +379,16 @@ Joins the documents into one single document.
 
  *   |
 
+### createPageBuilder() {#createPageBuilder--}
+```
+public final PageBuilder createPageBuilder()
+```
+
+
+Creates a new Page builder with predefined document collection.
+
+**Returns:**
+[PageBuilder](../../com.groupdocs.merger.domain.builders/pagebuilder) - The created page builder.
 ### createPageBuilder(PageBuilderOptions pageBuilderOptions) {#createPageBuilder-com.groupdocs.merger.domain.options.PageBuilderOptions-}
 ```
 public final PageBuilder createPageBuilder(PageBuilderOptions pageBuilderOptions)
