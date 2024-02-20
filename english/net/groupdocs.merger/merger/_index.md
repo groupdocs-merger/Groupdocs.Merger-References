@@ -3,7 +3,7 @@ title: Merger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
-weight: 840
+weight: 850
 url: /net/groupdocs.merger/merger/
 ---
 ## Merger class

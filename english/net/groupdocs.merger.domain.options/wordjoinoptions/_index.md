@@ -3,7 +3,7 @@ title: WordJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: The Word join options.
 type: docs
-weight: 710
+weight: 720
 url: /net/groupdocs.merger.domain.options/wordjoinoptions/
 ---
 ## WordJoinOptions class
@@ -31,6 +31,7 @@ public class WordJoinOptions : PageJoinOptions
 
 | Name | Description |
 | --- | --- |
+| [Compliance](../../groupdocs.merger.domain.options/wordjoinoptions/compliance) { get; set; } | Compliance mode for the Word Ooxml format |
 | [Mode](../../groupdocs.merger.domain.options/wordjoinoptions/mode) { get; set; } | The Word join mode. |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 | [Type](../../groupdocs.merger.domain.options/pagejoinoptions/type) { get; } | The type of the file to join. |
