@@ -3,7 +3,7 @@ title: SplitMode
 second_title: GroupDocs.Merger for Java API Reference
 description: Defines page splitting modes.
 type: docs
-weight: 33
+weight: 35
 url: /java/com.groupdocs.merger.domain.options/splitmode/
 ---
 **Inheritance:**

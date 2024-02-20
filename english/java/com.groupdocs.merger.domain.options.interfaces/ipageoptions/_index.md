@@ -3,7 +3,7 @@ title: IPageOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the page options
 type: docs
-weight: 22
+weight: 25
 url: /java/com.groupdocs.merger.domain.options.interfaces/ipageoptions/
 ---
 **All Implemented Interfaces:**

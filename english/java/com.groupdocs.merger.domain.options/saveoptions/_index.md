@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for the document saving.
 type: docs
-weight: 32
+weight: 34
 url: /java/com.groupdocs.merger.domain.options/saveoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: IRemoveOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Interface for the page removing options.
 type: docs
-weight: 26
+weight: 29
 url: /java/com.groupdocs.merger.domain.options.interfaces/iremoveoptions/
 ---
 **All Implemented Interfaces:**

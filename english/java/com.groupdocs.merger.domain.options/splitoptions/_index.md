@@ -3,7 +3,7 @@ title: SplitOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for the document page splitting.
 type: docs
-weight: 34
+weight: 36
 url: /java/com.groupdocs.merger.domain.options/splitoptions/
 ---
 **Inheritance:**

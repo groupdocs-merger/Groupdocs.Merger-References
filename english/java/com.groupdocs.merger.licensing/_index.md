@@ -3,7 +3,7 @@ title: com.groupdocs.merger.licensing
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.licensing namespace provides methods to license the component.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.merger.licensing/
 ---
 

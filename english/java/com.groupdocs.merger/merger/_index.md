@@ -33,10 +33,15 @@ Represents the main class that controls the document merging process.
 | [importDocument(IImportDocumentOptions importDocumentOptions)](#importDocument-com.groupdocs.merger.domain.options.interfaces.IImportDocumentOptions-) | Imports the document as attachment or embedded via Ole. |
 | [join(InputStream document)](#join-java.io.InputStream-) | Joins the documents into one single document. |
 | [join(InputStream document, IJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
+| [join(InputStream document, IPageJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
 | [join(InputStream document, IImageJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath)](#join-java.lang.String-) | Joins the documents into one single document. |
 | [join(String filePath, IJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
+| [join(String filePath, IPageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath, IImageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-) | Joins the documents into one single document. |
+| [createPageBuilder()](#createPageBuilder--) | Creates a new Page builder with predefined document collection. |
+| [createPageBuilder(PageBuilderOptions pageBuilderOptions)](#createPageBuilder-com.groupdocs.merger.domain.options.PageBuilderOptions-) | Creates a new Page builder with predefined document collection. |
+| [applyPageBuilder(PageBuilder pageBuilder)](#applyPageBuilder-com.groupdocs.merger.domain.builders.PageBuilder-) | Applies page builder changes. |
 | [split(ISplitOptions splitOptions)](#split-com.groupdocs.merger.domain.options.interfaces.ISplitOptions-) | Splits the single document to the multiple documents. |
 | [split(ITextSplitOptions splitOptions)](#split-com.groupdocs.merger.domain.options.interfaces.ITextSplitOptions-) | Splits the single document to the multiple documents. |
 | [extractPages(IExtractOptions extractOptions)](#extractPages-com.groupdocs.merger.domain.options.interfaces.IExtractOptions-) | Makes a new document with some pages from the source document. |
@@ -249,6 +254,26 @@ Joins the documents into one single document.
 
 [How to merge PDF_ Word_ Excel and PowerPoint documents in 3 steps]: https://docs.groupdocs.com/merger/java/merge-files/ |
 
+### join(InputStream document, IPageJoinOptions joinOptions) {#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-}
+```
+public final void join(InputStream document, IPageJoinOptions joinOptions)
+```
+
+
+Joins the documents into one single document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | java.io.InputStream | Joined document. |
+| joinOptions | [IPageJoinOptions](../../com.groupdocs.merger.domain.options.interfaces/ipagejoinoptions) | The join options.
+
+--------------------
+
+ **Learn more** 
+
+ *   |
+
 ### join(InputStream document, IImageJoinOptions joinOptions) {#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-}
 ```
 public final void join(InputStream document, IImageJoinOptions joinOptions)
@@ -314,6 +339,26 @@ Joins the documents into one single document.
 
 [How to merge PDF_ Word_ Excel and PowerPoint documents in 3 steps]: https://docs.groupdocs.com/merger/java/merge-files/ |
 
+### join(String filePath, IPageJoinOptions joinOptions) {#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-}
+```
+public final void join(String filePath, IPageJoinOptions joinOptions)
+```
+
+
+Joins the documents into one single document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | java.lang.String | File path of the joined document. |
+| joinOptions | [IPageJoinOptions](../../com.groupdocs.merger.domain.options.interfaces/ipagejoinoptions) | The join options.
+
+--------------------
+
+ **Learn more** 
+
+ *   |
+
 ### join(String filePath, IImageJoinOptions joinOptions) {#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-}
 ```
 public final void join(String filePath, IImageJoinOptions joinOptions)
@@ -333,6 +378,44 @@ Joins the documents into one single document.
  **Learn more** 
 
  *   |
+
+### createPageBuilder() {#createPageBuilder--}
+```
+public final PageBuilder createPageBuilder()
+```
+
+
+Creates a new Page builder with predefined document collection.
+
+**Returns:**
+[PageBuilder](../../com.groupdocs.merger.domain.builders/pagebuilder) - The created page builder.
+### createPageBuilder(PageBuilderOptions pageBuilderOptions) {#createPageBuilder-com.groupdocs.merger.domain.options.PageBuilderOptions-}
+```
+public final PageBuilder createPageBuilder(PageBuilderOptions pageBuilderOptions)
+```
+
+
+Creates a new Page builder with predefined document collection.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageBuilderOptions | [PageBuilderOptions](../../com.groupdocs.merger.domain.options/pagebuilderoptions) |  |
+
+**Returns:**
+[PageBuilder](../../com.groupdocs.merger.domain.builders/pagebuilder) - The created page builder.
+### applyPageBuilder(PageBuilder pageBuilder) {#applyPageBuilder-com.groupdocs.merger.domain.builders.PageBuilder-}
+```
+public final void applyPageBuilder(PageBuilder pageBuilder)
+```
+
+
+Applies page builder changes.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageBuilder | [PageBuilder](../../com.groupdocs.merger.domain.builders/pagebuilder) | The page builder. |
 
 ### split(ISplitOptions splitOptions) {#split-com.groupdocs.merger.domain.options.interfaces.ISplitOptions-}
 ```

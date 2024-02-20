@@ -7,9 +7,9 @@ weight: 12
 url: /java/com.groupdocs.merger.domain.options.interfaces/iimagejoinoptions/
 ---
 **All Implemented Interfaces:**
-[com.groupdocs.merger.domain.options.interfaces.IOptions](../../com.groupdocs.merger.domain.options.interfaces/ioptions)
+[com.groupdocs.merger.domain.options.interfaces.IJoinOptions](../../com.groupdocs.merger.domain.options.interfaces/ijoinoptions)
 ```
-public interface IImageJoinOptions extends IOptions
+public interface IImageJoinOptions extends IJoinOptions
 ```
 
 Interface for the image joining options.
@@ -17,18 +17,7 @@ Interface for the image joining options.
 
 | Method | Description |
 | --- | --- |
-| [getType()](#getType--) | The image file type. |
 | [getMode()](#getMode--) | The image join mode. |
-### getType() {#getType--}
-```
-public abstract FileType getType()
-```
-
-
-The image file type.
-
-**Returns:**
-[FileType](../../com.groupdocs.merger.domain/filetype)
 ### getMode() {#getMode--}
 ```
 public abstract int getMode()

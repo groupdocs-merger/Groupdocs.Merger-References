@@ -3,7 +3,7 @@ title: com.groupdocs.merger.licensing.metered
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.licensing.metered  namespace provides methods to set metered key.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.groupdocs.merger.licensing.metered/
 ---
 

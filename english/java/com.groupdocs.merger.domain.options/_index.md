@@ -3,7 +3,7 @@ title: com.groupdocs.merger.domain.options
 second_title: GroupDocs.Merger for Java API Reference
 description: The com.groupdocs.merger.domain.options namespace provides classes to specify additional options when loading joining splitting previewing and saving documents.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.merger.domain.options/
 ---
 
@@ -28,6 +28,8 @@ The **com.groupdocs.merger.domain.options** namespace provides classes to specif
 | [OleWordProcessingOptions](../com.groupdocs.merger.domain.options/olewordprocessingoptions) | Provides options for import of the embedded document to Word processing via OLE. |
 | [OrientationMode](../com.groupdocs.merger.domain.options/orientationmode) | Defines page orientation. |
 | [OrientationOptions](../com.groupdocs.merger.domain.options/orientationoptions) | Provides options for the page orientation. |
+| [PageBuilderOptions](../com.groupdocs.merger.domain.options/pagebuilderoptions) | Provides options for specifying the page builder. |
+| [PageJoinOptions](../com.groupdocs.merger.domain.options/pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](../com.groupdocs.merger.domain.options/pageoptions) | Provides options for specifying page or pages range. |
 | [PdfAttachmentOptions](../com.groupdocs.merger.domain.options/pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
 | [PreviewMode](../com.groupdocs.merger.domain.options/previewmode) | Provides modes for the page previewing. |

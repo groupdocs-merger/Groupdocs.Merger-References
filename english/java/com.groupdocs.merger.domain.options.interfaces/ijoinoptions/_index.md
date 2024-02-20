@@ -7,9 +7,9 @@ weight: 14
 url: /java/com.groupdocs.merger.domain.options.interfaces/ijoinoptions/
 ---
 **All Implemented Interfaces:**
-[com.groupdocs.merger.domain.options.interfaces.IPageOptions](../../com.groupdocs.merger.domain.options.interfaces/ipageoptions)
+[com.groupdocs.merger.domain.options.interfaces.IOptions](../../com.groupdocs.merger.domain.options.interfaces/ioptions)
 ```
-public interface IJoinOptions extends IPageOptions
+public interface IJoinOptions extends IOptions
 ```
 
 Interface for the document joining options.

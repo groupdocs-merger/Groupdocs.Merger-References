@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Represents document preview options.
 type: docs
-weight: 27
+weight: 29
 url: /java/com.groupdocs.merger.domain.options/previewoptions/
 ---
 **Inheritance:**
