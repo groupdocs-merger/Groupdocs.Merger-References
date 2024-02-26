@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.result/documentinfo/
 Defines document description properties.
 
 ```csharp
-public class DocumentInfo : IDocumentInfo
+public class DocumentInfo : IDocumentInfo, ISerializable
 ```
 
 ## Constructors
