@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines document description properties.
 type: docs
-weight: 720
+weight: 730
 url: /net/groupdocs.merger.domain.result/documentinfo/
 ---
 ## DocumentInfo class
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.result/documentinfo/
 Defines document description properties.
 
 ```csharp
-public class DocumentInfo : IDocumentInfo
+public class DocumentInfo : IDocumentInfo, ISerializable
 ```
 
 ## Constructors

@@ -3,7 +3,7 @@ title: Mode
 second_title: GroupDocs.Merger for .NET API Reference
 description: The Word join mode.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.merger.domain.options/wordjoinoptions/mode/
 ---
 ## WordJoinOptions.Mode property
