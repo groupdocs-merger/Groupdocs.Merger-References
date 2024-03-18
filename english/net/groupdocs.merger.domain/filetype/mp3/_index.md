@@ -3,7 +3,7 @@ title: MP3
 second_title: GroupDocs.Merger for .NET API Reference
 description: Files with .mp3 extension are digitally encoded file formats for audio files that are formally based on the MPEG1 Audio Layer III or MPEG2 Audio Layer III. It was developed by the Moving Picture Experts Group MPEG that uses Layer 3 audio compression. Compression achieved by MP3 file format is 1/10th the size of .WAV or .AIF files. Learn more about this file format herehttps//docs.fileformat.com/audio/mp3.
 type: docs
-weight: 190
+weight: 200
 url: /net/groupdocs.merger.domain/filetype/mp3/
 ---
 ## FileType.MP3 field

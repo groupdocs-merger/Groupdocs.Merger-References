@@ -3,7 +3,7 @@ title: SVG
 second_title: GroupDocs.Merger for .NET API Reference
 description: Scalable Vector Graphics File .svg
 type: docs
-weight: 360
+weight: 370
 url: /net/groupdocs.merger.domain/filetype/svg/
 ---
 ## FileType.SVG field

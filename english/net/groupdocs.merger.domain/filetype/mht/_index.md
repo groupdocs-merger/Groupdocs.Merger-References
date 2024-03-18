@@ -3,7 +3,7 @@ title: MHT
 second_title: GroupDocs.Merger for .NET API Reference
 description: MHTML Web Archive .mht is a web page archive format that can be created by a number of different applications. Learn more about this file format herehttps//docs.fileformat.com/web/mhtml.
 type: docs
-weight: 170
+weight: 180
 url: /net/groupdocs.merger.domain/filetype/mht/
 ---
 ## FileType.MHT field
