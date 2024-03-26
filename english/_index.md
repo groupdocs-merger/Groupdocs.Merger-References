@@ -40,7 +40,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}}
 
-![GroupDocs.Merger for Java Product Logo](gdocs_net.png)
+![GroupDocs.Merger for Node.js via Java Product Logo](gdocs_net.png)
 
 Node.js APIs to quickly merge multiple documents or split any document into pages within your Java based applications.
 
