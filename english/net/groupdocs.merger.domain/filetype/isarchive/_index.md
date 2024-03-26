@@ -3,7 +3,7 @@ title: IsArchive
 second_title: GroupDocs.Merger for .NET API Reference
 description: Determines whether input FileTypegroupdocs.merger.domain/filetype is archive format.
 type: docs
-weight: 720
+weight: 730
 url: /net/groupdocs.merger.domain/filetype/isarchive/
 ---
 ## FileType.IsArchive method

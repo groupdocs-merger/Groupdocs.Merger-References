@@ -3,7 +3,7 @@ title: GIF
 second_title: GroupDocs.Merger for .NET API Reference
 description: Graphical Interchange Format File .gif
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.merger.domain/filetype/gif/
 ---
 ## FileType.GIF field

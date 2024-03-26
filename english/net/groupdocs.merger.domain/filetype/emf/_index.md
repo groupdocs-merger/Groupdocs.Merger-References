@@ -1,17 +1,17 @@
 ---
-title: ZIP
+title: EMF
 second_title: GroupDocs.Merger for .NET API Reference
-description: Zipped File .zip
+description: Enhanced Windows Metafile .emf
 type: docs
-weight: 650
-url: /net/groupdocs.merger.domain/filetype/zip/
+weight: 100
+url: /net/groupdocs.merger.domain/filetype/emf/
 ---
-## FileType.ZIP field
+## FileType.EMF field
 
-Zipped File (.zip)
+Enhanced Windows Metafile (.emf)
 
 ```csharp
-public static FileType ZIP;
+public static FileType EMF;
 ```
 
 ### See Also

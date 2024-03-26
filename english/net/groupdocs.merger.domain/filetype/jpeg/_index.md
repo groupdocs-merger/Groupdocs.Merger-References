@@ -3,7 +3,7 @@ title: JPEG
 second_title: GroupDocs.Merger for .NET API Reference
 description: JPEG Image .jpeg is a type of image format that is saved using the method of lossy compression. The output image as result of compression is a tradeoff between storage size and image quality. Learn more about this file format herehttps//docs.fileformat.com/image/jpeg.
 type: docs
-weight: 150
+weight: 160
 url: /net/groupdocs.merger.domain/filetype/jpeg/
 ---
 ## FileType.JPEG field

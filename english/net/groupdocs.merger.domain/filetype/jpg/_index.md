@@ -3,7 +3,7 @@ title: JPG
 second_title: GroupDocs.Merger for .NET API Reference
 description: JPEG Image .jpg
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.merger.domain/filetype/jpg/
 ---
 ## FileType.JPG field
