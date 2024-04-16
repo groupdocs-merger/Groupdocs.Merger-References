@@ -22,7 +22,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers)
 ### See Also
 
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -45,7 +45,7 @@ public SplitOptions(string filePathFormat, int[] pageNumbers, SplitMode splitMod
 
 * enum [SplitMode](../../splitmode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -67,7 +67,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber)
 ### See Also
 
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -91,7 +91,7 @@ public SplitOptions(string filePathFormat, int startNumber, int endNumber, Range
 
 * enum [RangeMode](../../rangemode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -112,7 +112,7 @@ public SplitOptions(CreateSplitStream createSplitStream)
 
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -134,7 +134,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers)
 
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -158,7 +158,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int[] pageNumbers, Spli
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * enum [SplitMode](../../splitmode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -181,7 +181,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int en
 
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -207,7 +207,7 @@ public SplitOptions(CreateSplitStream createSplitStream, int startNumber, int en
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * enum [RangeMode](../../rangemode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -230,7 +230,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -255,7 +255,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -282,7 +282,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 * delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
 * enum [SplitMode](../../splitmode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -308,7 +308,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 * delegate [CreateSplitStream](../../../groupdocs.merger.domain.common/createsplitstream)
 * delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
@@ -336,7 +336,7 @@ public SplitOptions(CreateSplitStream createSplitStream, ReleaseSplitStream rele
 * delegate [ReleaseSplitStream](../../../groupdocs.merger.domain.common/releasesplitstream)
 * enum [RangeMode](../../rangemode)
 * class [SplitOptions](../../splitoptions)
-* namespace [GroupDocs.Merger.Domain.Options](../../splitoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.merger.dll -->

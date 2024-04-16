@@ -22,6 +22,7 @@ public interface IPreviewOptions : IPageOptions
 | [Height](../../groupdocs.merger.domain.options/ipreviewoptions/height) { get; set; } | Preview height. |
 | [Mode](../../groupdocs.merger.domain.options/ipreviewoptions/mode) { get; } | Gets the mode for preview. |
 | [ReleaseStream](../../groupdocs.merger.domain.options/ipreviewoptions/releasestream) { get; } | Delegate that defines method to release output page preview stream. |
+| [Resolution](../../groupdocs.merger.domain.options/ipreviewoptions/resolution) { get; set; } | Image resolution. |
 | [Width](../../groupdocs.merger.domain.options/ipreviewoptions/width) { get; set; } | Preview width. |
 
 ## Methods
