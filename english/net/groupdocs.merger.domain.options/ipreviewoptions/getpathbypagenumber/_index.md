@@ -3,7 +3,7 @@ title: GetPathByPageNumber
 second_title: GroupDocs.Merger for .NET API Reference
 description: Gets the full file path of previewed document by page number with defined extension.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.merger.domain.options/ipreviewoptions/getpathbypagenumber/
 ---
 ## IPreviewOptions.GetPathByPageNumber method

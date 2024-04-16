@@ -3,7 +3,7 @@ title: TXT
 second_title: GroupDocs.Merger for .NET API Reference
 description: Plain Text File .txt represents a text document that contains plain text in the form of lines. Learn more about this file format herehttps//docs.fileformat.com/wordprocessing/txt.
 type: docs
-weight: 440
+weight: 450
 url: /net/groupdocs.merger.domain/filetype/txt/
 ---
 ## FileType.TXT field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/txt/
 Plain Text File (.txt) represents a text document that contains plain text in the form of lines. Learn more about this file format [here](https://docs.fileformat.com/word-processing/txt).
 
 ```csharp
-public static FileType TXT;
+public static readonly FileType TXT;
 ```
 
 ### See Also

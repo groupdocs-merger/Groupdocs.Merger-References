@@ -3,7 +3,7 @@ title: JPG
 second_title: GroupDocs.Merger for .NET API Reference
 description: JPEG Image .jpg
 type: docs
-weight: 170
+weight: 180
 url: /net/groupdocs.merger.domain/filetype/jpg/
 ---
 ## FileType.JPG field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/jpg/
 JPEG Image (.jpg)
 
 ```csharp
-public static FileType JPG;
+public static readonly FileType JPG;
 ```
 
 ### See Also

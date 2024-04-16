@@ -23,7 +23,7 @@ public void AddPage(int documentIndex, int pageNumber)
 
 | exception | condition |
 | --- | --- |
-| IndexOutOfRangeException |  |
+| [GroupDocsMergerException](../../../groupdocs.merger.exceptions/groupdocsmergerexception) |  |
 
 ### See Also
 
@@ -49,7 +49,7 @@ public void AddPage(IPageInfo page)
 
 | exception | condition |
 | --- | --- |
-| IndexOutOfRangeException |  |
+| [GroupDocsMergerException](../../../groupdocs.merger.exceptions/groupdocsmergerexception) |  |
 
 ### See Also
 

@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/csv/
 Comma Separated Values File (.csv) represents plain text files that contain records of data with comma separated values. Learn more about this file format [here](https://docs.fileformat.com/spreadsheet/csv).
 
 ```csharp
-public static FileType CSV;
+public static readonly FileType CSV;
 ```
 
 ### See Also

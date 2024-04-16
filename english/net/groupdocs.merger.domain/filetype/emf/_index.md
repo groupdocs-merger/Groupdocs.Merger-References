@@ -1,17 +1,17 @@
 ---
 title: EMF
 second_title: GroupDocs.Merger for .NET API Reference
-description: Enhanced Windows Metafile .emf
+description: Windows Enhanced Metafile .emf
 type: docs
 weight: 100
 url: /net/groupdocs.merger.domain/filetype/emf/
 ---
 ## FileType.EMF field
 
-Enhanced Windows Metafile (.emf)
+Windows Enhanced Metafile (.emf)
 
 ```csharp
-public static FileType EMF;
+public static readonly FileType EMF;
 ```
 
 ### See Also

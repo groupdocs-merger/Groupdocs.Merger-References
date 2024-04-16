@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/bmp/
 Bitmap Image File (.bmp) represent files that are used to store bitmap digital images. Learn more about this file format [here](https://docs.fileformat.com/image/bmp).
 
 ```csharp
-public static FileType BMP;
+public static readonly FileType BMP;
 ```
 
 ### See Also

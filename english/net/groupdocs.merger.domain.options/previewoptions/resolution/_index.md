@@ -1,22 +1,22 @@
 ---
-title: Width
+title: Resolution
 second_title: GroupDocs.Merger for .NET API Reference
-description: Preview width.
+description: Image resolution.
 type: docs
 weight: 60
-url: /net/groupdocs.merger.domain.options/ipreviewoptions/width/
+url: /net/groupdocs.merger.domain.options/previewoptions/resolution/
 ---
-## IPreviewOptions.Width property
+## PreviewOptions.Resolution property
 
-Preview width.
+Image resolution.
 
 ```csharp
-public int Width { get; set; }
+public int Resolution { get; set; }
 ```
 
 ### See Also
 
-* interface [IPreviewOptions](../../ipreviewoptions)
+* class [PreviewOptions](../../previewoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 

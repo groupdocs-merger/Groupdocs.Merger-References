@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/docx/
 Microsoft Word Open XML Document (.docx) is a well-known format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007, the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Learn more about this file format [here](https://docs.fileformat.com/word-processing/docx).
 
 ```csharp
-public static FileType DOCX;
+public static readonly FileType DOCX;
 ```
 
 ### See Also

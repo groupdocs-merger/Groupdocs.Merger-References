@@ -3,7 +3,7 @@ title: XLAM
 second_title: GroupDocs.Merger for .NET API Reference
 description: Excel MacroEnabled AddIn .xlam
 type: docs
-weight: 560
+weight: 570
 url: /net/groupdocs.merger.domain/filetype/xlam/
 ---
 ## FileType.XLAM field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/xlam/
 Excel Macro-Enabled Add-In (.xlam)
 
 ```csharp
-public static FileType XLAM;
+public static readonly FileType XLAM;
 ```
 
 ### See Also

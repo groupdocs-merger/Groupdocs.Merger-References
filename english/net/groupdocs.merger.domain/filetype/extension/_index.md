@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Merger for .NET API Reference
 description: Filename suffix including the period . e.g. .doc.
 type: docs
-weight: 670
+weight: 680
 url: /net/groupdocs.merger.domain/filetype/extension/
 ---
 ## FileType.Extension property

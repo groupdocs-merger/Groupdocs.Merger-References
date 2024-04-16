@@ -3,7 +3,7 @@ title: HTML
 second_title: GroupDocs.Merger for .NET API Reference
 description: Hypertext Markup Language File .html is the extension for web pages created for display in browsers. Learn more about this file format herehttps//docs.fileformat.com/web/html.
 type: docs
-weight: 150
+weight: 160
 url: /net/groupdocs.merger.domain/filetype/html/
 ---
 ## FileType.HTML field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/html/
 Hypertext Markup Language File (.html) is the extension for web pages created for display in browsers. Learn more about this file format [here](https://docs.fileformat.com/web/html).
 
 ```csharp
-public static FileType HTML;
+public static readonly FileType HTML;
 ```
 
 ### See Also

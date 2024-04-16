@@ -3,7 +3,7 @@ title: ZIP
 second_title: GroupDocs.Merger for .NET API Reference
 description: Zipped File .zip
 type: docs
-weight: 650
+weight: 660
 url: /net/groupdocs.merger.domain/filetype/zip/
 ---
 ## FileType.ZIP field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/zip/
 Zipped File (.zip)
 
 ```csharp
-public static FileType ZIP;
+public static readonly FileType ZIP;
 ```
 
 ### See Also

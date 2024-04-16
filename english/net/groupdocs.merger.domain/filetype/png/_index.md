@@ -3,7 +3,7 @@ title: PNG
 second_title: GroupDocs.Merger for .NET API Reference
 description: Portable Network Graphic .png is a type of raster image file format that use loseless compression. Learn more about this file format herehttps//docs.fileformat.com/image/png.
 type: docs
-weight: 280
+weight: 290
 url: /net/groupdocs.merger.domain/filetype/png/
 ---
 ## FileType.PNG field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/png/
 Portable Network Graphic (.png) is a type of raster image file format that use loseless compression. Learn more about this file format [here](https://docs.fileformat.com/image/png).
 
 ```csharp
-public static FileType PNG;
+public static readonly FileType PNG;
 ```
 
 ### See Also

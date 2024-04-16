@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/docm/
 Word Open XML Macro-Enabled Document (.docm) files are Microsoft Word 2007 or higher generated documents with the ability to run macros. Learn more about this file format [here](https://docs.fileformat.com/word-processing/docm).
 
 ```csharp
-public static FileType DOCM;
+public static readonly FileType DOCM;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: VSSM
 second_title: GroupDocs.Merger for .NET API Reference
 description: Visio MacroEnabled Stencil File .vssm are Microsoft Visio Stencil files that support provide support for macros. A VSSM file when opened allows to run the macros to achieve desired formatting and placement of shapes in a diagram. Learn more about this file format herehttps//docs.fileformat.com/image/vssm.
 type: docs
-weight: 490
+weight: 500
 url: /net/groupdocs.merger.domain/filetype/vssm/
 ---
 ## FileType.VSSM field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/vssm/
 Visio Macro-Enabled Stencil File (.vssm) are Microsoft Visio Stencil files that support provide support for macros. A VSSM file when opened allows to run the macros to achieve desired formatting and placement of shapes in a diagram. Learn more about this file format [here](https://docs.fileformat.com/image/vssm).
 
 ```csharp
-public static FileType VSSM;
+public static readonly FileType VSSM;
 ```
 
 ### See Also

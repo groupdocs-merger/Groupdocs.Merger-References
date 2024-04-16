@@ -3,7 +3,7 @@ title: Width
 second_title: GroupDocs.Merger for .NET API Reference
 description: Preview width.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.merger.domain.options/previewoptions/width/
 ---
 ## PreviewOptions.Width property

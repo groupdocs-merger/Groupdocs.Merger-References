@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/dotm/
 Word Open XML Macro-Enabled Document Template (.dotm) represents template file created with Microsoft Word 2007 or higher. Learn more about this file format [here](https://docs.fileformat.com/word-processing/dotm).
 
 ```csharp
-public static FileType DOTM;
+public static readonly FileType DOTM;
 ```
 
 ### See Also

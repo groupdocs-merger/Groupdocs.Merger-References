@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/dot/
 Word Document Template (.dot) files are template files created by Microsoft Word to have pre-formatted settings for generation of further DOC or DOCX files. Learn more about this file format [here](https://docs.fileformat.com/word-processing/dot).
 
 ```csharp
-public static FileType DOT;
+public static readonly FileType DOT;
 ```
 
 ### See Also

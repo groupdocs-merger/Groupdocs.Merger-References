@@ -3,7 +3,7 @@ title: GZ
 second_title: GroupDocs.Merger for .NET API Reference
 description: GZip Compressed File .gz
 type: docs
-weight: 140
+weight: 150
 url: /net/groupdocs.merger.domain/filetype/gz/
 ---
 ## FileType.GZ field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/gz/
 G-Zip Compressed File (.gz)
 
 ```csharp
-public static FileType GZ;
+public static readonly FileType GZ;
 ```
 
 ### See Also

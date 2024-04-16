@@ -36,6 +36,7 @@ public class PreviewOptions : PageOptions, IPreviewOptions
 | [Mode](../../groupdocs.merger.domain.options/previewoptions/mode) { get; } | Mode for preview. |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 | [ReleaseStream](../../groupdocs.merger.domain.options/previewoptions/releasestream) { get; } | Delegate that defines method to release output page preview stream. |
+| [Resolution](../../groupdocs.merger.domain.options/previewoptions/resolution) { get; set; } | Image resolution. |
 | [Width](../../groupdocs.merger.domain.options/previewoptions/width) { get; set; } | Preview width. |
 
 ## Methods

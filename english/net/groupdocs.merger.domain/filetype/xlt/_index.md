@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Merger for .NET API Reference
 description: Excel Template File .xlt are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 972003 supported creating new XLT files as well as opening these. Learn more about this file format herehttps//docs.fileformat.com/spreadsheet/xlt.
 type: docs
-weight: 610
+weight: 620
 url: /net/groupdocs.merger.domain/filetype/xlt/
 ---
 ## FileType.XLT field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/xlt/
 Excel Template File (.xlt) are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. Learn more about this file format [here](https://docs.fileformat.com/spreadsheet/xlt).
 
 ```csharp
-public static FileType XLT;
+public static readonly FileType XLT;
 ```
 
 ### See Also

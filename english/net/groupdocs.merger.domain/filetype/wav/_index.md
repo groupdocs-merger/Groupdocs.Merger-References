@@ -3,7 +3,7 @@ title: WAV
 second_title: GroupDocs.Merger for .NET API Reference
 description: WAV known for WAVE Waveform Audio File Format is a subset of Microsofts Resource Interchange File Format RIFF specification for storing digital audio files. The format doesnt apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard format for audio CDs. Learn more about this file format herehttps//docs.fileformat.com/audio/wav.
 type: docs
-weight: 550
+weight: 560
 url: /net/groupdocs.merger.domain/filetype/wav/
 ---
 ## FileType.WAV field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/wav/
 WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft’s Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn’t apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard format for audio CDs. Learn more about this file format [here](https://docs.fileformat.com/audio/wav).
 
 ```csharp
-public static FileType WAV;
+public static readonly FileType WAV;
 ```
 
 ### See Also

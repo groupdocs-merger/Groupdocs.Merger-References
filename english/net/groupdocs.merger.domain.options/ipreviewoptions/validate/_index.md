@@ -3,7 +3,7 @@ title: Validate
 second_title: GroupDocs.Merger for .NET API Reference
 description: Validates the split options.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.merger.domain.options/ipreviewoptions/validate/
 ---
 ## IPreviewOptions.Validate method

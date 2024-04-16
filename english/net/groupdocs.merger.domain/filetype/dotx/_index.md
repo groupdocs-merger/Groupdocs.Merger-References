@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/dotx/
 Word Open XML Document Template (.dotx) are template files created by Microsoft Word to have pre-formatted settings for generation of further DOCX files. Learn more about this file format [here](https://docs.fileformat.com/word-processing/dotx).
 
 ```csharp
-public static FileType DOTX;
+public static readonly FileType DOTX;
 ```
 
 ### See Also

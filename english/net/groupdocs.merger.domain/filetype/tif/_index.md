@@ -3,7 +3,7 @@ title: TIF
 second_title: GroupDocs.Merger for .NET API Reference
 description: Tagged Image File .tif
 type: docs
-weight: 410
+weight: 420
 url: /net/groupdocs.merger.domain/filetype/tif/
 ---
 ## FileType.TIF field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/tif/
 Tagged Image File (.tif)
 
 ```csharp
-public static FileType TIF;
+public static readonly FileType TIF;
 ```
 
 ### See Also

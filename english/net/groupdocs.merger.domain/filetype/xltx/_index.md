@@ -3,7 +3,7 @@ title: XLTX
 second_title: GroupDocs.Merger for .NET API Reference
 description: Excel Open XML Spreadsheet Template .xltx files are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file. Learn more about this file format herehttps//docs.fileformat.com/spreadsheet/xltx.
 type: docs
-weight: 630
+weight: 640
 url: /net/groupdocs.merger.domain/filetype/xltx/
 ---
 ## FileType.XLTX field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/xltx/
 Excel Open XML Spreadsheet Template (.xltx) files are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file. Learn more about this file format [here](https://docs.fileformat.com/spreadsheet/xltx).
 
 ```csharp
-public static FileType XLTX;
+public static readonly FileType XLTX;
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Validate
 second_title: GroupDocs.Merger for .NET API Reference
 description: Validates the preview options.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.merger.domain.options/previewoptions/validate/
 ---
 ## PreviewOptions.Validate method

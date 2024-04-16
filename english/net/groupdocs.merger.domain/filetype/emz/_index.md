@@ -1,17 +1,17 @@
 ---
-title: SevenZ
+title: EMZ
 second_title: GroupDocs.Merger for .NET API Reference
-description: 7Zip Compressed File .7z
+description: Windows Compressed Enhanced Metafile .emz
 type: docs
-weight: 370
-url: /net/groupdocs.merger.domain/filetype/sevenz/
+weight: 110
+url: /net/groupdocs.merger.domain/filetype/emz/
 ---
-## FileType.SevenZ field
+## FileType.EMZ field
 
-7-Zip Compressed File (.7z)
+Windows Compressed Enhanced Metafile (.emz)
 
 ```csharp
-public static readonly FileType SevenZ;
+public static readonly FileType EMZ;
 ```
 
 ### See Also

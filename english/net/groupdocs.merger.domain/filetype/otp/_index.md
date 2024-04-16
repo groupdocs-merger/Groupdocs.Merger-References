@@ -3,7 +3,7 @@ title: OTP
 second_title: GroupDocs.Merger for .NET API Reference
 description: OpenDocument Presentation Template .otp represents presentation template files created by applications in OASIS OpenDocument standard format. Learn more about this file format herehttps//docs.fileformat.com/presentation/otp.
 type: docs
-weight: 250
+weight: 260
 url: /net/groupdocs.merger.domain/filetype/otp/
 ---
 ## FileType.OTP field
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/otp/
 OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format. Learn more about this file format [here](https://docs.fileformat.com/presentation/otp).
 
 ```csharp
-public static FileType OTP;
+public static readonly FileType OTP;
 ```
 
 ### See Also

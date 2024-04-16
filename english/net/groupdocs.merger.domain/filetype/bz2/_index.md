@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain/filetype/bz2/
 Bzip2 Compressed File (.bz2)
 
 ```csharp
-public static FileType BZ2;
+public static readonly FileType BZ2;
 ```
 
 ### See Also

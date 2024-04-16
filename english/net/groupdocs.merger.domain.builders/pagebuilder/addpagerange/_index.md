@@ -22,7 +22,7 @@ public void AddPageRange(IPageInfo[] pages)
 
 | exception | condition |
 | --- | --- |
-| IndexOutOfRangeException |  |
+| [GroupDocsMergerException](../../../groupdocs.merger.exceptions/groupdocsmergerexception) |  |
 
 ### See Also
 
