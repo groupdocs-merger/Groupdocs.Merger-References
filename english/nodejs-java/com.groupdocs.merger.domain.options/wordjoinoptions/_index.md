@@ -3,7 +3,7 @@ title: WordJoinOptions
 second_title: GroupDocs.Merger for Node.js via Java API Reference
 description: The Word join options.
 type: docs
-weight: 42
+weight: 43
 url: /nodejs-java/com.groupdocs.merger.domain.options/wordjoinoptions/
 ---
 **Inheritance:**
@@ -31,6 +31,8 @@ The Word join options.
 | --- | --- |
 | [getMode()](#getMode--) | The Word join mode. |
 | [setMode(int value)](#setMode-int-) | The Word join mode. |
+| [getCompliance()](#getCompliance--) | Compliance mode for the Word Ooxml format |
+| [setCompliance(int value)](#setCompliance-int-) | Compliance mode for the Word Ooxml format |
 ### WordJoinOptions() {#WordJoinOptions--}
 ```
 public WordJoinOptions()
@@ -156,6 +158,29 @@ public final void setMode(int value)
 
 
 The Word join mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### getCompliance() {#getCompliance--}
+```
+public final int getCompliance()
+```
+
+
+Compliance mode for the Word Ooxml format
+
+**Returns:**
+int
+### setCompliance(int value) {#setCompliance-int-}
+```
+public final void setCompliance(int value)
+```
+
+
+Compliance mode for the Word Ooxml format
 
 **Parameters:**
 | Parameter | Type | Description |

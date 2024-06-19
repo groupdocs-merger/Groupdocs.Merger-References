@@ -45,5 +45,6 @@ The **com.groupdocs.merger.domain.options** namespace provides classes to specif
 | [TextSplitMode](../com.groupdocs.merger.domain.options/textsplitmode) | Possible text splitting modes. |
 | [TextSplitOptions](../com.groupdocs.merger.domain.options/textsplitoptions) | Provides options for the document text splitting. |
 | [UpdatePasswordOptions](../com.groupdocs.merger.domain.options/updatepasswordoptions) | Provides options for updating document password. |
+| [WordJoinCompliance](../com.groupdocs.merger.domain.options/wordjoincompliance) | Possible Compliance modes for the Word Ooxml formats such as .docx, .docm, .dotx, .dotm etc. |
 | [WordJoinMode](../com.groupdocs.merger.domain.options/wordjoinmode) | Possible modes for the Word joining. |
 | [WordJoinOptions](../com.groupdocs.merger.domain.options/wordjoinoptions) | The Word join options. |
