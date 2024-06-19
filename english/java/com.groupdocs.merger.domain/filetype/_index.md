@@ -30,7 +30,9 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | --- | --- |
 | [Unknown](#Unknown) | Represents unknown file type. |
 | [ZIP](#ZIP) | Zipped File (.zip) |
+| [SevenZ](#SevenZ) | 7-Zip Compressed File (.7z) |
 | [TAR](#TAR) | Consolidated Unix File Archive (.tar) |
+| [RAR](#RAR) | Roshal ARchive Compressed File (.rar) |
 | [VSSX](#VSSX) | Visio Stencil File (.vssx) are drawing stencils created with Microsoft Visio 2013 and above. |
 | [VSDX](#VSDX) | Visio Drawing (.vsdx) represents Microsoft Visio file format introduced from Microsoft Office 2013 onwards. |
 | [VSDM](#VSDM) | Visio Macro-Enabled Drawing (.vsdm) are drawing files created with Microsoft Visio application that supports macros. |
@@ -51,6 +53,8 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [GIF](#GIF) | Graphical Interchange Format File (.gif) |
 | [SVG](#SVG) | Scalable Vector Graphics File (.svg) |
 | [SVGZ](#SVGZ) | Scalable Vector Graphics Compressed File (.svgz) |
+| [EMF](#EMF) | Windows Enhanced Metafile (.emf) |
+| [EMZ](#EMZ) | Windows Compressed Enhanced Metafile (.emz) |
 | [HTML](#HTML) | Hypertext Markup Language File (.html) is the extension for web pages created for display in browsers. |
 | [MHT](#MHT) | MHTML Web Archive (.mht) is a web page archive format that can be created by a number of different applications. |
 | [MHTML](#MHTML) | MIME HTML File (.mhtml) is a web page archive format that can be created by a number of different applications. |
@@ -122,13 +126,29 @@ public static FileType ZIP
 
 Zipped File (.zip)
 
+### SevenZ {#SevenZ}
+```
+public static final FileType SevenZ
+```
+
+
+7-Zip Compressed File (.7z)
+
 ### TAR {#TAR}
 ```
-public static FileType TAR
+public static final FileType TAR
 ```
 
 
 Consolidated Unix File Archive (.tar)
+
+### RAR {#RAR}
+```
+public static final FileType RAR
+```
+
+
+Roshal ARchive Compressed File (.rar)
 
 ### VSSX {#VSSX}
 ```
@@ -328,6 +348,22 @@ public static FileType SVGZ
 
 
 Scalable Vector Graphics Compressed File (.svgz)
+
+### EMF {#EMF}
+```
+public static final FileType EMF
+```
+
+
+Windows Enhanced Metafile (.emf)
+
+### EMZ {#EMZ}
+```
+public static final FileType EMZ
+```
+
+
+Windows Compressed Enhanced Metafile (.emz)
 
 ### HTML {#HTML}
 ```
