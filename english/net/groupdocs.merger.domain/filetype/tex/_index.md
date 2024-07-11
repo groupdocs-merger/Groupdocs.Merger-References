@@ -3,7 +3,7 @@ title: TEX
 second_title: GroupDocs.Merger for .NET API Reference
 description: LaTeX Source Document .tex is a language that comprises of programming as well as markup features used to typeset documents. Learn more about this file format herehttps//docs.fileformat.com/pagedescriptionlanguage/tex.
 type: docs
-weight: 410
+weight: 420
 url: /net/groupdocs.merger.domain/filetype/tex/
 ---
 ## FileType.TEX field
