@@ -1,17 +1,17 @@
 ---
-title: ZIP
+title: PPTM
 second_title: GroupDocs.Merger for .NET API Reference
-description: Zipped File .zip
+description: PowerPoint Open XML MacroEnabled Presentation
 type: docs
-weight: 670
-url: /net/groupdocs.merger.domain/filetype/zip/
+weight: 330
+url: /net/groupdocs.merger.domain/filetype/pptm/
 ---
-## FileType.ZIP field
+## FileType.PPTM field
 
-Zipped File (.zip)
+PowerPoint Open XML Macro-Enabled Presentation
 
 ```csharp
-public static readonly FileType ZIP;
+public static readonly FileType PPTM;
 ```
 
 ### See Also
