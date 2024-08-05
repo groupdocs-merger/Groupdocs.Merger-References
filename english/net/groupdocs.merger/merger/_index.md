@@ -47,12 +47,12 @@ public class Merger : IDisposable
 | [IsPasswordSet](../../groupdocs.merger/merger/ispasswordset)() | Checks whether document is password protected. |
 | [Join](../../groupdocs.merger/merger/join#join)(Stream) | Joins the documents into one single document. |
 | [Join](../../groupdocs.merger/merger/join#join_4)(string) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_1)(Stream, IImageJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_2)(Stream, IJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_3)(Stream, IPageJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_5)(string, IImageJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_6)(string, IJoinOptions) | Joins the documents into one single document. |
-| [Join](../../groupdocs.merger/merger/join#join_7)(string, IPageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_1)(Stream, ImageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_2)(Stream, JoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_3)(Stream, PageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_5)(string, ImageJoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_6)(string, JoinOptions) | Joins the documents into one single document. |
+| [Join](../../groupdocs.merger/merger/join#join_7)(string, PageJoinOptions) | Joins the documents into one single document. |
 | [MovePage](../../groupdocs.merger/merger/movepage)(IMoveOptions) | Moves page to a new position within document of known format. |
 | [RemovePages](../../groupdocs.merger/merger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/merger/removepassword)() | Removes password from document. |
