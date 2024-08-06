@@ -38,18 +38,18 @@ public void Join(Stream document)
 
 ---
 
-## Join(Stream, JoinOptions) {#join_2}
+## Join(Stream, IJoinOptions) {#join_2}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, JoinOptions joinOptions)
+public void Join(Stream document, IJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Stream | Joined document. |
-| joinOptions | JoinOptions | The join options. |
+| joinOptions | IJoinOptions | The join options. |
 
 ### Exceptions
 
@@ -66,25 +66,25 @@ public void Join(Stream document, JoinOptions joinOptions)
 
 ### See Also
 
-* class [JoinOptions](../../../groupdocs.merger.domain.options/joinoptions)
+* interface [IJoinOptions](../../../groupdocs.merger.domain.options/ijoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Join(Stream, PageJoinOptions) {#join_3}
+## Join(Stream, IPageJoinOptions) {#join_3}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, PageJoinOptions joinOptions)
+public void Join(Stream document, IPageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Stream | Joined document. |
-| joinOptions | PageJoinOptions | The join options. |
+| joinOptions | IPageJoinOptions | The join options. |
 
 ### Exceptions
 
@@ -101,25 +101,25 @@ public void Join(Stream document, PageJoinOptions joinOptions)
 
 ### See Also
 
-* class [PageJoinOptions](../../../groupdocs.merger.domain.options/pagejoinoptions)
+* interface [IPageJoinOptions](../../../groupdocs.merger.domain.options/ipagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Join(Stream, ImageJoinOptions) {#join_1}
+## Join(Stream, IImageJoinOptions) {#join_1}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, ImageJoinOptions joinOptions)
+public void Join(Stream document, IImageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Stream | Joined document. |
-| joinOptions | ImageJoinOptions | The image join options. |
+| joinOptions | IImageJoinOptions | The image join options. |
 
 ### Exceptions
 
@@ -136,7 +136,7 @@ public void Join(Stream document, ImageJoinOptions joinOptions)
 
 ### See Also
 
-* class [ImageJoinOptions](../../../groupdocs.merger.domain.options/imagejoinoptions)
+* interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
@@ -175,18 +175,18 @@ public void Join(string filePath)
 
 ---
 
-## Join(string, JoinOptions) {#join_6}
+## Join(string, IJoinOptions) {#join_6}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, JoinOptions joinOptions)
+public void Join(string filePath, IJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | String | File path of the joined document. |
-| joinOptions | JoinOptions | The join options. |
+| joinOptions | IJoinOptions | The join options. |
 
 ### Exceptions
 
@@ -203,25 +203,25 @@ public void Join(string filePath, JoinOptions joinOptions)
 
 ### See Also
 
-* class [JoinOptions](../../../groupdocs.merger.domain.options/joinoptions)
+* interface [IJoinOptions](../../../groupdocs.merger.domain.options/ijoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Join(string, PageJoinOptions) {#join_7}
+## Join(string, IPageJoinOptions) {#join_7}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, PageJoinOptions joinOptions)
+public void Join(string filePath, IPageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | String | File path of the joined document. |
-| joinOptions | PageJoinOptions | The join options. |
+| joinOptions | IPageJoinOptions | The join options. |
 
 ### Exceptions
 
@@ -238,25 +238,25 @@ public void Join(string filePath, PageJoinOptions joinOptions)
 
 ### See Also
 
-* class [PageJoinOptions](../../../groupdocs.merger.domain.options/pagejoinoptions)
+* interface [IPageJoinOptions](../../../groupdocs.merger.domain.options/ipagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Join(string, ImageJoinOptions) {#join_5}
+## Join(string, IImageJoinOptions) {#join_5}
 
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, ImageJoinOptions joinOptions)
+public void Join(string filePath, IImageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | String | File path of the joined document. |
-| joinOptions | ImageJoinOptions | The image join options. |
+| joinOptions | IImageJoinOptions | The image join options. |
 
 ### Exceptions
 
@@ -273,7 +273,7 @@ public void Join(string filePath, ImageJoinOptions joinOptions)
 
 ### See Also
 
-* class [ImageJoinOptions](../../../groupdocs.merger.domain.options/imagejoinoptions)
+* interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
