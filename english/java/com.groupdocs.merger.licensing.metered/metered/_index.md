@@ -61,7 +61,7 @@ Activates product with Metered keys.
 
 ### getConsumptionQuantity() {#getConsumptionQuantity--}
 ```
-public static double getConsumptionQuantity()
+public static BigDecimal getConsumptionQuantity()
 ```
 
 
@@ -81,10 +81,10 @@ Retrieves amount of MBs processed.
 > ```
 
 **Returns:**
-double
+java.math.BigDecimal
 ### getConsumptionCredit() {#getConsumptionCredit--}
 ```
-public static double getConsumptionCredit()
+public static BigDecimal getConsumptionCredit()
 ```
 
 
@@ -104,4 +104,4 @@ Retrieves amount of used credits
 > ```
 
 **Returns:**
-double
+java.math.BigDecimal
