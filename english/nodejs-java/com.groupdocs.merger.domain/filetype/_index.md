@@ -68,6 +68,7 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [PPSX](#PPSX) | PowerPoint Open XML Slide Show (.ppsx) is a file created using Microsoft PowerPoint 2007 and above for Slide Show purpose. |
 | [ODP](#ODP) | OpenDocument Presentation (.odp) represents presentation file format used by OpenOffice.org in the OASISOpen standard. |
 | [OTP](#OTP) | OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format. |
+| [PPTM](#PPTM) | PowerPoint Open XML Macro-Enabled Presentation |
 | [XLS](#XLS) | Excel Spreadsheet (.xls) is a file that can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. |
 | [XLSX](#XLSX) | Microsoft Excel Open XML Spreadsheet (.xlsx) is a well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. |
 | [XLSM](#XLSM) | Excel Open XML Macro-Enabled Spreadsheet (.xlsm) is a type of Spreasheet files that support macros. |
@@ -507,6 +508,14 @@ OpenDocument Presentation Template (.otp) represents presentation template files
 
 
 [here]: https://docs.fileformat.com/presentation/otp
+
+### PPTM {#PPTM}
+```
+public static FileType PPTM
+```
+
+
+PowerPoint Open XML Macro-Enabled Presentation
 
 ### XLS {#XLS}
 ```
