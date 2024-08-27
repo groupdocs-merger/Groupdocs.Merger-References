@@ -3,7 +3,7 @@ title: Merger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
-weight: 850
+weight: 860
 url: /net/groupdocs.merger/merger/
 ---
 ## Merger class
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/
 Represents the main class that controls the document merging process.
 
 ```csharp
-public class Merger : IDisposable
+public class Merger : IDisposable, IMerger
 ```
 
 ## Constructors
@@ -67,6 +67,7 @@ public class Merger : IDisposable
 
 ### See Also
 
+* interface [IMerger](../imerger)
 * namespace [GroupDocs.Merger](../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../)
 

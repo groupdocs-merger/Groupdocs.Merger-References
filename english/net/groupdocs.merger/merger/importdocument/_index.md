@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/importdocument/
 Imports the document as attachment or embedded via Ole.
 
 ```csharp
-public void ImportDocument(IImportDocumentOptions importDocumentOptions)
+public IMerger ImportDocument(IImportDocumentOptions importDocumentOptions)
 ```
 
 | Parameter | Type | Description |
@@ -36,6 +36,7 @@ public void ImportDocument(IImportDocumentOptions importDocumentOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IImportDocumentOptions](../../../groupdocs.merger.domain.options/iimportdocumentoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

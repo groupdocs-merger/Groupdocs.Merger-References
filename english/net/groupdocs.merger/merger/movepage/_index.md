@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/movepage/
 Moves page to a new position within document of known format.
 
 ```csharp
-public void MovePage(IMoveOptions moveOptions)
+public IMerger MovePage(IMoveOptions moveOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void MovePage(IMoveOptions moveOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IMoveOptions](../../../groupdocs.merger.domain.options/imoveoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

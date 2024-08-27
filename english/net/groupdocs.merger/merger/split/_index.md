@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/split/
 Splits the single document to the multiple documents.
 
 ```csharp
-public void Split(ISplitOptions splitOptions)
+public IMerger Split(ISplitOptions splitOptions)
 ```
 
 | Parameter | Type | Description |
@@ -33,6 +33,7 @@ public void Split(ISplitOptions splitOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [ISplitOptions](../../../groupdocs.merger.domain.options/isplitoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -45,7 +46,7 @@ public void Split(ISplitOptions splitOptions)
 Splits the single document to the multiple documents.
 
 ```csharp
-public void Split(ITextSplitOptions splitOptions)
+public IMerger Split(ITextSplitOptions splitOptions)
 ```
 
 | Parameter | Type | Description |
@@ -67,6 +68,7 @@ public void Split(ITextSplitOptions splitOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [ITextSplitOptions](../../../groupdocs.merger.domain.options/itextsplitoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

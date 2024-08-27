@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/addpassword/
 Protects document with password.
 
 ```csharp
-public void AddPassword(IAddPasswordOptions addPasswordOptions)
+public IMerger AddPassword(IAddPasswordOptions addPasswordOptions)
 ```
 
 | Parameter | Type | Description |
@@ -35,6 +35,7 @@ public void AddPassword(IAddPasswordOptions addPasswordOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IAddPasswordOptions](../../../groupdocs.merger.domain.options/iaddpasswordoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

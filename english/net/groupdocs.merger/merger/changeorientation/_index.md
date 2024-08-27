@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/changeorientation/
 Applies a new orientation mode for the specified pages.
 
 ```csharp
-public void ChangeOrientation(IOrientationOptions orientationOptions)
+public IMerger ChangeOrientation(IOrientationOptions orientationOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void ChangeOrientation(IOrientationOptions orientationOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IOrientationOptions](../../../groupdocs.merger.domain.options/iorientationoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
