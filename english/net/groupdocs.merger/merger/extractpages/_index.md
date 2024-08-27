@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/extractpages/
 Makes a new document with some pages from the source document.
 
 ```csharp
-public void ExtractPages(IExtractOptions extractOptions)
+public IMerger ExtractPages(IExtractOptions extractOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void ExtractPages(IExtractOptions extractOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IExtractOptions](../../../groupdocs.merger.domain.options/iextractoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

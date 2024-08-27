@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/join/
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document)
+public IMerger Join(Stream document)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void Join(Stream document)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
@@ -43,7 +44,7 @@ public void Join(Stream document)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, IJoinOptions joinOptions)
+public IMerger Join(Stream document, IJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -66,6 +67,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IJoinOptions](../../../groupdocs.merger.domain.options/ijoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -78,7 +80,7 @@ public void Join(Stream document, IJoinOptions joinOptions)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, IPageJoinOptions joinOptions)
+public IMerger Join(Stream document, IPageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -101,6 +103,7 @@ public void Join(Stream document, IPageJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IPageJoinOptions](../../../groupdocs.merger.domain.options/ipagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -113,7 +116,7 @@ public void Join(Stream document, IPageJoinOptions joinOptions)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(Stream document, IImageJoinOptions joinOptions)
+public IMerger Join(Stream document, IImageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -136,6 +139,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -148,7 +152,7 @@ public void Join(Stream document, IImageJoinOptions joinOptions)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath)
+public IMerger Join(string filePath)
 ```
 
 | Parameter | Type | Description |
@@ -169,6 +173,7 @@ public void Join(string filePath)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
@@ -180,7 +185,7 @@ public void Join(string filePath)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, IJoinOptions joinOptions)
+public IMerger Join(string filePath, IJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -203,6 +208,7 @@ public void Join(string filePath, IJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IJoinOptions](../../../groupdocs.merger.domain.options/ijoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -215,7 +221,7 @@ public void Join(string filePath, IJoinOptions joinOptions)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, IPageJoinOptions joinOptions)
+public IMerger Join(string filePath, IPageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -238,6 +244,7 @@ public void Join(string filePath, IPageJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IPageJoinOptions](../../../groupdocs.merger.domain.options/ipagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
@@ -250,7 +257,7 @@ public void Join(string filePath, IPageJoinOptions joinOptions)
 Joins the documents into one single document.
 
 ```csharp
-public void Join(string filePath, IImageJoinOptions joinOptions)
+public IMerger Join(string filePath, IImageJoinOptions joinOptions)
 ```
 
 | Parameter | Type | Description |
@@ -273,6 +280,7 @@ public void Join(string filePath, IImageJoinOptions joinOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IImageJoinOptions](../../../groupdocs.merger.domain.options/iimagejoinoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

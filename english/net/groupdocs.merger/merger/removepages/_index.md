@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/removepages/
 Removes pages from document of known format.
 
 ```csharp
-public void RemovePages(IRemoveOptions removeOptions)
+public IMerger RemovePages(IRemoveOptions removeOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void RemovePages(IRemoveOptions removeOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IRemoveOptions](../../../groupdocs.merger.domain.options/iremoveoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/removepassword/
 Removes password from document.
 
 ```csharp
-public void RemovePassword()
+public IMerger RemovePassword()
 ```
 
 ### Remarks
@@ -25,6 +25,7 @@ public void RemovePassword()
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)

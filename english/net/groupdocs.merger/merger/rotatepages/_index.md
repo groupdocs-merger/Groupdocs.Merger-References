@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/rotatepages/
 Rotate pages of the document.
 
 ```csharp
-public void RotatePages(IRotateOptions rotateOptions)
+public IMerger RotatePages(IRotateOptions rotateOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void RotatePages(IRotateOptions rotateOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IRotateOptions](../../../groupdocs.merger.domain.options/irotateoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

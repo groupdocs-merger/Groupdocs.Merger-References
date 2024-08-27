@@ -3,8 +3,8 @@ title: Save
 second_title: GroupDocs.Merger for .NET API Reference
 description: Saves the result document to the stream document.
 type: docs
-weight: 170
-url: /net/groupdocs.merger/merger/save/
+weight: 100
+url: /net/groupdocs.merger/imerger/save/
 ---
 ## Save(Stream) {#save}
 
@@ -14,20 +14,9 @@ Saves the result document to the stream *document*.
 public IMerger Save(Stream document)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Stream | The document stream. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | Thrown when *document* is null. |
-
 ### See Also
 
 * interface [IMerger](../../imerger)
-* class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
@@ -41,20 +30,9 @@ Saves the result document file to *filePath*.
 public IMerger Save(string filePath)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file name or full file path. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | Thrown when *filePath* is null or empty. |
-
 ### See Also
 
 * interface [IMerger](../../imerger)
-* class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
@@ -68,21 +46,9 @@ Saves the result document file to *filePath*.
 public IMerger Save(string filePath, bool useDefaultDirectory)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file path or name in case of default directory usage. |
-| useDefaultDirectory | Boolean | Use the default directory from settings. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | Thrown when *filePath* is null or empty. |
-
 ### See Also
 
 * interface [IMerger](../../imerger)
-* class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 

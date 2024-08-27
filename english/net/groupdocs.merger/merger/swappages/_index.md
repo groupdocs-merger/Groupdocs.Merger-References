@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/swappages/
 Swaps two pages within document of known format.
 
 ```csharp
-public void SwapPages(ISwapOptions swapOptions)
+public IMerger SwapPages(ISwapOptions swapOptions)
 ```
 
 | Parameter | Type | Description |
@@ -32,6 +32,7 @@ public void SwapPages(ISwapOptions swapOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [ISwapOptions](../../../groupdocs.merger.domain.options/iswapoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)

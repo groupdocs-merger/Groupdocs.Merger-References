@@ -11,7 +11,7 @@ url: /net/groupdocs.merger/merger/updatepassword/
 Updates existing password for document.
 
 ```csharp
-public void UpdatePassword(IUpdatePasswordOptions updatePasswordOptions)
+public IMerger UpdatePassword(IUpdatePasswordOptions updatePasswordOptions)
 ```
 
 | Parameter | Type | Description |
@@ -35,6 +35,7 @@ public void UpdatePassword(IUpdatePasswordOptions updatePasswordOptions)
 
 ### See Also
 
+* interface [IMerger](../../imerger)
 * interface [IUpdatePasswordOptions](../../../groupdocs.merger.domain.options/iupdatepasswordoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
