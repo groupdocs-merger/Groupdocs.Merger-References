@@ -28,6 +28,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [PageJoinOptions](./pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](./pageoptions) | Provides options for specifying page or pages range. |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
+| [PdfJoinOptions](./pdfjoinoptions) | The Pdf join options. |
 | [PreviewOptions](./previewoptions) | Represents document preview options. |
 | [RemoveOptions](./removeoptions) | Provides options for the page removing. |
 | [RotateOptions](./rotateoptions) | Provides options for the page rotation. |

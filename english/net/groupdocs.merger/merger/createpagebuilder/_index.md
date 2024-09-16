@@ -18,6 +18,12 @@ public PageBuilder CreatePageBuilder(PageBuilderOptions pageBuilderOptions = nul
 
 The created page builder.
 
+### Remarks
+
+**Learn more**
+
+* More about document merge scenarios and use cases: [How to merge pages in the arbitrary order](https://docs.groupdocs.com/merger/net/merge-pages-in-arbitrary-order/)
+
 ### See Also
 
 * class [PageBuilder](../../../groupdocs.merger.domain.builders/pagebuilder)

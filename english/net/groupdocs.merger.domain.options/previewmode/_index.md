@@ -3,7 +3,7 @@ title: PreviewMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides modes for the page previewing.
 type: docs
-weight: 570
+weight: 580
 url: /net/groupdocs.merger.domain.options/previewmode/
 ---
 ## PreviewMode enumeration

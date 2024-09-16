@@ -3,7 +3,7 @@ title: WordJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: The Word join options.
 type: docs
-weight: 720
+weight: 730
 url: /net/groupdocs.merger.domain.options/wordjoinoptions/
 ---
 ## WordJoinOptions class

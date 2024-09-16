@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: PPSM
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: PowerPoint Open XML MacroEnabled Slide .ppsm
 type: docs
-weight: 590
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 310
+url: /net/groupdocs.merger.domain/filetype/ppsm/
 ---
-## FileType.XLAM field
+## FileType.PPSM field
 
-Excel Macro-Enabled Add-In (.xlam)
+PowerPoint Open XML Macro-Enabled Slide (.ppsm)
 
 ```csharp
-public static readonly FileType XLAM;
+public static readonly FileType PPSM;
 ```
 
 ### See Also
