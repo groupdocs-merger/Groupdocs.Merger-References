@@ -3,7 +3,7 @@ title: Metered
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides methods for applying Meteredhttps//purchase.groupdocs.com/faqs/licensing/metered license.
 type: docs
-weight: 880
+weight: 890
 url: /net/groupdocs.merger/metered/
 ---
 ## Metered class

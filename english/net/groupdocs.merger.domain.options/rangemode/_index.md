@@ -3,7 +3,7 @@ title: RangeMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible modes for the page ranging.
 type: docs
-weight: 590
+weight: 600
 url: /net/groupdocs.merger.domain.options/rangemode/
 ---
 ## RangeMode enumeration
