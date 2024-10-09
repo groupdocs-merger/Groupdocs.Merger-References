@@ -1,17 +1,17 @@
 ---
-title: XLAM
+title: VSD
 second_title: GroupDocs.Merger for .NET API Reference
-description: Excel MacroEnabled AddIn .xlam
+description: Visio Drawing File .vsd
 type: docs
-weight: 600
-url: /net/groupdocs.merger.domain/filetype/xlam/
+weight: 500
+url: /net/groupdocs.merger.domain/filetype/vsd/
 ---
-## FileType.XLAM field
+## FileType.VSD field
 
-Excel Macro-Enabled Add-In (.xlam)
+Visio Drawing File (.vsd)
 
 ```csharp
-public static readonly FileType XLAM;
+public static readonly FileType VSD;
 ```
 
 ### See Also
