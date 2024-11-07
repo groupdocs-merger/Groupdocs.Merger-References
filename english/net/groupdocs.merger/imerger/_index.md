@@ -3,7 +3,7 @@ title: IMerger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the main class that controls the document merging process.
 type: docs
-weight: 830
+weight: 850
 url: /net/groupdocs.merger/imerger/
 ---
 ## IMerger interface

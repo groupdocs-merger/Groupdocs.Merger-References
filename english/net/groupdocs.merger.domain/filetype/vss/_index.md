@@ -1,17 +1,17 @@
 ---
-title: Extension
+title: VSS
 second_title: GroupDocs.Merger for .NET API Reference
-description: Filename suffix including the period . e.g. .doc.
+description: Visio Stencil File.vss
 type: docs
-weight: 730
-url: /net/groupdocs.merger.domain/filetype/extension/
+weight: 530
+url: /net/groupdocs.merger.domain/filetype/vss/
 ---
-## FileType.Extension property
+## FileType.VSS field
 
-Filename suffix (including the period ".") e.g. ".doc".
+Visio Stencil File(.vss)
 
 ```csharp
-public string Extension { get; }
+public static readonly FileType VSS;
 ```
 
 ### See Also
