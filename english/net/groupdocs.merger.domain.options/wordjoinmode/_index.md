@@ -20,6 +20,7 @@ public enum WordJoinMode
 | --- | --- | --- |
 | Default | `0` | Specifies Default Word joining. |
 | Continuous | `1` | Specifies Word joining without starting from new page. |
+| DisableSectionBreaks | `2` | Specifies Word joining without section breaks. |
 
 ### See Also
 
