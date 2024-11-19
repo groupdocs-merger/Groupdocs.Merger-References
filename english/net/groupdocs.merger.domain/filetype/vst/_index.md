@@ -1,17 +1,17 @@
 ---
-title: Extension
+title: VST
 second_title: GroupDocs.Merger for .NET API Reference
-description: Filename suffix including the period . e.g. .doc.
+description: Visio Drawing Template .vst
 type: docs
-weight: 730
-url: /net/groupdocs.merger.domain/filetype/extension/
+weight: 560
+url: /net/groupdocs.merger.domain/filetype/vst/
 ---
-## FileType.Extension property
+## FileType.VST field
 
-Filename suffix (including the period ".") e.g. ".doc".
+Visio Drawing Template (.vst)
 
 ```csharp
-public string Extension { get; }
+public static readonly FileType VST;
 ```
 
 ### See Also

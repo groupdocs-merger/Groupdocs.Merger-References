@@ -29,6 +29,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [PageOptions](./pageoptions) | Provides options for specifying page or pages range. |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
 | [PdfJoinOptions](./pdfjoinoptions) | The Pdf join options. |
+| [PdfSecurityOptions](./pdfsecurityoptions) | Contains the PDF document security options. |
 | [PreviewOptions](./previewoptions) | Represents document preview options. |
 | [RemoveOptions](./removeoptions) | Provides options for the page removing. |
 | [RotateOptions](./rotateoptions) | Provides options for the page rotation. |
@@ -75,6 +76,7 @@ The namespace provides classes to specify additional options when loading, joini
 | --- | --- |
 | [ImageJoinMode](./imagejoinmode) | Possible modes for the image joining. |
 | [OrientationMode](./orientationmode) | Defines page orientation. |
+| [PdfSecurityPermissions](./pdfsecuritypermissions) | Defines PDF document permissions. |
 | [PreviewMode](./previewmode) | Provides modes for the page previewing. |
 | [RangeMode](./rangemode) | Possible modes for the page ranging. |
 | [RotateMode](./rotatemode) | Possible modes for the page rotation. |

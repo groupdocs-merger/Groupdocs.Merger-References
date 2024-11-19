@@ -3,7 +3,7 @@ title: UpdatePasswordOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for updating document password.
 type: docs
-weight: 700
+weight: 720
 url: /net/groupdocs.merger.domain.options/updatepasswordoptions/
 ---
 ## UpdatePasswordOptions class

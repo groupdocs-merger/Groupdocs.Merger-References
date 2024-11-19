@@ -3,7 +3,7 @@ title: XLSX
 second_title: GroupDocs.Merger for .NET API Reference
 description: Microsoft Excel Open XML Spreadsheet .xlsx is a wellknown format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Learn more about this file format herehttps//docs.fileformat.com/spreadsheet/xlsx.
 type: docs
-weight: 640
+weight: 660
 url: /net/groupdocs.merger.domain/filetype/xlsx/
 ---
 ## FileType.XLSX field

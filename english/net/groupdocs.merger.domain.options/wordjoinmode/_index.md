@@ -3,7 +3,7 @@ title: WordJoinMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible modes for the Word joining.
 type: docs
-weight: 720
+weight: 740
 url: /net/groupdocs.merger.domain.options/wordjoinmode/
 ---
 ## WordJoinMode enumeration
@@ -20,6 +20,7 @@ public enum WordJoinMode
 | --- | --- | --- |
 | Default | `0` | Specifies Default Word joining. |
 | Continuous | `1` | Specifies Word joining without starting from new page. |
+| DisableSectionBreaks | `2` | Specifies Word joining without section breaks. |
 
 ### See Also
 

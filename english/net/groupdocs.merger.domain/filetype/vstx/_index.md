@@ -3,7 +3,7 @@ title: VSTX
 second_title: GroupDocs.Merger for .NET API Reference
 description: Visio Drawing Template .vstx are drawing template files created with Microsoft Visio 2013 and above. These VSTX files provide starting point for creating Visio drawings saved as .VSDX files with default layout and settings. Learn more about this file format herehttps//docs.fileformat.com/image/vstx.
 type: docs
-weight: 560
+weight: 580
 url: /net/groupdocs.merger.domain/filetype/vstx/
 ---
 ## FileType.VSTX field
