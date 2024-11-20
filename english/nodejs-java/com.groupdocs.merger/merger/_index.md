@@ -38,7 +38,7 @@ Represents the main class that controls the document merging process.
 | [join(String filePath)](#join-java.lang.String-) | Joins the documents into one single document. |
 | [join(String filePath, IJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath, IPageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
-| [join(String filePath, IImageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-) | Joins the documents into one single document. |
+| [join(String filePath, ImageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.ImageJoinOptions-) | Joins the documents into one single document. |
 | [createPageBuilder()](#createPageBuilder--) | Creates a new Page builder with predefined document collection. |
 | [createPageBuilder(PageBuilderOptions pageBuilderOptions)](#createPageBuilder-com.groupdocs.merger.domain.options.PageBuilderOptions-) | Creates a new Page builder with predefined document collection. |
 | [applyPageBuilder(PageBuilder pageBuilder)](#applyPageBuilder-com.groupdocs.merger.domain.builders.PageBuilder-) | Applies page builder changes. |
@@ -359,9 +359,9 @@ Joins the documents into one single document.
 
  *   |
 
-### join(String filePath, IImageJoinOptions joinOptions) {#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-}
+### join(String filePath, ImageJoinOptions joinOptions) {#join-java.lang.String-com.groupdocs.merger.domain.options.ImageJoinOptions-}
 ```
-public final void join(String filePath, IImageJoinOptions joinOptions)
+public final void join(String filePath, ImageJoinOptions joinOptions)
 ```
 
 
@@ -371,7 +371,7 @@ Joins the documents into one single document.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | java.lang.String | File path of the joined document. |
-| joinOptions | [IImageJoinOptions](../../com.groupdocs.merger.domain.options.interfaces/iimagejoinoptions) | The image join options.
+| joinOptions | [ImageJoinOptions](../../com.groupdocs.merger.domain.options/imagejoinoptions) | The image join options.
 
 --------------------
 
