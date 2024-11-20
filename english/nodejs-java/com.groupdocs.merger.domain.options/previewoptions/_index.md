@@ -32,6 +32,8 @@ Represents document preview options.
 | [setWidth(int value)](#setWidth-int-) | Preview width. |
 | [getHeight()](#getHeight--) | Preview height. |
 | [setHeight(int value)](#setHeight-int-) | Preview height. |
+| [getResolution()](#getResolution--) | Image resolution. |
+| [setResolution(int value)](#setResolution-int-) | Image resolution. |
 | [getMode()](#getMode--) | Mode for preview. |
 | [validate(FileType fileType)](#validate-com.groupdocs.merger.domain.FileType-) | Validates the preview options. |
 | [getPathByPageNumber(int pageNumber, String extension)](#getPathByPageNumber-int-java.lang.String-) | Gets the full file path of previewed document by page number with defined extension. |
@@ -138,6 +140,29 @@ public final void setHeight(int value)
 
 
 Preview height.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### getResolution() {#getResolution--}
+```
+public final int getResolution()
+```
+
+
+Image resolution.
+
+**Returns:**
+int
+### setResolution(int value) {#setResolution-int-}
+```
+public final void setResolution(int value)
+```
+
+
+Image resolution.
 
 **Parameters:**
 | Parameter | Type | Description |

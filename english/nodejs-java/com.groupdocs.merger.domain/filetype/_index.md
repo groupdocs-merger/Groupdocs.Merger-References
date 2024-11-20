@@ -30,7 +30,9 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | --- | --- |
 | [Unknown](#Unknown) | Represents unknown file type. |
 | [ZIP](#ZIP) | Zipped File (.zip) |
+| [SevenZ](#SevenZ) | 7-Zip Compressed File (.7z) |
 | [TAR](#TAR) | Consolidated Unix File Archive (.tar) |
+| [RAR](#RAR) | Roshal ARchive Compressed File (.rar) |
 | [VSSX](#VSSX) | Visio Stencil File (.vssx) are drawing stencils created with Microsoft Visio 2013 and above. |
 | [VSDX](#VSDX) | Visio Drawing (.vsdx) represents Microsoft Visio file format introduced from Microsoft Office 2013 onwards. |
 | [VSDM](#VSDM) | Visio Macro-Enabled Drawing (.vsdm) are drawing files created with Microsoft Visio application that supports macros. |
@@ -51,6 +53,8 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [GIF](#GIF) | Graphical Interchange Format File (.gif) |
 | [SVG](#SVG) | Scalable Vector Graphics File (.svg) |
 | [SVGZ](#SVGZ) | Scalable Vector Graphics Compressed File (.svgz) |
+| [EMF](#EMF) | Windows Enhanced Metafile (.emf) |
+| [EMZ](#EMZ) | Windows Compressed Enhanced Metafile (.emz) |
 | [HTML](#HTML) | Hypertext Markup Language File (.html) is the extension for web pages created for display in browsers. |
 | [MHT](#MHT) | MHTML Web Archive (.mht) is a web page archive format that can be created by a number of different applications. |
 | [MHTML](#MHTML) | MIME HTML File (.mhtml) is a web page archive format that can be created by a number of different applications. |
@@ -64,6 +68,7 @@ Represents file type. Provides methods to obtain list of all file types supporte
 | [PPSX](#PPSX) | PowerPoint Open XML Slide Show (.ppsx) is a file created using Microsoft PowerPoint 2007 and above for Slide Show purpose. |
 | [ODP](#ODP) | OpenDocument Presentation (.odp) represents presentation file format used by OpenOffice.org in the OASISOpen standard. |
 | [OTP](#OTP) | OpenDocument Presentation Template (.otp) represents presentation template files created by applications in OASIS OpenDocument standard format. |
+| [PPTM](#PPTM) | PowerPoint Open XML Macro-Enabled Presentation |
 | [XLS](#XLS) | Excel Spreadsheet (.xls) is a file that can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. |
 | [XLSX](#XLSX) | Microsoft Excel Open XML Spreadsheet (.xlsx) is a well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. |
 | [XLSM](#XLSM) | Excel Open XML Macro-Enabled Spreadsheet (.xlsm) is a type of Spreasheet files that support macros. |
@@ -122,13 +127,29 @@ public static FileType ZIP
 
 Zipped File (.zip)
 
+### SevenZ {#SevenZ}
+```
+public static final FileType SevenZ
+```
+
+
+7-Zip Compressed File (.7z)
+
 ### TAR {#TAR}
 ```
-public static FileType TAR
+public static final FileType TAR
 ```
 
 
 Consolidated Unix File Archive (.tar)
+
+### RAR {#RAR}
+```
+public static final FileType RAR
+```
+
+
+Roshal ARchive Compressed File (.rar)
 
 ### VSSX {#VSSX}
 ```
@@ -329,6 +350,22 @@ public static FileType SVGZ
 
 Scalable Vector Graphics Compressed File (.svgz)
 
+### EMF {#EMF}
+```
+public static final FileType EMF
+```
+
+
+Windows Enhanced Metafile (.emf)
+
+### EMZ {#EMZ}
+```
+public static final FileType EMZ
+```
+
+
+Windows Compressed Enhanced Metafile (.emz)
+
 ### HTML {#HTML}
 ```
 public static final FileType HTML
@@ -471,6 +508,14 @@ OpenDocument Presentation Template (.otp) represents presentation template files
 
 
 [here]: https://docs.fileformat.com/presentation/otp
+
+### PPTM {#PPTM}
+```
+public static FileType PPTM
+```
+
+
+PowerPoint Open XML Macro-Enabled Presentation
 
 ### XLS {#XLS}
 ```
