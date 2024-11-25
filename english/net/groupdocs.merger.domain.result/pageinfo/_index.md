@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.result/pageinfo/
 Defines page description properties.
 
 ```csharp
-public class PageInfo : IPageInfo
+public class PageInfo : IPageInfo, ISerializable
 ```
 
 ## Constructors
