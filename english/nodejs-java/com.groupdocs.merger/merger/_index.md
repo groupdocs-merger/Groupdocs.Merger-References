@@ -34,7 +34,7 @@ Represents the main class that controls the document merging process.
 | [join(InputStream document)](#join-java.io.InputStream-) | Joins the documents into one single document. |
 | [join(InputStream document, IJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
 | [join(InputStream document, IPageJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
-| [join(InputStream document, IImageJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-) | Joins the documents into one single document. |
+| [join(InputStream document, ImageJoinOptions joinOptions)](#join-java.io.InputStream-com.groupdocs.merger.domain.options.ImageJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath)](#join-java.lang.String-) | Joins the documents into one single document. |
 | [join(String filePath, IJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IJoinOptions-) | Joins the documents into one single document. |
 | [join(String filePath, IPageJoinOptions joinOptions)](#join-java.lang.String-com.groupdocs.merger.domain.options.interfaces.IPageJoinOptions-) | Joins the documents into one single document. |
@@ -274,9 +274,9 @@ Joins the documents into one single document.
 
  *   |
 
-### join(InputStream document, IImageJoinOptions joinOptions) {#join-java.io.InputStream-com.groupdocs.merger.domain.options.interfaces.IImageJoinOptions-}
+### join(InputStream document, ImageJoinOptions joinOptions) {#join-java.io.InputStream-com.groupdocs.merger.domain.options.ImageJoinOptions-}
 ```
-public final void join(InputStream document, IImageJoinOptions joinOptions)
+public final void join(InputStream document, ImageJoinOptions joinOptions)
 ```
 
 
@@ -286,7 +286,7 @@ Joins the documents into one single document.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | java.io.InputStream | Joined document. |
-| joinOptions | [IImageJoinOptions](../../com.groupdocs.merger.domain.options.interfaces/iimagejoinoptions) | The image join options.
+| joinOptions | [ImageJoinOptions](../../com.groupdocs.merger.domain.options/imagejoinoptions) | The image join options.
 
 --------------------
 
