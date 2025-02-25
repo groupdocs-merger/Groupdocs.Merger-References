@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.builders/pagebuilder/pages/
 The page collection.
 
 ```csharp
-public ReadOnlyCollection<PageInfo> Pages { get; }
+public List<PageInfo> Pages { get; }
 ```
 
 ### See Also
