@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.builders/pagebuilder/documents/
 The document collection.
 
 ```csharp
-public Dictionary<int, DocumentInfo> Documents { get; }
+public ReadOnlyDictionary<int, DocumentInfo> Documents { get; }
 ```
 
 ### See Also
