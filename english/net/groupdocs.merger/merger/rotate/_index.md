@@ -1,17 +1,17 @@
 ---
-title: RotatePages
+title: Rotate
 second_title: GroupDocs.Merger for .NET API Reference
-description: Rotate pages of the document.
+description: Rotate image or pages of the document.
 type: docs
 weight: 160
-url: /net/groupdocs.merger/merger/rotatepages/
+url: /net/groupdocs.merger/merger/rotate/
 ---
-## Merger.RotatePages method
+## Merger.Rotate method
 
-Rotate pages of the document.
+Rotate image or pages of the document.
 
 ```csharp
-public IMerger RotatePages(IRotateOptions rotateOptions)
+public IMerger Rotate(IRotateOptions rotateOptions)
 ```
 
 | Parameter | Type | Description |

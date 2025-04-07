@@ -33,7 +33,7 @@ public interface IMerger
 | [MovePage](../../groupdocs.merger/imerger/movepage)(IMoveOptions) | Moves page to a new position within document of known format. |
 | [RemovePages](../../groupdocs.merger/imerger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/imerger/removepassword)() | Removes password from document. |
-| [RotatePages](../../groupdocs.merger/imerger/rotatepages)(IRotateOptions) | Rotate pages of the document. |
+| [Rotate](../../groupdocs.merger/imerger/rotate)(IRotateOptions) | Rotate pages of the document. |
 | [Save](../../groupdocs.merger/imerger/save#save)(Stream) | Saves the result document to the stream *document*. |
 | [Save](../../groupdocs.merger/imerger/save#save_1)(string) | Saves the result document file to *filePath*. |
 | [Save](../../groupdocs.merger/imerger/save#save_2)(string, bool) | Saves the result document file to *filePath*. |
