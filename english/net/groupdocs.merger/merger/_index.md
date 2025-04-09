@@ -56,7 +56,7 @@ public class Merger : IDisposable, IMerger
 | [MovePage](../../groupdocs.merger/merger/movepage)(IMoveOptions) | Moves page to a new position within document of known format. |
 | [RemovePages](../../groupdocs.merger/merger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/merger/removepassword)() | Removes password from document. |
-| [RotatePages](../../groupdocs.merger/merger/rotatepages)(IRotateOptions) | Rotate pages of the document. |
+| [Rotate](../../groupdocs.merger/merger/rotate)(IRotateOptions) | Rotate image or pages of the document. |
 | [Save](../../groupdocs.merger/merger/save#save)(Stream) | Saves the result document to the stream *document*. |
 | [Save](../../groupdocs.merger/merger/save#save_1)(string) | Saves the result document file to *filePath*. |
 | [Save](../../groupdocs.merger/merger/save#save_2)(string, bool) | Saves the result document file to *filePath*. |
