@@ -1,17 +1,17 @@
 ---
-title: TAR
+title: POTM
 second_title: GroupDocs.Merger for .NET API Reference
-description: Consolidated Unix File Archive .tar
+description: PowerPoint Open XML MacroEnabled Presentation Template .potm
 type: docs
-weight: 430
-url: /net/groupdocs.merger.domain/filetype/tar/
+weight: 300
+url: /net/groupdocs.merger.domain/filetype/potm/
 ---
-## FileType.TAR field
+## FileType.POTM field
 
-Consolidated Unix File Archive (.tar)
+PowerPoint Open XML Macro-Enabled Presentation Template (.potm)
 
 ```csharp
-public static readonly FileType TAR;
+public static readonly FileType POTM;
 ```
 
 ### See Also
