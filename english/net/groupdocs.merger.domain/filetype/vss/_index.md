@@ -3,7 +3,7 @@ title: VSS
 second_title: GroupDocs.Merger for .NET API Reference
 description: Visio Stencil File.vss
 type: docs
-weight: 530
+weight: 540
 url: /net/groupdocs.merger.domain/filetype/vss/
 ---
 ## FileType.VSS field

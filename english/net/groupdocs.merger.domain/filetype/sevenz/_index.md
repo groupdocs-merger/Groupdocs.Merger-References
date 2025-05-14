@@ -3,7 +3,7 @@ title: SevenZ
 second_title: GroupDocs.Merger for .NET API Reference
 description: 7Zip Compressed File .7z
 type: docs
-weight: 390
+weight: 400
 url: /net/groupdocs.merger.domain/filetype/sevenz/
 ---
 ## FileType.SevenZ field

@@ -3,7 +3,7 @@ title: TSV
 second_title: GroupDocs.Merger for .NET API Reference
 description: Tab Separated Values File .tsv represents data separated with tabs in plain text format. Learn more about this file format herehttps//docs.fileformat.com/spreadsheet/tsv.
 type: docs
-weight: 460
+weight: 470
 url: /net/groupdocs.merger.domain/filetype/tsv/
 ---
 ## FileType.TSV field
