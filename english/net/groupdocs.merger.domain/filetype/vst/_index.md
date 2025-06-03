@@ -3,7 +3,7 @@ title: VST
 second_title: GroupDocs.Merger for .NET API Reference
 description: Visio Drawing Template .vst
 type: docs
-weight: 570
+weight: 580
 url: /net/groupdocs.merger.domain/filetype/vst/
 ---
 ## FileType.VST field

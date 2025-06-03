@@ -3,7 +3,7 @@ title: PPTM
 second_title: GroupDocs.Merger for .NET API Reference
 description: PowerPoint Open XML MacroEnabled Presentation
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.merger.domain/filetype/pptm/
 ---
 ## FileType.PPTM field

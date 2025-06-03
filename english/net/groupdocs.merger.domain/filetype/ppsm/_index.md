@@ -3,7 +3,7 @@ title: PPSM
 second_title: GroupDocs.Merger for .NET API Reference
 description: PowerPoint Open XML MacroEnabled Slide .ppsm
 type: docs
-weight: 320
+weight: 330
 url: /net/groupdocs.merger.domain/filetype/ppsm/
 ---
 ## FileType.PPSM field

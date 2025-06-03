@@ -3,7 +3,7 @@ title: VSD
 second_title: GroupDocs.Merger for .NET API Reference
 description: Visio Drawing File .vsd
 type: docs
-weight: 510
+weight: 520
 url: /net/groupdocs.merger.domain/filetype/vsd/
 ---
 ## FileType.VSD field
