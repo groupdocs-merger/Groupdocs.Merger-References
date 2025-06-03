@@ -3,7 +3,7 @@ title: TAR
 second_title: GroupDocs.Merger for .NET API Reference
 description: Consolidated Unix File Archive .tar
 type: docs
-weight: 430
+weight: 440
 url: /net/groupdocs.merger.domain/filetype/tar/
 ---
 ## FileType.TAR field

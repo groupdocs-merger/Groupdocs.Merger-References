@@ -1,17 +1,17 @@
 ---
-title: SVG
+title: POTX
 second_title: GroupDocs.Merger for .NET API Reference
-description: Scalable Vector Graphics File .svg
+description: PowerPoint Open XML Presentation Template .potx
 type: docs
-weight: 420
-url: /net/groupdocs.merger.domain/filetype/svg/
+weight: 310
+url: /net/groupdocs.merger.domain/filetype/potx/
 ---
-## FileType.SVG field
+## FileType.POTX field
 
-Scalable Vector Graphics File (.svg)
+PowerPoint Open XML Presentation Template (.potx)
 
 ```csharp
-public static readonly FileType SVG;
+public static readonly FileType POTX;
 ```
 
 ### See Also

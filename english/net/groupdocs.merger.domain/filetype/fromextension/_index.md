@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Merger for .NET API Reference
 description: Maps file extension to file type.
 type: docs
-weight: 730
+weight: 740
 url: /net/groupdocs.merger.domain/filetype/fromextension/
 ---
 ## FileType.FromExtension method
