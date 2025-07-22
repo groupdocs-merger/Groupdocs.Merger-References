@@ -22,7 +22,7 @@ Possible modes for the page ranging.
 | [EvenPages](#EvenPages) | Range have only even numbers from begin to end. |
 ### AllPages {#AllPages}
 ```
-public static final Integer AllPages
+public static final int AllPages
 ```
 
 
@@ -30,7 +30,7 @@ Range have all numbers from begin to end.
 
 ### OddPages {#OddPages}
 ```
-public static final Integer OddPages
+public static final int OddPages
 ```
 
 
@@ -38,7 +38,7 @@ Range have only odd numbers from begin to end.
 
 ### EvenPages {#EvenPages}
 ```
-public static final Integer EvenPages
+public static final int EvenPages
 ```
 
 
