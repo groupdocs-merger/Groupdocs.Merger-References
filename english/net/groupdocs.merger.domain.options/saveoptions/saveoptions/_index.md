@@ -1,26 +1,21 @@
 ---
 title: SaveOptions
 second_title: GroupDocs.Merger for .NET API Reference
-description: Initializes new instance of SaveOptionsgroupdocs.merger.domain.options/saveoptions class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/groupdocs.merger.domain.options/saveoptions/saveoptions/
 ---
 ## SaveOptions constructor
 
-Initializes new instance of [`SaveOptions`](../../saveoptions) class.
+The default constructor.
 
 ```csharp
-public SaveOptions(FileType fileType)
+public SaveOptions()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileType | FileType | The type of the file. |
 
 ### See Also
 
-* class [FileType](../../../groupdocs.merger.domain/filetype)
 * class [SaveOptions](../../saveoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)

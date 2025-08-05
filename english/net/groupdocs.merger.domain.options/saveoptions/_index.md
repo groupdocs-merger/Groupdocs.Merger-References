@@ -18,7 +18,7 @@ public class SaveOptions : ISaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SaveOptions](saveoptions)(FileType) | Initializes new instance of [`SaveOptions`](../saveoptions) class. |
+| [SaveOptions](saveoptions)() | The default constructor. |
 
 ## Properties
 
