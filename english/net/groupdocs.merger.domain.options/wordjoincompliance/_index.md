@@ -3,7 +3,7 @@ title: WordJoinCompliance
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible Compliance modes for the Word Ooxml formats such as .docx .docm .dotx .dotm etc.
 type: docs
-weight: 730
+weight: 750
 url: /net/groupdocs.merger.domain.options/wordjoincompliance/
 ---
 ## WordJoinCompliance enumeration

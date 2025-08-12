@@ -3,7 +3,7 @@ title: License
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides methods to license the component. Learn more about licensing herehttps//purchase.groupdocs.com/faqs/licensing.
 type: docs
-weight: 860
+weight: 880
 url: /net/groupdocs.merger/license/
 ---
 ## License class
@@ -19,6 +19,12 @@ public sealed class License
 | Name | Description |
 | --- | --- |
 | [License](license)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| static [IsValidLicense](../../groupdocs.merger/license/isvalidlicense) { get; } | Is license valid |
 
 ## Methods
 

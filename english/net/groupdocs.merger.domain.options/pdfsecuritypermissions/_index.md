@@ -3,7 +3,7 @@ title: PdfSecurityPermissions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Defines PDF document permissions.
 type: docs
-weight: 590
+weight: 610
 url: /net/groupdocs.merger.domain.options/pdfsecuritypermissions/
 ---
 ## PdfSecurityPermissions enumeration

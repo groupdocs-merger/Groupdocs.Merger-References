@@ -27,8 +27,10 @@ The namespace provides classes to specify additional options when loading, joini
 | [PageBuilderOptions](./pagebuilderoptions) | Provides options for specifying the page builder. |
 | [PageJoinOptions](./pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](./pageoptions) | Provides options for specifying page or pages range. |
+| [PdfAccesibilitySettings](./pdfaccesibilitysettings) | Provides Pdf Accesibility settings for the document saving. |
 | [PdfAttachmentOptions](./pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
 | [PdfJoinOptions](./pdfjoinoptions) | The Pdf join options. |
+| [PdfSaveOptions](./pdfsaveoptions) | Provides additional Pdf options for the document saving. |
 | [PdfSecurityOptions](./pdfsecurityoptions) | Contains the PDF document security options. |
 | [PreviewOptions](./previewoptions) | Represents document preview options. |
 | [RemoveOptions](./removeoptions) | Provides options for the page removing. |
