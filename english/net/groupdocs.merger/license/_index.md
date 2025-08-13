@@ -20,12 +20,6 @@ public sealed class License
 | --- | --- |
 | [License](license)() | The default constructor. |
 
-## Properties
-
-| Name | Description |
-| --- | --- |
-| static [IsValidLicense](../../groupdocs.merger/license/isvalidlicense) { get; } | Is license valid |
-
 ## Methods
 
 | Name | Description |
