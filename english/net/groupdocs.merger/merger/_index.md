@@ -3,7 +3,7 @@ title: Merger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents the main class that controls the document merging process.
 type: docs
-weight: 890
+weight: 910
 url: /net/groupdocs.merger/merger/
 ---
 ## Merger class
@@ -57,9 +57,9 @@ public class Merger : IDisposable, IMerger
 | [RemovePages](../../groupdocs.merger/merger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/merger/removepassword)() | Removes password from document. |
 | [Rotate](../../groupdocs.merger/merger/rotate)(IRotateOptions) | Rotate image or pages of the document. |
-| [Save](../../groupdocs.merger/merger/save#save)(Stream) | Saves the result document to the stream *document*. |
-| [Save](../../groupdocs.merger/merger/save#save_1)(string) | Saves the result document file to *filePath*. |
-| [Save](../../groupdocs.merger/merger/save#save_2)(string, bool) | Saves the result document file to *filePath*. |
+| [Save](../../groupdocs.merger/merger/save#save)(Stream, ISaveOptions) | Saves the result document to the stream *document*. |
+| [Save](../../groupdocs.merger/merger/save#save_2)(string, ISaveOptions) | Saves the result document file to *filePath*. |
+| [Save](../../groupdocs.merger/merger/save#save_1)(string, bool, ISaveOptions) | Saves the result document file to *filePath*. |
 | [Split](../../groupdocs.merger/merger/split#split)(ISplitOptions) | Splits the single document to the multiple documents. |
 | [Split](../../groupdocs.merger/merger/split#split_1)(ITextSplitOptions) | Splits the single document to the multiple documents. |
 | [SwapPages](../../groupdocs.merger/merger/swappages)(ISwapOptions) | Swaps two pages within document of known format. |

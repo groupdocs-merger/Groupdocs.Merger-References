@@ -6,17 +6,18 @@ type: docs
 weight: 170
 url: /net/groupdocs.merger/merger/save/
 ---
-## Save(Stream) {#save}
+## Save(Stream, ISaveOptions) {#save}
 
 Saves the result document to the stream *document*.
 
 ```csharp
-public IMerger Save(Stream document)
+public IMerger Save(Stream document, ISaveOptions saveOptions = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Stream | The document stream. |
+| saveOptions | ISaveOptions | The options for saving. |
 
 ### Exceptions
 
@@ -27,23 +28,25 @@ public IMerger Save(Stream document)
 ### See Also
 
 * interface [IMerger](../../imerger)
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Save(string) {#save_1}
+## Save(string, ISaveOptions) {#save_2}
 
 Saves the result document file to *filePath*.
 
 ```csharp
-public IMerger Save(string filePath)
+public IMerger Save(string filePath, ISaveOptions saveOptions = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | String | The file name or full file path. |
+| saveOptions | ISaveOptions | The options for saving. |
 
 ### Exceptions
 
@@ -54,24 +57,26 @@ public IMerger Save(string filePath)
 ### See Also
 
 * interface [IMerger](../../imerger)
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Save(string, bool) {#save_2}
+## Save(string, bool, ISaveOptions) {#save_1}
 
 Saves the result document file to *filePath*.
 
 ```csharp
-public IMerger Save(string filePath, bool useDefaultDirectory)
+public IMerger Save(string filePath, bool useDefaultDirectory, ISaveOptions saveOptions = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePath | String | The file path or name in case of default directory usage. |
 | useDefaultDirectory | Boolean | Use the default directory from settings. |
+| saveOptions | ISaveOptions | The options for saving. |
 
 ### Exceptions
 
@@ -82,6 +87,7 @@ public IMerger Save(string filePath, bool useDefaultDirectory)
 ### See Also
 
 * interface [IMerger](../../imerger)
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * class [Merger](../../merger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)

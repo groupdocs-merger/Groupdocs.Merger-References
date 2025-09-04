@@ -6,48 +6,51 @@ type: docs
 weight: 100
 url: /net/groupdocs.merger/imerger/save/
 ---
-## Save(Stream) {#save}
+## Save(Stream, ISaveOptions) {#save}
 
 Saves the result document to the stream *document*.
 
 ```csharp
-public IMerger Save(Stream document)
+public IMerger Save(Stream document, ISaveOptions saveOptions = null)
 ```
 
 ### See Also
 
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * interface [IMerger](../../imerger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Save(string) {#save_1}
+## Save(string, ISaveOptions) {#save_2}
 
 Saves the result document file to *filePath*.
 
 ```csharp
-public IMerger Save(string filePath)
+public IMerger Save(string filePath, ISaveOptions saveOptions = null)
 ```
 
 ### See Also
 
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * interface [IMerger](../../imerger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)
 
 ---
 
-## Save(string, bool) {#save_2}
+## Save(string, bool, ISaveOptions) {#save_1}
 
 Saves the result document file to *filePath*.
 
 ```csharp
-public IMerger Save(string filePath, bool useDefaultDirectory)
+public IMerger Save(string filePath, bool useDefaultDirectory, ISaveOptions saveOptions = null)
 ```
 
 ### See Also
 
+* interface [ISaveOptions](../../../groupdocs.merger.domain.options/isaveoptions)
 * interface [IMerger](../../imerger)
 * namespace [GroupDocs.Merger](../../../groupdocs.merger)
 * assembly [GroupDocs.Merger](../../../)

@@ -3,7 +3,7 @@ title: RotateMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible modes for the page rotation.
 type: docs
-weight: 640
+weight: 660
 url: /net/groupdocs.merger.domain.options/rotatemode/
 ---
 ## RotateMode enumeration

@@ -1,22 +1,22 @@
 ---
-title: SaveOptions
+title: PdfAccesibilitySettings
 second_title: GroupDocs.Merger for .NET API Reference
 description: The default constructor.
 type: docs
 weight: 10
-url: /net/groupdocs.merger.domain.options/saveoptions/saveoptions/
+url: /net/groupdocs.merger.domain.options/pdfaccesibilitysettings/pdfaccesibilitysettings/
 ---
-## SaveOptions constructor
+## PdfAccesibilitySettings constructor
 
 The default constructor.
 
 ```csharp
-public SaveOptions()
+public PdfAccesibilitySettings()
 ```
 
 ### See Also
 
-* class [SaveOptions](../../saveoptions)
+* class [PdfAccesibilitySettings](../../pdfaccesibilitysettings)
 * namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../../)
 

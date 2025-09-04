@@ -3,7 +3,7 @@ title: IMerger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the main class that controls the document merging process.
 type: docs
-weight: 850
+weight: 870
 url: /net/groupdocs.merger/imerger/
 ---
 ## IMerger interface
@@ -34,9 +34,9 @@ public interface IMerger
 | [RemovePages](../../groupdocs.merger/imerger/removepages)(IRemoveOptions) | Removes pages from document of known format. |
 | [RemovePassword](../../groupdocs.merger/imerger/removepassword)() | Removes password from document. |
 | [Rotate](../../groupdocs.merger/imerger/rotate)(IRotateOptions) | Rotate pages of the document. |
-| [Save](../../groupdocs.merger/imerger/save#save)(Stream) | Saves the result document to the stream *document*. |
-| [Save](../../groupdocs.merger/imerger/save#save_1)(string) | Saves the result document file to *filePath*. |
-| [Save](../../groupdocs.merger/imerger/save#save_2)(string, bool) | Saves the result document file to *filePath*. |
+| [Save](../../groupdocs.merger/imerger/save#save)(Stream, ISaveOptions) | Saves the result document to the stream *document*. |
+| [Save](../../groupdocs.merger/imerger/save#save_2)(string, ISaveOptions) | Saves the result document file to *filePath*. |
+| [Save](../../groupdocs.merger/imerger/save#save_1)(string, bool, ISaveOptions) | Saves the result document file to *filePath*. |
 | [Split](../../groupdocs.merger/imerger/split#split)(ISplitOptions) | Splits the single document to the multiple documents. |
 | [Split](../../groupdocs.merger/imerger/split#split_1)(ITextSplitOptions) | Splits the single document to the multiple documents. |
 | [SwapPages](../../groupdocs.merger/imerger/swappages)(ISwapOptions) | Swaps two pages within document of known format. |

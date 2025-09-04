@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document saving.
 type: docs
-weight: 660
+weight: 680
 url: /net/groupdocs.merger.domain.options/saveoptions/
 ---
 ## SaveOptions class
@@ -18,7 +18,7 @@ public class SaveOptions : ISaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SaveOptions](saveoptions)(FileType) | Initializes new instance of [`SaveOptions`](../saveoptions) class. |
+| [SaveOptions](saveoptions)() | The default constructor. |
 
 ## Properties
 
