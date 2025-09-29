@@ -3,7 +3,7 @@ title: SwapOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for swapping document pages.
 type: docs
-weight: 37
+weight: 39
 url: /java/com.groupdocs.merger.domain.options/swapoptions/
 ---
 **Inheritance:**

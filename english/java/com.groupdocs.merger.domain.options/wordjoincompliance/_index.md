@@ -3,7 +3,7 @@ title: WordJoinCompliance
 second_title: GroupDocs.Merger for Java API Reference
 description: Possible Compliance modes for the Word Ooxml formats such as .docx .docm .dotx .dotm etc.
 type: docs
-weight: 41
+weight: 43
 url: /java/com.groupdocs.merger.domain.options/wordjoincompliance/
 ---
 **Inheritance:**

@@ -57,8 +57,11 @@ Represents the main class that controls the document merging process.
 | [getDocumentInfo()](#getDocumentInfo--) | Gets information about document pages: their sizes, maximum page height, the width of a page with the maximum height. |
 | [generatePreview(IPreviewOptions previewOptions)](#generatePreview-com.groupdocs.merger.domain.options.interfaces.IPreviewOptions-) | Generates document pages preview. |
 | [save(OutputStream document)](#save-java.io.OutputStream-) | Saves the result document to the stream  document . |
+| [save(OutputStream document, ISaveOptions saveOptions)](#save-java.io.OutputStream-com.groupdocs.merger.domain.options.interfaces.ISaveOptions-) | Saves the result document to the stream  document . |
 | [save(String filePath)](#save-java.lang.String-) | Saves the result document file to  filePath . |
 | [save(String filePath, boolean useDefaultDirectory)](#save-java.lang.String-boolean-) | Saves the result document file to  filePath . |
+| [save(String filePath, ISaveOptions saveOptions)](#save-java.lang.String-com.groupdocs.merger.domain.options.interfaces.ISaveOptions-) | Saves the result document file to  filePath . |
+| [save(String filePath, OutputStream inputStream)](#save-java.lang.String-java.io.OutputStream-) | Saves the result document file to  filePath . |
 ### Merger(InputStream document) {#Merger-java.io.InputStream-}
 ```
 public Merger(InputStream document)
@@ -755,6 +758,20 @@ Saves the result document to the stream  document .
 | --- | --- | --- |
 | document | java.io.OutputStream | The document stream. |
 
+### save(OutputStream document, ISaveOptions saveOptions) {#save-java.io.OutputStream-com.groupdocs.merger.domain.options.interfaces.ISaveOptions-}
+```
+public void save(OutputStream document, ISaveOptions saveOptions)
+```
+
+
+Saves the result document to the stream  document .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | java.io.OutputStream | The document stream. |
+| saveOptions | [ISaveOptions](../../com.groupdocs.merger.domain.options.interfaces/isaveoptions) | The options for saving. |
+
 ### save(String filePath) {#save-java.lang.String-}
 ```
 public final void save(String filePath)
@@ -781,4 +798,32 @@ Saves the result document file to  filePath .
 | --- | --- | --- |
 | filePath | java.lang.String | The file path or name in case of default directory usage. |
 | useDefaultDirectory | boolean | Use the default directory from settings. |
+
+### save(String filePath, ISaveOptions saveOptions) {#save-java.lang.String-com.groupdocs.merger.domain.options.interfaces.ISaveOptions-}
+```
+public void save(String filePath, ISaveOptions saveOptions)
+```
+
+
+Saves the result document file to  filePath .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | java.lang.String | The file path or name in case of default directory usage. |
+| saveOptions | [ISaveOptions](../../com.groupdocs.merger.domain.options.interfaces/isaveoptions) | The options for saving. |
+
+### save(String filePath, OutputStream inputStream) {#save-java.lang.String-java.io.OutputStream-}
+```
+public void save(String filePath, OutputStream inputStream)
+```
+
+
+Saves the result document file to  filePath .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | java.lang.String | The file path or name in case of default directory usage. |
+| inputStream | java.io.OutputStream | The document stream. |
 
