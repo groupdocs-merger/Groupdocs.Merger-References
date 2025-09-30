@@ -31,7 +31,9 @@ The **com.groupdocs.merger.domain.options** namespace provides classes to specif
 | [PageBuilderOptions](../com.groupdocs.merger.domain.options/pagebuilderoptions) | Provides options for specifying the page builder. |
 | [PageJoinOptions](../com.groupdocs.merger.domain.options/pagejoinoptions) | Provides options for the document joining. |
 | [PageOptions](../com.groupdocs.merger.domain.options/pageoptions) | Provides options for specifying page or pages range. |
+| [PdfAccessibilitySettings](../com.groupdocs.merger.domain.options/pdfaccessibilitysettings) | Provides Pdf Accessibility settings for the document saving. |
 | [PdfAttachmentOptions](../com.groupdocs.merger.domain.options/pdfattachmentoptions) | Provides options to attach the embedded object to Pdf. |
+| [PdfSaveOptions](../com.groupdocs.merger.domain.options/pdfsaveoptions) | Provides additional Pdf options for the document saving. |
 | [PreviewMode](../com.groupdocs.merger.domain.options/previewmode) | Provides modes for the page previewing. |
 | [PreviewOptions](../com.groupdocs.merger.domain.options/previewoptions) | Represents document preview options. |
 | [RangeMode](../com.groupdocs.merger.domain.options/rangemode) | Possible modes for the page ranging. |

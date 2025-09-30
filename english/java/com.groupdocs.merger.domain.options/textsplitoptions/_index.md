@@ -3,7 +3,7 @@ title: TextSplitOptions
 second_title: GroupDocs.Merger for Java API Reference
 description: Provides options for the document text splitting.
 type: docs
-weight: 39
+weight: 41
 url: /java/com.groupdocs.merger.domain.options/textsplitoptions/
 ---
 **Inheritance:**

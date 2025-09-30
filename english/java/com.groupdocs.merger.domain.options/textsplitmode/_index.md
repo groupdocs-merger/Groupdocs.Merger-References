@@ -3,7 +3,7 @@ title: TextSplitMode
 second_title: GroupDocs.Merger for Java API Reference
 description: Possible text splitting modes.
 type: docs
-weight: 38
+weight: 40
 url: /java/com.groupdocs.merger.domain.options/textsplitmode/
 ---
 **Inheritance:**
