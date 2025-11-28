@@ -32,6 +32,7 @@ public class PdfJoinOptions : PageJoinOptions
 | Name | Description |
 | --- | --- |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
+| [PreserveAccessibility](../../groupdocs.merger.domain.options/pdfjoinoptions/preserveaccessibility) { get; set; } | Indicates if PDF accessibility (tagged PDF structure) should be preserved during merge. When true, the merged document will have auto-generated accessibility tags for PDF/UA compliance. Default is false. |
 | [Type](../../groupdocs.merger.domain.options/pagejoinoptions/type) { get; } | The type of the file to join. |
 | [UseBookmarks](../../groupdocs.merger.domain.options/pdfjoinoptions/usebookmarks) { get; set; } | Indicates if all the bookmarks will be copied by default. |
 

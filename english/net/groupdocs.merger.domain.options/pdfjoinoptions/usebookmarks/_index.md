@@ -3,7 +3,7 @@ title: UseBookmarks
 second_title: GroupDocs.Merger for .NET API Reference
 description: Indicates if all the bookmarks will be copied by default.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.merger.domain.options/pdfjoinoptions/usebookmarks/
 ---
 ## PdfJoinOptions.UseBookmarks property
