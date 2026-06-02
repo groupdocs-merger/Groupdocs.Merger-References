@@ -1,5 +1,5 @@
-﻿---
-title: MoveOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
@@ -8,25 +8,13 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#int-int}
 
-Initializes a new instance of the [`MoveOptions`](/merger/python-net/groupdocs.merger.domain.options/moveoptions) class.
-
-
+## __init__
 
 ```python
-def __init__(self, page_number_to_move, new_page_number):
+def __init__(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| page_number_to_move | int | The page number to move. |
-| new_page_number | int | The new page number. |
-
-
-
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`MoveOptions`](/merger/python-net/groupdocs.merger.domain.options/moveoptions)
+* class [`MoveOptions`](/merger/python-net/groupdocs.merger.domain.options/moveoptions/)

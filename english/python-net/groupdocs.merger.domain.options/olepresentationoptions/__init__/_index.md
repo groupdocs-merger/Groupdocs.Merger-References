@@ -1,5 +1,5 @@
-﻿---
-title: OlePresentationOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
@@ -8,44 +8,13 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-int}
 
-Initializes a new instance of the [`OlePresentationOptions`](/merger/python-net/groupdocs.merger.domain.options/olepresentationoptions) class.
-
-
+## __init__
 
 ```python
-def __init__(self, file_path, page_number):
+def __init__(self):
     ...
 ```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| file_path | str | The file path of the embedded object. |
-| page_number | int | The page number for adding embedded object. |
-
-
-## __init__ {#bytes-str-int}
-
-Initializes a new instance of the [`OlePresentationOptions`](/merger/python-net/groupdocs.merger.domain.options/olepresentationoptions) class.
-
-
-
-```python
-def __init__(self, object_data, extension, page_number):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| object_data | bytes | The data of the embedded object. |
-| extension | str | The extension of the embedded object. |
-| page_number | int | The page number for adding embedded object. |
-
-
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`OlePresentationOptions`](/merger/python-net/groupdocs.merger.domain.options/olepresentationoptions)
+* class [`OlePresentationOptions`](/merger/python-net/groupdocs.merger.domain.options/olepresentationoptions/)

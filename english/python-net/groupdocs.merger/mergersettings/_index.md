@@ -1,36 +1,33 @@
-﻿---
+---
 title: MergerSettings class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger/mergersettings/
 is_root: false
-weight: 40
+weight: 80
 ---
 
+
 ## MergerSettings class
-
-Defines settings for customizing [`Merger`](/merger/python-net/groupdocs.merger/merger) behaviour.
-
-
 
 The MergerSettings type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger/mergersettings/__init__/#) | Initializes new instance of [`MergerSettings`](/merger/python-net/groupdocs.merger/mergersettings) class. |
-| [__init__](/merger/python-net/groupdocs.merger/mergersettings/__init__/#groupdocs.merger.logging.ILogger) | Initializes new instance of [`MergerSettings`](/merger/python-net/groupdocs.merger/mergersettings) class. |
+| [__init__](/merger/python-net/groupdocs.merger/mergersettings/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_ilogger](/merger/python-net/groupdocs.merger/mergersettings/_init_ilogger/#logger) |  |
+| [_init_noargs](/merger/python-net/groupdocs.merger/mergersettings/_init_noargs/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [logger](/merger/python-net/groupdocs.merger/mergersettings/logger) | The logger implementation that is used for tracking document processing workflow. |
-
-
+| [logger](/merger/python-net/groupdocs.merger/mergersettings/logger/) |  |
 
 ### See Also
-* module [`groupdocs.merger`](..)
-* class [`Merger`](/merger/python-net/groupdocs.merger/merger)
-* class [`MergerSettings`](/merger/python-net/groupdocs.merger/mergersettings)
+* module [`groupdocs.merger`](/merger/python-net/groupdocs.merger/)

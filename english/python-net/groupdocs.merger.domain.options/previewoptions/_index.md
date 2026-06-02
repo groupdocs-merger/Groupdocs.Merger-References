@@ -1,45 +1,53 @@
-﻿---
+---
 title: PreviewOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/previewoptions/
 is_root: false
-weight: 460
+weight: 520
 ---
+
 
 ## PreviewOptions class
 
-Represents document preview options.
-
-
-
-**Inheritance:** [`PreviewOptions`](/merger/python-net/groupdocs.merger.domain.options/previewoptions) → 
-[`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-
-
-
 The PreviewOptions type exposes the following members:
 
-### Properties
-| Property | Description |
+### Constructors
+| Constructor | Description |
 | :- | :- |
-| [pages](/merger/python-net/groupdocs.merger.domain.options/previewoptions/pages) | Get page numbers collection. |
-| [width](/merger/python-net/groupdocs.merger.domain.options/previewoptions/width) | Preview width. |
-| [height](/merger/python-net/groupdocs.merger.domain.options/previewoptions/height) | Preview height. |
-| [resolution](/merger/python-net/groupdocs.merger.domain.options/previewoptions/resolution) | Image resolution. |
-| [mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/mode) | Mode for preview. |
-
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/previewoptions/__init__/) |  |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [validate](/merger/python-net/groupdocs.merger.domain.options/previewoptions/validate/#groupdocs.merger.domain.FileType) | Validates the preview options. |
-| [get_path_by_page_number](/merger/python-net/groupdocs.merger.domain.options/previewoptions/get_path_by_page_number/#int-str) | Gets the full file path of previewed document by page number with defined extension. |
+| [_get_path_by_page_number_int32_string](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_get_path_by_page_number_int32_string/#page_number-extension) |  |
+| [_init_create_page_stream_preview_mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_preview_mode/#create_page_stream-preview_mode) |  |
+| [_init_create_page_stream_preview_mode_int32_array](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_preview_mode_int32_array/#create_page_stream-preview_mode-page_numbers) |  |
+| [_init_create_page_stream_preview_mode_int32_int32](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_preview_mode_int32_int32/#create_page_stream-preview_mode-start_number-end_number) |  |
+| [_init_create_page_stream_preview_mode_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_preview_mode_int32_int32_range_mode/#create_page_stream-preview_mode-start_number-end_number-mode) |  |
+| [_init_create_page_stream_release_page_stream_preview_mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_release_page_stream_preview_mode/#create_page_stream-release_page_stream-preview_mode) |  |
+| [_init_create_page_stream_release_page_stream_preview_mode_int32_array](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_release_page_stream_preview_mode_int32_array/#create_page_stream-release_page_stream-preview_mode-page_numbers) |  |
+| [_init_create_page_stream_release_page_stream_preview_mode_int32_int32](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_release_page_stream_preview_mode_int32_int32/#create_page_stream-release_page_stream-preview_mode-start_number-end_number) |  |
+| [_init_create_page_stream_release_page_stream_preview_mode_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_init_create_page_stream_release_page_stream_preview_mode_int32_int32_range_mode/#create_page_stream-release_page_stream-preview_mode-start_number-end_number-mode) |  |
+| [_validate_file_type](/merger/python-net/groupdocs.merger.domain.options/previewoptions/_validate_file_type/#file_type) |  |
+| [get_path_by_page_number](/merger/python-net/groupdocs.merger.domain.options/previewoptions/get_path_by_page_number/) |  |
+| [get_path_by_page_number_file](/merger/python-net/groupdocs.merger.domain.options/previewoptions/get_path_by_page_number_file/) |  |
+| [get_path_by_page_number_int32](/merger/python-net/groupdocs.merger.domain.options/previewoptions/get_path_by_page_number_int32/) |  |
+| [get_path_by_page_number_string](/merger/python-net/groupdocs.merger.domain.options/previewoptions/get_path_by_page_number_string/) |  |
+| [validate](/merger/python-net/groupdocs.merger.domain.options/previewoptions/validate/) |  |
+| [validate_file_type](/merger/python-net/groupdocs.merger.domain.options/previewoptions/validate_file_type/) |  |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [create_stream](/merger/python-net/groupdocs.merger.domain.options/previewoptions/create_stream/) |  |
+| [height](/merger/python-net/groupdocs.merger.domain.options/previewoptions/height/) |  |
+| [mode](/merger/python-net/groupdocs.merger.domain.options/previewoptions/mode/) |  |
+| [pages](/merger/python-net/groupdocs.merger.domain.options/previewoptions/pages/) |  |
+| [release_stream](/merger/python-net/groupdocs.merger.domain.options/previewoptions/release_stream/) |  |
+| [resolution](/merger/python-net/groupdocs.merger.domain.options/previewoptions/resolution/) |  |
+| [width](/merger/python-net/groupdocs.merger.domain.options/previewoptions/width/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-* class [`PreviewOptions`](/merger/python-net/groupdocs.merger.domain.options/previewoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)

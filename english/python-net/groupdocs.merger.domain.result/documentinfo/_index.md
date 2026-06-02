@@ -1,4 +1,4 @@
-﻿---
+---
 title: DocumentInfo class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
@@ -8,31 +8,30 @@ is_root: false
 weight: 10
 ---
 
+
 ## DocumentInfo class
-
-Defines document description properties.
-
-
 
 The DocumentInfo type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.result/documentinfo/__init__/#groupdocs.merger.domain.FileType-list-int) | Initializes new instance of [`DocumentInfo`](/merger/python-net/groupdocs.merger.domain.result/documentinfo) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.result/documentinfo/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_file_type_ipage_info_array_int64](/merger/python-net/groupdocs.merger.domain.result/documentinfo/_init_file_type_ipage_info_array_int64/#file_type-pages-size) |  |
+| [_to_string_noargs](/merger/python-net/groupdocs.merger.domain.result/documentinfo/_to_string_noargs/) |  |
+| [to_string](/merger/python-net/groupdocs.merger.domain.result/documentinfo/to_string/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [type](/merger/python-net/groupdocs.merger.domain.result/documentinfo/type) | Gets the file type. |
-| [pages](/merger/python-net/groupdocs.merger.domain.result/documentinfo/pages) | Defines document pages collection. |
-| [page_count](/merger/python-net/groupdocs.merger.domain.result/documentinfo/page_count) | The document pages count. |
-| [size](/merger/python-net/groupdocs.merger.domain.result/documentinfo/size) | Document size in bytes |
-
-
+| [page_count](/merger/python-net/groupdocs.merger.domain.result/documentinfo/page_count/) |  |
+| [pages](/merger/python-net/groupdocs.merger.domain.result/documentinfo/pages/) |  |
+| [size](/merger/python-net/groupdocs.merger.domain.result/documentinfo/size/) |  |
+| [type](/merger/python-net/groupdocs.merger.domain.result/documentinfo/type/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.result`](..)
-* class [`DocumentInfo`](/merger/python-net/groupdocs.merger.domain.result/documentinfo)
-* class [`IDocumentInfo`](/merger/python-net/groupdocs.merger.domain.result/idocumentinfo)
+* module [`groupdocs.merger.domain.result`](/merger/python-net/groupdocs.merger.domain.result/)

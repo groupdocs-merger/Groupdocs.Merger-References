@@ -1,42 +1,28 @@
-﻿---
+---
 title: License class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger/license/
 is_root: false
-weight: 20
+weight: 60
 ---
+
 
 ## License class
 
-Provides methods to license the component. Learn more about licensing [here](https://purchase.groupdocs.com/faqs/licensing).
+Manages GroupDocs.Merger licensing.
 
-
+Licensed builds unlock the full feature set of the wrapper at
+runtime. Unlicensed builds run in evaluation mode with the same API
+surface but with limits on output size and watermarked content.
 
 The License type exposes the following members:
-
-### Constructors
-| Constructor | Description |
-| :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger/license/__init__/#) | Constructs a new instance of License |
-
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_license](/merger/python-net/groupdocs.merger/license/set_license/#io.RawIOBase) | Licenses the component. |
-| [set_license](/merger/python-net/groupdocs.merger/license/set_license/#str) | Licenses the component. |
-
-
-
-### Remarks 
-
-
-**Learn more** |
-|
- |
- |
+| [set_license](/merger/python-net/groupdocs.merger/license/set_license/#license_source) | Apply a license to the current process. |
 
 ### See Also
-* module [`groupdocs.merger`](..)
+* module [`groupdocs.merger`](/merger/python-net/groupdocs.merger/)

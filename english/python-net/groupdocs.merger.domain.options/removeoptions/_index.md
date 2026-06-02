@@ -1,43 +1,35 @@
-﻿---
+---
 title: RemoveOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/removeoptions/
 is_root: false
-weight: 470
+weight: 540
 ---
 
+
 ## RemoveOptions class
-
-Provides options for the page removing.
-
-
-
-**Inheritance:** [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions) → 
-[`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-
-
 
 The RemoveOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/#) | Initializes a new instance of the [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/#list) | Initializes a new instance of the [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/#int-int) | Initializes a new instance of the [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/#int-int-groupdocs.merger.domain.options.RangeMode) | Initializes a new instance of the [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_int32_array](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_array/#page_numbers) |  |
+| [_init_int32_int32](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_int32/#start_number-end_number) |  |
+| [_init_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_int32_range_mode/#start_number-end_number-mode) |  |
+| [_init_noargs](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_noargs/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [pages](/merger/python-net/groupdocs.merger.domain.options/removeoptions/pages) | Get page numbers collection. |
-
-
+| [pages](/merger/python-net/groupdocs.merger.domain.options/removeoptions/pages/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-* class [`RemoveOptions`](/merger/python-net/groupdocs.merger.domain.options/removeoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)

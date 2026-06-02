@@ -1,38 +1,20 @@
-﻿---
+---
 title: trace method
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.logging/ilogger/trace/
 is_root: false
-weight: 20
+weight: 1070
 ---
 
-## trace {#str}
 
-Writes trace log message;
-Trace log messages provides generally useful information about application flow.
-
-
+## trace
 
 ```python
-def trace(self, message):
+def trace(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| message | str | The trace message. |
-### Exceptions
-| Exception | Description |
-| :- | :- |
-| ArgumentNullException | Thrown when `message` is null. |
-
-
-
-
-
 ### See Also
-* module [`groupdocs.merger.logging`](../../)
-* class [`ILogger`](/merger/python-net/groupdocs.merger.logging/ilogger)
+* class [`ILogger`](/merger/python-net/groupdocs.merger.logging/ilogger/)

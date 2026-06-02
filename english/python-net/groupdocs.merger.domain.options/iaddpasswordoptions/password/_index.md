@@ -1,17 +1,16 @@
-﻿---
+---
 title: password property
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/iaddpasswordoptions/password/
 is_root: false
-weight: 30
+weight: 2010
 ---
+
 
 ## password property
 
-
-The password for document protection.
 ### Definition:
 ```python
 @property
@@ -20,5 +19,4 @@ def password(self):
 ```
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`IAddPasswordOptions`](/merger/python-net/groupdocs.merger.domain.options/iaddpasswordoptions)
+* class [`IAddPasswordOptions`](/merger/python-net/groupdocs.merger.domain.options/iaddpasswordoptions/)

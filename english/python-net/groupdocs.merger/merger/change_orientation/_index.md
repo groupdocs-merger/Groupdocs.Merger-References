@@ -1,37 +1,20 @@
-﻿---
+---
 title: change_orientation method
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger/merger/change_orientation/
 is_root: false
-weight: 40
+weight: 1460
 ---
 
-## change_orientation {#groupdocs.merger.domain.options.IOrientationOptions}
 
-Applies a new orientation mode for the specified pages.
-
-
+## change_orientation
 
 ```python
-def change_orientation(self, orientation_options):
+def change_orientation(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| orientation_options | groupdocs.merger.domain.options.IOrientationOptions | The change orientation options. |
-### Exceptions
-| Exception | Description |
-| :- | :- |
-| ArgumentNullException | Thrown when `orientation_options` is null. |
-
-
-
-
-
 ### See Also
-* module [`groupdocs.merger`](../../)
-* class [`Merger`](/merger/python-net/groupdocs.merger/merger)
+* class [`Merger`](/merger/python-net/groupdocs.merger/merger/)

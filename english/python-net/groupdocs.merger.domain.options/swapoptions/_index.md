@@ -1,36 +1,33 @@
-﻿---
+---
 title: SwapOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/swapoptions/
 is_root: false
-weight: 510
+weight: 600
 ---
 
+
 ## SwapOptions class
-
-Provides options for swapping document pages.
-
-
 
 The SwapOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/swapoptions/__init__/#int-int) | Initializes a new instance of the [`SwapOptions`](/merger/python-net/groupdocs.merger.domain.options/swapoptions) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/swapoptions/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_int32_int32](/merger/python-net/groupdocs.merger.domain.options/swapoptions/_init_int32_int32/#first_page_number-second_page_number) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [first_page_number](/merger/python-net/groupdocs.merger.domain.options/swapoptions/first_page_number) | First page number to exchange. |
-| [second_page_number](/merger/python-net/groupdocs.merger.domain.options/swapoptions/second_page_number) | Second page number to exchange. |
-
-
+| [first_page_number](/merger/python-net/groupdocs.merger.domain.options/swapoptions/first_page_number/) |  |
+| [second_page_number](/merger/python-net/groupdocs.merger.domain.options/swapoptions/second_page_number/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`ISwapOptions`](/merger/python-net/groupdocs.merger.domain.options/iswapoptions)
-* class [`SwapOptions`](/merger/python-net/groupdocs.merger.domain.options/swapoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)
