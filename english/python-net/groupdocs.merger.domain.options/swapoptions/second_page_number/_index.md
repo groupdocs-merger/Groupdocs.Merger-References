@@ -1,17 +1,16 @@
-﻿---
+---
 title: second_page_number property
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/swapoptions/second_page_number/
 is_root: false
-weight: 40
+weight: 2020
 ---
+
 
 ## second_page_number property
 
-
-Second page number to exchange.
 ### Definition:
 ```python
 @property
@@ -20,5 +19,4 @@ def second_page_number(self):
 ```
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`SwapOptions`](/merger/python-net/groupdocs.merger.domain.options/swapoptions)
+* class [`SwapOptions`](/merger/python-net/groupdocs.merger.domain.options/swapoptions/)

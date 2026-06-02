@@ -1,44 +1,36 @@
-﻿---
+---
 title: OrientationOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/orientationoptions/
 is_root: false
-weight: 390
+weight: 410
 ---
 
+
 ## OrientationOptions class
-
-Provides options for the page orientation.
-
-
-
-**Inheritance:** [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions) → 
-[`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-
-
 
 The OrientationOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/__init__/#groupdocs.merger.domain.options.OrientationMode) | Initializes a new instance of the [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/__init__/#groupdocs.merger.domain.options.OrientationMode-list) | Initializes a new instance of the [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/__init__/#groupdocs.merger.domain.options.OrientationMode-int-int) | Initializes a new instance of the [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/__init__/#groupdocs.merger.domain.options.OrientationMode-int-int-groupdocs.merger.domain.options.RangeMode) | Initializes a new instance of the [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_orientation_mode](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/_init_orientation_mode/#orientation_mode) |  |
+| [_init_orientation_mode_int32_array](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/_init_orientation_mode_int32_array/#orientation_mode-page_numbers) |  |
+| [_init_orientation_mode_int32_int32](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/_init_orientation_mode_int32_int32/#orientation_mode-start_number-end_number) |  |
+| [_init_orientation_mode_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/_init_orientation_mode_int32_int32_range_mode/#orientation_mode-start_number-end_number-mode) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [pages](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/pages) | Get page numbers collection. |
-| [mode](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/mode) | Gets the mode for the page orientation. |
-
-
+| [mode](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/mode/) |  |
+| [pages](/merger/python-net/groupdocs.merger.domain.options/orientationoptions/pages/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`OrientationOptions`](/merger/python-net/groupdocs.merger.domain.options/orientationoptions)
-* class [`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)

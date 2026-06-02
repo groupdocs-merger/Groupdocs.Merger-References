@@ -1,29 +1,24 @@
-﻿---
-title: RotateMode enumeration
+---
+title: RotateMode class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/rotatemode/
 is_root: false
-weight: 600
+weight: 550
 ---
 
-## RotateMode enumeration
 
-Possible modes for the page rotation.
-
-
+## RotateMode class
 
 The RotateMode type exposes the following members:
 
 ### Fields
 | Field | Description |
 | :- | :- |
-| ROTATE90 | Rotate to the right with 90 degrees. |
-| ROTATE180 | Rotate to the right with 180 degrees. |
-| ROTATE270 | Rotate to the right with 270 degrees. |
-
-
+| [ROTATE90](/merger/python-net/groupdocs.merger.domain.options/rotatemode/rotate90/) |  |
+| [ROTATE180](/merger/python-net/groupdocs.merger.domain.options/rotatemode/rotate180/) |  |
+| [ROTATE270](/merger/python-net/groupdocs.merger.domain.options/rotatemode/rotate270/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)

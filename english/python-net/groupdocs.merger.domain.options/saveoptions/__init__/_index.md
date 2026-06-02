@@ -1,5 +1,5 @@
-﻿---
-title: SaveOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
@@ -8,24 +8,13 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.merger.domain.FileType}
 
-Initializes new instance of [`SaveOptions`](/merger/python-net/groupdocs.merger.domain.options/saveoptions) class.
-
-
+## __init__
 
 ```python
-def __init__(self, file_type):
+def __init__(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| file_type | [`FileType`](/merger/python-net/groupdocs.merger.domain/filetype) | The type of the file. |
-
-
-
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`SaveOptions`](/merger/python-net/groupdocs.merger.domain.options/saveoptions)
+* class [`SaveOptions`](/merger/python-net/groupdocs.merger.domain.options/saveoptions/)

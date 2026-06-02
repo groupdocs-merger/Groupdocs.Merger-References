@@ -1,56 +1,41 @@
-﻿---
+---
 title: OleWordProcessingOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/olewordprocessingoptions/
 is_root: false
-weight: 380
+weight: 390
 ---
 
+
 ## OleWordProcessingOptions class
-
-Provides options for import of the embedded document to Word processing via OLE.
-
-
-
-**Inheritance:** [`OleWordProcessingOptions`](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions) → 
-[`ImportDocumentOptions`](/merger/python-net/groupdocs.merger.domain.options/importdocumentoptions)
-
-
 
 The OleWordProcessingOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/__init__/#bytes-bytes-str-int) | Initializes a new instance of the [`OleWordProcessingOptions`](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/__init__/#str-bytes-int) | Initializes a new instance of the [`OleWordProcessingOptions`](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/__init__/#str-int) | Initializes a new instance of the [`OleWordProcessingOptions`](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_byte_array_byte_array_string_int32](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/_init_byte_array_byte_array_string_int32/#object_data-image_data-extension-page_number) |  |
+| [_init_string_byte_array_int32](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/_init_string_byte_array_int32/#file_path-image_data-page_number) |  |
+| [_init_string_int32](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/_init_string_int32/#file_path-page_number) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [object_data](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/object_data) | The data of the embedded object. |
-| [extension](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/extension) | The extension of the embedded object. |
-| [page_number](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/page_number) | The page number for inserting of the embedded object. |
-| [left](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/left) | The left coordinate of the Ole object image. |
-| [top](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/top) | The top coordinate of the Ole object image. |
-| [width](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/width) | The width of the Ole object image. |
-| [height](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/height) | The height of the Ole object image. |
-| [image_data](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/image_data) | The data of the Ole object image. |
-
-
-
-### Remarks 
-
-
-**Learn more** |
-|
- |
+| [extension](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/extension/) |  |
+| [height](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/height/) |  |
+| [image_data](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/image_data/) |  |
+| [left](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/left/) |  |
+| [object_data](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/object_data/) |  |
+| [page_number](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/page_number/) |  |
+| [top](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/top/) |  |
+| [width](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions/width/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`ImportDocumentOptions`](/merger/python-net/groupdocs.merger.domain.options/importdocumentoptions)
-* class [`OleWordProcessingOptions`](/merger/python-net/groupdocs.merger.domain.options/olewordprocessingoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)

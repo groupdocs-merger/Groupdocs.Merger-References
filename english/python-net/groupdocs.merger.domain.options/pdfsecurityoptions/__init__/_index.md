@@ -1,5 +1,5 @@
-﻿---
-title: PdfSecurityOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
@@ -8,24 +8,13 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
 
-Initializes a new instance of the [`PdfSecurityOptions`](/merger/python-net/groupdocs.merger.domain.options/pdfsecurityoptions) class.
-
-
+## __init__
 
 ```python
-def __init__(self, password):
+def __init__(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| password | str | The password. |
-
-
-
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`PdfSecurityOptions`](/merger/python-net/groupdocs.merger.domain.options/pdfsecurityoptions)
+* class [`PdfSecurityOptions`](/merger/python-net/groupdocs.merger.domain.options/pdfsecurityoptions/)

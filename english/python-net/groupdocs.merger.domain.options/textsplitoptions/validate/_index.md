@@ -1,32 +1,20 @@
-﻿---
+---
 title: validate method
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
 type: docs
 url: /python-net/groupdocs.merger.domain.options/textsplitoptions/validate/
 is_root: false
-weight: 30
+weight: 1130
 ---
 
-## validate {#groupdocs.merger.domain.FileType}
 
-Validates the split options.
-
-
+## validate
 
 ```python
-def validate(self, file_type):
+def validate(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| file_type | [`FileType`](/merger/python-net/groupdocs.merger.domain/filetype) | The file type of [`FileType`](/merger/python-net/groupdocs.merger.domain/filetype) class. |
-
-
-
 ### See Also
-* module [`groupdocs.merger.domain.options`](../../)
-* class [`FileType`](/merger/python-net/groupdocs.merger.domain/filetype)
-* class [`TextSplitOptions`](/merger/python-net/groupdocs.merger.domain.options/textsplitoptions)
+* class [`TextSplitOptions`](/merger/python-net/groupdocs.merger.domain.options/textsplitoptions/)

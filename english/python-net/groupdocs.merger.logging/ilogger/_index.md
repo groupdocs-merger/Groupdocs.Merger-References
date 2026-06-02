@@ -1,4 +1,4 @@
-﻿---
+---
 title: ILogger class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
@@ -8,21 +8,26 @@ is_root: false
 weight: 20
 ---
 
+
 ## ILogger class
-
-Defines the methods that are used to perform logging.
-
-
 
 The ILogger type exposes the following members:
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [trace](/merger/python-net/groupdocs.merger.logging/ilogger/trace/#str) | Writes trace log message;<br/>Trace log messages provides generally useful information about application flow. |
-| [warning](/merger/python-net/groupdocs.merger.logging/ilogger/warning/#str) | Writes warning log message;<br/>Warning log messages provides information about unexpected and recoverable event in application flow. |
-
-
+| [_error_string_exception](/merger/python-net/groupdocs.merger.logging/ilogger/_error_string_exception/#message-exception) |  |
+| [_trace_string](/merger/python-net/groupdocs.merger.logging/ilogger/_trace_string/#message) |  |
+| [_warning_string](/merger/python-net/groupdocs.merger.logging/ilogger/_warning_string/#message) |  |
+| [error](/merger/python-net/groupdocs.merger.logging/ilogger/error/) |  |
+| [error_file](/merger/python-net/groupdocs.merger.logging/ilogger/error_file/) |  |
+| [error_string](/merger/python-net/groupdocs.merger.logging/ilogger/error_string/) |  |
+| [trace](/merger/python-net/groupdocs.merger.logging/ilogger/trace/) |  |
+| [trace_file](/merger/python-net/groupdocs.merger.logging/ilogger/trace_file/) |  |
+| [trace_string](/merger/python-net/groupdocs.merger.logging/ilogger/trace_string/) |  |
+| [warning](/merger/python-net/groupdocs.merger.logging/ilogger/warning/) |  |
+| [warning_file](/merger/python-net/groupdocs.merger.logging/ilogger/warning_file/) |  |
+| [warning_string](/merger/python-net/groupdocs.merger.logging/ilogger/warning_string/) |  |
 
 ### See Also
-* module [`groupdocs.merger.logging`](..)
+* module [`groupdocs.merger.logging`](/merger/python-net/groupdocs.merger.logging/)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExtractOptions class
 second_title: GroupDocs.Merger for Python via .NET API References
 description: 
@@ -8,36 +8,28 @@ is_root: false
 weight: 20
 ---
 
+
 ## ExtractOptions class
-
-Provides options to extract the document pages.
-
-
-
-**Inheritance:** [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions) → 
-[`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
-
-
 
 The ExtractOptions type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/extractoptions/__init__/#) | Initializes a new instance of the [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/extractoptions/__init__/#list) | Initializes a new instance of the [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/extractoptions/__init__/#int-int) | Initializes a new instance of the [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions) class. |
-| [__init__](/merger/python-net/groupdocs.merger.domain.options/extractoptions/__init__/#int-int-groupdocs.merger.domain.options.RangeMode) | Initializes a new instance of the [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions) class. |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/extractoptions/__init__/) |  |
 
+### Methods
+| Method | Description |
+| :- | :- |
+| [_init_int32_array](/merger/python-net/groupdocs.merger.domain.options/extractoptions/_init_int32_array/#page_numbers) |  |
+| [_init_int32_int32](/merger/python-net/groupdocs.merger.domain.options/extractoptions/_init_int32_int32/#start_number-end_number) |  |
+| [_init_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/extractoptions/_init_int32_int32_range_mode/#start_number-end_number-mode) |  |
+| [_init_noargs](/merger/python-net/groupdocs.merger.domain.options/extractoptions/_init_noargs/) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [pages](/merger/python-net/groupdocs.merger.domain.options/extractoptions/pages) | Get page numbers collection. |
-
-
+| [pages](/merger/python-net/groupdocs.merger.domain.options/extractoptions/pages/) |  |
 
 ### See Also
-* module [`groupdocs.merger.domain.options`](..)
-* class [`ExtractOptions`](/merger/python-net/groupdocs.merger.domain.options/extractoptions)
-* class [`PageOptions`](/merger/python-net/groupdocs.merger.domain.options/pageoptions)
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)
