@@ -9,7 +9,7 @@ url: /
 
 **GroupDocs.Merger** is a product that integrates advanced document-manipulation features into your application, allowing you to merge multiple documents into one, split a single document into many, and reorganize pages directly within your own system.
 
-Discover our .NET, Java, Node.js, and Python solutions and choose the one that best meets your document-merging needs.
+Discover our .NET, Java, Node.js, and Python SDKs and choose the one that best meets your document-merging needs.
 
 <div style="display: flex;flex-wrap: wrap;justify-content: left;gap: 10px;padding: 10px;">
     <a href="/merger/net/"
