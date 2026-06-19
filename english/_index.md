@@ -13,20 +13,24 @@ lead: "Merge, split, reorder, rotate, and manage pages across document formats."
 platforms:
   - name: ".NET"
     version: "26.4.0"
+    versionUrl: "https://www.nuget.org/packages/groupdocs.merger/26.4.0"
     key: net
     ref: "/net/"
     install: "dotnet add package GroupDocs.Merger"
   - name: "Java"
     version: "26.4"
+    versionUrl: "https://releases.groupdocs.com/java/repo/com/groupdocs/groupdocs-merger/26.4/"
     key: java
     ref: "/java/"
     install: "com.groupdocs:groupdocs-merger"
   - name: "Node.js"
-    version: "24.6.2"
+    version: "24.12.0"
+    versionUrl: "https://www.npmjs.com/package/@groupdocs/groupdocs.merger/v/24.12.0"
     key: nodejs
     ref: "/nodejs-java/"
   - name: "Python via .NET"
     version: "26.6.0"
+    versionUrl: "https://pypi.org/project/groupdocs-merger-net/26.6.0/"
     key: python
     ref: "/python-net/"
     install: "pip install groupdocs-merger-net"
