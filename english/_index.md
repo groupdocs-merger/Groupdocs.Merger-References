@@ -1,52 +1,60 @@
 ---
-title: GroupDocs.Merger Product Family
-additionalTitle: GroupDocs API References
+title: "GroupDocs.Merger"
+linktitle: "GroupDocs.Merger"
+description: "GroupDocs.Merger API reference for .NET, Java, Node.js, and Python — Merge, split, reorder, rotate, and manage pages across document formats."
+keywords: "GroupDocs.Merger, merger API, API reference, .NET, Java, Python, document processing"
+additionalTitle: "GroupDocs API References"
 type: docs
+layout: family
 weight: 10
-description: "Build cross-platform applications that merge multiple documents into one, split a single document into several, and reorganize pages — extract, remove, swap, move, and rotate — across a wide range of supported formats."
 url: /
+lead: "Merge, split, reorder, rotate, and manage pages across document formats."
+
+platforms:
+  - name: ".NET"
+    version: "26.4.0"
+    key: net
+    ref: "/net/"
+    install: "dotnet add package GroupDocs.Merger"
+  - name: "Java"
+    version: "26.4"
+    key: java
+    ref: "/java/"
+    install: "com.groupdocs:groupdocs-merger"
+  - name: "Node.js"
+    version: "24.6.2"
+    key: nodejs
+    ref: "/nodejs-java/"
+  - name: "Python via .NET"
+    version: "26.6.0"
+    key: python
+    ref: "/python-net/"
+    install: "pip install groupdocs-merger-net"
+
+formats: ["PDF", "Word", "Excel", "PowerPoint", "Visio", "Images"]
+
+capabilities:
+  - "Merge & split documents"
+  - "Reorder, rotate & swap pages"
+  - "Extract or remove pages"
+  - "Page-level operations"
+  - "Preview pages"
+  - "Cross-format support"
+
+resources:
+  - name: "Documentation"
+    url: "https://docs.groupdocs.com/merger/"
+    icon: "api"
+  - name: "Code examples"
+    url: "https://github.com/groupdocs-merger"
+    icon: "code"
+  - name: "Releases & changelog"
+    url: "https://releases.groupdocs.com/merger/"
+    icon: "demos"
+  - name: "Support forum"
+    url: "https://forum.groupdocs.com/c/merger/"
+    icon: "free-support"
+  - name: "Product page"
+    url: "https://products.groupdocs.com/merger/"
+    icon: "total"
 ---
-
-**GroupDocs.Merger** is a product that integrates advanced document-manipulation features into your application, allowing you to merge multiple documents into one, split a single document into many, and reorganize pages directly within your own system.
-
-Discover our .NET, Java, Node.js, and Python solutions and choose the one that best meets your document-merging needs.
-
-<div style="display: flex;flex-wrap: wrap;justify-content: left;gap: 10px;padding: 10px;">
-    <a href="/merger/net/"
-        style="width: 190px; height: 220px;background-color: #f7f7f7;border: 1px solid #ccc;border-radius: 8px;display: flex;flex-direction: column;align-items: center;justify-content: space-around;padding: 20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);transition: transform 0.3s ease;text-decoration: none;color: inherit;">
-        <img src="gdocs_net.png"
-            alt="GroupDocs.Merger Icon" style="width: 70px; height: 70px; object-fit: contain;">
-        <h3 style="font-size: 16px; color: #333; margin: 10px 0; text-align: center;">GroupDocs.Merger for .NET</h3>
-        <p style="font-size: 12px; color: #666; text-align: center;">GroupDocs.Merger API for .NET applications</p>
-    </a>    
-    <a href="/merger/java/"
-        style="width: 190px; height: 220px;background-color: #f7f7f7;border: 1px solid #ccc;border-radius: 8px;display: flex;flex-direction: column;align-items: center;justify-content: space-around;padding: 20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);transition: transform 0.3s ease;text-decoration: none;color: inherit;">
-        <img src="gdocs_java.png"
-            alt="GroupDocs.Merger Icon" style="width: 70px; height: 70px; object-fit: contain;">
-        <h3 style="font-size: 16px; color: #333; margin: 10px 0; text-align: center;">GroupDocs.Merger for Java</h3>
-        <p style="font-size: 12px; color: #666; text-align: center;">GroupDocs.Merger API for Java applications</p>
-    </a>    
-    <a href="/merger/nodejs-java/"
-        style="width: 190px; height: 220px;background-color: #f7f7f7;border: 1px solid #ccc;border-radius: 8px;display: flex;flex-direction: column;align-items: center;justify-content: space-around;padding: 20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);transition: transform 0.3s ease;text-decoration: none;color: inherit;">
-        <img src="gdocs_nodejs.png"
-            alt="GroupDocs.Merger Icon" style="width: 70px; height: 70px; object-fit: contain;">
-        <h3 style="font-size: 16px; color: #333; margin: 10px 0; text-align: center;">GroupDocs.Merger for Node.js via Java</h3>
-        <p style="font-size: 12px; color: #666; text-align: center;">GroupDocs.Merger API for Node.js applications</p>
-    </a>
-    <a href="/merger/python-net/"
-        style="width: 190px; height: 220px;background-color: #f7f7f7;border: 1px solid #ccc;border-radius: 8px;display: flex;flex-direction: column;align-items: center;justify-content: space-around;padding: 20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);transition: transform 0.3s ease;text-decoration: none;color: inherit;">
-        <img src="gdocs_python.png"
-            alt="GroupDocs.Merger Icon" style="width: 70px; height: 70px; object-fit: contain;">
-        <h3 style="font-size: 16px; color: #333; margin: 10px 0; text-align: center;">GroupDocs.Merger for Python via .NET</h3>
-        <p style="font-size: 12px; color: #666; text-align: center;">GroupDocs.Merger API for Python applications</p>
-    </a>
-</div>
-
-### Documentation
-
-Learn how to seamlessly integrate GroupDocs.Merger into your application by exploring our detailed documentation:
-
-- [GroupDocs.Merger for .NET](https://docs.groupdocs.com/merger/net/)  
-- [GroupDocs.Merger for Java](https://docs.groupdocs.com/merger/java/)  
-- [GroupDocs.Merger for Node.js via Java](https://docs.groupdocs.com/merger/nodejs-java/)  
-- [GroupDocs.Merger for Python via .NET](https://docs.groupdocs.com/merger/python-net/)
