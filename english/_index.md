@@ -36,6 +36,8 @@ platforms:
     install: "pip install groupdocs-merger-net"
 
 formats: ["PDF", "Word", "Excel", "PowerPoint", "Visio", "Images"]
+formatsCount: "60+"
+formatsNote: "…and 50+ more document and image formats."
 
 capabilities:
   - "Merge & split documents"
