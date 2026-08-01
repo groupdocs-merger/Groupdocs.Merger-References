@@ -3,7 +3,7 @@ title: FileTypeNotSupportedException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when specified file type is not supported.
 type: docs
-weight: 830
+weight: 840
 url: /net/groupdocs.merger.exceptions/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException class
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.exceptions/filetypenotsupportedexception/
 The exception that is thrown when specified file type is not supported.
 
 ```csharp
-public class FileTypeNotSupportedException : Exception
+public class FileTypeNotSupportedException : GroupDocsMergerException
 ```
 
 ## Constructors
@@ -22,6 +22,7 @@ public class FileTypeNotSupportedException : Exception
 
 ### See Also
 
+* class [GroupDocsMergerException](../groupdocsmergerexception)
 * namespace [GroupDocs.Merger.Exceptions](../../groupdocs.merger.exceptions)
 * assembly [GroupDocs.Merger](../../)
 

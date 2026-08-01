@@ -3,7 +3,7 @@ title: GroupDocsMergerException
 second_title: GroupDocs.Merger for .NET API Reference
 description: Represents errors that occur during document processing.
 type: docs
-weight: 840
+weight: 850
 url: /net/groupdocs.merger.exceptions/groupdocsmergerexception/
 ---
 ## GroupDocsMergerException class

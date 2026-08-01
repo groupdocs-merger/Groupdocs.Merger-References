@@ -3,7 +3,7 @@ title: FileCorruptedException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when specified file could not be loaded because it appears to be corrupted.
 type: docs
-weight: 820
+weight: 830
 url: /net/groupdocs.merger.exceptions/filecorruptedexception/
 ---
 ## FileCorruptedException class
