@@ -3,7 +3,7 @@ title: IncorrectPasswordException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when specified password is incorrect.
 type: docs
-weight: 850
+weight: 860
 url: /net/groupdocs.merger.exceptions/incorrectpasswordexception/
 ---
 ## IncorrectPasswordException class

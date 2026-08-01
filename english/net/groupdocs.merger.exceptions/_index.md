@@ -12,6 +12,7 @@ The namespace provides different classes for exceptions.
 
 | Class | Description |
 | --- | --- |
+| [AutoTaggingNotSupportedException](./autotaggingnotsupportedexception) | The exception that is thrown when the automatic tagging could not be applied to the specified document. |
 | [FileCorruptedException](./filecorruptedexception) | The exception that is thrown when specified file could not be loaded because it appears to be corrupted. |
 | [FileTypeNotSupportedException](./filetypenotsupportedexception) | The exception that is thrown when specified file type is not supported. |
 | [GroupDocsMergerException](./groupdocsmergerexception) | Represents errors that occur during document processing. |
