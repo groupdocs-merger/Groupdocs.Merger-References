@@ -49,6 +49,10 @@ public class SplitOptions : PageOptions, ISplitOptions
 | [GetPathByIndex](../../groupdocs.merger.domain.options/splitoptions/getpathbyindex)(int, string) | Gets the full file path of splitted document by index with pre-defined extension. |
 | [Validate](../../groupdocs.merger.domain.options/splitoptions/validate)(FileType) | Validates the split options. |
 
+### Remarks
+
+At least one page number is required; a call with no page numbers is rejected.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)

@@ -36,6 +36,10 @@ public class PdfJoinOptions : PageJoinOptions
 | [Type](../../groupdocs.merger.domain.options/pagejoinoptions/type) { get; } | The type of the file to join. |
 | [UseBookmarks](../../groupdocs.merger.domain.options/pdfjoinoptions/usebookmarks) { get; set; } | Indicates if all the bookmarks will be copied by default. |
 
+### Remarks
+
+When no page numbers are given, the operation applies to every page of the document.
+
 ### See Also
 
 * class [PageJoinOptions](../pagejoinoptions)

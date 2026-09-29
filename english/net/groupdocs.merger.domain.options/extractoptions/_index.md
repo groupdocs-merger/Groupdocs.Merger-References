@@ -29,6 +29,10 @@ public class ExtractOptions : PageOptions, IExtractOptions
 | --- | --- |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 
+### Remarks
+
+At least one page number is required; a call with no page numbers is rejected.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)

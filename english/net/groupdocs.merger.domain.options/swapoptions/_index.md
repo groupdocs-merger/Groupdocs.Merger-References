@@ -3,7 +3,7 @@ title: SwapOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for swapping document pages.
 type: docs
-weight: 710
+weight: 740
 url: /net/groupdocs.merger.domain.options/swapoptions/
 ---
 ## SwapOptions class

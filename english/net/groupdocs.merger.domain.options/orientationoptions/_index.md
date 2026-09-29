@@ -30,6 +30,10 @@ public class OrientationOptions : PageOptions, IOrientationOptions
 | [Mode](../../groupdocs.merger.domain.options/orientationoptions/mode) { get; } | Gets the mode for the page orientation. |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 
+### Remarks
+
+When no page numbers are given, the operation applies to every page of the document.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)

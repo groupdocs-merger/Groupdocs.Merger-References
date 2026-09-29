@@ -14,6 +14,10 @@ Page numbers for the page options.
 public int[] Pages { get; }
 ```
 
+### Remarks
+
+What an empty list means is defined by the operation the options are passed to: most operations apply to every page of the document, while extracting, removing and splitting require at least one page number and reject a call without one.
+
 ### See Also
 
 * interface [IPageOptions](../../ipageoptions)

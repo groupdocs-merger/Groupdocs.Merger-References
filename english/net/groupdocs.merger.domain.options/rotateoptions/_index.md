@@ -30,6 +30,10 @@ public class RotateOptions : PageOptions, IRotateOptions
 | [Mode](../../groupdocs.merger.domain.options/rotateoptions/mode) { get; } | Gets the mode for rotating (90, 180 or 270 degrees). |
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 
+### Remarks
+
+When no page numbers are given, the operation applies to every page of the document.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)
