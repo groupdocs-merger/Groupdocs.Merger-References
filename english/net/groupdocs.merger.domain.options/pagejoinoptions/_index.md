@@ -34,6 +34,10 @@ public class PageJoinOptions : PageOptions, IPageJoinOptions
 | [Pages](../../groupdocs.merger.domain.options/pageoptions/pages) { get; } | Get page numbers collection. |
 | [Type](../../groupdocs.merger.domain.options/pagejoinoptions/type) { get; } | The type of the file to join. |
 
+### Remarks
+
+When no page numbers are given, the operation applies to every page of the document.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)

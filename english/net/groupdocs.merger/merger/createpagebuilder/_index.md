@@ -18,6 +18,12 @@ public PageBuilder CreatePageBuilder(PageBuilderOptions pageBuilderOptions = nul
 
 The created page builder.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [GroupDocsMergerException](../../../groupdocs.merger.exceptions/groupdocsmergerexception) | Thrown when the documents are joined as images with [`IImageJoinOptions`](../../../groupdocs.merger.domain.options/iimagejoinoptions). Load the images with a document target type, such as PDF or TIFF, to build their pages. |
+
 ### Remarks
 
 **Learn more**

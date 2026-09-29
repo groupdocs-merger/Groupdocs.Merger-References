@@ -23,6 +23,7 @@ public void ApplyPageBuilder(PageBuilder pageBuilder)
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Thrown when *pageBuilder* is null. |
+| [GroupDocsMergerException](../../../groupdocs.merger.exceptions/groupdocsmergerexception) | Thrown when the documents are joined as images with [`IImageJoinOptions`](../../../groupdocs.merger.domain.options/iimagejoinoptions). Load the images with a document target type, such as PDF or TIFF, to build their pages. |
 
 ### Remarks
 

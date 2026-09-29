@@ -37,6 +37,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [RotateOptions](./rotateoptions) | Provides options for the page rotation. |
 | [SaveOptions](./saveoptions) | Provides options for the document saving. |
 | [SplitOptions](./splitoptions) | Provides options for the document page splitting. |
+| [SpreadsheetJoinOptions](./spreadsheetjoinoptions) | The spreadsheet join options. |
 | [SwapOptions](./swapoptions) | Provides options for swapping document pages. |
 | [TextSplitOptions](./textsplitoptions) | Provides options for the document text splitting. |
 | [UpdatePasswordOptions](./updatepasswordoptions) | Provides options for updating document password. |
@@ -83,6 +84,8 @@ The namespace provides classes to specify additional options when loading, joini
 | [RangeMode](./rangemode) | Possible modes for the page ranging. |
 | [RotateMode](./rotatemode) | Possible modes for the page rotation. |
 | [SplitMode](./splitmode) | Defines page splitting modes. |
+| [SpreadsheetJoinMode](./spreadsheetjoinmode) | Possible modes for the spreadsheet joining. |
+| [SpreadsheetSheetMatching](./spreadsheetsheetmatching) | Possible ways to pair the worksheets of a joined spreadsheet with the result worksheets when rows are joined. |
 | [TextSplitMode](./textsplitmode) | Possible text splitting modes. |
 | [WordJoinCompliance](./wordjoincompliance) | Possible Compliance modes for the Word Ooxml formats such as .docx, .docm, .dotx, .dotm etc. |
 | [WordJoinMode](./wordjoinmode) | Possible modes for the Word joining. |

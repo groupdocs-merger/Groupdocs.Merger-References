@@ -3,7 +3,7 @@ title: AutoTaggingNotSupportedException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when the automatic tagging could not be applied to the specified document.
 type: docs
-weight: 820
+weight: 850
 url: /net/groupdocs.merger.exceptions/autotaggingnotsupportedexception/
 ---
 ## AutoTaggingNotSupportedException class

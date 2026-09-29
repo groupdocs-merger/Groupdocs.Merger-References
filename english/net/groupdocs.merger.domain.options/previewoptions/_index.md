@@ -46,6 +46,10 @@ public class PreviewOptions : PageOptions, IPreviewOptions
 | [GetPathByPageNumber](../../groupdocs.merger.domain.options/previewoptions/getpathbypagenumber)(int, string) | Gets the full file path of previewed document by page number with defined extension. |
 | [Validate](../../groupdocs.merger.domain.options/previewoptions/validate)(FileType) | Validates the preview options. |
 
+### Remarks
+
+When no page numbers are given, the operation applies to every page of the document.
+
 ### See Also
 
 * class [PageOptions](../pageoptions)
