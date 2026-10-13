@@ -1,0 +1,178 @@
+---
+title: "PageJoinOptions"
+second_title: "مرجع API لـ GroupDocs.Merger لـ .NET"
+description: "ينشئ مثيلًا جديدًا من فئة PageJoinOptionsgroupdocs.merger.domain.options/pagejoinoptions."
+type: docs
+weight: 10
+url: /ar/net/groupdocs.merger.domain.options/pagejoinoptions/pagejoinoptions/
+---
+## PageJoinOptions() {#constructor}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions()
+```
+
+### انظر أيضًا
+
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(int[]) {#constructor_7}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(int[] pageNumbers)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| pageNumbers | Int32[] | أرقام الصفحات. |
+
+### انظر أيضًا
+
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(int, int) {#constructor_5}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(int startNumber, int endNumber)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| startNumber | Int32 | رقم الصفحة البداية. |
+| endNumber | Int32 | رقم الصفحة النهائية. |
+
+### انظر أيضًا
+
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(int, int, RangeMode) {#constructor_6}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| startNumber | Int32 | رقم الصفحة البداية. |
+| endNumber | Int32 | رقم الصفحة النهائية. |
+| mode | RangeMode | وضع النطاق. |
+
+### انظر أيضًا
+
+* enum [RangeMode](../../rangemode)
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(FileType) {#constructor_1}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(FileType fileType)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| fileType | FileType | نوع الملف المراد دمجه. |
+
+### انظر أيضًا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(FileType, int[]) {#constructor_4}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| fileType | FileType | نوع الملف المراد دمجه. |
+| pageNumbers | Int32[] | أرقام الصفحات. |
+
+### انظر أيضًا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(FileType, int, int) {#constructor_2}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| fileType | FileType | نوع الملف المراد دمجه. |
+| startNumber | Int32 | رقم الصفحة البداية. |
+| endNumber | Int32 | رقم الصفحة النهائية. |
+
+### انظر أيضًا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## PageJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+ينشئ مثيلًا جديدًا من الفئة [`PageJoinOptions`](../../pagejoinoptions).
+
+```csharp
+public PageJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| fileType | FileType | نوع الملف المراد دمجه. |
+| startNumber | Int32 | رقم الصفحة البداية. |
+| endNumber | Int32 | رقم الصفحة النهائية. |
+| mode | RangeMode | وضع النطاق. |
+
+### انظر أيضًا
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [PageJoinOptions](../../pagejoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.merger.dll -->
