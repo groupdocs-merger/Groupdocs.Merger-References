@@ -1,0 +1,25 @@
+---
+title: "_init_create_split_stream_int32_array طريقة"
+second_title: "مراجع API لـ GroupDocs.Merger للبايثون عبر .NET"
+description: 
+type: docs
+url: /ar/python-net/groupdocs.merger.domain.options/textsplitoptions/_init_create_split_stream_int32_array/
+is_root: false
+weight: 1020
+---
+
+
+## _init_create_split_stream_int32_array {#create_split_stream-line_numbers}
+
+```python
+def _init_create_split_stream_int32_array(self, create_split_stream, line_numbers):
+    ...
+```
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| create_split_stream | `CreateSplitStream` |  |
+| line_numbers | `List[int]` |  |
+
+### انظر أيضًا
+* class [`TextSplitOptions`](/merger/python-net/groupdocs.merger.domain.options/textsplitoptions/)

@@ -1,0 +1,20 @@
+---
+title: "swap_pages_iswap_options طريقة"
+second_title: "مراجع API لـ GroupDocs.Merger للبايثون عبر .NET"
+description: 
+type: docs
+url: /ar/python-net/groupdocs.merger/imerger/swap_pages_iswap_options/
+is_root: false
+weight: 1530
+---
+
+
+## swap_pages_iswap_options
+
+```python
+def swap_pages_iswap_options(self):
+    ...
+```
+
+### انظر أيضًا
+* class [`IMerger`](/merger/python-net/groupdocs.merger/imerger/)
