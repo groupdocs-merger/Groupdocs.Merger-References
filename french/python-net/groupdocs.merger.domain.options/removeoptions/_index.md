@@ -1,0 +1,35 @@
+---
+title: "Classe RemoveOptions"
+second_title: "Références d'API GroupDocs.Merger pour Python via .NET"
+description: 
+type: docs
+url: /fr/python-net/groupdocs.merger.domain.options/removeoptions/
+is_root: false
+weight: 540
+---
+
+
+## RemoveOptions class
+
+Le type RemoveOptions expose les membres suivants :
+
+### Constructeurs
+| Constructeur | Description |
+| :- | :- |
+| [__init__](/merger/python-net/groupdocs.merger.domain.options/removeoptions/__init__/) |  |
+
+### Méthodes
+| Méthode | Description |
+| :- | :- |
+| [_init_int32_array](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_array/#page_numbers) |  |
+| [_init_int32_int32](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_int32/#start_number-end_number) |  |
+| [_init_int32_int32_range_mode](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_int32_int32_range_mode/#start_number-end_number-mode) |  |
+| [_init_noargs](/merger/python-net/groupdocs.merger.domain.options/removeoptions/_init_noargs/) |  |
+
+### Propriétés
+| Propriété | Description |
+| :- | :- |
+| [pages](/merger/python-net/groupdocs.merger.domain.options/removeoptions/pages/) |  |
+
+### Voir aussi
+* module [`groupdocs.merger.domain.options`](/merger/python-net/groupdocs.merger.domain.options/)
