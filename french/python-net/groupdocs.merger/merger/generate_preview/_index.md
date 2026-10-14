@@ -1,0 +1,20 @@
+---
+title: "generate_preview méthode"
+second_title: "Références d'API GroupDocs.Merger pour Python via .NET"
+description: 
+type: docs
+url: /fr/python-net/groupdocs.merger/merger/generate_preview/
+is_root: false
+weight: 1530
+---
+
+
+## generate_preview
+
+```python
+def generate_preview(self):
+    ...
+```
+
+### Voir aussi
+* class [`Merger`](/merger/python-net/groupdocs.merger/merger/)
