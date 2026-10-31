@@ -3,7 +3,7 @@ title: PageJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document joining.
 type: docs
-weight: 540
+weight: 570
 url: /net/groupdocs.merger.domain.options/pagejoinoptions/
 ---
 ## PageJoinOptions class

@@ -3,7 +3,7 @@ title: SpreadsheetJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: The spreadsheet join options.
 type: docs
-weight: 720
+weight: 750
 url: /net/groupdocs.merger.domain.options/spreadsheetjoinoptions/
 ---
 ## SpreadsheetJoinOptions class

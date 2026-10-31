@@ -3,7 +3,7 @@ title: PageBuilderOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for specifying the page builder.
 type: docs
-weight: 530
+weight: 560
 url: /net/groupdocs.merger.domain.options/pagebuilderoptions/
 ---
 ## PageBuilderOptions class

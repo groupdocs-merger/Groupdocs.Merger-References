@@ -3,7 +3,7 @@ title: IExtractOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for options to extract the document pages.
 type: docs
-weight: 150
+weight: 170
 url: /net/groupdocs.merger.domain.options/iextractoptions/
 ---
 ## IExtractOptions interface

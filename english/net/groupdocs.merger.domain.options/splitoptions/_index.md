@@ -3,7 +3,7 @@ title: SplitOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document page splitting.
 type: docs
-weight: 700
+weight: 730
 url: /net/groupdocs.merger.domain.options/splitoptions/
 ---
 ## SplitOptions class

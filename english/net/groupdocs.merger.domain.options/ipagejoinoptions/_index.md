@@ -3,7 +3,7 @@ title: IPageJoinOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document page joining options.
 type: docs
-weight: 280
+weight: 300
 url: /net/groupdocs.merger.domain.options/ipagejoinoptions/
 ---
 ## IPageJoinOptions interface

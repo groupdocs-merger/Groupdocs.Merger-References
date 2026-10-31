@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the document description properties.
 type: docs
-weight: 820
+weight: 850
 url: /net/groupdocs.merger.domain.result/idocumentinfo/
 ---
 ## IDocumentInfo interface

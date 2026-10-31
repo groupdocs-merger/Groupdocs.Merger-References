@@ -3,7 +3,7 @@ title: IImportDocumentOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for import of the embedded document.
 type: docs
-weight: 170
+weight: 190
 url: /net/groupdocs.merger.domain.options/iimportdocumentoptions/
 ---
 ## IImportDocumentOptions interface

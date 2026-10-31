@@ -64,6 +64,10 @@ public OleDiagramOptions(string filePath, int pageNumber)
 | filePath | String | The file path of the embedded object. |
 | pageNumber | Int32 | The page number for adding embedded object. |
 
+### Remarks
+
+The image of the embedded object is rendered here, before any [`Merger`](../../../groupdocs.merger/merger) exists, so no external resource it references is loaded, whatever the [`LoadOptions`](../../loadoptions) of the target document allow. To show such resources, render the image yourself and use the constructor that takes the image data.
+
 ### See Also
 
 * class [OleDiagramOptions](../../olediagramoptions)

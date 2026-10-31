@@ -3,7 +3,7 @@ title: PdfAccesibilitySettings
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides Pdf Accesibility settings for the document saving.
 type: docs
-weight: 560
+weight: 590
 url: /net/groupdocs.merger.domain.options/pdfaccesibilitysettings/
 ---
 ## PdfAccesibilitySettings class
@@ -24,7 +24,7 @@ public class PdfAccesibilitySettings
 
 | Name | Description |
 | --- | --- |
-| [EnableAutoTagging](../../groupdocs.merger.domain.options/pdfaccesibilitysettings/enableautotagging) { get; set; } | Enable auto tagging |
+| [EnableAutoTagging](../../groupdocs.merger.domain.options/pdfaccesibilitysettings/enableautotagging) { get; set; } | Enable auto tagging: adds a logical structure tree to the saved PDF document. |
 
 ### See Also
 

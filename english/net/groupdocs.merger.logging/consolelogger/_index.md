@@ -3,7 +3,7 @@ title: ConsoleLogger
 second_title: GroupDocs.Merger for .NET API Reference
 description: Writes log messages to the console.
 type: docs
-weight: 940
+weight: 970
 url: /net/groupdocs.merger.logging/consolelogger/
 ---
 ## ConsoleLogger class

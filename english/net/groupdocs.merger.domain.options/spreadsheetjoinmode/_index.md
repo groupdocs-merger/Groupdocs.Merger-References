@@ -3,7 +3,7 @@ title: SpreadsheetJoinMode
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible modes for the spreadsheet joining.
 type: docs
-weight: 710
+weight: 740
 url: /net/groupdocs.merger.domain.options/spreadsheetjoinmode/
 ---
 ## SpreadsheetJoinMode enumeration

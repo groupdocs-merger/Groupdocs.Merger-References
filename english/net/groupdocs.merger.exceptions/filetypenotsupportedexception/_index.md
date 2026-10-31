@@ -3,7 +3,7 @@ title: FileTypeNotSupportedException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when specified file type is not supported.
 type: docs
-weight: 870
+weight: 900
 url: /net/groupdocs.merger.exceptions/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException class

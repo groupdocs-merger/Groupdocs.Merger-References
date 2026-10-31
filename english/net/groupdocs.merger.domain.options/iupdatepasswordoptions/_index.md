@@ -3,7 +3,7 @@ title: IUpdatePasswordOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the password updating options.
 type: docs
-weight: 400
+weight: 430
 url: /net/groupdocs.merger.domain.options/iupdatepasswordoptions/
 ---
 ## IUpdatePasswordOptions interface
