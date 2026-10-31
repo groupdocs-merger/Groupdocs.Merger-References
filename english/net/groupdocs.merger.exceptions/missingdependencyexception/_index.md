@@ -3,7 +3,7 @@ title: MissingDependencyException
 second_title: GroupDocs.Merger for .NET API Reference
 description: The exception that is thrown when an operation cannot run because an assembly it depends on is not present in the applications output. The document is not at fault.
 type: docs
-weight: 900
+weight: 930
 url: /net/groupdocs.merger.exceptions/missingdependencyexception/
 ---
 ## MissingDependencyException class

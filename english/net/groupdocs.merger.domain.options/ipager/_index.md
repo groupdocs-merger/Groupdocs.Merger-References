@@ -3,7 +3,7 @@ title: IPager
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for apply option pages range and etc.
 type: docs
-weight: 300
+weight: 320
 url: /net/groupdocs.merger.domain.options/ipager/
 ---
 ## IPager interface

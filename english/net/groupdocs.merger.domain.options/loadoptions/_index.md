@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides options for the document loading.
 type: docs
-weight: 450
+weight: 480
 url: /net/groupdocs.merger.domain.options/loadoptions/
 ---
 ## LoadOptions class
@@ -11,7 +11,7 @@ url: /net/groupdocs.merger.domain.options/loadoptions/
 Provides options for the document loading.
 
 ```csharp
-public class LoadOptions : ILoadOptions
+public sealed class LoadOptions : ILoadOptions, IResourceLoadingOptions
 ```
 
 ## Constructors
@@ -34,12 +34,16 @@ public class LoadOptions : ILoadOptions
 | --- | --- |
 | [Encoding](../../groupdocs.merger.domain.options/loadoptions/encoding) { get; } | The encoding used when opening text-based files such as [`CSV`](../../groupdocs.merger.domain/filetype/csv) or [`TXT`](../../groupdocs.merger.domain/filetype/txt). Default value is Default. |
 | [Extension](../../groupdocs.merger.domain.options/loadoptions/extension) { get; } | The extension of the file to init. |
+| [ExternalResourceHandler](../../groupdocs.merger.domain.options/loadoptions/externalresourcehandler) { get; set; } | Handler that is called for every external resource before it is loaded and can allow, skip or replace it. Default value is `null`. |
 | [Password](../../groupdocs.merger.domain.options/loadoptions/password) { get; } | The password for opening password-protected file. |
+| [SkipExternalResources](../../groupdocs.merger.domain.options/loadoptions/skipexternalresources) { get; set; } | If true, no external resource is loaded except those matching [`WhitelistedResources`](./whitelistedresources) or allowed by [`ExternalResourceHandler`](./externalresourcehandler). Default value is `true`. |
 | [Type](../../groupdocs.merger.domain.options/loadoptions/type) { get; } | The type of the file to load. |
+| [WhitelistedResources](../../groupdocs.merger.domain.options/loadoptions/whitelistedresources) { get; set; } | Absolute URI prefixes of external resources that are loaded while [`SkipExternalResources`](./skipexternalresources) is true. |
 
 ### See Also
 
 * interface [ILoadOptions](../iloadoptions)
+* interface [IResourceLoadingOptions](../iresourceloadingoptions)
 * namespace [GroupDocs.Merger.Domain.Options](../../groupdocs.merger.domain.options)
 * assembly [GroupDocs.Merger](../../)
 

@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Provides additional Pdf options for the document saving.
 type: docs
-weight: 590
+weight: 620
 url: /net/groupdocs.merger.domain.options/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

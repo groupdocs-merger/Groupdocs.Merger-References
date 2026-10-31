@@ -1,18 +1,22 @@
 ---
 title: EnableAutoTagging
 second_title: GroupDocs.Merger for .NET API Reference
-description: Enable auto tagging
+description: Enable auto tagging adds a logical structure tree to the saved PDF document.
 type: docs
 weight: 20
 url: /net/groupdocs.merger.domain.options/pdfaccesibilitysettings/enableautotagging/
 ---
 ## PdfAccesibilitySettings.EnableAutoTagging property
 
-Enable auto tagging
+Enable auto tagging: adds a logical structure tree to the saved PDF document.
 
 ```csharp
 public bool EnableAutoTagging { get; set; }
 ```
+
+### Remarks
+
+The saved document keeps the PDF format and the title of the source document. Auto tagging does not make the document PDF/UA compliant: a source that is not marked as PDF/UA is saved without that mark, and a source that is already marked as PDF/UA keeps its mark.
 
 ### See Also
 

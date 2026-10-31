@@ -3,7 +3,7 @@ title: IOrientationOptions
 second_title: GroupDocs.Merger for .NET API Reference
 description: Interface for the page orientation options.
 type: docs
-weight: 260
+weight: 280
 url: /net/groupdocs.merger.domain.options/iorientationoptions/
 ---
 ## IOrientationOptions interface

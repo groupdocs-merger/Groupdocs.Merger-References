@@ -13,6 +13,7 @@ The namespace provides classes to specify additional options when loading, joini
 | Class | Description |
 | --- | --- |
 | [AddPasswordOptions](./addpasswordoptions) | Provides options for adding document password. |
+| [ExternalResourceLoadingArgs](./externalresourceloadingargs) | Describes an external resource passed to [`OnLoading`](../groupdocs.merger.domain.options/iexternalresourcehandler/onloading). |
 | [ExtractOptions](./extractoptions) | Provides options to extract the document pages. |
 | [ImageJoinOptions](./imagejoinoptions) | The image join options. |
 | [ImportDocumentOptions](./importdocumentoptions) | Provides options for the embedded document import. |
@@ -47,6 +48,7 @@ The namespace provides classes to specify additional options when loading, joini
 | Interface | Description |
 | --- | --- |
 | [IAddPasswordOptions](./iaddpasswordoptions) | Interface for the password adding options. |
+| [IExternalResourceHandler](./iexternalresourcehandler) | Decides, for each external resource a document references, whether it is loaded. |
 | [IExtractOptions](./iextractoptions) | Interface for options to extract the document pages. |
 | [IImageJoinOptions](./iimagejoinoptions) | Interface for the image joining options. |
 | [IImportDocumentOptions](./iimportdocumentoptions) | Interface for import of the embedded document. |
@@ -66,6 +68,7 @@ The namespace provides classes to specify additional options when loading, joini
 | [IPdfAttachmentOptions](./ipdfattachmentoptions) | Interface for options of the embedded document to PDF as attachment. |
 | [IPreviewOptions](./ipreviewoptions) | Interface for the preview options. |
 | [IRemoveOptions](./iremoveoptions) | Interface for the page removing options. |
+| [IResourceLoadingOptions](./iresourceloadingoptions) | Controls how resources referenced from outside a document (remote URLs, UNC paths, local files) are loaded while the document is processed. |
 | [IRotateOptions](./irotateoptions) | Interface for the page rotating options. |
 | [ISaveOptions](./isaveoptions) | Interface for the document saving options. |
 | [ISizeOptions](./isizeoptions) | Interface for adding embedded object. |

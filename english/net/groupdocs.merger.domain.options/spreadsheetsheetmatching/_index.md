@@ -3,7 +3,7 @@ title: SpreadsheetSheetMatching
 second_title: GroupDocs.Merger for .NET API Reference
 description: Possible ways to pair the worksheets of a joined spreadsheet with the result worksheets when rows are joined.
 type: docs
-weight: 730
+weight: 760
 url: /net/groupdocs.merger.domain.options/spreadsheetsheetmatching/
 ---
 ## SpreadsheetSheetMatching enumeration
