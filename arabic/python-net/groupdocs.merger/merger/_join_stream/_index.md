@@ -1,0 +1,26 @@
+---
+title: "_join_stream طريقة"
+second_title: "مراجع API لـ GroupDocs.Merger للبايثون عبر .NET"
+description: 
+type: docs
+url: /ar/python-net/groupdocs.merger/merger/_join_stream/
+is_root: false
+weight: 1230
+---
+
+
+## _join_stream {#document}
+
+```python
+def _join_stream(self, document):
+    ...
+```
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| document | `Stream` |  |
+
+**Returns:** IMerger
+
+### انظر أيضًا
+* class [`Merger`](/merger/python-net/groupdocs.merger/merger/)

@@ -1,0 +1,25 @@
+---
+title: "_init_int32_int32 طريقة"
+second_title: "مراجع API لـ GroupDocs.Merger للبايثون عبر .NET"
+description: 
+type: docs
+url: /ar/python-net/groupdocs.merger.domain.options/pdfjoinoptions/_init_int32_int32/
+is_root: false
+weight: 1060
+---
+
+
+## _init_int32_int32 {#start_number-end_number}
+
+```python
+def _init_int32_int32(self, start_number, end_number):
+    ...
+```
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| start_number | `int` |  |
+| end_number | `int` |  |
+
+### انظر أيضًا
+* class [`PdfJoinOptions`](/merger/python-net/groupdocs.merger.domain.options/pdfjoinoptions/)
