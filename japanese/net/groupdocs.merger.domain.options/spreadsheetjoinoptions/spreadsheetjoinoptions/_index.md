@@ -1,0 +1,178 @@
+---
+title: "SpreadsheetJoinOptions"
+second_title: "GroupDocs.Merger for .NET API リファレンス"
+description: "SpreadsheetJoinOptionsgroupdocs.merger.domain.options/spreadsheetjoinoptions クラスの新しいインスタンスを初期化します。"
+type: docs
+weight: 10
+url: /ja/net/groupdocs.merger.domain.options/spreadsheetjoinoptions/spreadsheetjoinoptions/
+---
+## SpreadsheetJoinOptions() {#constructor}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions()
+```
+
+### 関連項目
+
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(int[]) {#constructor_7}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(int[] pageNumbers)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| pageNumbers | Int32[] | ページ番号。 |
+
+### 関連項目
+
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(int, int) {#constructor_5}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(int startNumber, int endNumber)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| startNumber | Int32 | 開始ページ番号。 |
+| endNumber | Int32 | 終了ページ番号。 |
+
+### 関連項目
+
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(int, int, RangeMode) {#constructor_6}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(int startNumber, int endNumber, RangeMode mode)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| startNumber | Int32 | 開始ページ番号。 |
+| endNumber | Int32 | 終了ページ番号。 |
+| mode | RangeMode | 範囲モード。 |
+
+### 関連項目
+
+* enum [RangeMode](../../rangemode)
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(FileType) {#constructor_1}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(FileType fileType)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| fileType | FileType | 結合するファイルの種類。 |
+
+### 関連項目
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(FileType, int[]) {#constructor_4}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(FileType fileType, int[] pageNumbers)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| fileType | FileType | 結合するファイルの種類。 |
+| pageNumbers | Int32[] | ページ番号。 |
+
+### 関連項目
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(FileType, int, int) {#constructor_2}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(FileType fileType, int startNumber, int endNumber)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| fileType | FileType | 結合するファイルの種類。 |
+| startNumber | Int32 | 開始ページ番号。 |
+| endNumber | Int32 | 終了ページ番号。 |
+
+### 関連項目
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+---
+
+## SpreadsheetJoinOptions(FileType, int, int, RangeMode) {#constructor_3}
+
+新しいインスタンスを初期化します [`SpreadsheetJoinOptions`](../../spreadsheetjoinoptions) クラス。
+
+```csharp
+public SpreadsheetJoinOptions(FileType fileType, int startNumber, int endNumber, RangeMode mode)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| fileType | FileType | 結合するファイルの種類。 |
+| startNumber | Int32 | 開始ページ番号。 |
+| endNumber | Int32 | 終了ページ番号。 |
+| mode | RangeMode | 範囲モード。 |
+
+### 関連項目
+
+* class [FileType](../../../groupdocs.merger.domain/filetype)
+* enum [RangeMode](../../rangemode)
+* class [SpreadsheetJoinOptions](../../spreadsheetjoinoptions)
+* namespace [GroupDocs.Merger.Domain.Options](../../../groupdocs.merger.domain.options)
+* assembly [GroupDocs.Merger](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.merger.dll -->

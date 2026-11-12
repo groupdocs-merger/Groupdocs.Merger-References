@@ -1,0 +1,74 @@
+---
+title: "マージャー"
+second_title: "GroupDocs.Merger for .NET API リファレンス"
+description: "ドキュメント結合プロセスを制御するメインクラスを表します。"
+type: docs
+weight: 960
+url: /ja/net/groupdocs.merger/merger/
+---
+## Merger class
+
+ドキュメント結合プロセスを制御するメインクラスを表します。
+
+```csharp
+public class Merger : IDisposable, IMerger
+```
+
+## コンストラクタ
+
+| 名前 | 説明 |
+| --- | --- |
+| [Merger](merger#constructor)(Func&lt;Stream&gt;) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_4)(Stream) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_8)(string) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_1)(Func&lt;Stream&gt;, ILoadOptions) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_3)(Func&lt;Stream&gt;, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_5)(Stream, ILoadOptions) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_7)(Stream, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_9)(string, ILoadOptions) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_11)(string, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_2)(Func&lt;Stream&gt;, ILoadOptions, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_6)(Stream, ILoadOptions, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+| [Merger](merger#constructor_10)(string, ILoadOptions, MergerSettings) | [`Merger`](../merger) クラスの新しいインスタンスを初期化します。 |
+
+## メソッド
+
+| 名前 | 説明 |
+| --- | --- |
+| [AddPassword](../../groupdocs.merger/merger/addpassword)(IAddPasswordOptions) | パスワードでドキュメントを保護します。 |
+| [ApplyPageBuilder](../../groupdocs.merger/merger/applypagebuilder)(PageBuilder) | ページビルダーの変更を適用します。 |
+| [ChangeOrientation](../../groupdocs.merger/merger/changeorientation)(IOrientationOptions) | 指定されたページに新しい向きモードを適用します。 |
+| [CreatePageBuilder](../../groupdocs.merger/merger/createpagebuilder)(PageBuilderOptions) | 事前定義されたドキュメントコレクションで新しい Page ビルダーを作成します。 |
+| [Dispose](../../groupdocs.merger/merger/dispose)() | リソースを解放します。 |
+| [ExtractPages](../../groupdocs.merger/merger/extractpages)(IExtractOptions) | 元のドキュメントからいくつかのページを使用して新しいドキュメントを作成します。 |
+| [GeneratePreview](../../groupdocs.merger/merger/generatepreview)(IPreviewOptions) | ドキュメントページのプレビューを生成します。 |
+| [GetDocumentInfo](../../groupdocs.merger/merger/getdocumentinfo)() | ドキュメントページに関する情報を取得します：サイズ、最大ページ高さ、最大高さのページの幅。 |
+| [ImportDocument](../../groupdocs.merger/merger/importdocument)(IImportDocumentOptions) | ドキュメントを添付ファイルまたは Ole 経由で埋め込みとしてインポートします。 |
+| [IsPasswordSet](../../groupdocs.merger/merger/ispasswordset)() | ドキュメントがパスワードで保護されているかどうかを確認します。 |
+| [Join](../../groupdocs.merger/merger/join#join)(Stream) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_4)(string) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_1)(Stream, IImageJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_2)(Stream, IJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_3)(Stream, IPageJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_5)(string, IImageJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_6)(string, IJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [Join](../../groupdocs.merger/merger/join#join_7)(string, IPageJoinOptions) | ドキュメントを1つの単一ドキュメントに結合します。 |
+| [MovePage](../../groupdocs.merger/merger/movepage)(IMoveOptions) | 既知の形式のドキュメント内でページを新しい位置に移動します。 |
+| [RemovePages](../../groupdocs.merger/merger/removepages)(IRemoveOptions) | 既知の形式のドキュメントからページを削除します。 |
+| [RemovePassword](../../groupdocs.merger/merger/removepassword)() | ドキュメントからパスワードを削除します。 |
+| [Rotate](../../groupdocs.merger/merger/rotate)(IRotateOptions) | ドキュメントの画像またはページを回転させます。 |
+| [Save](../../groupdocs.merger/merger/save#save)(Stream, ISaveOptions) | 結果のドキュメントをストリーム *document* に保存します。 |
+| [Save](../../groupdocs.merger/merger/save#save_2)(string, ISaveOptions) | 結果のドキュメントファイルを *filePath* に保存します。 |
+| [Save](../../groupdocs.merger/merger/save#save_1)(string, bool, ISaveOptions) | 結果のドキュメントファイルを *filePath* に保存します。 |
+| [Split](../../groupdocs.merger/merger/split#split)(ISplitOptions) | 単一のドキュメントを複数のドキュメントに分割します。 |
+| [Split](../../groupdocs.merger/merger/split#split_1)(ITextSplitOptions) | 単一のドキュメントを複数のドキュメントに分割します。 |
+| [SwapPages](../../groupdocs.merger/merger/swappages)(ISwapOptions) | 既知の形式のドキュメント内で 2 ページを入れ替えます。 |
+| [UpdatePassword](../../groupdocs.merger/merger/updatepassword)(IUpdatePasswordOptions) | ドキュメントの既存パスワードを更新します。 |
+
+### 関連項目
+
+* interface [IMerger](../imerger)
+* namespace [GroupDocs.Merger](../../groupdocs.merger)
+* assembly [GroupDocs.Merger](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.merger.dll -->
