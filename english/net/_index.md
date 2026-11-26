@@ -6,7 +6,7 @@ url: /net/
 description: GroupDocs.Merger for .NET API References contain examples, code snippets, and API documentation. It provides namespaces, classes, interfaces, and other API details.
 is_root: true
 version: "26.11"
-staged_at: "2026-11-24T17:51:42Z"
+staged_at: "2026-11-26T14:34:37Z"
 ---
 
 ## Namespaces
